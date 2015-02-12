@@ -15,6 +15,7 @@ import android.text.Html;
 import android.text.InputType;
 import android.text.TextWatcher;
 import android.util.TypedValue;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -33,6 +34,7 @@ import android.widget.ExpandableListView.OnGroupCollapseListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.Filter;
 import android.widget.Spinner;
 import android.widget.TabHost;
 import android.widget.TabWidget;
@@ -117,6 +119,12 @@ public class IChingActivityRenderer extends Activity {
    * The history password insertion dialog
    */
   protected AlertDialog passwordDialog;
+
+  /**
+   * The context menu selection dialog
+   */
+  protected AlertDialog contextSelectDialog;
+
   /**
    * The history password insertion dialog on cancel listener
    */
@@ -168,7 +176,7 @@ public class IChingActivityRenderer extends Activity {
   /**
    * Setter for the selected section or changing line
    *
-   * @param current.changing The section or changing line
+   * @param section The section or changing line
    */
   public void setCurrentSection(Serializable section) {
     if (section.equals(ChangingLinesEvaluator.ICHING_APPLY_BOTH) ||
@@ -378,11 +386,7 @@ public class IChingActivityRenderer extends Activity {
    */
   @Override
   public void onSaveInstanceState(Bundle savedInstanceState) {
-    if (passwordDialog != null && passwordDialog.isShowing()) {
-      // Immediate call to revert potentially undergoing operations in popups and prevent data loss
-      passwordDialogOnCancel.onCancel(passwordDialog);
-    }
-
+    dismissDialogs();
     super.onSaveInstanceState(savedInstanceState);
   }
 
@@ -405,25 +409,11 @@ public class IChingActivityRenderer extends Activity {
     return itemSelectDialog;
   }
 
+
   @Override
   protected void onPause() {
     super.onPause();
-
-    // Dismiss dialogs
-    if (newHistoryDialog != null && newHistoryDialog.isShowing()) {
-      newHistoryDialog.dismiss();
-    }
-    if (passwordDialog != null && passwordDialog.isShowing()) {
-      passwordDialog.dismiss();
-    }
-    if (editDescDialog != null && editDescDialog.isShowing()) {
-      editDescDialog.dismiss();
-    }
-    if (itemSelectDialog != null && itemSelectDialog.isShowing()) {
-      itemSelectDialog.dismiss();
-    }
-    RemoteResolver.dismissProgressDialog();
-
+    dismissDialogs();
     connectionManager.cleanUp(this);
     dsHexSection.close();
   }
@@ -482,6 +472,7 @@ public class IChingActivityRenderer extends Activity {
 
     // Hexagram
     final String hexagram = "<h3>" + reading +
+        current.hex + " " +
         Utils.s(Utils.getResourceByName(R.string.class, "hex" + current.hex)) +
         "</h3>";
 
@@ -558,7 +549,7 @@ public class IChingActivityRenderer extends Activity {
     editDescDialog = editDescDialogBuilder.show();
 
     final TextView tvEditSecHex = (TextView) editDescView.findViewById(R.id.tvEditSecHex);
-    String title = Utils.s(Utils.getResourceByName(R.string.class, "hex" + current.hex));
+    String title = current.hex + " " + Utils.s(Utils.getResourceByName(R.string.class, "hex" + current.hex));
     if (current.section.startsWith(RemoteResolver.ICHING_REMOTE_SECTION_LINE)) {
       title += " - " + Utils.s(Utils.getResourceByName(R.string.class, "read_changing_select_" + current.section));
     } else {
@@ -717,7 +708,7 @@ public class IChingActivityRenderer extends Activity {
       });
       alertDialog.show();
     } catch (GeneralSecurityException e) {
-      promptForHistoryPassword(historyList, successTask, failureTask);
+      promptForHistoryPassword(successTask, failureTask);
       return;
     }
   }
@@ -760,11 +751,10 @@ public class IChingActivityRenderer extends Activity {
    * @param hexToRender The hexagram to evaluate for changing lines
    */
   protected void renderReadDesc(final int[] hexToRender) {
-    setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-
     final TextView tvDescTitle = (TextView) findViewById(R.id.tvHexName);
     setCurrentHex(hexToRender);
     tvDescTitle.setText(Utils.getResourceByName(R.string.class, "hex" + current.hex));
+    tvDescTitle.setText(current.hex + " " + tvDescTitle.getText());
 
     LinearLayout layButtonsAndChanging = (LinearLayout) findViewById(R.id.layButtonsAndChanging);
     for (int i = 0; i < layButtonsAndChanging.getChildCount(); i++) {
@@ -864,8 +854,6 @@ public class IChingActivityRenderer extends Activity {
    * @param hexToRender The hexagram to evaluate for changing lines
    */
   protected void renderReadDescChanging(final int[] hexToRender) {
-    setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-
     final TextView tvDescTitle = (TextView) findViewById(R.id.tvHexName);
     setCurrentHex(hexToRender);
     tvDescTitle.setText(Utils.s(R.string.read_changing));
@@ -877,20 +865,12 @@ public class IChingActivityRenderer extends Activity {
 
     renderQuestion();
 
-    // Update changing count and consultation mode before getting changing lines
-    // description
-    current.changingCount = 0;
-    for (int i = 0; i < Consts.HEX_LINES_COUNT; i++) {
-      if (ChangingLinesEvaluator.isChangingLine(hexToRender[i])) {
-        current.changingCount++;
-      }
-      renderRow(i, hexToRender[i], true);
-    }
     READ_DESC_MODE mode = current.mode;
     if (current.changing == ChangingLinesEvaluator.ICHING_APPLY_MANUAL) {
       // Force manual selection of changing lines
       mode = READ_DESC_MODE.VIEW_HEX;
     }
+    renderReadDescChangingHex(hexToRender);
 
 
     final EditText etOutput = (EditText) findViewById(R.id.etOutput);
@@ -931,8 +911,9 @@ public class IChingActivityRenderer extends Activity {
         spinner.setVisibility(View.VISIBLE);
         spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
           public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-            current.changingManualIndex = (position + 1 > 6) ? ChangingLinesEvaluator.ICHING_APPLY_BOTH : position;
+            current.changingManualIndex = (position + 1 > Consts.HEX_LINES_COUNT) ? ChangingLinesEvaluator.ICHING_APPLY_BOTH : position;
             setCurrentSection(current.changingManualIndex);
+            renderReadDescChangingHex(hexToRender);
             RemoteResolver.renderRemoteString(
                 etOutput,
                 new OnClickListener() {
@@ -1039,6 +1020,8 @@ public class IChingActivityRenderer extends Activity {
       case Consts.ICHING_OLD_YANG:
         lineRes = R.drawable.oldyang;
         break;
+      default:
+        lineRes = R.drawable.empty;
     }
 
     if (!renderMobileLines) {
@@ -1058,12 +1041,14 @@ public class IChingActivityRenderer extends Activity {
     for (int i = 0; i < tabWidget.getChildCount(); i++) {
       View child = tabWidget.getChildAt(i);
       TextView title = (TextView) child.findViewById(android.R.id.title);
-      title.setTextSize(TypedValue.COMPLEX_UNIT_DIP, 12);
+      float textSizeTabs = getResources().getDimension(R.dimen.text_size_tabs);
+      title.setTextSize(textSizeTabs);
       title.setText(title.getText().toString().toUpperCase(settings.getLocale()));
+      title.setSingleLine();
 
-      child.getLayoutParams().height = 50;
+      child.getLayoutParams().height = (int) (textSizeTabs * 2);
 
-      child.setPadding(3, 3, 3, 10);
+      child.setPadding(3, 0, 3, 0);
     }
   }
 
@@ -1127,7 +1112,12 @@ public class IChingActivityRenderer extends Activity {
     }
   }
 
-  private void promptForHistoryPassword(final ArrayList<HistoryEntry> historyList, final Runnable successTask, final Runnable failureTask) {
+  @Override
+  public View getCurrentFocus() {
+    return super.getCurrentFocus();
+  }
+
+  private void promptForHistoryPassword(final Runnable successTask, final Runnable failureTask) {
     if (passwordDialog == null || !passwordDialog.isShowing()) {
       passwordDialog = new AlertDialog.Builder(IChingActivityRenderer.this).create();
       final EditText input = new EditText(IChingActivityRenderer.this);
@@ -1196,6 +1186,47 @@ public class IChingActivityRenderer extends Activity {
       btHistoryCreate.setEnabled(true);
     } else {
       btHistoryCreate.setEnabled(false);
+    }
+  }
+
+  private void dismissDialogs() {
+    // Last chance to dismiss dialogs even if they are no longer showing
+    if (passwordDialog != null && passwordDialog.isShowing()) {
+      // Immediate call to revert potentially undergoing operations in popups and prevent data loss
+      passwordDialogOnCancel.onCancel(passwordDialog);
+      passwordDialog.dismiss();
+    }
+
+    if (newHistoryDialog != null && newHistoryDialog.isShowing()) {
+      newHistoryDialog.dismiss();
+    }
+    if (editDescDialog != null && itemSelectDialog.isShowing()) {
+      editDescDialog.dismiss();
+    }
+    if (itemSelectDialog != null && itemSelectDialog.isShowing()) {
+      itemSelectDialog.dismiss();
+    }
+    if (contextSelectDialog != null && contextSelectDialog.isShowing()) {
+      contextSelectDialog.dismiss();
+    }
+    RemoteResolver.dismissProgressDialog();
+  }
+
+  private void renderReadDescChangingHex(int[] hexToRender) {
+    // Update changing count and consultation mode before getting changing lines
+    // description
+    current.changingCount = 0;
+    for (int i = 0; i < Consts.HEX_LINES_COUNT; i++) {
+      if (ChangingLinesEvaluator.isChangingLine(hexToRender[i])) {
+        current.changingCount++;
+      }
+      if (current.mode == READ_DESC_MODE.VIEW_HEX &&
+          (current.changingManualIndex == i || current.changingManualIndex == ChangingLinesEvaluator.ICHING_APPLY_BOTH)) {
+        // Draw the manually selected line as changing
+        renderRow(i, ChangingLinesEvaluator.getChangingLineOf(hexToRender[i]), true);
+      } else {
+        renderRow(i, hexToRender[i], true);
+      }
     }
   }
 

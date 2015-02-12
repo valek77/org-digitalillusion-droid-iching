@@ -66,6 +66,8 @@ public class SettingsManager {
   public Serializable getDefault(SETTINGS_MAP setting) throws InvalidParameterException {
     if (setting.equals(SETTINGS_MAP.HAPTIC_FEEDBACK)) {
       return Consts.HAPTIC_FEEDBACK_ON_THROW_COINS;
+    } else if (setting.equals(SETTINGS_MAP.DIVINATION_METHOD)) {
+      return Consts.DIVINATION_METHOD_COINS_AUTO;
     } else if (setting.equals(SETTINGS_MAP.CHANGING_LINES_EVALUATOR)) {
       return Consts.EVALUATOR_MASTERYIN;
     } else if (setting.equals(SETTINGS_MAP.LANGUAGE)) {
@@ -86,14 +88,14 @@ public class SettingsManager {
   }
 
   /**
-   * @see {@link DataPersister#loadOptions(HashMap)}
+   * @see {@link DataPersister#loadOptions(android.content.Context, java.util.HashMap)}
    */
   public void load(Context context) throws FileNotFoundException, IOException {
     DataPersister.loadOptions(context, settingsMap);
   }
 
   /**
-   * @see {@link HashMap#put(Object) }
+   * @see {@link HashMap#put(Object, Object)} }
    */
   public Serializable put(SETTINGS_MAP setting, Serializable object) {
     return settingsMap.put(setting.getKey(), object);
@@ -126,6 +128,7 @@ public class SettingsManager {
    */
   public enum SETTINGS_MAP {
     HAPTIC_FEEDBACK("hapticFeedback"),
+    DIVINATION_METHOD("divinationMethod"),
     CHANGING_LINES_EVALUATOR("changingLinesEvaluator"),
     LANGUAGE("language"),
     DICTIONARY("dictionary"),

@@ -15,21 +15,30 @@ public class Consts {
    * The number of lines in an hexagram *
    */
   public static final int HEX_LINES_COUNT = 6;
-
   /**
-   * Old Yin coin value *
+  /**
+   * Yin coin value *
+   */
+  public static final int ICHING_COIN_YIN = 2;
+  /**
+   * Yang coin value *
+   */
+  public static final int ICHING_COIN_YANG = 3;
+  /**
+   * Old Yin coins value *
    */
   public static final int ICHING_OLD_YIN = 6;
   /**
-   * Young Yang coin value *
+   * Young Yang coins value *
    */
   public static final int ICHING_YOUNG_YANG = 7;
   /**
-   * Young Yin coin value *
+   * Young Yin coins value *
    */
   public static final int ICHING_YOUNG_YIN = 8;
   /**
-   * Old Yang coin value *
+   * Old Yang coins value *
+>>>>>>> remotes/origin/master
    */
   public static final int ICHING_OLD_YANG = 9;
 
@@ -38,6 +47,16 @@ public class Consts {
    */
   public static final int HAPTIC_FEEDBACK_OFF = 0;
   public static final int HAPTIC_FEEDBACK_ON_THROW_COINS = 1;
+
+  /**
+   * Divination method automatic toss coins *
+   */
+  public static final int DIVINATION_METHOD_COINS_AUTO = 0;
+
+  /**
+   * Divination method manual toss coins *
+   */
+  public static final int DIVINATION_METHOD_COINS_MANUAL = 1;
 
   /**
    * Manual changing lines evaluator

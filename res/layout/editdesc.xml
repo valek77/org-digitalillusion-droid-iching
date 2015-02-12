@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
-    android:orientation="vertical"
-    android:padding="5dp">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:padding="5dp">
 
     <TextView
         android:id="@+id/tvEditSecHex"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text=""
-        android:textAppearance="?android:attr/textAppearanceMedium"/>
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="@dimen/text_size_medium"/>
 
     <TextView
         android:id="@+id/tvEditSecQuote"
@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:text="@string/edit_section_quote"
         android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="@dimen/text_size_small"
         android:textStyle="bold"/>
 
     <EditText
@@ -27,7 +28,9 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:lines="3">
+        android:lines="3"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="@dimen/text_size_medium">
 
         <requestFocus/>
     </EditText>
@@ -37,7 +40,8 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/edit_section_quote_info"
-        android:textAppearance="?android:attr/textAppearanceSmall"/>
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="@dimen/text_size_small"/>
 
     <TextView
         android:id="@+id/tvEditSecReading"
@@ -45,6 +49,7 @@
         android:layout_height="wrap_content"
         android:text="@string/edit_section_reading"
         android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="@dimen/text_size_small"
         android:textStyle="bold"/>
 
     <EditText
@@ -53,13 +58,15 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:lines="3">
-    </EditText>
+        android:lines="3"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="@dimen/text_size_medium"></EditText>
 
     <TextView
         android:id="@+id/tvEditSecReadingInfo"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/edit_section_reading_info"
-        android:textAppearance="?android:attr/textAppearanceSmall"/>
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="@dimen/text_size_small"/>
 </LinearLayout>

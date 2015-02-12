@@ -90,7 +90,7 @@
 
                         <LinearLayout
                             android:id="@+id/layButtonsAndChanging"
-                            android:layout_width="match_parent"
+                            android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="right"
                             android:layout_margin="5dp"
@@ -99,7 +99,7 @@
                             <!-- Buttons for description, judgement and image -->
                             <Button
                                 android:id="@+id/btReadDesc"
-                                android:layout_width="match_parent"
+                                android:layout_width="fill_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
                                 android:layout_weight="0.33"
@@ -108,7 +108,7 @@
 
                             <Button
                                 android:id="@+id/btReadJudge"
-                                android:layout_width="match_parent"
+                                android:layout_width="fill_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_weight="0.33"
                                 android:text="@string/read_judge"
@@ -116,7 +116,7 @@
 
                             <Button
                                 android:id="@+id/btReadImage"
-                                android:layout_width="match_parent"
+                                android:layout_width="fill_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_weight="0.33"
                                 android:text="@string/read_image"
@@ -138,7 +138,7 @@
 
                             <Spinner
                                 android:id="@+id/spChanging"
-                                android:layout_width="match_parent"
+                                android:layout_width="fill_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_weight="0.33"
                                 android:textAppearance="?android:attr/textAppearanceSmall"
@@ -206,7 +206,7 @@
                                 android:freezesText="true"
                                 android:inputType="textNoSuggestions|textMultiLine"
                                 android:paddingLeft="5dp"
-                                android:requiresFadingEdge="vertical"
+                                android:fadingEdge="vertical"
                                 android:scrollbarStyle="insideInset"
                                 android:scrollbars="vertical"
                                 android:textColor="@android:color/white"

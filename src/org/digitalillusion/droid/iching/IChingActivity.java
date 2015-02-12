@@ -13,6 +13,7 @@ import android.text.Html;
 import android.text.InputType;
 import android.view.ContextMenu;
 import android.view.ContextMenu.ContextMenuInfo;
+import android.view.GestureDetector;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -55,6 +56,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
+import java.util.Random;
 
 /**
  * A complete I Ching oracle for Android OS
@@ -93,17 +95,16 @@ public class IChingActivity extends IChingActivityRenderer {
     }
 
     if (hexRow < 6) {
-      Resources res = getResources();
-      new AnimCoin((ImageView) findViewById(R.id.picCoin01), res);
-      new AnimCoin((ImageView) findViewById(R.id.picCoin02), res);
-      new AnimCoin((ImageView) findViewById(R.id.picCoin03), res);
+      prepareDivinationMethod();
     } else {
       ((ImageView) findViewById(R.id.picCoin01)).setVisibility(View.GONE);
       ((ImageView) findViewById(R.id.picCoin02)).setVisibility(View.GONE);
       ((ImageView) findViewById(R.id.picCoin03)).setVisibility(View.GONE);
 
-      TextView instructions = (TextView) findViewById(R.id.tvInstructions);
-      instructions.setText(Utils.getResourceByName(R.string.class, "hex" + Utils.hexMap(hex)));
+      TextView tvInstructions = (TextView) findViewById(R.id.tvInstructions);
+      String hexMap = Utils.hexMap(hex);
+      tvInstructions.setText(Utils.getResourceByName(R.string.class, "hex" + hexMap));
+      tvInstructions.setText(hexMap + " " + tvInstructions.getText());
 
       final Button btnReadDesc = new Button(getApplicationContext());
       final LinearLayout layout = (LinearLayout) findViewById(R.id.layCoins);
@@ -207,8 +208,6 @@ public class IChingActivity extends IChingActivityRenderer {
 
   /**
    * Move to the read description view
-   *
-   * @param setup True to setup the hexagrams, false if they are already setup
    */
   public void gotoReadDesc() {
 
@@ -246,6 +245,7 @@ public class IChingActivity extends IChingActivityRenderer {
     final TextView tvDescTitle = (TextView) findViewById(R.id.tvHexName);
     String hexMap = Utils.hexMap(hex);
     tvDescTitle.setText(Utils.getResourceByName(R.string.class, "hex" + hexMap));
+    tvDescTitle.setText(hexMap + " " + tvDescTitle.getText());
 
     renderTabs(tabHost);
 
@@ -297,6 +297,16 @@ public class IChingActivity extends IChingActivityRenderer {
             Consts.HAPTIC_FEEDBACK_ON_THROW_COINS
         },
         SETTINGS_MAP.HAPTIC_FEEDBACK
+    );
+    // Divination method
+    settings.createOption(
+        settingsList,
+        SettingsEntry.DIVINATION_METHOD,
+        new Integer[]{
+            Consts.DIVINATION_METHOD_COINS_AUTO,
+            Consts.DIVINATION_METHOD_COINS_MANUAL
+        },
+        SETTINGS_MAP.DIVINATION_METHOD
     );
     // Changing lines
     settings.createOption(
@@ -505,17 +515,7 @@ public class IChingActivity extends IChingActivityRenderer {
       }
     }
 
-    hex[hexRow] = coinsValue;
-    renderRow(hexRow++, coinsValue, true);
-
-    if (hexRow >= 6) {
-      gotoConsult();
-    }
-
-    if (Utils.mask((Integer) settings.get(SETTINGS_MAP.HAPTIC_FEEDBACK), Consts.HAPTIC_FEEDBACK_ON_THROW_COINS)) {
-      Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
-      v.vibrate(300);
-    }
+    generateRow(coinsValue);
   }
 
   /**
@@ -531,7 +531,7 @@ public class IChingActivity extends IChingActivityRenderer {
     ListView lvHistory = (ListView) findViewById(R.id.lvHistory);
     final BaseAdapter listAdapter = (BaseAdapter) lvHistory.getAdapter();
     final View tvHistory = (View) findViewById(R.id.tvHistory);
-    final AlertDialog alertDialog = new AlertDialog.Builder(IChingActivity.this).create();
+    contextSelectDialog = new AlertDialog.Builder(IChingActivity.this).create();
     switch (item.getItemId()) {
       case ContextMenuItem.HISTORY_MOVE_ENTRY:
         final List<String> historyNames = DataPersister.getHistoryNames();
@@ -579,9 +579,9 @@ public class IChingActivity extends IChingActivityRenderer {
         if (question.equals(Utils.EMPTY_STRING)) {
           question = Utils.s(R.string.contextmenu_noquestion);
         }
-        alertDialog.setTitle(question);
-        alertDialog.setMessage(Utils.s(R.string.contextmenu_history_erase_entry));
-        alertDialog.setButton(DialogInterface.BUTTON_POSITIVE,
+        contextSelectDialog.setTitle(question);
+        contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_erase_entry));
+        contextSelectDialog.setButton(DialogInterface.BUTTON_POSITIVE,
             Utils.s(R.string.yes),
             new OnClickListener() {
               public void onClick(DialogInterface dialog, int which) {
@@ -593,18 +593,18 @@ public class IChingActivity extends IChingActivityRenderer {
                 listAdapter.notifyDataSetChanged();
               }
             });
-        alertDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
+        contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
             Utils.s(R.string.no),
             new OnClickListener() {
               public void onClick(DialogInterface dialog, int which) {
               }
             });
-        alertDialog.show();
+        contextSelectDialog.show();
         break;
       case ContextMenuItem.HISTORY_DELETE_ALL:
-        alertDialog.setTitle(DataPersister.getSelectedHistoryName());
-        alertDialog.setMessage(Utils.s(R.string.contextmenu_history_erase));
-        alertDialog.setButton(DialogInterface.BUTTON_POSITIVE,
+        contextSelectDialog.setTitle(DataPersister.getSelectedHistoryName());
+        contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_erase));
+        contextSelectDialog.setButton(DialogInterface.BUTTON_POSITIVE,
             Utils.s(R.string.yes),
             new OnClickListener() {
               public void onClick(DialogInterface dialog, int which) {
@@ -614,17 +614,17 @@ public class IChingActivity extends IChingActivityRenderer {
                 listAdapter.notifyDataSetChanged();
               }
             });
-        alertDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
+        contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
             Utils.s(R.string.no),
             DEFAULT_HISTORY_REVERT_DIALOG_BUTTON);
-        alertDialog.show();
+        contextSelectDialog.show();
         break;
       case ContextMenuItem.HISTORY_REMOVE:
         renderLoadHistory(new Runnable() {
           public void run() {
-            alertDialog.setTitle(DataPersister.getSelectedHistoryName());
-            alertDialog.setMessage(Utils.s(R.string.contextmenu_history_remove));
-            alertDialog.setButton(DialogInterface.BUTTON_POSITIVE,
+            contextSelectDialog.setTitle(DataPersister.getSelectedHistoryName());
+            contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_remove));
+            contextSelectDialog.setButton(DialogInterface.BUTTON_POSITIVE,
                 Utils.s(R.string.yes),
                 new OnClickListener() {
                   public void onClick(DialogInterface dialog,
@@ -633,26 +633,26 @@ public class IChingActivity extends IChingActivityRenderer {
                     DEFAULT_HISTORY_REVERT_TASK.run();
                   }
                 });
-            alertDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
+            contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
                 Utils.s(R.string.no),
                 new OnClickListener() {
                   public void onClick(DialogInterface dialog, int which) {
                     DEFAULT_HISTORY_REVERT_TASK.run();
                   }
                 });
-            alertDialog.show();
+            contextSelectDialog.show();
           }
         }, DEFAULT_HISTORY_REVERT_TASK);
         break;
       case ContextMenuItem.HISTORY_RENAME:
         renderLoadHistory(new Runnable() {
                             public void run() {
-                              alertDialog.setMessage(Utils.s(R.string.contextmenu_history_rename));
+                              contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_rename));
                               final EditText input = new EditText(IChingActivity.this);
                               input.setInputType(InputType.TYPE_CLASS_TEXT | InputType.TYPE_TEXT_FLAG_CAP_SENTENCES);
                               input.setHint(DataPersister.getSelectedHistoryName());
-                              alertDialog.setView(input);
-                              alertDialog.setButton(DialogInterface.BUTTON_POSITIVE,
+                              contextSelectDialog.setView(input);
+                              contextSelectDialog.setButton(DialogInterface.BUTTON_POSITIVE,
                                   Utils.s(android.R.string.ok),
                                   new OnClickListener() {
                                     public void onClick(DialogInterface dialog,
@@ -666,10 +666,10 @@ public class IChingActivity extends IChingActivityRenderer {
                                       renderLoadHistory(null, null);
                                     }
                                   });
-                              alertDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
+                              contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
                                   Utils.s(R.string.cancel),
                                   DEFAULT_HISTORY_REVERT_DIALOG_BUTTON);
-                              alertDialog.show();
+                              contextSelectDialog.show();
                             }
                           },
             DEFAULT_HISTORY_REVERT_TASK);
@@ -932,6 +932,98 @@ public class IChingActivity extends IChingActivityRenderer {
     loadSettings();
   }
 
+  private void prepareDivinationMethod() {
+    Resources res = getResources();
+    int divinationMethod = (Integer) getSettingsManager().get(SETTINGS_MAP.DIVINATION_METHOD);
+    switch (divinationMethod) {
+      case Consts.DIVINATION_METHOD_COINS_MANUAL:
+        Random rnd = new Random();
+        final AnimCoin coin1 = new AnimCoin((ImageView) findViewById(R.id.picCoin01), res, rnd.nextInt(2) + 2);
+        final AnimCoin coin2 = new AnimCoin((ImageView) findViewById(R.id.picCoin02), res, rnd.nextInt(2) + 2);
+        final AnimCoin coin3 = new AnimCoin((ImageView) findViewById(R.id.picCoin03), res, rnd.nextInt(2) + 2);
+        OnTouchListener coinTouchListener = new OnTouchListener() {
+          public boolean onTouch(View v, MotionEvent event) {
+            hex[hexRow] = coin1.getCoinValue() + coin2.getCoinValue() + coin3.getCoinValue();
+            renderRow(hexRow, hex[hexRow], true);
+            return true;
+          }
+        };
+        coin1.setOnTouchListener(coinTouchListener);
+        coin2.setOnTouchListener(coinTouchListener);
+        coin3.setOnTouchListener(coinTouchListener);
+        coinTouchListener.onTouch(null, null);
+        final GestureDetector gestureDetector = new GestureDetector(this, new GestureDetector.SimpleOnGestureListener() {
+
+          private static final int SWIPE_MIN_DISTANCE = 120;
+          private static final int SWIPE_THRESHOLD_VELOCITY = 200;
+
+          @Override
+          public boolean onDown(MotionEvent event) {
+            return true;
+          }
+
+          @Override
+          public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
+            int coinSum = coin1.getCoinValue() + coin2.getCoinValue() + coin3.getCoinValue();
+            if (e1.getY() - e2.getY() > SWIPE_MIN_DISTANCE && Math.abs(velocityY) > SWIPE_THRESHOLD_VELOCITY &&
+                hexRow < Consts.HEX_LINES_COUNT) {
+              generateRow(coinSum);
+              if (hexRow < Consts.HEX_LINES_COUNT) {
+                hex[hexRow] = coinSum;
+                renderRow(hexRow, hex[hexRow], true);
+              }
+            } else if (e2.getY() - e1.getY() > SWIPE_MIN_DISTANCE && Math.abs(velocityY) > SWIPE_THRESHOLD_VELOCITY) {
+              eraseRow(coinSum);
+            }
+            return super.onFling(e1, e2, velocityX, velocityY);
+          }
+        });
+        View layConsult = findViewById(R.id.layConsult);
+        layConsult.setOnTouchListener(new OnTouchListener() {
+          public boolean onTouch(View v, MotionEvent event) {
+            return gestureDetector.onTouchEvent(event);
+          }
+        });
+        TextView tvInstructions = (TextView) findViewById(R.id.tvInstructions);
+        tvInstructions.setText(Utils.s(R.string.consult_tapcoins_manual));
+        break;
+      default:
+        new AnimCoin((ImageView) findViewById(R.id.picCoin01), res);
+        new AnimCoin((ImageView) findViewById(R.id.picCoin02), res);
+        new AnimCoin((ImageView) findViewById(R.id.picCoin03), res);
+    }
+  }
+
+  private void eraseRow(int coinSum) {
+    if (hexRow > 0) {
+      hex[hexRow--] = -1;
+    }
+    if (hexRow < Consts.HEX_LINES_COUNT) {
+      hex[hexRow] = coinSum;
+    }
+    for (int i = 0; i < Consts.HEX_LINES_COUNT; i++) {
+      renderRow(i, hex[i], true);
+    }
+    if (Utils.mask((Integer) settings.get(SETTINGS_MAP.HAPTIC_FEEDBACK), Consts.HAPTIC_FEEDBACK_ON_THROW_COINS)) {
+      Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+      v.vibrate(300);
+    }
+  }
+
+  private void generateRow(int coinsValue) {
+    hex[hexRow] = coinsValue;
+    renderRow(hexRow++, coinsValue, true);
+
+    if (hexRow >= Consts.HEX_LINES_COUNT) {
+      gotoConsult();
+    }
+
+    if (Utils.mask((Integer) settings.get(SETTINGS_MAP.HAPTIC_FEEDBACK), Consts.HAPTIC_FEEDBACK_ON_THROW_COINS)) {
+      Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+      v.vibrate(300);
+    }
+  }
+
   /**
    * Load settings from sd card. If none is found, default apply
    */
@@ -955,10 +1047,10 @@ public class IChingActivity extends IChingActivityRenderer {
   /**
    * Internal method to add a tab to an host
    *
-   * @param tabHost   The host
-   * @param tag       A tag for the tab
-   * @param indicator The tab title resource identifier
-   * @param resId     The content layout resource identifier
+   * @param tabHost The host
+   * @param tag     A tag for the tab
+   * @param indId   The tab title resource identifier
+   * @param resId   The content layout resource identifier
    */
   private void setupTab(TabHost tabHost, String tag, int indId, int resId) {
     tabHost.addTab(

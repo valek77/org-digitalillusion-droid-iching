@@ -149,7 +149,7 @@ public class ConnectionManager {
                 if (!isCancelled()) {
                   try {
                     HexSection currentHexSection = dataSource.getHexSection(hex, dictionary, lang, section);
-                    if (currentHexSection.getDef().isEmpty()) {
+                    if (currentHexSection.getDef().equals(Utils.EMPTY_STRING)) {
                       throw new NotFoundException();
                     }
                   } catch (NotFoundException e) {
@@ -160,8 +160,8 @@ public class ConnectionManager {
                         result = RemoteResolver.downloadRemoteString(activity, hex, section, dictionary, lang);
                       } catch (IOException ioe) {
                       }
-                    } while (result.isEmpty() && !isCancelled());
-                    if (!result.isEmpty()) {
+                    } while (result.equals(Utils.EMPTY_STRING) && !isCancelled());
+                    if (!result.equals(Utils.EMPTY_STRING)) {
                       dataSource.updateHexSection(hex, dictionary, lang, section, result);
                     }
                   }

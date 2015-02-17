@@ -57,7 +57,7 @@ public class HexSection {
    * @return The quote
    */
   public String getDefQuote() {
-    if (def == null || def.isEmpty() || def.indexOf(Utils.HEX_SECTION_QUOTE_DELIMITER) < 0) {
+    if (def == null || def.equals(Utils.EMPTY_STRING) || def.indexOf(Utils.HEX_SECTION_QUOTE_DELIMITER) < 0) {
       return Utils.EMPTY_STRING;
     }
     while (Utils.NEWLINE.charAt(0) == def.charAt(0)) {
@@ -70,7 +70,7 @@ public class HexSection {
    * @return The reading
    */
   public String getDefReading() {
-    if (def == null || def.isEmpty()) {
+    if (def == null || def.equals(Utils.EMPTY_STRING)) {
       return Utils.EMPTY_STRING;
     } else if (def.indexOf(Utils.HEX_SECTION_QUOTE_DELIMITER) < 0) {
       return def;

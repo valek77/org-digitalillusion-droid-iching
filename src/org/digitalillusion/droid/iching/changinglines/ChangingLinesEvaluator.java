@@ -62,6 +62,7 @@ public abstract class ChangingLinesEvaluator {
       new Integer[]{},
       new Integer[]{36, 41, 43, 54, 58},
   };
+  public static final String READ_CHANGING_SELECT_LINE = "read_changing_select_line";
 
   /**
    * @param lineVal The line to evaluate
@@ -90,8 +91,6 @@ public abstract class ChangingLinesEvaluator {
       return lineVal;
     }
   }
-
-  public static final String READ_CHANGING_SELECT_LINE = "read_changing_select_line";
 
   /**
    * @param lineVal The line to evaluate

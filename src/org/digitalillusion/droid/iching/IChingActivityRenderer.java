@@ -77,6 +77,18 @@ import java.util.List;
 public class IChingActivityRenderer extends Activity {
 
   /**
+   * The id of the cast hexagram tab
+   */
+  protected static final int TAB_READ_DESC_CAST_HEXAGRAM = 0;
+  /**
+   * The id of the cast hexagram tab
+   */
+  protected static final int TAB_READ_DESC_CHANGING_LINES = 1;
+  /**
+   * The id of the cast hexagram tab
+   */
+  protected static final int TAB_READ_DESC_TRANSFORMED_HEXAGRAM = 2;
+  /**
    * The cleanup operation after history password dialog has been cancelled
    */
   protected final Runnable DEFAULT_HISTORY_REVERT_TASK = new Runnable() {
@@ -98,57 +110,46 @@ public class IChingActivityRenderer extends Activity {
    * Settings manager*
    */
   protected SettingsManager settings;
-
   /**
    * The local data source for the hexagrams sections strings *
    */
   protected HexSectionDataSource dsHexSection;
-
   /**
    * The current state *
    */
   protected CurrentState current;
-
   /**
    * The edit hexagram description dialog *
    */
   protected AlertDialog editDescDialog;
-
   /**
    * The history creation dialog *
    */
   protected AlertDialog newHistoryDialog;
-
   /**
    * The history password insertion dialog
    */
   protected AlertDialog passwordDialog;
-
   /**
    * The context menu selection dialog
    */
   protected AlertDialog contextSelectDialog;
-
   /**
    * The history password insertion dialog on cancel listener
    */
   protected OnCancelListener passwordDialogOnCancel;
-
   /**
    * A dialog that allows to select an item from a list
    */
   protected Dialog itemSelectDialog;
-
   /**
    * The options menu *
    */
   protected Menu optionsMenu;
-
   /**
    * Memory cache of the local history *
    */
   protected ArrayList<HistoryEntry> historyList = new ArrayList<HistoryEntry>();
-
   /**
    * The connection manager *
    */
@@ -431,7 +432,6 @@ public class IChingActivityRenderer extends Activity {
     }
     return itemSelectDialog;
   }
-
 
   @Override
   protected void onPause() {
@@ -785,7 +785,7 @@ public class IChingActivityRenderer extends Activity {
     }
 
     for (int i = 0; i < Consts.HEX_LINES_COUNT; i++) {
-      renderRow(i, hexToRender[i], false);
+      renderRow(i, hexToRender[i], false, null, null);
     }
 
     renderQuestion();
@@ -804,7 +804,7 @@ public class IChingActivityRenderer extends Activity {
           boolean isGoverning = Arrays.binarySearch(ChangingLinesEvaluator.ICHING_GOVERNING_LINE[i], Integer.parseInt(current.hex)) >= 0;
           boolean isConstituent = Arrays.binarySearch(ChangingLinesEvaluator.ICHING_CONSTITUENT_LINE[i], Integer.parseInt(current.hex)) >= 0;
           if (isGoverning || isConstituent) {
-            lines.add(Utils.s(Utils.getResourceByName(R.string.class, ChangingLinesEvaluator.READ_CHANGING_SELECT_LINE + (i+1))));
+            lines.add(Utils.s(Utils.getResourceByName(R.string.class, ChangingLinesEvaluator.READ_CHANGING_SELECT_LINE + (i + 1))));
           } else {
             lines.add(Utils.EMPTY_STRING);
           }
@@ -1115,15 +1115,12 @@ public class IChingActivityRenderer extends Activity {
       tvRow.setCompoundDrawablesWithIntrinsicBounds(
           null, null, drawable, null
       );
-      tvRow.setAlpha(1f);
       tvRow.setText(" ");
       if (governingLine != null || constituentLine != null) {
         if (governingLine) {
           tvRow.setText(Utils.s(R.string.view_hex_line_governing));
         } else if (constituentLine) {
           tvRow.setText(Utils.s(R.string.view_hex_line_constituent));
-        } else {
-          tvRow.setAlpha(0.8f);
         }
       }
     }
@@ -1142,7 +1139,7 @@ public class IChingActivityRenderer extends Activity {
 
       child.getLayoutParams().height = (int) (textSizeTabs * 3);
 
-      child.setPadding(3, 0, 3, 0);
+      child.setPadding(3, 0, 3, 10);
     }
   }
 
@@ -1178,8 +1175,8 @@ public class IChingActivityRenderer extends Activity {
 
     if (READ_DESC_SCREEN.LINES == screen) {
       desc = Utils.s(R.string.view_hex_line_gov_legend) + "<br/>" +
-             Utils.s(R.string.view_hex_line_const_legend) + "<br/>" +
-             Utils.s(R.string.read_changing_select) + "<br/>";
+          Utils.s(R.string.view_hex_line_const_legend) + "<br/>" +
+          Utils.s(R.string.read_changing_select) + "<br/>";
     } else {
       switch (mode) {
         case VIEW_HEX:
@@ -1345,9 +1342,9 @@ public class IChingActivityRenderer extends Activity {
       if (current.mode == READ_DESC_MODE.VIEW_HEX &&
           (current.changingManualIndex == i || current.changingManualIndex == ChangingLinesEvaluator.ICHING_APPLY_BOTH)) {
         // Draw the manually selected line as changing
-        renderRow(i, ChangingLinesEvaluator.getChangingLineOf(hexToRender[i]), true);
+        renderRow(i, ChangingLinesEvaluator.getChangingLineOf(hexToRender[i]), true, null, null);
       } else {
-        renderRow(i, hexToRender[i], true);
+        renderRow(i, hexToRender[i], true, null, null);
       }
     }
   }
@@ -1367,15 +1364,6 @@ public class IChingActivityRenderer extends Activity {
     DEFAULT,
     LINES
   }
-
-  /** The id of the cast hexagram tab */
-  protected static final int TAB_READ_DESC_CAST_HEXAGRAM = 0;
-
-  /** The id of the cast hexagram tab */
-  protected static final int TAB_READ_DESC_CHANGING_LINES = 1;
-
-  /** The id of the cast hexagram tab */
-  protected static final int TAB_READ_DESC_TRANSFORMED_HEXAGRAM = 2;
 
   /**
    * Data object representing the current state *

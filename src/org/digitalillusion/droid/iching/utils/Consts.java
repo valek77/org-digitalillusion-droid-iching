@@ -38,7 +38,6 @@ public class Consts {
   public static final int ICHING_YOUNG_YIN = 8;
   /**
    * Old Yang coins value *
->>>>>>> remotes/origin/master
    */
   public static final int ICHING_OLD_YANG = 9;
 

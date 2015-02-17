@@ -107,7 +107,7 @@ public class DataPersister {
         if (file.isFile() && file.getName().startsWith(ICHING_HISTORY_PATH_FILENAME_PREFIX)) {
           String name = file.getName().replace(ICHING_HISTORY_PATH_FILENAME_PREFIX, Utils.EMPTY_STRING);
           name = name.substring(0, name.lastIndexOf('.'));
-          if (!name.equals(Utils.EMPTY_STRING) && !name.equals(ICHING_HISTORY_PATH_FILENAME_SEPARATOR)) {
+          if (!name.isEmpty() && !name.equals(ICHING_HISTORY_PATH_FILENAME_SEPARATOR)) {
             historyNames.add(name.substring(ICHING_HISTORY_PATH_FILENAME_SEPARATOR.length()));
           }
         }
@@ -302,7 +302,7 @@ public class DataPersister {
    * @return True if history needed o be reverted, false otherwise
    */
   public static boolean revertSelectedHistory() {
-    boolean needRevert = !DataPersister.revertHistoryName.equals(DataPersister.historyName);
+    boolean needRevert = DataPersister.revertHistoryName != null && !DataPersister.revertHistoryName.equals(DataPersister.historyName);
     if (needRevert) {
       DataPersister.historyName = DataPersister.revertHistoryName;
       DataPersister.historyPassword = DataPersister.revertHistoryPassword;
@@ -425,16 +425,14 @@ public class DataPersister {
     // Change history and password
     DataPersister.historyName = historyName;
     try {
-      if (historyPassword == null || historyPassword.equals(Utils.EMPTY_STRING)) {
+      if (historyPassword == null || historyPassword.isEmpty()) {
         DataPersister.historyPassword = new byte[0];
       } else {
         MessageDigest sha = MessageDigest.getInstance(CRYPTO_DIGEST);
         byte[] key = sha.digest(historyPassword.getBytes(PSWD_ENCODING));
-        byte[] fixedKey = new byte[32];
-        Arrays.fill(fixedKey, (byte) 0);
-        System.arraycopy(key, 0, fixedKey, 0, Math.min(key.length, 32)); // use 256 bit
+        key = Arrays.copyOf(key, 32); // use 256 bit
 
-        DataPersister.historyPassword = fixedKey;
+        DataPersister.historyPassword = key;
       }
     } catch (GeneralSecurityException e) {
       throw new InvalidParameterException(e.getMessage());
@@ -519,7 +517,7 @@ public class DataPersister {
   }
 
   private static String getHistoryPath() {
-    if (historyName == null || historyName.equals(Utils.EMPTY_STRING) || historyName.equals(ICHING_HISTORY_PATH_FILENAME_DEFAULT)) {
+    if (historyName == null || historyName.isEmpty() || historyName.equals(ICHING_HISTORY_PATH_FILENAME_DEFAULT)) {
       return File.separator + ICHING_HISTORY_PATH_FILENAME_PREFIX + ICHING_HISTORY_PATH_FILENAME_EXT;
     } else {
       return File.separator + ICHING_HISTORY_PATH_FILENAME_PREFIX + ICHING_HISTORY_PATH_FILENAME_SEPARATOR + historyName + ICHING_HISTORY_PATH_FILENAME_EXT;

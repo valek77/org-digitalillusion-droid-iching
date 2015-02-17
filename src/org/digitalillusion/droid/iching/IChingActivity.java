@@ -91,7 +91,7 @@ public class IChingActivity extends IChingActivityRenderer {
     tvQuestionShow.setText(current.question);
 
     for (int i = 0; i < hexRow; i++) {
-      renderRow(i, hex[i], true);
+      renderRow(i, hex[i], true, null, null);
     }
 
     if (hexRow < 6) {
@@ -216,6 +216,7 @@ public class IChingActivity extends IChingActivityRenderer {
       changingLinesEvaluator = ChangingLinesEvaluator.produce(evalType);
     }
     current.changing = changingLinesEvaluator.evaluate(hex, tHex);
+    current.screen = READ_DESC_SCREEN.DEFAULT;
 
     setContentView(R.layout.readdesc);
 
@@ -259,13 +260,13 @@ public class IChingActivity extends IChingActivityRenderer {
           current.tabIndex = listTabId.indexOf(tabId);
         }
         switch (current.tabIndex) {
-          case 0:
+          case TAB_READ_DESC_CAST_HEXAGRAM:
             renderReadDesc(hex);
             break;
-          case 1:
+          case TAB_READ_DESC_CHANGING_LINES:
             renderReadDescChanging(hex);
             break;
-          case 2:
+          case TAB_READ_DESC_TRANSFORMED_HEXAGRAM:
             renderReadDesc(tHex);
             break;
         }

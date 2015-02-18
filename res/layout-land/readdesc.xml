@@ -61,7 +61,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -75,7 +77,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -89,7 +93,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -103,7 +109,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -117,7 +125,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -131,7 +141,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
                         </TableLayout>
@@ -264,6 +276,7 @@
                                 android:fadingEdgeLength="20dp"
                                 android:focusable="false"
                                 android:freezesText="true"
+                                android:gravity="top"
                                 android:inputType="textNoSuggestions|textMultiLine"
                                 android:paddingLeft="5dp"
                                 android:scrollbarStyle="insideInset"

@@ -1138,6 +1138,7 @@ public class IChingActivityRenderer extends Activity {
       title.setSingleLine();
 
       child.getLayoutParams().height = (int) (textSizeTabs * 3);
+      title.setHeight(child.getLayoutParams().height);
 
       child.setPadding(3, 0, 3, 10);
     }

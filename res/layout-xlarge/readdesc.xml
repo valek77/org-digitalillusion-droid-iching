@@ -62,7 +62,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -76,7 +78,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -90,7 +94,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -104,7 +110,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -118,7 +126,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
 
@@ -132,7 +142,9 @@
                                     android:layout_width="fill_parent"
                                     android:layout_height="@dimen/hex_small_row_height"
                                     android:minWidth="@dimen/text_size_small"
+                                    android:textAppearance="?android:attr/textAppearanceSmall"
                                     android:textColor="@android:color/white"
+                                    android:textSize="@dimen/text_size_small"
                                     android:textStyle="bold"/>
                             </TableRow>
                         </TableLayout>
@@ -194,18 +206,18 @@
                                 android:textSize="@dimen/text_size_small"
                                 android:visibility="gone"></Spinner>
                         </LinearLayout>
-                    </LinearLayout>
 
-                    <TextView
-                        android:id="@+id/tvFurtherReadDesc"
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_horizontal|top"
-                        android:layout_marginBottom="3dp"
-                        android:layout_marginLeft="5dp"
-                        android:text="@string/view_hex_line_further_analysis"
-                        android:textAppearance="?android:attr/textAppearanceSmall"
-                        android:textSize="@dimen/text_size_small"/>
+                        <TextView
+                            android:id="@+id/tvFurtherReadDesc"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal|top"
+                            android:layout_marginBottom="3dp"
+                            android:layout_marginLeft="5dp"
+                            android:text="@string/view_hex_line_further_analysis"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textSize="@dimen/text_size_small"/>
+                    </LinearLayout>
 
                     <LinearLayout
                         android:layout_width="fill_parent"
@@ -265,6 +277,7 @@
                                 android:fadingEdgeLength="20dp"
                                 android:focusable="false"
                                 android:freezesText="true"
+                                android:gravity="top"
                                 android:inputType="textNoSuggestions|textMultiLine"
                                 android:paddingLeft="5dp"
                                 android:scrollbarStyle="insideInset"

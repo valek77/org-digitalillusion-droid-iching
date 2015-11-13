@@ -27,9 +27,9 @@ android {
     signingConfigs {
         release {
             storeFile file("../../../Documenti/Impostazioni/Android/digitalillusion")
-            storePassword "*********"
+            storePassword "********"
             keyAlias "digitalillusion"
-            keyPassword "*********"
+            keyPassword "********"
         }
     }
 

@@ -39,7 +39,6 @@ import android.widget.ExpandableListView.OnGroupExpandListener;
 import android.widget.Filter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.NumberPicker;
 import android.widget.Spinner;
 import android.widget.TabHost;
 import android.widget.TabWidget;
@@ -91,24 +90,6 @@ public class IChingActivityRenderer extends Activity {
    */
   protected static final int TAB_READ_DESC_TRANSFORMED_HEXAGRAM = 2;
   /**
-   * The cleanup operation after history password dialog has been cancelled
-   */
-  protected final Runnable DEFAULT_HISTORY_REVERT_TASK = new Runnable() {
-    public void run() {
-      if (DataPersister.revertSelectedHistory()) {
-        renderLoadHistory(null, null);
-      }
-    }
-  };
-  /**
-   * The operation for the button that cancel history password dialog
-   */
-  protected final OnClickListener DEFAULT_HISTORY_REVERT_DIALOG_BUTTON = new OnClickListener() {
-    public void onClick(DialogInterface dialog, int which) {
-      DEFAULT_HISTORY_REVERT_TASK.run();
-    }
-  };
-  /**
    * Settings manager*
    */
   protected SettingsManager settings;
@@ -152,6 +133,24 @@ public class IChingActivityRenderer extends Activity {
    * Memory cache of the local history *
    */
   protected ArrayList<HistoryEntry> historyList = new ArrayList<HistoryEntry>();
+  /**
+   * The cleanup operation after history password dialog has been cancelled
+   */
+  protected final Runnable DEFAULT_HISTORY_REVERT_TASK = new Runnable() {
+    public void run() {
+      if (DataPersister.revertSelectedHistory()) {
+        renderLoadHistory(null, null);
+      }
+    }
+  };
+  /**
+   * The operation for the button that cancel history password dialog
+   */
+  protected final OnClickListener DEFAULT_HISTORY_REVERT_DIALOG_BUTTON = new OnClickListener() {
+    public void onClick(DialogInterface dialog, int which) {
+      DEFAULT_HISTORY_REVERT_TASK.run();
+    }
+  };
   /**
    * The connection manager *
    */
@@ -273,7 +272,7 @@ public class IChingActivityRenderer extends Activity {
 
     etHistoryName.addTextChangedListener(new TextWatcher() {
       public void afterTextChanged(Editable s) {
-        if (s.toString().isEmpty()) {
+        if (s.toString().equals(Utils.EMPTY_STRING)) {
           etHistoryName.setError(Utils.s(R.string.validator_error_empty));
         } else if (s.toString().matches(".*[:\\\\/*?|<>\\.]+.*")) {
           etHistoryName.setError(Utils.s(R.string.validator_error_invalid_chars));
@@ -296,7 +295,7 @@ public class IChingActivityRenderer extends Activity {
 
     etHistoryPassword.addTextChangedListener(new TextWatcher() {
       public void afterTextChanged(Editable s) {
-        if (s.toString().isEmpty()) {
+        if (s.toString().equals(Utils.EMPTY_STRING)) {
           etHistoryPassword.setError(Utils.s(R.string.validator_error_empty));
           btHistoryCreate.setEnabled(false);
         } else if (!s.toString().matches("[A-Za-z0-9]+")) {
@@ -307,7 +306,7 @@ public class IChingActivityRenderer extends Activity {
         if (!s.toString().equals(etHistoryPasswordVerify.getText().toString())) {
           etHistoryPasswordVerify.setError(Utils.s(R.string.validator_error_password_verify));
           btHistoryCreate.setEnabled(false);
-        } else if (!etHistoryPasswordVerify.getText().toString().isEmpty()) {
+        } else if (!etHistoryPasswordVerify.getText().toString().equals(Utils.EMPTY_STRING)) {
           etHistoryPasswordVerify.setError(null);
         }
 
@@ -325,7 +324,7 @@ public class IChingActivityRenderer extends Activity {
 
     etHistoryPasswordVerify.addTextChangedListener(new TextWatcher() {
       public void afterTextChanged(Editable s) {
-        if (s.toString().isEmpty()) {
+        if (s.toString().equals(Utils.EMPTY_STRING)) {
           etHistoryPasswordVerify.setError(Utils.s(R.string.validator_error_empty));
           btHistoryCreate.setEnabled(false);
         } else if (!s.toString().matches("[A-Za-z0-9]+")) {
@@ -336,7 +335,7 @@ public class IChingActivityRenderer extends Activity {
         if (!s.toString().equals(etHistoryPassword.getText().toString())) {
           etHistoryPasswordVerify.setError(Utils.s(R.string.validator_error_password_verify));
           btHistoryCreate.setEnabled(false);
-        } else if (!etHistoryPasswordVerify.getText().toString().isEmpty()) {
+        } else if (!etHistoryPasswordVerify.getText().toString().equals(Utils.EMPTY_STRING)) {
           etHistoryPasswordVerify.setError(null);
         }
 
@@ -402,7 +401,7 @@ public class IChingActivityRenderer extends Activity {
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    settings = new SettingsManager();
+    settings = new SettingsManager(getApplicationContext());
     dsHexSection = new HexSectionDataSource(getApplicationContext());
     current = new CurrentState();
   }
@@ -432,152 +431,6 @@ public class IChingActivityRenderer extends Activity {
       AlertDialog.Builder builder = new AlertDialog.Builder(this);
       builder.setTitle(title);
       builder.setItems(items, onClick);
-      itemSelectDialog = builder.create();
-    }
-    return itemSelectDialog;
-  }
-
-  protected Dialog buildTrigramSelectionDialog(final CharSequence[] items, String title, final OnClickListener onClick) {
-    if (itemSelectDialog == null || !itemSelectDialog.isShowing()) {
-      AlertDialog.Builder builder = new AlertDialog.Builder(this);
-
-      float textSizeSmall = getResources().getDimension(R.dimen.text_size_small);
-      LinearLayout lFilter = new LinearLayout(this);
-      lFilter.setOrientation(LinearLayout.VERTICAL);
-
-      LinearLayout lFilterList = new LinearLayout(this);
-      lFilterList.setOrientation(LinearLayout.HORIZONTAL);
-      lFilterList.setGravity(Gravity.CENTER);
-      final TextView tvHexPreview = new TextView(this);
-      tvHexPreview.setTypeface(Typeface.createFromAsset(getAssets(), "font/DejaVuSans.ttf"));
-      tvHexPreview.setTextSize(textSizeSmall);
-      tvHexPreview.setText(Utils.s(R.string.view_hex_filter_tri_all) + Utils.NEWLINE + Utils.s(R.string.view_hex_filter_tri_all));
-      tvHexPreview.setLineSpacing(0, 0.85f);
-      TextView tvFilterInstr = new TextView(this);
-      tvFilterInstr.setText(Utils.s(R.string.view_hex_filter_instr));
-      tvFilterInstr.setPadding(0, 0, 10, 0);
-      tvFilterInstr.setTextSize(textSizeSmall);
-      lFilterList.addView(tvFilterInstr);
-      lFilterList.addView(tvHexPreview);
-      lFilter.addView(lFilterList);
-
-
-      LinearLayout lPickers = new LinearLayout(this);
-      lPickers.setOrientation(LinearLayout.HORIZONTAL);
-      lPickers.setGravity(Gravity.CENTER);
-      lFilter.addView(lPickers);
-
-      final NumberPicker npHiTri = buildTrigramFilter(true);
-      final NumberPicker npLoTri = buildTrigramFilter(true);
-      ArrayList<CharSequence> listItems = new ArrayList<CharSequence>();
-      listItems.addAll(Arrays.asList(items));
-      final ArrayAdapter<CharSequence> laItems = new ArrayAdapter<CharSequence>(this, android.R.layout.simple_list_item_1, listItems) {
-        private final ArrayAdapter<CharSequence> adapter = this;
-        private final CharSequence[] arrayItems = items;
-        private final Filter triFilter = new Filter() {
-
-          @Override
-          protected FilterResults performFiltering(CharSequence constraint) {
-            int[] hiFilter = getTriFilter(npHiTri.getValue());
-            int[] loFilter = getTriFilter(npLoTri.getValue());
-            ArrayList<CharSequence> filtered = new ArrayList<CharSequence>();
-            for (int i = 0; i < arrayItems.length; i++) {
-              int[] hex = Utils.invHexMap(i + 1);
-              boolean match = true;
-              for (int j = 0; match && loFilter != null && j < loFilter.length; j++) {
-                match &= loFilter[j] == hex[j];
-              }
-              for (int j = 0; match && hiFilter != null && j < hiFilter.length; j++) {
-                match &= hiFilter[j] == hex[j + 3];
-              }
-              if (match) {
-                filtered.add(arrayItems[i]);
-              }
-            }
-            FilterResults results = new FilterResults();
-            results.values = filtered;
-            results.count = filtered.size();
-            return results;
-          }
-
-          @Override
-          protected void publishResults(CharSequence constraint, FilterResults results) {
-            adapter.clear();
-            adapter.addAll((ArrayList<CharSequence>) results.values);
-            if (results.count > 0) {
-              notifyDataSetChanged();
-            } else {
-              notifyDataSetInvalidated();
-            }
-          }
-
-          private int[] getTriFilter(int index) {
-            switch (index) {
-              case 1:
-                return new int[]{Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YANG};
-              case 2:
-                return new int[]{Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YIN};
-              case 3:
-                return new int[]{Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YANG};
-              case 4:
-                return new int[]{Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YIN};
-              case 5:
-                return new int[]{Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YANG};
-              case 6:
-                return new int[]{Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YANG, Consts.ICHING_YOUNG_YIN};
-              case 7:
-                return new int[]{Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YANG};
-              case 8:
-                return new int[]{Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YIN, Consts.ICHING_YOUNG_YIN};
-              default:
-                return null;
-            }
-          }
-        };
-
-        @Override
-        public Filter getFilter() {
-          return triFilter;
-        }
-      };
-      NumberPicker.OnValueChangeListener lisValueChange = new NumberPicker.OnValueChangeListener() {
-        @Override
-        public void onValueChange(NumberPicker picker, int oldVal, int newVal) {
-          String upperTri = Utils.s(R.string.view_hex_filter_tri_all);
-          int hiTri = picker == npHiTri ? newVal : npHiTri.getValue();
-          int loTri = picker == npLoTri ? newVal : npLoTri.getValue();
-          if (hiTri > 0) {
-            upperTri = Utils.s(Utils.getResourceByName(R.string.class, "view_hex_filter_tri_" + (hiTri - 1)));
-          }
-          String lowerTri = Utils.s(R.string.view_hex_filter_tri_all);
-          if (loTri > 0) {
-            lowerTri = Utils.s(Utils.getResourceByName(R.string.class, "view_hex_filter_tri_" + (loTri - 1)));
-          }
-          tvHexPreview.setText(upperTri + Utils.NEWLINE + lowerTri);
-          laItems.getFilter().filter("");
-        }
-      };
-      npHiTri.setOnValueChangedListener(lisValueChange);
-      npLoTri.setOnValueChangedListener(lisValueChange);
-      lPickers.addView(npHiTri);
-      lPickers.addView(npLoTri);
-
-      builder.setView(lFilter);
-      builder.setTitle(title);
-      builder.setAdapter(
-          laItems,
-          new OnClickListener() {
-            public void onClick(DialogInterface dialog, int index) {
-              CharSequence selected = laItems.getItem(index);
-              for (int i = 0; i < items.length; i++) {
-                if (items[i].equals(selected)) {
-                  onClick.onClick(dialog, i);
-                  break;
-                }
-              }
-              ;
-            }
-          });
       itemSelectDialog = builder.create();
     }
     return itemSelectDialog;
@@ -705,7 +558,7 @@ public class IChingActivityRenderer extends Activity {
         );
 
         String def;
-        if (!etQuote.getText().toString().isEmpty()) {
+        if (!etQuote.getText().toString().equals(Utils.EMPTY_STRING)) {
           def = etQuote.getText() + Utils.HEX_SECTION_QUOTE_DELIMITER + Utils.NEWLINE + etReading.getText();
         } else {
           def = etReading.getText().toString();
@@ -1267,15 +1120,12 @@ public class IChingActivityRenderer extends Activity {
       tvRow.setCompoundDrawablesWithIntrinsicBounds(
           null, null, drawable, null
       );
-      tvRow.setAlpha(1f);
       tvRow.setText(" ");
       if (governingLine != null || constituentLine != null) {
         if (governingLine) {
           tvRow.setText(Utils.s(R.string.view_hex_line_governing));
         } else if (constituentLine) {
           tvRow.setText(Utils.s(R.string.view_hex_line_constituent));
-        } else {
-          tvRow.setAlpha(0.8f);
         }
       }
     }
@@ -1294,6 +1144,7 @@ public class IChingActivityRenderer extends Activity {
 
       child.getLayoutParams().height = (int) (textSizeTabs * 3);
       child.getLayoutParams().width = ((View) tabHost.getParent()).getWidth() / tabWidget.getChildCount();
+      title.setHeight(child.getLayoutParams().height);
 
       child.setPadding(3, 0, 3, 0);
     }
@@ -1441,7 +1292,7 @@ public class IChingActivityRenderer extends Activity {
 
   private void renderQuestion() {
     final TextView tvQuestion = (TextView) findViewById(R.id.tvQuestionReadDesc);
-    if (current.question != null && !current.question.isEmpty()) {
+    if (current.question != null && !current.question.equals(Utils.EMPTY_STRING)) {
       tvQuestion.setText(current.question);
     } else {
       tvQuestion.setVisibility(View.GONE);
@@ -1453,37 +1304,15 @@ public class IChingActivityRenderer extends Activity {
                                            final EditText etHistoryPassword,
                                            final EditText etHistoryPasswordVerify) {
     // Emptiness check cannot rely on hasError() because backspace removes error from fields
-    if (!etHistoryName.getText().toString().isEmpty() && etHistoryName.getError() == null &&
+    if (!etHistoryName.getText().toString().equals(Utils.EMPTY_STRING) && etHistoryName.getError() == null &&
         (!cbHistoryPassword.isChecked() ||
-            !etHistoryPassword.getText().toString().isEmpty() && etHistoryPassword.getError() == null &&
-                !etHistoryPasswordVerify.getText().toString().isEmpty() && etHistoryPasswordVerify.getError() == null)
+            !etHistoryPassword.getText().toString().equals(Utils.EMPTY_STRING) && etHistoryPassword.getError() == null &&
+                !etHistoryPasswordVerify.getText().toString().equals(Utils.EMPTY_STRING) && etHistoryPasswordVerify.getError() == null)
         ) {
       btHistoryCreate.setEnabled(true);
     } else {
       btHistoryCreate.setEnabled(false);
     }
-  }
-
-  private NumberPicker buildTrigramFilter(boolean lowHiFlag) {
-    String[] filters = new String[]{
-        Utils.s(R.string.view_hex_filter_none),
-        Utils.s(R.string.view_hex_filter_heaven),
-        Utils.s(R.string.view_hex_filter_lake),
-        Utils.s(R.string.view_hex_filter_fire),
-        Utils.s(R.string.view_hex_filter_thunder),
-        Utils.s(R.string.view_hex_filter_wind),
-        Utils.s(R.string.view_hex_filter_water),
-        Utils.s(R.string.view_hex_filter_mountain),
-        Utils.s(R.string.view_hex_filter_earth),
-    };
-
-    NumberPicker triFilter = new NumberPicker(this);
-    triFilter.setMinValue(0);
-    triFilter.setMaxValue(8);
-    triFilter.setOrientation(NumberPicker.HORIZONTAL);
-    triFilter.setDisplayedValues(filters);
-    triFilter.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
-    return triFilter;
   }
 
   private void dismissDialogs() {

@@ -205,7 +205,7 @@ public abstract class RemoteResolver {
                     }
                   }
                   // Store the result in cache
-                  if (!result.isEmpty()) {
+                  if (!result.equals(Utils.EMPTY_STRING)) {
                     remoteStringCache.put(key, spanned);
                     dataSource.updateHexSection(hex, dictionary, lang, section, result);
                   }

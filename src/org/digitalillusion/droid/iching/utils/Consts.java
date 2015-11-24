@@ -16,7 +16,6 @@ public class Consts {
    */
   public static final int HEX_LINES_COUNT = 6;
   /**
-   * /**
    * Yin coin value *
    */
   public static final int ICHING_COIN_YIN = 2;

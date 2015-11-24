@@ -25,7 +25,6 @@ public abstract class ExpandableDropDownListItem2Adapter<T> extends BaseExpandab
   private List<T> list;
   private Context context;
   private ExpandableListView expandableListView;
-  
   private float textSizeSmall;
   private float textSizeMedium;
 

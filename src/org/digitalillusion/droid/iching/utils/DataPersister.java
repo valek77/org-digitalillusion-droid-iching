@@ -302,7 +302,7 @@ public class DataPersister {
    * @return True if history needed o be reverted, false otherwise
    */
   public static boolean revertSelectedHistory() {
-    boolean needRevert = !DataPersister.revertHistoryName.equals(DataPersister.historyName);
+    boolean needRevert = DataPersister.revertHistoryName != null && !DataPersister.revertHistoryName.equals(DataPersister.historyName);
     if (needRevert) {
       DataPersister.historyName = DataPersister.revertHistoryName;
       DataPersister.historyPassword = DataPersister.revertHistoryPassword;

@@ -81,7 +81,7 @@
         android:id="@+id/layInstructions"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
+        android:layout_gravity="left|bottom"
         android:layout_weight="0.09"
         android:gravity="center_vertical|center_horizontal">
 

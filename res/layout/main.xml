@@ -85,6 +85,7 @@
             android:layout_height="wrap_content"
             android:text="@string/intro_history_label"
             android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="@dimen/text_size_small"
             android:textStyle="bold"/>
 
         <ListView

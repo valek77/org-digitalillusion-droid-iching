@@ -79,7 +79,7 @@ public abstract class RemoteResolver {
    */
   @SuppressWarnings("serial")
   private static HashMap<String, String> dictionaries = new HashMap<String, String>() {{
-    put(Consts.DICTIONARY_ALTERVISTA, "http://androidiching.altervista.org/");
+    put(Consts.DICTIONARY_ALTERVISTA, "http://192.168.5.103/api/api.php/");
   }};
 
   /**

@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.utils;
+package com.lospecchiodieva.droid.iching.utils;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -22,7 +22,7 @@ class BackwardCompatibleInputStream extends ObjectInputStream {
 
     if (resultClassDescriptor.getName().equals("org.digitalillusion.droid.iching.HistoryEntry") ||
         resultClassDescriptor.getName().equals("org.digitalillusion.droid.utils.lists.HistoryEntry")) {
-      resultClassDescriptor = ObjectStreamClass.lookup(org.digitalillusion.droid.iching.utils.lists.HistoryEntry.class);
+      resultClassDescriptor = ObjectStreamClass.lookup(com.lospecchiodieva.droid.iching.utils.lists.HistoryEntry.class);
     }
 
     return resultClassDescriptor;

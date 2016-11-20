@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.utils.lists;
+package com.lospecchiodieva.droid.iching.utils.lists;
 
 import android.app.Activity;
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TwoLineListItem;
 
-import org.digitalillusion.droid.iching.R;
+import com.lospecchiodieva.droid.iching.R;
 
 import java.util.List;
 

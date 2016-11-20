@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching;
+package com.lospecchiodieva.droid.iching;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -38,17 +38,17 @@ import android.widget.TabHost.OnTabChangeListener;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 
-import org.digitalillusion.droid.iching.anim.AnimCoin;
-import org.digitalillusion.droid.iching.changinglines.ChangingLinesEvaluator;
-import org.digitalillusion.droid.iching.connection.RemoteResolver;
-import org.digitalillusion.droid.iching.utils.Consts;
-import org.digitalillusion.droid.iching.utils.DataPersister;
-import org.digitalillusion.droid.iching.utils.SettingsManager;
-import org.digitalillusion.droid.iching.utils.SettingsManager.SETTINGS_MAP;
-import org.digitalillusion.droid.iching.utils.Utils;
-import org.digitalillusion.droid.iching.utils.lists.HistoryEntry;
-import org.digitalillusion.droid.iching.utils.lists.ListItem2Adapter;
-import org.digitalillusion.droid.iching.utils.lists.SettingsEntry;
+import com.lospecchiodieva.droid.iching.anim.AnimCoin;
+import com.lospecchiodieva.droid.iching.changinglines.ChangingLinesEvaluator;
+import com.lospecchiodieva.droid.iching.connection.RemoteResolver;
+import com.lospecchiodieva.droid.iching.utils.Consts;
+import com.lospecchiodieva.droid.iching.utils.DataPersister;
+import com.lospecchiodieva.droid.iching.utils.SettingsManager;
+import com.lospecchiodieva.droid.iching.utils.SettingsManager.SETTINGS_MAP;
+import com.lospecchiodieva.droid.iching.utils.Utils;
+import com.lospecchiodieva.droid.iching.utils.lists.HistoryEntry;
+import com.lospecchiodieva.droid.iching.utils.lists.ListItem2Adapter;
+import com.lospecchiodieva.droid.iching.utils.lists.SettingsEntry;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -88,8 +88,8 @@ public class IChingActivity extends IChingActivityRenderer {
    * Move to the consult view
    */
   public void gotoConsult() {
-    setContentView(R.layout.consult);
-    TextView tvQuestionShow = (TextView) findViewById(R.id.tvQuestionConsult);
+    setContentView(com.lospecchiodieva.droid.iching.R.layout.consult);
+    TextView tvQuestionShow = (TextView) findViewById(com.lospecchiodieva.droid.iching.R.id.tvQuestionConsult);
     tvQuestionShow.setText(current.question);
 
     for (int i = 0; i < hexRow; i++) {
@@ -99,18 +99,18 @@ public class IChingActivity extends IChingActivityRenderer {
     if (hexRow < 6) {
       prepareDivinationMethod();
     } else {
-      ((ImageView) findViewById(R.id.picCoin01)).setVisibility(View.GONE);
-      ((ImageView) findViewById(R.id.picCoin02)).setVisibility(View.GONE);
-      ((ImageView) findViewById(R.id.picCoin03)).setVisibility(View.GONE);
+      ((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin01)).setVisibility(View.GONE);
+      ((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin02)).setVisibility(View.GONE);
+      ((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin03)).setVisibility(View.GONE);
 
-      TextView tvInstructions = (TextView) findViewById(R.id.tvInstructions);
+      TextView tvInstructions = (TextView) findViewById(com.lospecchiodieva.droid.iching.R.id.tvInstructions);
       String hexMap = Utils.hexMap(hex);
-      tvInstructions.setText(Utils.getResourceByName(R.string.class, "hex" + hexMap));
+      tvInstructions.setText(Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, "hex" + hexMap));
       tvInstructions.setText(hexMap + " " + tvInstructions.getText());
 
       final Button btnReadDesc = new Button(getApplicationContext());
-      final LinearLayout layout = (LinearLayout) findViewById(R.id.layCoins);
-      btnReadDesc.setText(R.string.consult_read_desc);
+      final LinearLayout layout = (LinearLayout) findViewById(com.lospecchiodieva.droid.iching.R.id.layCoins);
+      btnReadDesc.setText(com.lospecchiodieva.droid.iching.R.string.consult_read_desc);
       btnReadDesc.setOnTouchListener(new OnTouchListener() {
         public boolean onTouch(View v, MotionEvent event) {
           if (event.getAction() == MotionEvent.ACTION_DOWN) {
@@ -146,11 +146,11 @@ public class IChingActivity extends IChingActivityRenderer {
    * Move to the main view
    */
   public void gotoMain() {
-    setContentView(R.layout.main);
+    setContentView(com.lospecchiodieva.droid.iching.R.layout.main);
     setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR);
     RemoteResolver.prepareRetryPopup();
 
-    final EditText etQuestion = (EditText) findViewById(R.id.etQuestion);
+    final EditText etQuestion = (EditText) findViewById(com.lospecchiodieva.droid.iching.R.id.etQuestion);
     etQuestion.setOnEditorActionListener(new OnEditorActionListener() {
       public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
         current.question = ((EditText) v).getText().toString();
@@ -160,7 +160,7 @@ public class IChingActivity extends IChingActivityRenderer {
     etQuestion.setOnFocusChangeListener(new OnFocusChangeListener() {
       public void onFocusChange(View v, boolean hasFocus) {
         // Close keyboard on lose focus
-        if (v.getId() == R.id.etQuestion && !hasFocus) {
+        if (v.getId() == com.lospecchiodieva.droid.iching.R.id.etQuestion && !hasFocus) {
           InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
           imm.hideSoftInputFromWindow(v.getWindowToken(), 0);
         }
@@ -170,10 +170,10 @@ public class IChingActivity extends IChingActivityRenderer {
       etQuestion.setText(current.question);
     }
 
-    final ListView lvHistory = (ListView) findViewById(R.id.lvHistory);
+    final ListView lvHistory = (ListView) findViewById(com.lospecchiodieva.droid.iching.R.id.lvHistory);
     lvHistory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
       public void onItemClick(AdapterView<?> adapter, View view, int position, long id) {
-        final ListView lvHistory = (ListView) findViewById(R.id.lvHistory);
+        final ListView lvHistory = (ListView) findViewById(com.lospecchiodieva.droid.iching.R.id.lvHistory);
         HistoryEntry entry = (HistoryEntry) lvHistory.getItemAtPosition(position);
         IChingActivity thiz = IChingActivity.this;
         thiz.current.changing = entry.getChanging();
@@ -220,7 +220,7 @@ public class IChingActivity extends IChingActivityRenderer {
     current.changing = changingLinesEvaluator.evaluate(hex, tHex);
     current.screen = READ_DESC_SCREEN.DEFAULT;
 
-    setContentView(R.layout.readdesc);
+    setContentView(com.lospecchiodieva.droid.iching.R.layout.readdesc);
 
     final TabHost tabHost = (TabHost) findViewById(android.R.id.tabhost);
     tabHost.setup();
@@ -229,25 +229,25 @@ public class IChingActivity extends IChingActivityRenderer {
     switch (current.mode) {
       case ORACLE:
         if (current.changing == ChangingLinesEvaluator.ICHING_APPLY_CAST) {
-          setupTab(tabHost, "tab_consult", R.string.read_cast, R.id.layReadDesc);
-          setupTab(tabHost, "tab_changing", R.string.read_changing, R.id.layReadDesc);
+          setupTab(tabHost, "tab_consult", com.lospecchiodieva.droid.iching.R.string.read_cast, com.lospecchiodieva.droid.iching.R.id.layReadDesc);
+          setupTab(tabHost, "tab_changing", com.lospecchiodieva.droid.iching.R.string.read_changing, com.lospecchiodieva.droid.iching.R.id.layReadDesc);
         } else {
-          setupTab(tabHost, "tab_consult", R.string.read_cast, R.id.layReadDesc);
-          setupTab(tabHost, "tab_changing", R.string.read_changing, R.id.layReadDesc);
-          setupTab(tabHost, "tab_future", R.string.read_transformed, R.id.layReadDesc);
+          setupTab(tabHost, "tab_consult", com.lospecchiodieva.droid.iching.R.string.read_cast, com.lospecchiodieva.droid.iching.R.id.layReadDesc);
+          setupTab(tabHost, "tab_changing", com.lospecchiodieva.droid.iching.R.string.read_changing, com.lospecchiodieva.droid.iching.R.id.layReadDesc);
+          setupTab(tabHost, "tab_future", com.lospecchiodieva.droid.iching.R.string.read_transformed, com.lospecchiodieva.droid.iching.R.id.layReadDesc);
         }
         break;
       case VIEW_HEX:
-        setupTab(tabHost, "tab_consult", R.string.read_cast, R.id.layReadDesc);
-        setupTab(tabHost, "tab_changing", R.string.read_changing, R.id.layReadDesc);
+        setupTab(tabHost, "tab_consult", com.lospecchiodieva.droid.iching.R.string.read_cast, com.lospecchiodieva.droid.iching.R.id.layReadDesc);
+        setupTab(tabHost, "tab_changing", com.lospecchiodieva.droid.iching.R.string.read_changing, com.lospecchiodieva.droid.iching.R.id.layReadDesc);
         break;
     }
 
     // Display current tab
     tabHost.getCurrentView().setVisibility(View.VISIBLE);
-    final TextView tvDescTitle = (TextView) findViewById(R.id.tvHexName);
+    final TextView tvDescTitle = (TextView) findViewById(com.lospecchiodieva.droid.iching.R.id.tvHexName);
     String hexMap = Utils.hexMap(hex);
-    tvDescTitle.setText(Utils.getResourceByName(R.string.class, "hex" + hexMap));
+    tvDescTitle.setText(Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, "hex" + hexMap));
     tvDescTitle.setText(hexMap + " " + tvDescTitle.getText());
 
     renderTabs(tabHost);
@@ -283,9 +283,9 @@ public class IChingActivity extends IChingActivityRenderer {
    * Move to the settings view
    */
   public void gotoSettings() {
-    setContentView(R.layout.settings);
+    setContentView(com.lospecchiodieva.droid.iching.R.layout.settings);
 
-    final ListView lvSettings = (ListView) findViewById(R.id.lvSettings);
+    final ListView lvSettings = (ListView) findViewById(com.lospecchiodieva.droid.iching.R.id.lvSettings);
 
     List<SettingsEntry<?>> settingsList = new ArrayList<SettingsEntry<?>>();
 
@@ -344,12 +344,12 @@ public class IChingActivity extends IChingActivityRenderer {
     lvSettings.setAdapter(new ListItem2Adapter<SettingsEntry<?>>(this, settingsList) {
       @Override
       public String getText1(SettingsEntry<?> entry) {
-        return Utils.s(Utils.getResourceByName(R.string.class, entry.getOptionName()));
+        return Utils.s(Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, entry.getOptionName()));
       }
 
       @Override
       public String getText2(SettingsEntry<?> entry) {
-        return Utils.s(Utils.getResourceByName(R.string.class, entry.getOptionName() + Utils.UNDERSCORE + entry.getOptionValue()));
+        return Utils.s(Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, entry.getOptionName() + Utils.UNDERSCORE + entry.getOptionValue()));
       }
     });
 
@@ -357,11 +357,11 @@ public class IChingActivity extends IChingActivityRenderer {
       public void onItemClick(AdapterView<?> adapter, View view, final int settingIndex, long id) {
         @SuppressWarnings("unchecked")
         final SettingsEntry<Serializable> entry = (SettingsEntry<Serializable>) lvSettings.getItemAtPosition(settingIndex);
-        Spinner spinner = (Spinner) findViewById(R.id.spBacking);
+        Spinner spinner = (Spinner) findViewById(com.lospecchiodieva.droid.iching.R.id.spBacking);
         String[] optionsText = new String[entry.getOptionValues().size()];
         int count = 0;
         for (Serializable value : entry.getOptionValues()) {
-          optionsText[count++] = Utils.s(Utils.getResourceByName(R.string.class, entry.getOptionName() + Utils.UNDERSCORE + value.toString()));
+          optionsText[count++] = Utils.s(Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, entry.getOptionName() + Utils.UNDERSCORE + value.toString()));
         }
         final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
             getApplicationContext(),
@@ -371,7 +371,7 @@ public class IChingActivity extends IChingActivityRenderer {
         arrayAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner.setAdapter(arrayAdapter);
         spinner.setSelection(entry.getOptionIndex());
-        spinner.setPromptId(Utils.getResourceByName(R.string.class, entry.getOptionName()));
+        spinner.setPromptId(Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, entry.getOptionName()));
         spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
           public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
             final SETTINGS_MAP mapKey = SETTINGS_MAP.values()[settingIndex];
@@ -455,8 +455,8 @@ public class IChingActivity extends IChingActivityRenderer {
    */
   public void onClickConsultBtn(View view) {
     switch (view.getId()) {
-      case R.id.btnQuestion:
-        EditText etQuestion = (EditText) findViewById(R.id.etQuestion);
+      case com.lospecchiodieva.droid.iching.R.id.btnQuestion:
+        EditText etQuestion = (EditText) findViewById(com.lospecchiodieva.droid.iching.R.id.etQuestion);
         current.question = etQuestion.getText().toString();
 
         InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
@@ -464,13 +464,13 @@ public class IChingActivity extends IChingActivityRenderer {
 
         if (current.question.isEmpty()) {
           AlertDialog alertDialog = new AlertDialog.Builder(IChingActivity.this).create();
-          alertDialog.setMessage(Utils.s(R.string.intro_noquestion_alert));
-          alertDialog.setButton(DialogInterface.BUTTON_POSITIVE, Utils.s(R.string.yes), new OnClickListener() {
+          alertDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.intro_noquestion_alert));
+          alertDialog.setButton(DialogInterface.BUTTON_POSITIVE, Utils.s(com.lospecchiodieva.droid.iching.R.string.yes), new OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
               gotoConsult();
             }
           });
-          alertDialog.setButton(DialogInterface.BUTTON_NEGATIVE, Utils.s(R.string.no), new OnClickListener() {
+          alertDialog.setButton(DialogInterface.BUTTON_NEGATIVE, Utils.s(com.lospecchiodieva.droid.iching.R.string.no), new OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
             }
           });
@@ -512,9 +512,9 @@ public class IChingActivity extends IChingActivityRenderer {
   public boolean onContextItemSelected(final MenuItem item) {
     final AdapterView.AdapterContextMenuInfo info = (AdapterView.AdapterContextMenuInfo) item
         .getMenuInfo();
-    ListView lvHistory = (ListView) findViewById(R.id.lvHistory);
+    ListView lvHistory = (ListView) findViewById(com.lospecchiodieva.droid.iching.R.id.lvHistory);
     final BaseAdapter listAdapter = (BaseAdapter) lvHistory.getAdapter();
-    final View tvHistory = (View) findViewById(R.id.tvHistory);
+    final View tvHistory = (View) findViewById(com.lospecchiodieva.droid.iching.R.id.tvHistory);
     contextSelectDialog = new AlertDialog.Builder(IChingActivity.this).create();
     switch (item.getItemId()) {
       case ContextMenuItem.HISTORY_MOVE_ENTRY:
@@ -523,7 +523,7 @@ public class IChingActivity extends IChingActivityRenderer {
         if (historyNames.size() > 0) {
           Dialog dialog = buildItemSelectionDialog(
               historyNames.toArray(new String[historyNames.size()]),
-              Utils.s(R.string.item_select_dest_history),
+              Utils.s(com.lospecchiodieva.droid.iching.R.string.item_select_dest_history),
               new OnClickListener() {
                 public void onClick(final DialogInterface dialog, int index) {
                   final HistoryEntry entry = historyList.remove(info.position);
@@ -555,18 +555,18 @@ public class IChingActivity extends IChingActivityRenderer {
 
           dialog.show();
         } else {
-          showToast(Utils.s(R.string.history_no_destination));
+          showToast(Utils.s(com.lospecchiodieva.droid.iching.R.string.history_no_destination));
         }
         break;
       case ContextMenuItem.HISTORY_DELETE_ENTRY:
         String question = historyList.get(info.position).getQuestion();
         if (question.isEmpty()) {
-          question = Utils.s(R.string.contextmenu_noquestion);
+          question = Utils.s(com.lospecchiodieva.droid.iching.R.string.contextmenu_noquestion);
         }
         contextSelectDialog.setTitle(question);
-        contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_erase_entry));
+        contextSelectDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.contextmenu_history_erase_entry));
         contextSelectDialog.setButton(DialogInterface.BUTTON_POSITIVE,
-            Utils.s(R.string.yes),
+            Utils.s(com.lospecchiodieva.droid.iching.R.string.yes),
             new OnClickListener() {
               public void onClick(DialogInterface dialog, int which) {
                 historyList.remove(info.position);
@@ -578,7 +578,7 @@ public class IChingActivity extends IChingActivityRenderer {
               }
             });
         contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
-            Utils.s(R.string.no),
+            Utils.s(com.lospecchiodieva.droid.iching.R.string.no),
             new OnClickListener() {
               public void onClick(DialogInterface dialog, int which) {
               }
@@ -587,9 +587,9 @@ public class IChingActivity extends IChingActivityRenderer {
         break;
       case ContextMenuItem.HISTORY_DELETE_ALL:
         contextSelectDialog.setTitle(DataPersister.getSelectedHistoryName());
-        contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_erase));
+        contextSelectDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.contextmenu_history_erase));
         contextSelectDialog.setButton(DialogInterface.BUTTON_POSITIVE,
-            Utils.s(R.string.yes),
+            Utils.s(com.lospecchiodieva.droid.iching.R.string.yes),
             new OnClickListener() {
               public void onClick(DialogInterface dialog, int which) {
                 historyList.clear();
@@ -599,7 +599,7 @@ public class IChingActivity extends IChingActivityRenderer {
               }
             });
         contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
-            Utils.s(R.string.no),
+            Utils.s(com.lospecchiodieva.droid.iching.R.string.no),
             DEFAULT_HISTORY_REVERT_DIALOG_BUTTON);
         contextSelectDialog.show();
         break;
@@ -607,9 +607,9 @@ public class IChingActivity extends IChingActivityRenderer {
         renderLoadHistory(new Runnable() {
           public void run() {
             contextSelectDialog.setTitle(DataPersister.getSelectedHistoryName());
-            contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_remove));
+            contextSelectDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.contextmenu_history_remove));
             contextSelectDialog.setButton(DialogInterface.BUTTON_POSITIVE,
-                Utils.s(R.string.yes),
+                Utils.s(com.lospecchiodieva.droid.iching.R.string.yes),
                 new OnClickListener() {
                   public void onClick(DialogInterface dialog,
                                       int which) {
@@ -618,7 +618,7 @@ public class IChingActivity extends IChingActivityRenderer {
                   }
                 });
             contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
-                Utils.s(R.string.no),
+                Utils.s(com.lospecchiodieva.droid.iching.R.string.no),
                 new OnClickListener() {
                   public void onClick(DialogInterface dialog, int which) {
                     DEFAULT_HISTORY_REVERT_TASK.run();
@@ -631,7 +631,7 @@ public class IChingActivity extends IChingActivityRenderer {
       case ContextMenuItem.HISTORY_RENAME:
         renderLoadHistory(new Runnable() {
             public void run() {
-              contextSelectDialog.setMessage(Utils.s(R.string.contextmenu_history_rename));
+              contextSelectDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.contextmenu_history_rename));
               final EditText input = new EditText(IChingActivity.this);
               input.setInputType(InputType.TYPE_CLASS_TEXT | InputType.TYPE_TEXT_FLAG_CAP_SENTENCES);
               input.setHint(DataPersister.getSelectedHistoryName());
@@ -651,7 +651,7 @@ public class IChingActivity extends IChingActivityRenderer {
                     }
                   });
               contextSelectDialog.setButton(DialogInterface.BUTTON_NEGATIVE,
-                  Utils.s(R.string.cancel),
+                  Utils.s(com.lospecchiodieva.droid.iching.R.string.cancel),
                   DEFAULT_HISTORY_REVERT_DIALOG_BUTTON);
               contextSelectDialog.show();
             }
@@ -684,24 +684,24 @@ public class IChingActivity extends IChingActivityRenderer {
     AdapterView.AdapterContextMenuInfo info = (AdapterView.AdapterContextMenuInfo) menuInfo;
 
     switch (v.getId()) {
-      case R.id.lvHistory:
+      case com.lospecchiodieva.droid.iching.R.id.lvHistory:
         HistoryEntry entry = historyList.get(info.position);
         String question = entry.getQuestion();
         if (question.isEmpty()) {
-          question = Utils.s(R.string.contextmenu_noquestion);
+          question = Utils.s(com.lospecchiodieva.droid.iching.R.string.contextmenu_noquestion);
         }
         menu.setHeaderTitle(question);
-        menu.add(0, ContextMenuItem.HISTORY_MOVE_ENTRY, 0, R.string.contextmenu_move_entry);
-        menu.add(0, ContextMenuItem.HISTORY_DELETE_ENTRY, 1, R.string.contextmenu_delete_entry);
-        menu.add(0, ContextMenuItem.HISTORY_DELETE_ALL, 2, R.string.contextmenu_delete_all);
+        menu.add(0, ContextMenuItem.HISTORY_MOVE_ENTRY, 0, com.lospecchiodieva.droid.iching.R.string.contextmenu_move_entry);
+        menu.add(0, ContextMenuItem.HISTORY_DELETE_ENTRY, 1, com.lospecchiodieva.droid.iching.R.string.contextmenu_delete_entry);
+        menu.add(0, ContextMenuItem.HISTORY_DELETE_ALL, 2, com.lospecchiodieva.droid.iching.R.string.contextmenu_delete_all);
         break;
-      case R.id.elSelectHistory:
+      case com.lospecchiodieva.droid.iching.R.id.elSelectHistory:
         final TextView tvChild = (TextView) v;
         final String historyName = tvChild.getText().toString();
         if (!historyName.equals(DataPersister.ICHING_HISTORY_PATH_FILENAME_DEFAULT)) {
           menu.setHeaderTitle(historyName);
-          menu.add(0, ContextMenuItem.HISTORY_RENAME, 0, R.string.contextmenu_rename_entry);
-          menu.add(0, ContextMenuItem.HISTORY_REMOVE, 1, R.string.contextmenu_remove_entry);
+          menu.add(0, ContextMenuItem.HISTORY_RENAME, 0, com.lospecchiodieva.droid.iching.R.string.contextmenu_rename_entry);
+          menu.add(0, ContextMenuItem.HISTORY_REMOVE, 1, com.lospecchiodieva.droid.iching.R.string.contextmenu_remove_entry);
           DataPersister.setSelectedHistory(historyName, Utils.EMPTY_STRING, true);
         }
         break;
@@ -714,7 +714,7 @@ public class IChingActivity extends IChingActivityRenderer {
   @Override
   public boolean onCreateOptionsMenu(Menu menu) {
     MenuInflater inflater = getMenuInflater();
-    inflater.inflate(R.menu.menu, menu);
+    inflater.inflate(com.lospecchiodieva.droid.iching.R.menu.menu, menu);
     optionsMenu = menu;
 
     renderOptionsMenu();
@@ -732,7 +732,7 @@ public class IChingActivity extends IChingActivityRenderer {
   @Override
   public boolean onKeyDown(int keyCode, KeyEvent event) {
     if (keyCode == KeyEvent.KEYCODE_BACK) {
-      if (current.viewId == R.layout.main) {
+      if (current.viewId == com.lospecchiodieva.droid.iching.R.layout.main) {
         onBackPressed();
         System.exit(0);
         return true;
@@ -766,20 +766,20 @@ public class IChingActivity extends IChingActivityRenderer {
     });
 
     switch (item.getItemId()) {
-      case R.id.omSettings:
+      case com.lospecchiodieva.droid.iching.R.id.omSettings:
         gotoSettings();
         break;
-      case R.id.omViewHex:
+      case com.lospecchiodieva.droid.iching.R.id.omViewHex:
         String[] hexArray = new String[Consts.HEX_COUNT];
         for (int i = 0; i < hexArray.length; i++) {
           String index = (i + 1 < 10 ? "0" : Utils.EMPTY_STRING) + (i + 1);
-          int entry = Utils.getResourceByName(R.string.class, "hex" + index);
+          int entry = Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, "hex" + index);
           hexArray[i] = (i + 1) + " " + Utils.s(entry);
         }
 
         Dialog dialog = buildTrigramSelectionDialog(
             hexArray,
-            Utils.s(R.string.item_select_hex),
+            Utils.s(com.lospecchiodieva.droid.iching.R.string.item_select_hex),
             new OnClickListener() {
               public void onClick(DialogInterface dialog, int index) {
                 hex = Utils.invHexMap(index + 1);
@@ -793,28 +793,28 @@ public class IChingActivity extends IChingActivityRenderer {
 
         dialog.show();
         break;
-      case R.id.omAlgo:
-        alertDialog.setMessage(Utils.s(R.string.options_algo));
-        tvMessage.setText(Html.fromHtml(Utils.s(R.string.options_algo_message)));
+      case com.lospecchiodieva.droid.iching.R.id.omAlgo:
+        alertDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.options_algo));
+        tvMessage.setText(Html.fromHtml(Utils.s(com.lospecchiodieva.droid.iching.R.string.options_algo_message)));
         alertDialog.show();
         break;
-      case R.id.omReferences:
-        alertDialog.setMessage(Utils.s(R.string.options_references));
-        tvMessage.setText(Html.fromHtml(Utils.s(R.string.options_references_message)));
+      case com.lospecchiodieva.droid.iching.R.id.omReferences:
+        alertDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.options_references));
+        tvMessage.setText(Html.fromHtml(Utils.s(com.lospecchiodieva.droid.iching.R.string.options_references_message)));
         alertDialog.show();
         break;
-      case R.id.omAbout:
-        alertDialog.setMessage(Utils.s(R.string.options_about));
-        tvMessage.setText(Html.fromHtml(Utils.s(R.string.options_about_message)));
+      case com.lospecchiodieva.droid.iching.R.id.omAbout:
+        alertDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.options_about));
+        tvMessage.setText(Html.fromHtml(Utils.s(com.lospecchiodieva.droid.iching.R.string.options_about_message)));
         alertDialog.show();
         break;
-      case R.id.omReadDescEdit:
+      case com.lospecchiodieva.droid.iching.R.id.omReadDescEdit:
         renderEditHexSection();
         break;
-      case R.id.omReadDescUndo:
+      case com.lospecchiodieva.droid.iching.R.id.omReadDescUndo:
         renderResetHexSection();
         break;
-      case R.id.omReadDescShare:
+      case com.lospecchiodieva.droid.iching.R.id.omReadDescShare:
         performShare();
         break;
     }
@@ -827,20 +827,20 @@ public class IChingActivity extends IChingActivityRenderer {
   @Override
   public boolean onPrepareOptionsMenu(Menu menu) {
     final String dictionary = (String) getSettingsManager().get(SETTINGS_MAP.DICTIONARY);
-    final MenuItem omSettings = menu.findItem(R.id.omSettings);
-    omSettings.setTitle(R.string.options_settings);
-    final MenuItem omViewHex = menu.findItem(R.id.omViewHex);
+    final MenuItem omSettings = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omSettings);
+    omSettings.setTitle(com.lospecchiodieva.droid.iching.R.string.options_settings);
+    final MenuItem omViewHex = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omViewHex);
     if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
-      omViewHex.setTitle(R.string.options_view_edit_hex);
+      omViewHex.setTitle(com.lospecchiodieva.droid.iching.R.string.options_view_edit_hex);
     } else {
-      omViewHex.setTitle(R.string.options_view_hex);
+      omViewHex.setTitle(com.lospecchiodieva.droid.iching.R.string.options_view_hex);
     }
-    final MenuItem omReferences = menu.findItem(R.id.omReferences);
-    omReferences.setTitle(R.string.options_references);
-    final MenuItem omAlgo = menu.findItem(R.id.omAlgo);
-    omAlgo.setTitle(R.string.options_algo);
-    final MenuItem omAbout = menu.findItem(R.id.omAbout);
-    omAbout.setTitle(R.string.options_about);
+    final MenuItem omReferences = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omReferences);
+    omReferences.setTitle(com.lospecchiodieva.droid.iching.R.string.options_references);
+    final MenuItem omAlgo = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omAlgo);
+    omAlgo.setTitle(com.lospecchiodieva.droid.iching.R.string.options_algo);
+    final MenuItem omAbout = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omAbout);
+    omAbout.setTitle(com.lospecchiodieva.droid.iching.R.string.options_about);
     return true;
   }
 
@@ -905,13 +905,13 @@ public class IChingActivity extends IChingActivityRenderer {
 
     loadSettings();
     switch (current.viewId) {
-      case R.layout.consult:
+      case com.lospecchiodieva.droid.iching.R.layout.consult:
         gotoConsult();
         break;
-      case R.layout.readdesc:
+      case com.lospecchiodieva.droid.iching.R.layout.readdesc:
         gotoReadDesc();
         break;
-      case R.layout.settings:
+      case com.lospecchiodieva.droid.iching.R.layout.settings:
         gotoSettings();
         break;
       default:
@@ -925,9 +925,9 @@ public class IChingActivity extends IChingActivityRenderer {
     switch (divinationMethod) {
       case Consts.DIVINATION_METHOD_COINS_MANUAL:
         Random rnd = new Random();
-        final AnimCoin coin1 = new AnimCoin((ImageView) findViewById(R.id.picCoin01), res, rnd.nextInt(2) + 2);
-        final AnimCoin coin2 = new AnimCoin((ImageView) findViewById(R.id.picCoin02), res, rnd.nextInt(2) + 2);
-        final AnimCoin coin3 = new AnimCoin((ImageView) findViewById(R.id.picCoin03), res, rnd.nextInt(2) + 2);
+        final AnimCoin coin1 = new AnimCoin((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin01), res, rnd.nextInt(2) + 2);
+        final AnimCoin coin2 = new AnimCoin((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin02), res, rnd.nextInt(2) + 2);
+        final AnimCoin coin3 = new AnimCoin((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin03), res, rnd.nextInt(2) + 2);
         OnTouchListener coinTouchListener = new OnTouchListener() {
           public boolean onTouch(View v, MotionEvent event) {
             hex[hexRow] = coin1.getCoinValue() + coin2.getCoinValue() + coin3.getCoinValue();
@@ -965,19 +965,19 @@ public class IChingActivity extends IChingActivityRenderer {
             return super.onFling(e1, e2, velocityX, velocityY);
           }
         });
-        View layConsult = findViewById(R.id.layConsult);
+        View layConsult = findViewById(com.lospecchiodieva.droid.iching.R.id.layConsult);
         layConsult.setOnTouchListener(new OnTouchListener() {
           public boolean onTouch(View v, MotionEvent event) {
             return gestureDetector.onTouchEvent(event);
           }
         });
-        TextView tvInstructions = (TextView) findViewById(R.id.tvInstructions);
-        tvInstructions.setText(Utils.s(R.string.consult_tapcoins_manual));
+        TextView tvInstructions = (TextView) findViewById(com.lospecchiodieva.droid.iching.R.id.tvInstructions);
+        tvInstructions.setText(Utils.s(com.lospecchiodieva.droid.iching.R.string.consult_tapcoins_manual));
         break;
       default:
-        new AnimCoin((ImageView) findViewById(R.id.picCoin01), res);
-        new AnimCoin((ImageView) findViewById(R.id.picCoin02), res);
-        new AnimCoin((ImageView) findViewById(R.id.picCoin03), res);
+        new AnimCoin((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin01), res);
+        new AnimCoin((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin02), res);
+        new AnimCoin((ImageView) findViewById(com.lospecchiodieva.droid.iching.R.id.picCoin03), res);
     }
   }
 
@@ -1029,7 +1029,7 @@ public class IChingActivity extends IChingActivityRenderer {
     } catch (IOException e) {
       settings.resetDefaults(true);
       AlertDialog alertDialog = new AlertDialog.Builder(IChingActivity.this).create();
-      alertDialog.setMessage(Utils.s(R.string.options_unavailable));
+      alertDialog.setMessage(Utils.s(com.lospecchiodieva.droid.iching.R.string.options_unavailable));
       alertDialog.setButton(DialogInterface.BUTTON_NEUTRAL, Utils.s(android.R.string.ok), new OnClickListener() {
         public void onClick(DialogInterface dialog, int which) {
         }

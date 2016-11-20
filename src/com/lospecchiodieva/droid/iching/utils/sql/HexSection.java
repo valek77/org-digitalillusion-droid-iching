@@ -1,6 +1,6 @@
-package org.digitalillusion.droid.iching.utils.sql;
+package com.lospecchiodieva.droid.iching.utils.sql;
 
-import org.digitalillusion.droid.iching.utils.Utils;
+import com.lospecchiodieva.droid.iching.utils.Utils;
 
 /**
  * Model of an hexagram section definition text

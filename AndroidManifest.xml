@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="org.digitalillusion.droid.iching"
+    package="com.lospecchiodieva.droid.iching"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:configChanges="orientation|keyboardHidden|locale|layoutDirection"
     android:installLocation="auto"

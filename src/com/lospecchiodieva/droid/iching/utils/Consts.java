@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.utils;
+package com.lospecchiodieva.droid.iching.utils;
 
 
 /**

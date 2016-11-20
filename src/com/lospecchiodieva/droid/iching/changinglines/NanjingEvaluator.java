@@ -1,6 +1,6 @@
-package org.digitalillusion.droid.iching.changinglines;
+package com.lospecchiodieva.droid.iching.changinglines;
 
-import org.digitalillusion.droid.iching.utils.Consts;
+import com.lospecchiodieva.droid.iching.utils.Consts;
 
 /**
  * Implementor of the Nanjing evaluator

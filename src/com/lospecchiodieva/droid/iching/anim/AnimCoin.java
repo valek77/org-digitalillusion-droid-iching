@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.anim;
+package com.lospecchiodieva.droid.iching.anim;
 
 import android.content.res.Resources;
 import android.graphics.drawable.AnimationDrawable;
@@ -6,8 +6,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 
-import org.digitalillusion.droid.iching.R;
-import org.digitalillusion.droid.iching.utils.Consts;
+import com.lospecchiodieva.droid.iching.R;
+import com.lospecchiodieva.droid.iching.utils.Consts;
 
 /**
  * A class to ease the animation of the coins

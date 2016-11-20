@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.utils.sql;
+package com.lospecchiodieva.droid.iching.utils.sql;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 
-import org.digitalillusion.droid.iching.utils.Utils;
+import com.lospecchiodieva.droid.iching.utils.Utils;
 
 /**
  * DAO to access an hexagram section definition

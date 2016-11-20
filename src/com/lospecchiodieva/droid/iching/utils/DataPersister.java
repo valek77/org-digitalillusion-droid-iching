@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.utils;
+package com.lospecchiodieva.droid.iching.utils;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -7,9 +7,9 @@ import android.content.DialogInterface;
 import android.os.Environment;
 import android.util.Log;
 
-import org.digitalillusion.droid.iching.R;
-import org.digitalillusion.droid.iching.utils.SettingsManager.SETTINGS_MAP;
-import org.digitalillusion.droid.iching.utils.lists.HistoryEntry;
+import com.lospecchiodieva.droid.iching.R;
+import com.lospecchiodieva.droid.iching.utils.SettingsManager.SETTINGS_MAP;
+import com.lospecchiodieva.droid.iching.utils.lists.HistoryEntry;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -50,7 +50,7 @@ public class DataPersister {
   /**
    * Path of the local history resources *
    */
-  private static final String ICHING_SDCARD_FILES_PATH = "/Android/data/org.digitalillusion.droid.iching/files/";
+  private static final String ICHING_SDCARD_FILES_PATH = "/Android/data/com.lospecchiodieva.droid.iching/files/";
 
   private static final String ICHING_HISTORY_PATH_FILENAME_PREFIX = "history";
 

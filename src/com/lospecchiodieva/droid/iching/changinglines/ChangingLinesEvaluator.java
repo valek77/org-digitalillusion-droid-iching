@@ -1,6 +1,6 @@
-package org.digitalillusion.droid.iching.changinglines;
+package com.lospecchiodieva.droid.iching.changinglines;
 
-import org.digitalillusion.droid.iching.utils.Consts;
+import com.lospecchiodieva.droid.iching.utils.Consts;
 
 /**
  * Proxy class for the changing lines evaluators

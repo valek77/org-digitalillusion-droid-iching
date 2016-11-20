@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.connection;
+package com.lospecchiodieva.droid.iching.connection;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -14,13 +14,13 @@ import android.text.Html;
 import android.text.Spanned;
 import android.widget.TextView;
 
-import org.digitalillusion.droid.iching.IChingActivityRenderer;
-import org.digitalillusion.droid.iching.R;
-import org.digitalillusion.droid.iching.utils.Consts;
-import org.digitalillusion.droid.iching.utils.SettingsManager.SETTINGS_MAP;
-import org.digitalillusion.droid.iching.utils.Utils;
-import org.digitalillusion.droid.iching.utils.sql.HexSection;
-import org.digitalillusion.droid.iching.utils.sql.HexSectionDataSource;
+import com.lospecchiodieva.droid.iching.IChingActivityRenderer;
+import com.lospecchiodieva.droid.iching.R;
+import com.lospecchiodieva.droid.iching.utils.Consts;
+import com.lospecchiodieva.droid.iching.utils.SettingsManager.SETTINGS_MAP;
+import com.lospecchiodieva.droid.iching.utils.Utils;
+import com.lospecchiodieva.droid.iching.utils.sql.HexSection;
+import com.lospecchiodieva.droid.iching.utils.sql.HexSectionDataSource;
 
 import java.io.IOException;
 import java.io.InputStream;

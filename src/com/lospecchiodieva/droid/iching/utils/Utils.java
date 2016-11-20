@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.utils;
+package com.lospecchiodieva.droid.iching.utils;
 
 import android.content.Context;
 import android.content.res.Resources.NotFoundException;
@@ -6,8 +6,8 @@ import android.util.Log;
 
 import org.apache.http.client.utils.URLEncodedUtils;
 import org.apache.http.message.BasicNameValuePair;
-import org.digitalillusion.droid.iching.changinglines.ChangingLinesEvaluator;
-import org.digitalillusion.droid.iching.utils.lists.HistoryEntry;
+import com.lospecchiodieva.droid.iching.changinglines.ChangingLinesEvaluator;
+import com.lospecchiodieva.droid.iching.utils.lists.HistoryEntry;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

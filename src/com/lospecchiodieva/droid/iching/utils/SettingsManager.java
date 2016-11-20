@@ -1,11 +1,11 @@
-package org.digitalillusion.droid.iching.utils;
+package com.lospecchiodieva.droid.iching.utils;
 
 import android.content.Context;
 import android.content.res.Configuration;
 import android.content.res.Resources;
 
-import org.digitalillusion.droid.iching.IChingActivity;
-import org.digitalillusion.droid.iching.utils.lists.SettingsEntry;
+import com.lospecchiodieva.droid.iching.IChingActivity;
+import com.lospecchiodieva.droid.iching.utils.lists.SettingsEntry;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

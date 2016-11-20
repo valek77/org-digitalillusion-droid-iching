@@ -1,4 +1,4 @@
-package org.digitalillusion.droid.iching.utils.lists;
+package com.lospecchiodieva.droid.iching.utils.lists;
 
 import java.io.Serializable;
 import java.util.Date;

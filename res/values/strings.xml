@@ -270,4 +270,5 @@
     <string name="view_hex_line_gov_legend">o: Governing lines</string>
     <string name="view_hex_line_const_legend">◊: Constituent lines</string>
 
+    <color name="background_color">#97a1b2</color>
 </resources>

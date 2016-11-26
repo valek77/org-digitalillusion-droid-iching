@@ -49,7 +49,7 @@ public class SettingsManager {
         Consts.LANGUAGE_PT
     });
     put(SETTINGS_MAP.DICTIONARY, new String[]{
-        Consts.DICTIONARY_ALTERVISTA,
+        Consts.DICTIONARY_EVA,
         Consts.DICTIONARY_CUSTOM
     });
     put(SETTINGS_MAP.STORAGE, new String[]{
@@ -198,7 +198,7 @@ public class SettingsManager {
     } else if (setting.equals(SETTINGS_MAP.LANGUAGE)) {
       return Consts.LANGUAGE_EN;
     } else if (setting.equals(SETTINGS_MAP.DICTIONARY)) {
-      return Consts.DICTIONARY_ALTERVISTA;
+      return Consts.DICTIONARY_EVA;
     } else if (setting.equals(SETTINGS_MAP.STORAGE)) {
       return Consts.STORAGE_SDCARD;
     } else if (setting.equals(SETTINGS_MAP.CONNECTION_MODE)) {

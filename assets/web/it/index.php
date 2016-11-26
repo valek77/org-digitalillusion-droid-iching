@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(E_ALL & ~E_NOTICE);
 $s = $_REQUEST['s'];
 $h = $_REQUEST['h'];
 
@@ -126,31 +126,31 @@ $book['02']['line-3'] =
 
 # -------------------------      03       ----------------------- #
 $book['03']['desc'] = 
-' Il segno inferiore è Tuono, l''Eccitante, che si muove verso l''alto.
+' Il segno inferiore è Tuono, l\'Eccitante, che si muove verso l\'alto.
   Il segno superiore è Acqua, che scende verso il basso.\e
-  L'' incontro tra Tuono e Acqua provoca inizialmente il caos, ma dopo il temporale ritorna il sereno.
-  Il nome dell''esagramma, CHUN, indica un filo d''erba che nell''uscire dalla terra si imbatte in un sasso. Questa è la situazione del momento attuale.';
+  L\' incontro tra Tuono e Acqua provoca inizialmente il caos, ma dopo il temporale ritorna il sereno.
+  Il nome dell\'esagramma, CHUN, indica un filo d\'erba che nell\'uscire dalla terra si imbatte in un sasso. Questa è la situazione del momento attuale.';
 $book['03']['judge'] = 
 ' La difficoltà iniziale opera sublime riuscita, propizia per perseveranza. Non bisogna imprendere nulla. Propizio è nominare degli aiutanti.\e
-  Pur essendo caotica la situazione volge da sola all''ordine e non è necessario agire ulteriormente per modificarla. Essa ha riuscita se si ha la forza di restare anche nell''incertezza perseverando con fiducia senza intervenire. Non ci si deve isolare ma cercare, in supporto, cose e persone allo stesso livello recettivo, con cui favorire l''emersione del nuovo.';
+  Pur essendo caotica la situazione volge da sola all\'ordine e non è necessario agire ulteriormente per modificarla. Essa ha riuscita se si ha la forza di restare anche nell\'incertezza perseverando con fiducia senza intervenire. Non ci si deve isolare ma cercare, in supporto, cose e persone allo stesso livello recettivo, con cui favorire l\'emersione del nuovo.';
 $book['03']['image'] = 
-' Nubi e tuono: l''immagine della difficoltà iniziale. Così il nobile opera districando e ordinando.\e
+' Nubi e tuono: l\'immagine della difficoltà iniziale. Così il nobile opera districando e ordinando.\e
   Come nella sovrabbondanza degli elementi a poco a poco tutto si definisce e ritorna la chiarezza, così in questo momento si comincia a mettere ordine, distinguendo nel variegato ammasso le parti simili e dissimili tra loro. ';
 $book['03']['line1'] = 
-' Nove all''inizio significa: Titubanza e impedimento. Propizio è rimanere perseveranti, Propizio è nominare degli aiutanti.\e
-  I dubbi e gli ostacoli  sono segni che la situazione è immatura, pur avendo già in sé la potenzialità per svilupparsi. E'' necessaria forza, pazienza e non abbandonare. Ci sono persone o situazioni che aiutano in questo inizio di costruzione, a cui è consigliato ricorrere. ';
+' Nove all\'inizio significa: Titubanza e impedimento. Propizio è rimanere perseveranti, Propizio è nominare degli aiutanti.\e
+  I dubbi e gli ostacoli  sono segni che la situazione è immatura, pur avendo già in sé la potenzialità per svilupparsi. E\' necessaria forza, pazienza e non abbandonare. Ci sono persone o situazioni che aiutano in questo inizio di costruzione, a cui è consigliato ricorrere. ';
 $book['03']['line2'] = 
 ' Sei al secondo posto significa: Difficoltà si ammassano. Cavallo e carro si distaccano. Egli non è un brigante, a suo tempo si dichiarerà. La fanciulla è casta, non si promette.\e
   Dieci anni, poi si promette. La linea è scura e presagisce un momento di grande incertezza. Le parti in causa si sono divise, e in tale confusione sorgono malintesi e dissidi. Qualcuno ha agito male, portando divisione e risentimento, entrambi destinati a passare con il tempo.  Una riconciliazione è possibile dopo un lungo periodo di ripensamenti e un intero ciclo di eventi.';
 $book['03']['line3'] = 
 ' Sei al terzo posto significa:  Chi caccia il cervo senza guardiacaccia non fa che smarrirsi nel bosco. Il nobile comprende i segni del tempo e piuttosto rinuncia. Continuare ad agire reca umiliazione.\e
-  Quando si va a caccia occorre prima trovare una guida, altrimenti ci si smarrisce. Il momento non mostra segni di progresso e insistere porta a ulteriori difficoltà. Pur di ottenere un risultato ci si lancia in un''impresa alla cieca. Così si perde la direzione  e si resta intrappolati in illusorie speranze che allontanano sempre più dal giusto cammino. Rinunciare e ritirarsi è la cosa migliore da fare.';
+  Quando si va a caccia occorre prima trovare una guida, altrimenti ci si smarrisce. Il momento non mostra segni di progresso e insistere porta a ulteriori difficoltà. Pur di ottenere un risultato ci si lancia in un\'impresa alla cieca. Così si perde la direzione  e si resta intrappolati in illusorie speranze che allontanano sempre più dal giusto cammino. Rinunciare e ritirarsi è la cosa migliore da fare.';
 $book['03']['line4'] = 
-' Sei al quarto posto significa: Cavallo e carro si distaccano. Ricerca l'' unione. Andare reca salute. Tutto opera in favore.\e
-  Dissidi, incomprensioni, allontanamento. Occorre fare tutto il possibile per ripristinare l''unione. Qualunque cosa si intraprenda può risolvere la situazione.';
+' Sei al quarto posto significa: Cavallo e carro si distaccano. Ricerca l\' unione. Andare reca salute. Tutto opera in favore.\e
+  Dissidi, incomprensioni, allontanamento. Occorre fare tutto il possibile per ripristinare l\'unione. Qualunque cosa si intraprenda può risolvere la situazione.';
 $book['03']['line5'] = 
 'Nove al quinto posto significa: Difficoltà nel benedire. Piccola perseveranza reca salute, grande perseveranza reca sciagura.\e
- Ciò che si desidera è a portata di mano, ma qualcosa causa un blocco. Vi sono buone intenzioni, desiderio di chiarezza e di comprensione, frustrate e represse nella generale situazione di rivalità e antagonismo. Bisogna accontentarsi di quel poco che si ha, procedendo passo passo ,e evitare l''insistenza cieca e unilaterale.';
+ Ciò che si desidera è a portata di mano, ma qualcosa causa un blocco. Vi sono buone intenzioni, desiderio di chiarezza e di comprensione, frustrate e represse nella generale situazione di rivalità e antagonismo. Bisogna accontentarsi di quel poco che si ha, procedendo passo passo ,e evitare l\'insistenza cieca e unilaterale.';
 $book['03']['line6'] = 
 ' Sei sopra significa: Cavallo e carrozza si distaccano. Lacrime di sangue sgorgano.\e
   Rottura e incapacità di ripristinare la situazione. Un periodo di dispiacere e amarezze è alle porte; da questo stato occorre uscire al più presto, accettando la realtà dei fatti. La linea è infausta. Confucio commenta così questa linea:<<Lacrime di sangue sgorgano: non si dovrebbe persistere in questo stato>>';
@@ -2210,28 +2210,28 @@ $book['40']['line6'] =
 # -------------------------      41       ----------------------- #
 $book['41']['desc'] = 
 ' Sopra il Monte, sotto il Lago.\e
-  L''acqua del lago evaporando diminuisce ma nello stesso tempo accresce le falde del monte, arricchendole di vita. Perdita e guadagno si bilanciano. La struttura del segno  ricorda una casa con solide fondamenta, che rendono stabile un alto edificio. Anche nei rapporti umani  c''è chi dà e chi riceve e in alcuni casi, come in questo, tutti ne traggono beneficio. Così qualcuno cede qualcosa per andare incontro all''altro: questa è una situazione di equilibrio, in cui il dare e ricevere, chi più chi meno, sono il fondamento del rapporto. ';
+  L\'acqua del lago evaporando diminuisce ma nello stesso tempo accresce le falde del monte, arricchendole di vita. Perdita e guadagno si bilanciano. La struttura del segno  ricorda una casa con solide fondamenta, che rendono stabile un alto edificio. Anche nei rapporti umani  c\'è chi dà e chi riceve e in alcuni casi, come in questo, tutti ne traggono beneficio. Così qualcuno cede qualcosa per andare incontro all\'altro: questa è una situazione di equilibrio, in cui il dare e ricevere, chi più chi meno, sono il fondamento del rapporto. ';
 $book['41']['judge'] = 
 ' Minorazione congiunta a veracità opera sublime riuscita senza macchia.Si può essere perseveranti nel farlo. Propizio è imprendere qualche cosa. Come si eseguisce questo? Si adoperino pure due ciotoline per il sacrificio.\e
-  Cedere qualcosa di sé, operando uno scambio con l''altro,  è indice di generosità: da qui il sublime successo. Questo atteggiamento dovrebbe essere coltivato e ispirare l''agire. Ciò avviene sempre quando si rilasciano vecchie abitudini non più rispondenti e si comprende che per proseguire occorre fare un piccolo sacrificio.';
+  Cedere qualcosa di sé, operando uno scambio con l\'altro,  è indice di generosità: da qui il sublime successo. Questo atteggiamento dovrebbe essere coltivato e ispirare l\'agire. Ciò avviene sempre quando si rilasciano vecchie abitudini non più rispondenti e si comprende che per proseguire occorre fare un piccolo sacrificio.';
 $book['41']['image'] = 
-' Al piede del monte sta il lago, l''immagine della diminuzione. Così il nobile doma la sua ira e raffrena i suoi istinti.\e
-  Il Lago, spensierato e gioioso, diminuisce in favore del Monte, fermo e limitante.  Il Lago è connesso con discorsi, parole e ogni tipo di scambio, il Monte con caparbietà e fermezza. Così nei rapporti con gli altri si rinuncia all''ira, al risentimento o secondi fini. In questa situazione si diminuisce se stessi in favore degli altri nel tempo opportuno.';
+' Al piede del monte sta il lago, l\'immagine della diminuzione. Così il nobile doma la sua ira e raffrena i suoi istinti.\e
+  Il Lago, spensierato e gioioso, diminuisce in favore del Monte, fermo e limitante.  Il Lago è connesso con discorsi, parole e ogni tipo di scambio, il Monte con caparbietà e fermezza. Così nei rapporti con gli altri si rinuncia all\'ira, al risentimento o secondi fini. In questa situazione si diminuisce se stessi in favore degli altri nel tempo opportuno.';
 $book['41']['line1'] = 
-' Nove all''inizio significa:Andare rapidamente quando gli affari sono finiti non è una macchia. Ma bisogna ponderare quanto sia lecito diminuire gli altri.\e
+' Nove all\'inizio significa:Andare rapidamente quando gli affari sono finiti non è una macchia. Ma bisogna ponderare quanto sia lecito diminuire gli altri.\e
   Quando si è portato avanti un affare o un impegno non è sbagliato guardare avanti e proseguire.Vi sono coinvolte però altre persone che potrebbero interpretare questo comportamento come una immotivata sgarberia. Su questo occorre riflettere.';
 $book['41']['line2'] = 
 ' Nove al secondo posto significa: Propizia è perseveranza. Imprendere qualche cosa è sciagurato. Senza diminuire se stessi si è in grado di accrescere gli altri.\e
-  La situazione va avanti senza interventi da parte nostra.E'' sconsigliato agire o avviare un''attività.Infatti, anche se non ci si mette in gioco in prima persona,e la propria intromissione nell''impresa è di secondo piano (il trigramma inferiore Tui allude a discorsi e parole),si fornisce comunque agli altri ciò di cui hanno bisogno.';
+  La situazione va avanti senza interventi da parte nostra.E\' sconsigliato agire o avviare un\'attività.Infatti, anche se non ci si mette in gioco in prima persona,e la propria intromissione nell\'impresa è di secondo piano (il trigramma inferiore Tui allude a discorsi e parole),si fornisce comunque agli altri ciò di cui hanno bisogno.';
 $book['41']['line3'] = 
 ' Sei al terzo posto significa:  Quando tre persone percorrono la stessa via diminuiscono di una persona. Quando il viandante è solo, trova il suo compagno. \e
-  Questa linea, l''ultima di Tui, oscura, fa presente che nel progetto ci sono troppe persone coinvolte. In tre sorge gelosia, quindi almeno una dovrebbe ritirarsi. La situazione opportuna sarebbe quella di chi è già solo e così può liberamente associarsi a qualcun altro.';
+  Questa linea, l\'ultima di Tui, oscura, fa presente che nel progetto ci sono troppe persone coinvolte. In tre sorge gelosia, quindi almeno una dovrebbe ritirarsi. La situazione opportuna sarebbe quella di chi è già solo e così può liberamente associarsi a qualcun altro.';
 $book['41']['line4'] = 
-' Sei al quarto posto significa: Diminuendo i propri difetti fa sì che l''altro si affretti e abbia gioia. Nessuna macchia.\e
-  Se si vuole che l''altro si avvicini occorre abbandonare atteggiamenti e prese di posizione troppo rigide.La correzione di questa durezza e una maggiore apertura non mancano di richiamare a noi subito qualcuno, con reciproca gioia.';
+' Sei al quarto posto significa: Diminuendo i propri difetti fa sì che l\'altro si affretti e abbia gioia. Nessuna macchia.\e
+  Se si vuole che l\'altro si avvicini occorre abbandonare atteggiamenti e prese di posizione troppo rigide.La correzione di questa durezza e una maggiore apertura non mancano di richiamare a noi subito qualcuno, con reciproca gioia.';
 $book['41']['line5'] = 
 ' Sei al quinto posto significa: Certamente qualcuno lo accresce. Dieci paia di tartarughe non possono opporsi a questo. Sublime salute!\e
-  Qualunque sia il nostro agire si riceve guadagno e fortuna. In principio l''oracolo era effettuato sui gusci di tartaruga: se anche per dieci volte di seguito si chiedesse la stessa domanda, l''esito sarebbe sempre lo stesso. Si è favoriti e beneficiati dall''alto quasi al di là di ciò che si fa e non si fa.';
+  Qualunque sia il nostro agire si riceve guadagno e fortuna. In principio l\'oracolo era effettuato sui gusci di tartaruga: se anche per dieci volte di seguito si chiedesse la stessa domanda, l\'esito sarebbe sempre lo stesso. Si è favoriti e beneficiati dall\'alto quasi al di là di ciò che si fa e non si fa.';
 $book['41']['line6'] = 
 'Nove sopra significa: Se si viene accresciuti senza diminuire gli altri questo non è una macchia. Perseveranza reca salute. Propizio imprendere qualche cosa. Si ottengono dei servitori ma non si possiede più una dimora particolare.\e
  In questa situazione non vi è danno per nessuno, né per chi dà né per chi riceve. Questo disinteresse è tipico delle persone dotate di generosità e saggezza, ed è bene continuare in questo modo. Tutto ciò che si fa e si intraprende, essendo disinteressato, procura amici e un seguito. Si è molto lontani da uno scopo particolare e egoistico.';
@@ -2299,32 +2299,32 @@ $book['42']['line6'] =
 
 # -------------------------      43       ----------------------- #
 $book['43']['desc'] = 
-' Sopra c''è Tui, Lago, che significa bocca, parole, render noto, annunciare, mentre sotto c''è il Cielo, forza, ma anche pericolo e armi. L''acqua del lago sale al cielo e sottoforma di pioggia  inonda la terra, distruggendo gli  argini. La situazione descrive il rilascio di una tensione a lungo trattenuta. La struttura del segno allude a un momento in cui il male, rappresentato dalla sesta linea yin,  sta per essere  espulso  dalle cinque linee yang ed è la presenza della loro forza a  determinare un responso sostanzialmente positivo. Nei rapporti umani ciò significa che è presente qualcuno o qualcosa  a cui ci si oppone chiaramente e senza scendere a compromessi.
-  Mentre nell''Esagramma 44- Il farsi incontro, l''ignobile rientra da sotto, qui esso è alla fine, ed è quasi impotente. Tuttavia la minima presenza dell''ignobile è pericolosa, in quanto portatrice di influssi negativi. Occorre essere precisi e fermi nell''individuare il problema, anche mettendolo per iscritto. Nelle Sentenze Aggiunte si allude a questo quando si dice: ''Nella più remota antichità si annodavano corde per governare. I santi dei tempi posteriori introdussero documenti scritti per governare i vari funzionari e per sorvegliare i sudditi. Questo lo trassero certamente dal segno lo Straripamento''. L'' esagramma descrive la ferma risoluzione, dopo parecchio tempo, di liberarsi da ostacoli attraverso l''assunzione di responsabilità in prima persona.';
+' Sopra c\'è Tui, Lago, che significa bocca, parole, render noto, annunciare, mentre sotto c\'è il Cielo, forza, ma anche pericolo e armi. L\'acqua del lago sale al cielo e sottoforma di pioggia  inonda la terra, distruggendo gli  argini. La situazione descrive il rilascio di una tensione a lungo trattenuta. La struttura del segno allude a un momento in cui il male, rappresentato dalla sesta linea yin,  sta per essere  espulso  dalle cinque linee yang ed è la presenza della loro forza a  determinare un responso sostanzialmente positivo. Nei rapporti umani ciò significa che è presente qualcuno o qualcosa  a cui ci si oppone chiaramente e senza scendere a compromessi.
+  Mentre nell\'Esagramma 44- Il farsi incontro, l\'ignobile rientra da sotto, qui esso è alla fine, ed è quasi impotente. Tuttavia la minima presenza dell\'ignobile è pericolosa, in quanto portatrice di influssi negativi. Occorre essere precisi e fermi nell\'individuare il problema, anche mettendolo per iscritto. Nelle Sentenze Aggiunte si allude a questo quando si dice: \'Nella più remota antichità si annodavano corde per governare. I santi dei tempi posteriori introdussero documenti scritti per governare i vari funzionari e per sorvegliare i sudditi. Questo lo trassero certamente dal segno lo Straripamento\'. L\' esagramma descrive la ferma risoluzione, dopo parecchio tempo, di liberarsi da ostacoli attraverso l\'assunzione di responsabilità in prima persona.';
 $book['43']['judge'] = 
 ' Lo straripamento. Con risolutezza bisogna render nota la cosa alla corte del re. Secondo verità si deve proclamarla. Pericolo! Bisogna avvisare la propria città. Non è propizio  impugnare le armi. Propizio è imprendere qualche cosa.\e
-  Gli argini sono stati superati, i limiti oltrepassati; la situazione  è allarmante e prima che sfugga completamente di mano  bisogna prendere provvedimenti,  spiegando a chi ha l''autorità le condizioni di disagio generale  in cui ci si trova. Colui che detiene l''autorità, il re rappresentato dalla sesta linea, è anche un pericolo, poiché detiene il posto dell''ignobile. Ma le difficoltà  minacciano da vicino il benessere di tutti coloro con cui si opera ed è necessario dichiararle in modo fermo e imparziale. La reazione deve essere energica ma non aggressiva e stabilisce una strategia risolutiva per liberarsi dell''ostacolo.';
+  Gli argini sono stati superati, i limiti oltrepassati; la situazione  è allarmante e prima che sfugga completamente di mano  bisogna prendere provvedimenti,  spiegando a chi ha l\'autorità le condizioni di disagio generale  in cui ci si trova. Colui che detiene l\'autorità, il re rappresentato dalla sesta linea, è anche un pericolo, poiché detiene il posto dell\'ignobile. Ma le difficoltà  minacciano da vicino il benessere di tutti coloro con cui si opera ed è necessario dichiararle in modo fermo e imparziale. La reazione deve essere energica ma non aggressiva e stabilisce una strategia risolutiva per liberarsi dell\'ostacolo.';
 $book['43']['image'] = 
-' Il lago è asceso al cielo: l''immagine dello straripamento. Così il nobile elargisce ricchezza verso il basso e rifugge dal riposare sulla sua virtù.\e
-  Il Lago evapora e dà luogo alla pioggia torrenziale che fa tracimare i fiumi. Nello stesso modo chi è generoso e altruista non teme di mettersi in faticose condizioni di svantaggio pur di salvaguardare il benessere altrui. Si agisce spontaneamente nell''interesse degli altri esponendosi in prima persona.';
+' Il lago è asceso al cielo: l\'immagine dello straripamento. Così il nobile elargisce ricchezza verso il basso e rifugge dal riposare sulla sua virtù.\e
+  Il Lago evapora e dà luogo alla pioggia torrenziale che fa tracimare i fiumi. Nello stesso modo chi è generoso e altruista non teme di mettersi in faticose condizioni di svantaggio pur di salvaguardare il benessere altrui. Si agisce spontaneamente nell\'interesse degli altri esponendosi in prima persona.';
 $book['43']['line1'] = 
-' Nove all''inizio significa: Potente nelle dita dei piedi che avanzano. Nell''andare senza essere all''altezza del compito si commette un errore.\e
+' Nove all\'inizio significa: Potente nelle dita dei piedi che avanzano. Nell\'andare senza essere all\'altezza del compito si commette un errore.\e
  Ci si avvia baldanzosi delle proprie forze, ma il risultato potrebbe deludere. Meglio non agire così. La linea incontra resistenza a salire, pur avendo impazienza e volontà di muoversi. Ma il compito è al di là delle forze che si possiedono.';
 $book['43']['line2'] = 
 ' Nove al secondo posto significa: Allarme. Di sera e di notte armi. Non temere nulla.\e
   Incidenti e pericoli si prevengono solo vigilando costantemente. Si è in uno stato di allerta continuo. La linea è forte e centrale perciò si riesce comunque bene a gestire la situazione.  ';
 $book['43']['line3'] = 
 ' Nove al terzo posto significa: Essere potenti negli zigomi reca sciagura. Il nobile è fermamente deciso. Egli cammina solitario e incorre nella pioggia. Egli viene spruzzato e si mormora contro di lui. Nessuna macchia. \e
-  La linea è risoluta e forte e in contatto con l''ignobile in alto. Il contatto con l''oscurità perciò non può essere evitato  ma  la nostra energia  attiva e chiara fa sì che se ne resti immuni: anche contro tutto si va avanti decisi, infatti  la relazione che si ha con la forza oscura è l''unico modo per risolverla. Ciò non è comprensibile agli altri perciò si è  soli a gestire la spinosa situazione e si viene fraintesi e sottoposti a critiche. Questo è però un passo necessario che non va rimandato.';
+  La linea è risoluta e forte e in contatto con l\'ignobile in alto. Il contatto con l\'oscurità perciò non può essere evitato  ma  la nostra energia  attiva e chiara fa sì che se ne resti immuni: anche contro tutto si va avanti decisi, infatti  la relazione che si ha con la forza oscura è l\'unico modo per risolverla. Ciò non è comprensibile agli altri perciò si è  soli a gestire la spinosa situazione e si viene fraintesi e sottoposti a critiche. Questo è però un passo necessario che non va rimandato.';
 $book['43']['line4'] = 
 ' Nove al quarto posto significa: Sulle cosce non vi è pelle, e il camminare riesce gravoso. Se ci si lasciasse condurre come una pecora il pentimento svanirebbe.\e
-  Ma quando si udranno queste parole non si crederà ad esse. L''incedere è faticoso e difficile, in quanto il posto non è confacente. Sarebbe bene  ascoltare dei consigli, ma se ci vengono dati sembrano inutili e privi di senso. Non c''è ancora una comprensione molto chiara della situazione.';
+  Ma quando si udranno queste parole non si crederà ad esse. L\'incedere è faticoso e difficile, in quanto il posto non è confacente. Sarebbe bene  ascoltare dei consigli, ma se ci vengono dati sembrano inutili e privi di senso. Non c\'è ancora una comprensione molto chiara della situazione.';
 $book['43']['line5'] = 
 ' Nove al quinto posto significa: Di fronte alle erbacce occorre forte risolutezza. Chi cammina nel mezzo rimane libero da macchia. \e
   La linea è a diretto contatto con il male, e occorre essere energici per sgominarlo senza farsene attrarre. La persistenza e il continuo influsso negativo richiedono scrupolosa integrità e continua vigilanza.';
 $book['43']['line6'] = 
 ' Sei sopra significa: Nessun richiamo! Alla fine viene sciagura.\e
-  Questa è la linea dell''ignobile e del male, da cui ci si fa sedurre completamente e in cui si resta invischiati. Mutando nell''1, il Creativo. sarà possibile risollevarsi da queste sciagurate condizioni attraverso una successiva resa dei conti. ';
+  Questa è la linea dell\'ignobile e del male, da cui ci si fa sedurre completamente e in cui si resta invischiati. Mutando nell\'1, il Creativo. sarà possibile risollevarsi da queste sciagurate condizioni attraverso una successiva resa dei conti. ';
 
 # -------------------------      44       ----------------------- #
 $book['44']['desc'] = 

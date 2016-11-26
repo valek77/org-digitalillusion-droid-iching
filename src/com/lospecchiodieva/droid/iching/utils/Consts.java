@@ -81,7 +81,7 @@ public class Consts {
   /**
    * Dictionary settings *
    */
-  public static final String DICTIONARY_ALTERVISTA = "altervista";
+  public static final String DICTIONARY_EVA = "altervista";
   public static final String DICTIONARY_CUSTOM = "custom";
 
   /**

@@ -79,7 +79,7 @@ public abstract class RemoteResolver {
    */
   @SuppressWarnings("serial")
   private static HashMap<String, String> dictionaries = new HashMap<String, String>() {{
-    put(Consts.DICTIONARY_ALTERVISTA, "http://192.168.5.103/api/api.php/");
+    put(Consts.DICTIONARY_EVA, "http://192.168.5.104/api/");
   }};
 
   /**
@@ -95,7 +95,7 @@ public abstract class RemoteResolver {
    * @return A spanned conversion of the input string
    */
   public static Spanned getSpannedFromRemoteString(String result) {
-    Spanned spanned = null;
+    Spanned spanned ;
     if (result != null && result.indexOf(Utils.HEX_SECTION_QUOTE_DELIMITER) > 0) {
       result = result.replaceAll(Utils.NEWLINE, "<br/>");
       spanned = Html.fromHtml(
@@ -198,7 +198,7 @@ public abstract class RemoteResolver {
                 if (result != null) {
                   Spanned spanned = getSpannedFromRemoteString(result);
 
-                  if (hex == activity.getCurrentHex() && section == activity.getCurrentSection()) {
+                  if (hex.equals( activity.getCurrentHex()) && section.equals( activity.getCurrentSection())) {
                     // If the request is still pending, proceed with component update
                     if (!component.getText().equals(result)) {
                       component.setText(spanned);
@@ -285,16 +285,16 @@ public abstract class RemoteResolver {
       throws IOException {
     // If choice of dictionary is custom and we are requesting a remote string,
     // get the current localization on the default dictionary
-    String langCode = lang;
+   // String langCode = lang;
     String remoteUrl;
     if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
-      remoteUrl = dictionaries.get((String) activity.getSettingsManager().getDefault(SETTINGS_MAP.DICTIONARY));
+      remoteUrl = dictionaries.get( activity.getSettingsManager().getDefault(SETTINGS_MAP.DICTIONARY));
     } else {
       remoteUrl = dictionaries.get(dictionary);
     }
 
     InputStream is = Utils.downloadUrl(
-        remoteUrl + langCode + "/",
+        remoteUrl + lang + "/",
         new String[]{"h", hex},
         new String[]{"s", section}
     );

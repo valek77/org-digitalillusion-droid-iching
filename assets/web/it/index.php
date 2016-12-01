@@ -1642,54 +1642,39 @@ $book['29']['line6'] =
 
 # -------------------------      30       ----------------------- #
 $book['30']['desc'] = 
-' Li / The Clinging, Fire 
-  Above LI THE CLINGING, FIRE
-  Below LI THE CLINGING, FIRE \e
-  This hexagram is another double sign. The trigram Li means "to cling to something," "to be conditioned," "to depend or rest on something," and also "brightness. " A dark line clings to two light lines, one above and one below–the image of an empty space between two strong lines, whereby the two strong lines are made bright. The trigram represents the middle daughter. The Creative has incorporated the central line of the Receptive, and thus Li develops. As an image, it is fire. Fire has no definite form but clings to the burning object and thus is bright. As water pours down from heaven, so fire flames up from the earth. While K\'an means the soul shut within the body, Li stands for nature in its radiance.';
+' ESAGRAMMA 30- Il FUOCO \eIl Fuoco è doppio, due linee yin sono tenute ferme da quattro linee yang, che utilizzano l’oscurità per splendere di più, così come il Fuoco utilizza la legna per ardere e illuminare. Le due oscurità sono tenute a bada attraverso l’energica presenza della chiarezza che si fa strada nonostante loro ma anche grazie a loro. Legna e fuoco sono assimilate a chiarezza e oscurità, nel gioco in cui vi è qualcosa che deve continuare a splendere nonostante l’oscurità ma anche tramite essa. L’oscurità è marginale e va tenuta nella giusta considerazione, e ridimensionata al suo posto. La chiarezza regna: se vi è stato un pericolo o una ferita essa è passata, trovando il suo posto nell’economia del cosmo. Permane, ancora, una forma di dipendenza di cui non ci deve vergognare, andando comunque avanti per la propria strada. Dice Wilhelm: Nel mondo l’uomo è condizionato e non indipendente, ma avrà riuscita se riconosce questi limiti e accetta la sua dipendenza dalle forze armoniose e buone dell’universo. L’uomo acquisendo in sé questa arrendevolezza e questa volontaria dipendenza, acquista la chiarezza che non ferisce e trova il suo posto nel mondo. ';
 $book['30']['judge'] = 
-' THE CLINGING. Perseverance furthers. 
-  It brings success. 
-  Care of the cow brings good fortune. \e
-  What is dark clings to what is light and so enhances the brightness of the latter. A luminous thing giving out light must have within itself something that perseveres; otherwise it will in time burn itself out. Everything that gives light is dependent on something to which it clings, in order that it may continue to shine.
-  Thus the sun and moon cling to heaven, and grain, grass, and trees cling to the earth. So too the twofold clarity of the dedicated man clings to what is right and thereby can shape the world. Human life on earth is conditioned and unfree, and when man recognizes this limitation and makes himself dependent upon the harmonious and beneficent forces of the cosmos, he achieves success. The cow is the symbol of extreme docility. By cultivating in himself an attitude of compliance and voluntary dependence, man acquires clarity without sharpness and finds his place in the world.';
+' L’aderente. Propizia è perseveranza. Essa reca riuscita. La cura della vacca reca salute.\e
+Il Fuoco aderisce alle cose illuminandole. Bisogna continuare così e in seguito vi sarà riuscita. In questa situazione è bene essere estremamente arrendevoli e mansueti. La vacca è rappresentata nei due segni yin quasi accuditi dalle forti linee yang, che le tengono a bada. Così curare la vacca significa persistere e pazientare, essere flessibili e docili, nel frattempo che si continua a fare chiarezza. E’ una situazione che descrive un lungo e tranquillo rischiaramento di qualcosa ancora di irrisolto. ';
 $book['30']['image'] = 
-' That which is bright rises twice:
-  The image of FIRE. 
-  Thus the great man, by perpetuating this brightness, 
-  Illumines the four quarters of the world. \e
-  Each of the two trigrams represents the sun in the course of a day. The two together represent the repeated movement of the sun, the function of light with respect to time. The great man continues the work of nature in the human world. Through the clarity of his nature he causes the light to spread farther and farther and to penetrate the nature of man ever more deeply.';
+' Il chiarore sorge due volte: l’immagine del fuoco. Così il grande uomo continuando questo chiarore, illumina le quattro regioni del mondo.\e
+  Il Fuoco su un Fuoco, una luce doppia e persistente che illumina l’oscurità. Così nel mondo umano si rischiarano le oscurità e ciò che è aspro e difficile, in una continua attività illuminante. Tale attività splende sulle debolezze nonostante esse ma anche grazie ad esse. Il Fuoco nel trigramma inferiore è rappresentato al suo primo apparire, esitante e incerto, nel suo ergersi scoppiettante e foriero di sviluppo, nel suo lento estinguersi; nel trigramma superiore nel repentino riattizzarsi in alte fiammate che culminano in solitari lampi. Fu Hsi secondo la mitologia di IChing vide i segni di questo esagramma ed ebbe l’idea di costruire una rete per catturare i pesci. Il simbolo è associato a qualcosa di utile che cattura ciò che è sfuggente. ';
 $book['30']['line1'] = 
-' Nine at the beginning means:
-  The footprints run crisscross. 
-  If one is seriously intent, no blame. \e
-  It is early morning and work begins. The mind has been closed to the outside world in sleep; now its connections with the world begin again. The traces of one\'s impressions run crisscross. Activity and haste prevail. It is important then to preserve inner composure and not to allow oneself to be swept along by the bustle of life. If one is serious and composed, he can acquire the clarity of mind needed for coming to terms with the innumerable impressions that pour in. It is precisely at the beginning that serious concentration is important, because the beginning holds the seed of all that is to follow.';
+' Nove all\'inizio:
+  Le orme corrono in ogni direzione. Se si opera con serietà: nessuna macchia.\e
+  E’ l’inizio di una attività e ancora ciò che seguirà è incerto. Vi sono possibilità ma nessuna delinea una continuità definita. Occorre prendere atto dell’incostanza della situazione. ';
 $book['30']['line2'] = 
-' Six in the second place means:
-  Yellow light. Supreme good fortune. \e
-  Midday has come; the sun shines with a yellow light. Yellow is the color of measure and mean. Yellow light is therefore a symbol of the highest culture and art, whose consummate harmony consists in holding to the mean.';
+' Sei al secondo posto: 
+  Splendore giallo. Sublime salute.\e
+  E’ la pienezza e l’abbondanza, il frutto da cogliere nel naturale fluire delle cose. Ciò che si fa illumina nel senso più ampio.';
 $book['30']['line3'] = 
-' Nine in the third place means:
-  In the light of the setting sun,
-  Men either beat the pot and sing
-  Or loudly bewail the approach of old age. 
-  Misfortune. \e
-  Here the end of the day has come. The light of the setting sun calls to mind the fact that life is transitory and conditional. Caught in this external bondage, men are usually robbed of their inner freedom as well. The sense of the transitoriness of life impels them to uninhibited revelry in order to enjoy life while it lasts, or else they yield to melancholy and spoil the precious time by lamenting the approach of old age. Both attitudes are wrong. To the superior man it makes no difference whether death comes early or late. He cultivates himself, awaits his allotted time, and in this way secures his fate.';
+' Nove al terzo posto: 
+  Alla luce del sole che tramonta, gli uomini o battono sulla pentola o cantano, o sospirano forte per la senilità che si avvicina. Sciagura.\e
+  E’ passato il momento della pienezza. C’è un allontanamento e il volgere al termine di qualcosa. Ci si angustia per ciò che è stato, ci si rattrista, in un malinconico declino. ';
 $book['30']['line4'] = 
-' Nine in the fourth place means:
-  Its coming is sudden;
-  It flames up, dies down, is thrown away. \e
-  Clarity of mind has the same relation to life that fire has to wood. Fire clings to wood, but also consumes it. Clarity of mind is rooted in life but can also consume it. Everything depends upon how the clarity functions. Here the image used is that of a meteor or a straw fire. A man who is excitable and restless may rise quickly to prominence but produces no lasting effects. Thus matters end badly when a man spends himself too rapidly and consumes himself like a meteor.';
+' Nove al quarto posto:
+  Subitanea è la sua venuta; divampa, muore, viene buttato via.\e
+  Talvolta viviamo situazioni meravigliose che non sono destinate a restare tali per molto. Bisogna riconoscere in esse cosa realmente ci dà beneficio, per costruire una direzione durevole in cui incamminarsi.
+  Decisioni da prendere. Incostanza. ';
 $book['30']['line5'] = 
-' Six in the fifth place means:
-  Tears in floods, sighing and lamenting. 
-  Good fortune. \e
-  Here the zenith of life has been reached. Were there no warning, one would at this point consume oneself like a flame. Instead, understanding the vanity of all things, one may put aside both hope and fear, and sigh and lament: if one is intent on retaining his clarity of mind, good fortune will come from this grief. For here we are dealing not with a passing mood, as in the nine in the third place, but with a real change of heart.';
+ 'Sei al quinto posto:
+  Lacrime a fiumi, sospiri e lamenti. Salute!\e
+  La linea si trova in una situazione in bilico. Alla fine si riesce a ripristinare una situazione compromessa. ';
 $book['30']['line6'] = 
-' Nine at the top means:
-  The king uses him to march forth and chastise. 
-  Then it is best to kill the leaders
-  And take captive the followers. No blame. \e
-  It is not the purpose of chastisement to impose punishment blindly but to create discipline. Evil must be cured at its roots. To eradicate evil in political life, it is best to kill the ringleaders and spare the followers. In educating oneself it is best to root out bad habits and tolerate those that are harmless. For asceticism that is too strict, like sentences of undue severity, fails in its purpose.';
+' Nove sopra:
+  Il re lo adopera per spedizioni punitive.
+  La miglior cosa è allora uccidere i capi e catturare i seguaci. Nessuna macchia.\e
+  Occorre fare pulizia cominciando dalla causa principale per risolvere anche altri aspetti secondari della situazione. ';
 
 # -------------------------      31       ----------------------- #
 $book['31']['desc'] = 

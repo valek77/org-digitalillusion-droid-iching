@@ -706,62 +706,44 @@ $book['12']['line-3'] =
 
 # -------------------------      13       ----------------------- #
 $book['13']['desc'] = 
-' T\'ung Jên / Fellowship with Men 
-  Above CH\'IEN THE CREATIVE, HEAVEN
-  Below LI THE CLINGING, FLAME\e
-  The image of the upper trigram Ch\'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to heaven. This gives the idea of fellowship. It is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY (7). In the latter, danger is within and obedience without–the character of a warlike army, which, in order to hold together, needs one strong man among the many who are weak. Here, clarity is within and strength without–the character of a peaceful union of men, which, in order to hold together, needs one yielding nature among many firm persons.';
+'ESAGRAMMA 13 – ASSOCIAZIONE
+ Fuoco sotto il Cielo: le fiamme tendono verso l\'alto e il cielo le accoglie, associandosi insieme. Una linea yin sostiene la struttura rendendola flessibile, debole tra molti forti. 
+ Anche nel mondo umano le persone vogliono associarsi e stare insieme, e ciò accade quando vi è comunanza e l\'oscurità non ha troppo spazio. 
+ L\'esagramma è fausto proprio per la presenza di un solo debole tra i forti e descrive i vari aspetti con cui due o più persone interagiscono tra loro. ';
 $book['13']['judge'] = 
-' FELLOWSHIP WITH MEN in the open. 
-  Success. 
-  It furthers one to cross the great water. 
-  The perseverance of the superior man furthers. \e
-  True fellowship among men must be based upon a concern that is universal. It is not the private interests of the individual that create lasting fellowship among men, but rather the goals of humanity. That is why it is said that fellowship with men in the open succeeds. If unity of this kind prevails, even difficult and dangerous tasks, such as crossing the great water, can be accomplished. But in order to bring about this sort of fellowship, a persevering and enlightened leader is needed–a man with clear, convincing, and inspiring aims and the strength to carry them out. (The inner trigram means clarity; the outer, strength. )';
+' Associazione tra gli uomini all\'aperto: riuscita. Propizio è attraversare la grande acqua. Propizia è la perseveranza del nobile.\e
+  Una comunità di persone che si incontrano all\'aperto: la linea yin simboleggia la terra, quindi un campo. Un campo chiaro, in cui sono visibili cose e persone, in cui ci si scambia apertamente idee.
+  Impegnarsi in questa associazione è una cosa buona e naturale, vi è la forza del creativo pronta ad essere usata, sempre preceduta dalla chiarezza del fuoco, che illuminando le cose ce le fa comprendere. 
+  Se vi è qualcosa da chiarire, lo si porta alla luce e poi si agisce. E\' dunque una situazione in cui agire è conforme anche se qui si tratta dell\'attraversamento della grande acqua, impresa sempre difficile e complicata. 
+  Nella lunga distanza vi sarà raccolto, non bisogna scoraggiarsi. ';
 $book['13']['image'] = 
-' Heaven together with fire:
-  The image of FELLOWSHIP WITH MEN. 
-  Thus the superior man organizes the clans
-  And makes distinctions between things. \e
-  Heaven has the same direction of movement as fire, yet it is different from fire. Just as the luminaries in the sky serve for the systematic division and arrangement of time, so human society and all things that really belong together must be organically arranged. Fellowship should not be a mere mingling of individuals or of things–that would be chaos, not fellowship. If fellowship is to lead to order, there must be organization within diversity.';
+' Il cielo insieme al fuoco: l\'immagine dell\'associazione tra uomini. Così il nobile ripartisce e stirpi e distingue le cose.
+  L\'immagine descrive una comunità di persone con rapporti chiari e ordinati, in cui si comprendono e definiscono ruoli e affinità. ';
 $book['13']['line1'] = 
-' Nine at the beginning means:
-  Fellowship with men at the gate. 
-  No blame. \e
-  The beginning of union among people should take place before the door. All are equally close to one another. No divergent aims have yet arisen, and one makes no mistakes. The basic principles of any kind of union must be equally accessible to all concerned. Secret agreements bring misfortune.';
+' Nove all\'inizio significa: 
+  Compagnia tra gli uomini sul portone. Nessuna macchia.\e
+  Ci si avvicina agli altri sulla porta, cioè senza particolari approfondimenti; è la fase iniziale in cui si comincia solo a definire l\'associazione. 
+  Un primo avvicinamento tra persone avviene senza particolari simpatie e antipatie. Esse si possono sviluppare solo in seguito. ';
 $book['13']['line2'] = 
-' Six in the second place means:
-  Fellowship with men in the clan. 
-  Humiliation. \e
-  There is danger here of formation of a separate faction on the basis of personal and egotistic interests. Such factions, which are exclusive and, instead of welcoming all men, must condemn one group in order to unite the others, originate from low motives and therefore lead in the course of time to humiliation.';
+' Sei al secondo posto significa: 
+  Compagnia fra uomini dentro la schiatta. Svergognamento.\e
+  Un impedimento dovuto a uno scopo egoistico rende angusto il rapporto, inquinandolo; può esserci una mancanza di comprensione o di comunicazione oppure un ostacolo sociale o morale. ';
 $book['13']['line3'] = 
-' Nine in the third place means:
-  He hides weapons in the thicket;
-  He climbs the high hill in front of it. 
-  For three years he does not rise up. \e
-  Here fellowship has changed about to mistrust. Each man distrusts the other, plans a secret ambush, and seeks to spy on his fellow form afar. We are dealing with an obstinate opponent whom we cannot come at by this method. Obstacles standing in the way of fellowship with others are shown here. One has mental reservations for one\'s own part and seeks to take his opponent by surprise. This very fact makes one mistrustful, suspecting the same wiles in his opponent and trying to ferret them out. The result is that one departs further and further from true fellowship. The longer this goes on, the more alienated one becomes.';
+' Nove al terzo posto significa: 
+  Nasconde armi nella fratta. Sale sull\'alta collina antistante. Per tre anni egli non si solleva.\e
+  Diffidenza reciproca tra coloro che dovrebbero associarsi. Ci si spia, covando risentimento, da lontano. Il tempo si protrae, c\'è una lunga attesa. ';
 $book['13']['line4'] = 
-' Nine in the fourth place means:
-  He climbs up on his wall; he cannot attack. 
-  Good fortune. \e
-  Here the reconciliation that follows quarrel moves nearer. It is true that there are still dividing walls on which we stand confronting one another. But the difficulties are too great. We get into straits, and this brings us to our senses. We cannot fight, and therein lies our good fortune.';
+' Nove al quarto posto significa: 
+  Egli sale sulle sue mura, egli non può assalire. Salute! \e
+  Chi dovrebbe associarsi si mostra apertamente e alcune ambiguità o risentimenti sono chiariti. Ne consegue pace e una nuova quiete. ';
 $book['13']['line5'] = 
-' Nine in the fifth place means:
-  Men bound in fellowship first weep and lament,
-  But afterward they laugh. 
-  After great struggles they succeed in meeting. \e
-  Two people are outwardly separated, but in their hearts they are united. They are kept apart by their positions in life. Many difficulties and obstructions arise between them and cause them grief. But, remaining true to each other, they allow nothing to separate them, and although it costs them a severe struggle to overcome the obstacles, they will succeed. When they come together their sadness will change to joy. Confucius says of this:
-  Life leads the thoughtful man on a path of many windings.
-  Now the course is checked, now it runs straight again.
-  Here winged thoughts may pour freely forth in words,
-  There the heavy burden of knowledge must be shut away in silence.
-  But when two people are at one in the inmost hearts,
-  They shatter even the strength of iron or of bronze.
-  And when two people understand each other in their inmost hearts,
-  Their words are sweet and strong, like the fragrance of orchids.';
+' Nove al quinto posto significa:
+  Gli uomini compagni prima piangono e gemono, ma dopo ridono. Dopo grandi lotte riescono ad incontrarsi.\e
+  Ostacoli esterni e divergenze di punti di vista separano coloro che dovrebbero associarsi. Ciò non taglia il legame, ma vi è molta tristezza. 
+  L\'affinità tra le persone coinvolte è però troppo grande, fa sì che gli ostacoli siano superati e alla fine vi è unione. ';
 $book['13']['line6'] = 
-' Nine at the top means:
-  Fellowship with men in the meadow. 
-  No remorse. \e
-  The warm attachment that springs from the heart is lacking here. We are by this time actually outside of fellowship with others. However, we ally ourselves with them. The fellowship does not include all, but only those who happen to dwell near one another. The meadow is the pasture at the entrance to the town. At this stage, the ultimate goal of the union of mankind has not yet been attained, but we need not reproach ourselves. We join the community without separate aims of our own.';
+' Nove sopra significa: Compagnia fra uomini fuori mura: nessun pentimento.\e
+  Non è possibile unione completa, gli scopi in comune sono generici, senza particolari interessi. Quello che si ha deve bastare. ';
 
 # -------------------------      14       ----------------------- #
 $book['14']['desc'] = 

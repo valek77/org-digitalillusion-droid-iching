@@ -6,10 +6,13 @@ $h = $_REQUEST['h'];
 # SOURCE: http://wengu.tartarie.com/wg/wengu.php?lang=en&l=Yijing
 # -------------------------      01       ----------------------- #
 $book['01']['desc'] = 
-' Above CH\'IEN THE CREATIVE, HEAVEN
-  Below CH\'IEN THE CREATIVE, HEAVEN\e
-  The first hexagram is made up of six unbroken lines. These unbroken lines stand for the primal power, which is light-giving, active, strong, and of the spirit. The hexagram is consistently strong in character, and since it is without weakness, its essence is power or energy. Its image is heaven. Its energy is represented as unrestricted by any fixed conditions in space and is therefore conceived of as motion. Time is regarded as the basis of this motion. Thus the hexagram includes also the power of time and the power of persisting in time, that is, duration.
-  The power represented by the hexagram is to be interpreted in a dual sense in terms of its action on the universe and of its action on the world of men. In relation to the universe, the hexagram expresses the strong, creative action of the Deity. In relation to the human world, it denotes the creative action of the holy man or sage, of the ruler or leader of men, who through his power awakens and develops their higher nature.';
+' Esagramma 1- Il Creativo\e
+  La situazione si presenta colma della massima creatività, mai come in questo momento  sei pronto per compiere ciò che da tantissimo tempo stai cercando di fare, a tentoni e lottando. Non è ancora compiuto, qui c’è la Potenzialità, l’occasione e la forza. Qui  c’è l’opportunità  di tirarti fuori dalle cose che ostacolano, dai legacci angustianti del non-sapere, non-riuscire, non-avere forza. Nel Creativo, ora, c’è  la forza per liberarsi da tutte le ombre. Nulla è ancora compiuto e finito, nulla ancora è iniziato, ma finalmente può cominciare il primo passo verso il rinnovamento, poiché tutte le circostanze sono favorevoli.  Ci vorrà pazienza, cura e nutrimento, ma hai atteso per tanto tempo, alla cieca camminando a tentoni, lasciando fermentare dentro di te le forze sia dell’oscurità che della luce. E adesso, emerge la comprensione: ora puoi capire e trovare ciò che cerchi.
+  Nessuna frattura con ciò che senti internamente e ciò che è esteriormente: puoi iniziare a sentirti in armonia con il mondo e le cose e cominciare a costruire secondo i tuoi reali desideri.
+  L’uscita di questo esagramma invita anche all’attenzione:  attuare i tuoi più profondi desideri non deve diventare una nuova mania, un nuovo ostacolo, una nuova opponente separazione tra te e gli altri, te e il mondo! E’ essenziale trovare concretamente qualcosa a cui dare forma, per iniziare a costruire nel mondo ciò che hai mancato di fare finora, ma che è stato sempre lì, ad aspettare che tu fossi abbastanza forte e maturo per poter cominciare . Ora puoi e devi, ora hai la forza, il potere, le condizioni: ti sei liberato dalla zavorra delle passate situazioni, è come se non ti interessassero più.
+  E’ come una nascita: come uscire dal grembo materno e cominciare a crescere. L’energia che ti spingeva a compiere qualcosa di nuovo era finora bloccata a causa delle difficili esperienze, eri esitante, non sapevi bene come portare avanti le fuggevoli intuizioni, cominciavi e ti perdevi, tornando sempre ai vecchi schemi, come un gambero che prosegue in linea obliqua e mai diritto. Ora le e situazioni e gli ostacoli dell’ombra sono spazzati via. Inizia un periodo di costruzione: sta a te trovare cosa costruire.
+  Parola chiave : CREATIVITA’ PERSISTENTE NEL TEMPO.
+';
 $book['01']['judge'] = 
 ' THE CREATIVE works sublime success,
   Furthering through perseverance.\e 
@@ -64,10 +67,10 @@ $book['01']['line-3'] =
 
 # -------------------------      02       ----------------------- #
 $book['02']['desc'] = 
-' Above K\'UN THE RECEPTIVE, EARTH
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  This hexagram is made up of broken lines only. The broken lines represents the dark, yielding, receptive primal power of yin. The attribute of the hexagram is devotion; its image is the earth. It is the perfect complement of THE CREATIVE–the complement, not the opposite, for the Receptive does not combat the Creative but completes it. It represents nature in contrast to spirit, earth in contrast to heaven, space as against time, the female-maternal as against the male-paternal. However, as applied to human affairs, the principle of this complementary relationship is found not only in the relation between man and woman, but also in that between prince and minister and between father and son. Indeed, even in the individual this duality appears in the coexistence of the spiritual world and the world of the senses.
-  But strictly speaking there is no real dualism here, because there is a clearly defined hierarchic relationship between the two principles. In itself of course the Receptive is just as important as the Creative, but the attribute of devotion defines the place occupied by this primal power in relation to the Creative. For the Receptive must be activated and led by the Creative; then it is productive of good. Only when it abandons this position and tries to stand as an equal side by side with the Creative, does it become evil. The result then is opposition to and struggle against the Creative, which is productive of evil to both.';
+' Esagramma 2 – La non azione che fa crescere.\e
+  Terra sopra e Terra sotto: infinite possibilità sono assorbite ancora nel grembo, ma non si manifestano.
+  A volte si pensa che starsene tranquillamente senza lanciarsi in nessuna impresa sia una debolezza o una stasi. Ma il non fare, quando si è colmi di buoni semi, è il modo per farli maturare e perfezionarli. La Terra nutre anche ciò che ancora non si manifesta; ciò che è vivo e pulsante dentro di te viene portato a compimento soltanto  dietro le scene, per poi fiorire. E’ il tempo di accudire e curare tutti i semi che nel corso del tempo sono attecchiti in te e se ti consenti di lanciare uno sguardo nel tuo cuore ci trovi  ricchezze e tesori che hai dimenticato e trascurato. La Terra di questo esagramma è la casa, in psicanalisi è il Sé, nel suo aspetto femminile, massimamente intuitivo e immaginativo, dove le forze si stanno raccogliendo ora per poi manifestarsi alla coscienza e alla vita attiva. Come fa la terra quando mantiene il suo calore interno per nutrire e alimentare le minuscole creature che vi abitano, ora devi  abbracciare ciò che intimamente senti di essere e nutrirlo. Allontanati da ciò che è freddo e richiede sforzo e agitazione, avvicinati naturalmente a ciò che è caldo e supportivo, come una madre. Spesso chiedi cose astratte e senza fondamento trascurando invece ciò che già hai a portata di mano, e il movimento verso l’esterno talvolta non attinge alle tue reali  potenzialità, distraendoti soltanto da ciò che è veramente degno e in armonia con il tuo cammino.
+  Ora è il tempo di credere in sé e nelle proprie grandi risorse, che possono condurre, se amate e nutrite a grande successo. Un enorme cambiamento sta prendendo forma: lascia che compia il suo lavoro dentro di te, senza opporti, riconosci cosa è ancora giovane e immaturo e amalo e alimentalo per farlo crescere per definirsi. Si può alimentare questo sé ancora implume essendo ricettivi e aperti e disponendosi a salutare ciò che accade come un aiuto verso la crescita. Ciò implica un’attitudine incondizionata e serena a ricevere più che a dare e può darsi che vi siano persone intorno a te che finiranno per allontanarsi, mentre si avvicineranno altri che sono al tuo livello di ricettività.  Il compito è proprio quello di rivolgerti verso ciò che può fertilizzare ora per promuovere la tua  armonia interiore, in una cosciente veglia sui tuoi reali bisogni. Ricorda che ciò che ti spinge a reagire ora non agevola la tua crescita e che questo momento di quiete e amore deve essere difeso dai pensieri di lotta e sfide, tutti provenienti da disturbi e ostacoli. Se riesci a superare le infinite sollecitazioni di muoverti verso obiettivi per ora immaturi, la strada sarà sempre liscia, e spianata verso una fioritura per ora inimmaginabile. Dormi e cresci. Sogna.';
 $book['02']['judge'] = 
 ' THE RECEPTIVE brings about sublime success,
   Furthering through the perseverance of a mare. 
@@ -157,10 +160,14 @@ $book['03']['line6'] =
 
 # -------------------------      04       ----------------------- #
 $book['04']['desc'] = 
-' Mêng / Youthful Folly 
-  Above KÊN KEEPING STILL, MOUNTAIN
-  Below K\'AN THE ABYSMAL, WATER\e
-  In this hexagram we are reminded of youth and folly in two different ways. The image of the upper trigram, Kên, is the mountain, that of the lower, K\'an, is water; the spring rising at the foot of the mountain is the image of inexperienced youth. Keeping still is the attribute of the upper trigram; that of the lower is the abyss, danger. Stopping in perplexity on the brink of a dangerous abyss is a symbol of the folly of youth. However, the two trigrams also show the way of overcoming the follies of youth. Water is something that of necessity flows on. When the spring gushes forth, it does not know at first where it will go. But its steady flow fills up the deep place blocking its progress, and success is attained.';
+' Esagramma 4 – L’Apprendistato.
+  Stoltezza giovanile ha riuscita. Non sono  io a cercare  il giovane stolto, il giovane stolto cerca me. Consultato una prima volta, io rispondo. Se egli consulta due, tre volte è importuno. Se egli importuna, non rispondo.Propizia è perseveranza.\e
+  Un monte che ha davanti a sé un abisso contenente acqua.
+  La risposta alla domanda è che prima di arrivare a un qualche risultato  è indispensabile  apprendere a superare l’abisso, cioè un errore di fondo, un impedimento, contro cui ci si blocca, ansiosi di ottenere che  il nostro desiderio si realizzi, perdendo di vista invece le lezioni dell’esperienza. Che cosa si è imparato, fin qui? Quale è la lezione che si doveva imparare e che è stata trascurata? A volte nel tentativo di mantenere speranze in vita, gli ostacoli e difficoltà vengono ignorati e messi da parte, con ingenua e un po’ sciocca noncuranza; ma è proprio con quegli avvertimenti che la vita ci impartisce le sue lezioni. Il bambino impara che ci sono frustrazioni e così  ad adattarsi al mondo; e  da adulti impariamo, dalle situazioni che si presentano, a distinguere tra quelle percorribili e quelle da scartare, per ora. Quando non si è capaci di distinguere tra impossibilità e possibilità stiamo solo fantasticando, in una insormontabile frattura tra ciò che vogliamo e ciò che è realizzabile concretamente. Le fantasie, cariche di potenziale creativo, sono scollegate dal  nostro modo di agire; e così, in preda a infantili speranze, spesso compiamo errori madornali, per poi continuare a chiederci perché non riusciamo a realizzare quello che desideriamo. In questa situazione o chiediamo consiglio a una guida sicura o apriamo gli occhi per vedere lo stato delle cose.  Quando chiediamo a qualcun altro di aiutarci a risolvere un problema,  e ci dica come fare e cosa fare,  ci avviciniamo a chi ci consiglia con umiltà e desiderio di imparare: così vi è scambio, apertura e costruzione di qualcosa di nuovo. Ma quando  agiamo seguendo l’impulso invece che secondo ciò che ci consiglia qualcun altro, insomma ci mettiamo in gioco, la situazione può sembrare incerta e carica di pericoli.   Ma poiché, a tutti gli effetti, imparare dagli errori è il solo modo per imparare alcunché, forse è arrivato il momento di assumersi la responsabilità anche di fallire. Questo è un tempo di errori e di apprendimento attraverso gli errori. Ma gli errori si pagano, e duramente, se restano semplici impedimenti e non maestri di vita.
+  Bussiamo alle porte del futuro agli ordini di speranze e timori, e poi ci meravigliamo che le porte non si aprano: questo è il segno dell’ inesperienza, della stoltezza, ma anche di una certa innocenza. E per fortuna il senso dell’esagramma si concentra sulla qualità dell’innocenza, della nostra mancanza di visione e sull’apprendistato necessario per acquisirla. Mete lontane come vette inaccessibili e vergini sono fantasie che ci distraggono dal presente; e difficilmente si può creare qualcosa di durevole se non impariamo mai nulla dal passato. Quando la vita ci impartisce lezioni, più volte, e noi ignoriamo la lezione, più volte, l’innocenza diventa  stoltezza giovanile, e di conseguenza la porta resta ancora chiusa davanti a noi.
+  Assumiamoci la responsabilità di prendere decisioni, mettiamoci veramente in gioco; smettiamo di chiedere su future realizzazioni  – per concentrarci su quello che onestamente sappiamo  e possiamo fare e abbiamo a disposizione ora. Temere e non fidarsi di se stessi , come atteggiamento di vita, ci rende privi della qualità fondamentale per riuscire in qualunque impresa: imparare dall’esperienza, dalla nostra personale  Storia, fatta di cadute e delusioni ma anche di risalite e passione; è questo il maestro a cui chiedere una guida. Ma quando non vogliamo o sappiamo farlo, non ci resta, come bambini sperduti, che cercare sostegni e aiuti esterni e procedere. Se infatti nonostante i ripetuti insuccessi si continuano a commettere gli stessi errori, a causa dell’ incapacità di imparare,  allora bisogna  modificare qualcosa e adottare un comportamento diverso; anche se in tempi di crisi, per una persona indebolita dai colpi della vita, è difficile seguire strade scomode che  conducano al nuovo. Ma imparare è spesso scomodo e difficile, soprattutto se si pensa di aver già capito tutto.
+  Parole chiave:   Incoscienza. Bisogna imparare dall’esperienza e non insistere in atteggiamenti fatui. Assumersi la responsabilità di andare avanti sapendo già che le  cadute, se ci saranno, insegneranno a chiarire meglio gli obiettivi. Chi non ha obiettivi chiari e non si assume responsabilità non sarà mai maestro, soltanto uno che vaga in preda a speranze e timori.
+';
 $book['04']['judge'] = 
 ' YOUTHFUL FOLLY has success.
   It is not I who seek the young fool;
@@ -219,10 +226,12 @@ $book['04']['line6'] =
 
 # -------------------------      05       ----------------------- #
 $book['05']['desc'] = 
-' Hsü / Waiting (Nourishment) 
-  Above K\'AN THE ABYSMAL, WATER 
-  Below CH\'IEN THE CREATIVE, HEAVEN \e
-  All beings have need of nourishment from above. But the gift of food comes in its own time, and for this one must wait. This hexagram shows the clouds in the heavens, giving rain to refresh all that grows and to provide mankind with food and drink. The rain will come in its own time. We cannot make it come; we have to wait for it. The idea of waiting is further suggested by the attributes of the two trigrams–strength within, danger in front. Strength in the face of danger does not plunge ahead but bides its time, whereas weakness in the face of danger grows agitated and has not the patience to wait.';
+' Esagramma 5 – Attendere
+  Nubi salgono nel cielo: l’immagine dell’attesa. Così il nobile mangia e beve ed è lieto e di buon umore.\e
+  Nebbia nel cielo, in una promessa di pioggia ancora lontana a venire. Qualcosa si fa attendere, ed è in stand by. Sotto il Cielo e sopra l’Abissale, il pericolo; difficoltà davanti bloccano il procedere e avventurarsi significherebbe aprire le porte all’ombra. Non c’è ancora niente di risolutivo in questa impresa e dedicarvisi sarebbe prematuro e pericoloso. Bisogna quindi ritirarsi dal pericolo di fare mosse premature e avventate e procastinare fino a che le cose non appariranno più chiare. E’ meglio, sempre se si riesce a stare lontani dalle solite attrattive dell’ombra,  allentare la tensione e permettere a  nuove esperienze calde e supportive  di fare la loro entrata. E’ il momento di cercare ciò che ci nutre e dà serenità, e lasciare che le altre cose si sviluppino, senza intervenire. E mentre  le esperienze cambiano e raggiungiamo nuovi livelli di comprensione, aspetto e forma anche del problema cambiano: ciò che oggi ci sembra della massima importanza domani viene ridimensionato, o dimenticato.  E’ il modo in cui attendiamo e passiamo il tempo a  trasformare una  situazione di stallo in un periodo costruttivo e  benefico: si impara a rallentare, ad aver pazienza e non forzare. Il successo arriva in questa impresa al pari passo della nostra capacità di bastarsi e di trovare soddisfazione in altre imprese, forse più modeste ma costruttive. Il nobile va per la sua strada, tenendosi lontano dall’ombra e i suoi richiami.
+  Se sei verace hai luce e riuscita. Perseveranza reca salute. Propizio è attraversare la grande acqua.
+  Il testo dell’Esagramma descrive le varie esperienze durante un periodo di attesa.
+  Parole chiave – Pausa costruttiva. Nutrire ciò che è ancora immaturo il cui esito si manifesterà nel tempo. Rimandare.';
 $book['05']['judge'] = 
 ' WAITING. If you are sincere,
   You have light and success. 
@@ -273,12 +282,12 @@ $book['05']['line6'] =
 
 # -------------------------      06       ----------------------- #
 $book['06']['desc'] = 
-' Sung / Conflict 
-  Above CH\'IEN THE CREATIVE, HEAVEN
-  Below K\'AN THE ABYSMAL, WATER\e
-  The upper trigram, whose image is heaven, has an upward movement; the lower trigram, water, in accordance with its nature tends downward. Thus the two halves move away from each other, giving rise to the idea of conflict.
-  The attribute of the Creative is strength, that of the Abysmal is danger, guile. Where cunning has force before it, there is conflict.
-  A third indication of conflict, in terms of character, is presented by the combination of deep cunning within and fixed determination outwardly. A person of this character will certainly be quarrelsome.';
+' Esagramma 6 – Divergenza.
+  La lite: sei verace e vieni impedito. Accorto fermarsi a metà strada reca salute. Condurre a termine reca sciagura.
+  Propizio è vedere il grande uomo. Non propizio attraversare la grande acqua. Sentenza (W) \e
+  L’idea è che qualunque impresa si intraprenda è limitata nella sua espressione.
+  Il Cielo, calmo e aperto sul pericoloso e infido Abissale. Tra i due, il nulla. Ciascuno dei due è quello che è, e non può assumere altra natura. Non si tratta di torti o ragioni, ma di incompatibilità di punti di vista. Quando nasce una divergenza, la maggior parte delle persone che fa? Si arma e cerca di costringere l’altro a reagire, e allora la lite è iniziata e continuerà per sempre. Non ci sarà nessun tornaconto, ci si è fatto un nemico, e basta. In questa situazione non bisogna quindi agire con aggressività o volontà di sopraffare. Far valere le proprie ragioni  non serve, quando la natura del rapporto è conflittuale fin dall’inizio: occorre allora adoperarsi di pazienza e continuare per la propria strada, senza curarsi dell’offesa che riteniamo ci sia stata fatta. Comportatevi come  avete fatto finora: restate con quel nulla che avete cercato di immaginare diverso….e rendetevi conto che non potrà mai essere come sperate.  Il problema qui è la mancanza di comunicazione: non siete in grado di capirvi l’un l’altro, e in fondo, ciò significa che non vi conoscete l’un l’altro. C’è una grande incomprensione di fondo tra voi. All’inizio del vostro rapporto la distanza tra voi già esisteva, non si è formata nel tempo o in seguito a qualcosa. Il vostro rapporto è condizionato proprio da questa incompatibilità di visione e se finora ci sono stati punti in comune è perché avete cercato di adattarvi e di mediare le divergenze. Cosa che potete continuare benissimo a fare, come l’esagramma consiglia. L’asino non diventa un cavallo solo perché lo volete voi. Quindi si tratta di lasciare da parte la litigiosità e venire a patti con l’orgoglio, l’ira e tutte le speranze e le paure che covate nel cuore ed ammettere che la natura del vostro rapporto è tale fin dall’inizio e che è pura illusione sperare di cambiare le cose.
+  Oppure, se volete togliervi ‘ il sassolino dalla scarpa’ ( e ne avete ben ragione!) potete sempre dar fuoco alle polveri e decidere di affrontarlo a viso a viso. Ne seguirà conflitto, il che vi allontanerà ancor di più da lui. Se è questo che volete, iniziate la guerra, ma anche se ci sarà vittoria, sarà molto, molto amara.';
 $book['06']['judge'] = 
 ' CONFLICT. You are sincere
   And are being obstructed. 
@@ -337,11 +346,11 @@ $book['06']['line6'] =
 
 # -------------------------      07       ----------------------- #
 $book['07']['desc'] = 
-' Shih / The Army 
-  Above K\'UN THE RECEPTIVE, EARTH
-  Below K\'AN THE ABYSMAL, WATER\e
-  This hexagram is made up of the trigrams K\'an, water, and K\'un, earth, and thus it symbolizes the ground water stored up in the earth. In the same way military strength is stored up in the mass of the people–invisible in times of peace but always ready for use as a source of power. The attributes of the two trigrams are danger inside and obedience outside. This points to the nature of an army, which at the core is dangerous, while discipline and obedience must prevail outside.
-  Of the individual lines, the one that controls the hexagram is the strong nine in the second place, to which the other lines, all yielding, are subordinate. This line indicates a commander, because it stands in the middle of one of the two trigrams. But since it is in the lower rather than the upper trigram, it represents not the ruler but the efficient general, who maintains obedience in the army by his authority.';
+'Esagramma 7 – Esercito
+Nel grembo della terra vi è l’acqua: l’immagine dell’esercito. Così il nobile, magnanimo verso il popolo, cresce le sue masse. L’esercito ha bisogno di perseveranza e di un uomo forte. Salute senza macchia. \e
+Un lago si è raccolto sulla terra, da qui l’idea di molte persone insieme che collaborano per una meta condivisa. E’ una visione di giustizia, di uguaglianza e di accordo, poichè non si possono ottenere risultati di valore senza ricevere il contributo degli altri, né è possibile un vero e aperto scambio senza dare in ritorno il proprio contributo. Ma ciascuno dà quello che può e sa dare; come in un esercito,  in ogni impresa impegnativa ognuno ha il suo ruolo  importante, e opera affinché anche gli altri possano operare. Tutto però deve essere diretto da chi ha la saggezza e l’esperienza, l’abnegazione e sa assumersi le responsabilità di prendere le decisioni.  E’necessario mantenere le redini della situazione pur restando in atteggiamento di accoglienza. Non agire d’impulso, o sconsideratamente. Attenzione a non mettersi in situazioni di debolezza, qui presenti tutto intorno alla domanda in questione: imponi la tua volontà e la tua visione e altri ti seguiranno spontaneamente. Non cedere alle oscurità,sempre in agguato e persevera.   L’impresa si può fare, la costruzione può cominciare. Queste sono le basi di qualcosa raramente sperimentato prima, un percorso che metterà alla prova le tue possibilità creative; ciò che verrà sarà impegnativo ma darà frutto, e perciò dovrai essere forte e andare avanti. Non sarai sola,  avrai sostegno e condividerai con altri la tua visione. Sarai capita, anche se a volte con fatica. Salute senza macchia: tutto ciò che avverrà su questa linea del karma ti avvicina alla Meta.
+Parole chiave: mettere insieme  dettagli, unificare e dare direzione produttiva alle cose; una situazione consolidata si trasforma radicalmente grazie ad unione costruttiva; guidare un team con uno scopo comune. Imporre la propria volontà  per definire una situazione controversa agendo in base e a ciò che si ritiene giusto e non per compiacere ad altri.
+';
 $book['07']['judge'] = 
 ' THE ARMY. The army needs perseverance
   And a strong man. 
@@ -392,10 +401,15 @@ $book['07']['line6'] =
 
 # -------------------------      08       ----------------------- #
 $book['08']['desc'] = 
-' Pi / Holding Together [Union] 
-  Above K\'AN THE ABYSMAL, WATER
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  The waters on the surface of the earth flow together wherever they can, as for example in the ocean, where all the rivers come together. Symbolically this connotes holding together and the laws that regulate it. The same idea is suggested by the fact that all the lines of the hexagram except the fifth, the place of the ruler, are yielding. The yielding lines hold together because they are influenced by a man of strong will in the leading position, a man who is their center of union. Moreover, this strong and guiding personality in turn holds together with the others, finding in them the complement of his own nature.';
+'Esagramma 8 – Solidarietà (Il simile attira il simile)
+La solidarietà reca salute. Scruta l’oracolo ancora una volta per sapere se possiedi sublimità durata e perseveranza; allora non vi è macchia. Gli incerti si accostano a poco a poco. Chi arriva tardi ha sciagura.\e
+Questa è una situazione in cui si decide ciò che ci è affine. Ma ci sono ostacoli, e  l’esito è incerto. Unirsi a qualcuno è semplice quando ci è simile e ci viene incontro; non  è altrettanto semplice con chi si presenta a noi portando intoppi, ritardi, piccoli e persistenti ostacoli e confusione. L’esagramma invita a seguire con fiducia ciò che ci dà soddisfazione e gioia; è implicito che occorre distinguere delle priorità internamente e fare poi una scelta; e bisogna affrettarsi, poiché quando l’unione non avviene  in breve tempo e senza ritardo vi sarà sciagura.  Qualcuno farà esperienza di una difficile scelta, ma alla fine deciderà ciò che gli è affine. Altri, che preferiscono rimandare il confronto con le proprie priorità interne, avranno sciagura.
+Si racconta che Yu il Grande, uno dei primi imperatori e fondatore della dinastia Xia, a cui allude questo esagramma, regnasse sui vassalli con pugno di ferro: quando  un suo  capitano arrivò in ritardo alla sua richiesta, Yu lo fece giustiziare. L’esagramma sottolinea  la tempestività nell’agire in una situazione in cui essere solidali per cercare altri al nostro stesso livello ricettivo è importante e che probabilmente si devono affrontare delle prove.
+Sulla terra sta l’acqua: l’ immagine della solidarietà.
+Così gli antichi re hanno concesso i singoli stati come feudi e hanno curato amichevoli rapporti con i principi feudatari.
+L’immagine  è una terra da cui sorgono acque: terra e acqua sono sempre insieme e perciò sono solidali.  Tutte le linee deboli sorreggono un’unica linea forte, questo Re che pone rimedio ai danni, perché ha la forza. Ci viene richiesto di avere forza e capacità come Yu, coerenti per il bene comune, lasciando indietro chi non viene a noi spontaneamente e soprattutto senza ritardo. Se non si ha  forza  e capacità di comprensione di ciò che va accantonato e ciò che va portato avanti, si perde l’occasione.  A volte ci si sforza per continuare come abbiamo sempre fatto: un’aggiustatina e si va avanti, in qualche modo. Ma solidarietà significa trovare dentro se stessi la certezza profonda di chi e cosa seguire.
+In una unione fertile e solidale non vi è sospetto tra i suoi membri, né ambiguità o timore. C’è invece reciproco scambio, e profonda onestà.
+Parole chiave: possibilità di connessione con l’altro  attraverso  prove; perseguire ciò che da stabilità;  distinguere e unirsi con ciò che è affine; se vi è un ritardo segue sciagura.';
 $book['08']['judge'] = 
 ' HOLDING TOGETHER brings good fortune. 
   Inquire of the oracle once again
@@ -454,10 +468,13 @@ $book['08']['line6'] =
 
 # -------------------------      09       ----------------------- #
 $book['09']['desc'] = 
-' Hsiao Ch\'u / The Taming Power of the Small 
-  Above SUN THE GENTLE, WIND
-  Below CH\'IEN THE CREATIVE, HEAVEN\e
-  This hexagram means the force of the small–the power of the shadowy–that restrains, tames, impedes. A weak line in the fourth place, that of the minister, holds the five strong lines in check. In the Image it is the wind blowing across the sky. The wind restrains the clouds, the rising breath of the Creative, and makes them grow dense, but as yet is not strong enough to turn them to rain. The hexagram presents a configuration of circumstances in which a strong element is temporarily held in leash by a weak element. It is only through gentleness that this can have a successful outcome.';
+'Esagramma 9 – Il potere del piccolo.
+Pesanti nubi spinte dal vento si avvicinano, ma non c’è pioggia. Successo!\e
+Grandi forze attive si raggruppano e il destino si sta muovendo, ma il suo effetto non è ancora manifesto.  Le nubi sono dense, nessuna pioggia. Ora sta iniziando qualcosa che solo nel tempo darà il suo frutto.
+Il mite ottiene il posto decisivo e tutti lo apprezzano: questo si chiama la forza domatrice del piccolo. Così il nobile affina le forme esteriori del suo carattere.
+Ecco che entra in scena la mitezza, grande qualità del Nobile. Ciò vuol dire che le nostre azioni presenti sono in linea con il nostro cammino, e fiduciosi bisogna proseguire. Non preoccupiamoci del nome, della fama, dell’opinione che pensiamo di avere di noi stessi: siamo accettati dagli altri perché siamo sinceri e modesti, senza velleità di successo immediato. E’ l’ inizio di un viaggio, la cui meta finale ci è per ora sconosciuta. C’è un incontro con qualcuno, e impareremo da lui qualcosa che non sapevamo, e da cui saremo arricchiti.
+Prima di iniziare qualcosa di nuovo un periodo di raccoglimento e riordino è importante  se si vogliono ottenere, in futuro, cambiamenti in positivo. La debolezza allora non è un ostacolo, perchè la si vive con pazienza e tenerezza interiormente; e anche se esteriormente la presenza di qualcosa o qualcuno impedisce la nostra volontà, il nostro essere miti, flessibili e più rilassati ci permetterà in seguito di giungere a una decisione ben definita.  L’esagramma presenta l’immagine del Cielo attraversato da nubi, che però non hanno forza sufficiente per portare la pioggia: la soluzione non è vicina, vecchi nodi persistono ancora e devono svilupparsi, nonostante il nostro desiderio di andare avanti. Eppure vi è la possibilità del successo finale: quando dentro di noi vi sono dubbi è meglio smettere di forzare e  arrivare gradatamente al rilascio della tensione, simboleggiata qui dalla pioggia della sesta linea. In amore ciò può voler dire accontentarsi per ora e attendere passivamente che qualcosa cambi. Per ora però bisogna armarsi di pazienza e assistere a ciò che accade senza intervenire, lasciando che tutto vada per la propria strada; ed è qui, nell’attesa e nel tempo che deve passare che infine si arriva alla soluzione.
+Parole chiave: Sta per nascere qualcosa di nuovo, nutritelo con fiducia; fermatevi ad accudire questo piccolo cambiamento per giungere ad un futuro risultato.';
 $book['09']['judge'] = 
 ' THE TAMING POWER OF THE SMALL
   Has success. 
@@ -507,10 +524,14 @@ $book['09']['line6'] =
 
 # -------------------------      10       ----------------------- #
 $book['10']['desc'] = 
-' Lü / Treading [Conduct] 
-  Above CH\'IEN THE CREATIVE, HEAVEN
-  Below TUI THE JOYOUS, LAKE\e
-  The name of the hexagram means on the one hand the right way of conducting oneself. Heaven, the father, is above, and the lake, the youngest daughter, is below. This shows the difference between high and low, upon which composure, correct social conduct, depends. On the other hand the word for the name of the hexagram, TREADING, means literally treading upon something. The small and cheerful [Tui] treads upon the large and strong [Ch\'ien]. The direction of movement of the two primary trigrams is upward. The fact that the strong treads on the weak is not mentioned in the Book of Changes, because it is taken for granted. For the weak to take a stand against the strong is not dangerous here, because it happened in good humor [Tui] and without presumption, so that the strong man is not irritated but takes it all in good part.';
+' Esagramma 10 – Procedere
+  Procedere sulla coda di una tigre.
+  Se essa non morde,
+  Riuscita.\e
+  Il Cielo sta sul Lago: ciò che è in alto non si mescola con ciò che sta in basso, il forte non è il debole,  chi guida non è chi è guidato,  perché sono diversi per qualità e caratteristiche. Così il Nobile distingue all’esterno e all’interno di sé le priorità e il posto consono delle cose e sceglie con cautela ciò che è necessario da ciò che non lo è. La situazione richiede attenzione.
+  Spesso quando vogliamo compiere qualcosa, non ci chiediamo neppure di cosa la situazione ha bisogno per crescere e svilupparsi: nutriamo il momento con tutto quello che abbiamo, comprese le nostre speranze e le paure, tutte provenienti da egocentrismi infantili; non è il comportamento giusto, perché si mescolano alla cieca futili attaccamenti e saggezza, il che ci conduce dritti alla confusione per noi e per chi ci sta accanto. Qui è richiesta saggezza discriminante, cioè la capacità di definire con estrema precisione gli strumenti adatti allo scopo. Nelle relazioni ciò vuol dire smettere di essere rigidi ed autoreferenziali per comprendere ciò di cui l’altro ha bisogno. Invece cerchiamo di soffocare l’altro con le nostre proiezioni, gli sfoghi infantili pieni di biasimo e cruccio, provocando eccitamento e disgregazione. Bisogna ascoltare, vedere ciò che è necessario davvero e mettere da parte il superfluo rimuginio in una limpida e chiara definizione di quello che vogliamo ottenere. Se si sta cercando di costruire qualcosa, ci vuole il mattone giusto, la malta e la dedizione, altrimenti il muro crolla senza solidità, e alla fin fine abbiamo soltanto sprecato tempo ed energie.
+  Dobbiamo ricorrere, allora, alle nostre qualità migliori: comprensione di ciò di cui l’altro ha bisogno, e di ciò che ci proponiamo: spesso sono la stessa cosa, ma noi, storditi dalle fantasie, crediamo che non sia così. L’innocenza proviene dalla purezza d’intento, che se accuratamente coltivata, si riverserà all’esterno ritornando a noi sottoforma di potere costruttivo. Certo, è come camminare sulla coda di una tigre: troppa cautela genera paura, e allora ella ci aggredisce; troppo impeto produce attrito, e ella non lo sopporterà.
+  Parole chiave: definire il ruolo  di persone e cose per noi. Scegliere ciò che è veramente utile ed importante. Disciplinarsi.  ';
 $book['10']['judge'] = 
 ' TREADING. Treading upon the tail of the tiger. 
   It does not bite the man. Success. \e
@@ -685,62 +706,44 @@ $book['12']['line-3'] =
 
 # -------------------------      13       ----------------------- #
 $book['13']['desc'] = 
-' T\'ung Jên / Fellowship with Men 
-  Above CH\'IEN THE CREATIVE, HEAVEN
-  Below LI THE CLINGING, FLAME\e
-  The image of the upper trigram Ch\'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to heaven. This gives the idea of fellowship. It is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY (7). In the latter, danger is within and obedience without–the character of a warlike army, which, in order to hold together, needs one strong man among the many who are weak. Here, clarity is within and strength without–the character of a peaceful union of men, which, in order to hold together, needs one yielding nature among many firm persons.';
+'ESAGRAMMA 13 – ASSOCIAZIONE
+ Fuoco sotto il Cielo: le fiamme tendono verso l\'alto e il cielo le accoglie, associandosi insieme. Una linea yin sostiene la struttura rendendola flessibile, debole tra molti forti. 
+ Anche nel mondo umano le persone vogliono associarsi e stare insieme, e ciò accade quando vi è comunanza e l\'oscurità non ha troppo spazio. 
+ L\'esagramma è fausto proprio per la presenza di un solo debole tra i forti e descrive i vari aspetti con cui due o più persone interagiscono tra loro. ';
 $book['13']['judge'] = 
-' FELLOWSHIP WITH MEN in the open. 
-  Success. 
-  It furthers one to cross the great water. 
-  The perseverance of the superior man furthers. \e
-  True fellowship among men must be based upon a concern that is universal. It is not the private interests of the individual that create lasting fellowship among men, but rather the goals of humanity. That is why it is said that fellowship with men in the open succeeds. If unity of this kind prevails, even difficult and dangerous tasks, such as crossing the great water, can be accomplished. But in order to bring about this sort of fellowship, a persevering and enlightened leader is needed–a man with clear, convincing, and inspiring aims and the strength to carry them out. (The inner trigram means clarity; the outer, strength. )';
+' Associazione tra gli uomini all\'aperto: riuscita. Propizio è attraversare la grande acqua. Propizia è la perseveranza del nobile.\e
+  Una comunità di persone che si incontrano all\'aperto: la linea yin simboleggia la terra, quindi un campo. Un campo chiaro, in cui sono visibili cose e persone, in cui ci si scambia apertamente idee.
+  Impegnarsi in questa associazione è una cosa buona e naturale, vi è la forza del creativo pronta ad essere usata, sempre preceduta dalla chiarezza del fuoco, che illuminando le cose ce le fa comprendere. 
+  Se vi è qualcosa da chiarire, lo si porta alla luce e poi si agisce. E\' dunque una situazione in cui agire è conforme anche se qui si tratta dell\'attraversamento della grande acqua, impresa sempre difficile e complicata. 
+  Nella lunga distanza vi sarà raccolto, non bisogna scoraggiarsi. ';
 $book['13']['image'] = 
-' Heaven together with fire:
-  The image of FELLOWSHIP WITH MEN. 
-  Thus the superior man organizes the clans
-  And makes distinctions between things. \e
-  Heaven has the same direction of movement as fire, yet it is different from fire. Just as the luminaries in the sky serve for the systematic division and arrangement of time, so human society and all things that really belong together must be organically arranged. Fellowship should not be a mere mingling of individuals or of things–that would be chaos, not fellowship. If fellowship is to lead to order, there must be organization within diversity.';
+' Il cielo insieme al fuoco: l\'immagine dell\'associazione tra uomini. Così il nobile ripartisce e stirpi e distingue le cose.
+  L\'immagine descrive una comunità di persone con rapporti chiari e ordinati, in cui si comprendono e definiscono ruoli e affinità. ';
 $book['13']['line1'] = 
-' Nine at the beginning means:
-  Fellowship with men at the gate. 
-  No blame. \e
-  The beginning of union among people should take place before the door. All are equally close to one another. No divergent aims have yet arisen, and one makes no mistakes. The basic principles of any kind of union must be equally accessible to all concerned. Secret agreements bring misfortune.';
+' Nove all\'inizio significa: 
+  Compagnia tra gli uomini sul portone. Nessuna macchia.\e
+  Ci si avvicina agli altri sulla porta, cioè senza particolari approfondimenti; è la fase iniziale in cui si comincia solo a definire l\'associazione. 
+  Un primo avvicinamento tra persone avviene senza particolari simpatie e antipatie. Esse si possono sviluppare solo in seguito. ';
 $book['13']['line2'] = 
-' Six in the second place means:
-  Fellowship with men in the clan. 
-  Humiliation. \e
-  There is danger here of formation of a separate faction on the basis of personal and egotistic interests. Such factions, which are exclusive and, instead of welcoming all men, must condemn one group in order to unite the others, originate from low motives and therefore lead in the course of time to humiliation.';
+' Sei al secondo posto significa: 
+  Compagnia fra uomini dentro la schiatta. Svergognamento.\e
+  Un impedimento dovuto a uno scopo egoistico rende angusto il rapporto, inquinandolo; può esserci una mancanza di comprensione o di comunicazione oppure un ostacolo sociale o morale. ';
 $book['13']['line3'] = 
-' Nine in the third place means:
-  He hides weapons in the thicket;
-  He climbs the high hill in front of it. 
-  For three years he does not rise up. \e
-  Here fellowship has changed about to mistrust. Each man distrusts the other, plans a secret ambush, and seeks to spy on his fellow form afar. We are dealing with an obstinate opponent whom we cannot come at by this method. Obstacles standing in the way of fellowship with others are shown here. One has mental reservations for one\'s own part and seeks to take his opponent by surprise. This very fact makes one mistrustful, suspecting the same wiles in his opponent and trying to ferret them out. The result is that one departs further and further from true fellowship. The longer this goes on, the more alienated one becomes.';
+' Nove al terzo posto significa: 
+  Nasconde armi nella fratta. Sale sull\'alta collina antistante. Per tre anni egli non si solleva.\e
+  Diffidenza reciproca tra coloro che dovrebbero associarsi. Ci si spia, covando risentimento, da lontano. Il tempo si protrae, c\'è una lunga attesa. ';
 $book['13']['line4'] = 
-' Nine in the fourth place means:
-  He climbs up on his wall; he cannot attack. 
-  Good fortune. \e
-  Here the reconciliation that follows quarrel moves nearer. It is true that there are still dividing walls on which we stand confronting one another. But the difficulties are too great. We get into straits, and this brings us to our senses. We cannot fight, and therein lies our good fortune.';
+' Nove al quarto posto significa: 
+  Egli sale sulle sue mura, egli non può assalire. Salute! \e
+  Chi dovrebbe associarsi si mostra apertamente e alcune ambiguità o risentimenti sono chiariti. Ne consegue pace e una nuova quiete. ';
 $book['13']['line5'] = 
-' Nine in the fifth place means:
-  Men bound in fellowship first weep and lament,
-  But afterward they laugh. 
-  After great struggles they succeed in meeting. \e
-  Two people are outwardly separated, but in their hearts they are united. They are kept apart by their positions in life. Many difficulties and obstructions arise between them and cause them grief. But, remaining true to each other, they allow nothing to separate them, and although it costs them a severe struggle to overcome the obstacles, they will succeed. When they come together their sadness will change to joy. Confucius says of this:
-  Life leads the thoughtful man on a path of many windings.
-  Now the course is checked, now it runs straight again.
-  Here winged thoughts may pour freely forth in words,
-  There the heavy burden of knowledge must be shut away in silence.
-  But when two people are at one in the inmost hearts,
-  They shatter even the strength of iron or of bronze.
-  And when two people understand each other in their inmost hearts,
-  Their words are sweet and strong, like the fragrance of orchids.';
+' Nove al quinto posto significa:
+  Gli uomini compagni prima piangono e gemono, ma dopo ridono. Dopo grandi lotte riescono ad incontrarsi.\e
+  Ostacoli esterni e divergenze di punti di vista separano coloro che dovrebbero associarsi. Ciò non taglia il legame, ma vi è molta tristezza. 
+  L\'affinità tra le persone coinvolte è però troppo grande, fa sì che gli ostacoli siano superati e alla fine vi è unione. ';
 $book['13']['line6'] = 
-' Nine at the top means:
-  Fellowship with men in the meadow. 
-  No remorse. \e
-  The warm attachment that springs from the heart is lacking here. We are by this time actually outside of fellowship with others. However, we ally ourselves with them. The fellowship does not include all, but only those who happen to dwell near one another. The meadow is the pasture at the entrance to the town. At this stage, the ultimate goal of the union of mankind has not yet been attained, but we need not reproach ourselves. We join the community without separate aims of our own.';
+' Nove sopra significa: Compagnia fra uomini fuori mura: nessun pentimento.\e
+  Non è possibile unione completa, gli scopi in comune sono generici, senza particolari interessi. Quello che si ha deve bastare. ';
 
 # -------------------------      14       ----------------------- #
 $book['14']['desc'] = 
@@ -1068,58 +1071,53 @@ $book['19']['line6'] =
 
 # -------------------------      20       ----------------------- #
 $book['20']['desc'] = 
-' Kuan / Contemplation (View) 
-  Above SUN THE GENTLE, WIND
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  A slight variation of tonal stress gives the Chinese name for this hexagram a double meaning. It means both contemplating and being seen, in the sense of being an example. These ideas are suggested by the fact that the hexagram can be understood as picturing a type of tower characteristic of ancient China.
-  A tower of this kind commanded a wide view of the country; at the same time, when situated on a mountain, it became a landmark that could be seen for miles around. Thus the hexagram shows a ruler who contemplates the law of heaven above him and the ways of the people below, and who, by means of good government, sets a lofty example to the masses.
-  This hexagram is linked with the eight month (September-October). The light-giving power retreats and the dark power is again on the increase. However, this aspect is not material in the interpretation of the hexagram as a whole.';
+' Esagramma 20: Contemplazione 
+  Il Vento sta sopra la Terra. Il vento penetra dovunque, e vede ciò che accade sulla terra sottostante. 
+  Le linee yin salgono di nuovo sospingendo il principio chiaro in alto, e lo guardano, mentre le due yang nel posto di preminenza, osservano quelle in basso. 
+  La struttura ricorda le torri di guardia, da cui si sorvegliavano i dintorni e su cui si era visti. Guardare ed essere guardati è dunque il senso dell\'esagramma. 
+  I deboli guardano i forti con fiducia, sperando di essere beneficiati con consigli e istruzioni, mentre le linee yang le osservano per decidere il da farsi. 
+  Il segno intrinseco Monte, Immobilità, simboleggia le mani e anche un palazzo, da cui l\'idea delle mani pulite e di un palazzo dalle porte chiuse. 
+  La situazione complessiva è di qualcuno che guarda verso gli altri, più forti, e aspetta un beneficio. Il forte vuole corrispondere e si appresta a farlo ma non completamente, in quanto vi è un blocco che lo impedisce. 
+  Si aspettano risposte e buone nuove che stanno per arrivare, anche se non saranno quelle conclusive. ';
 $book['20']['judge'] = 
-' CONTEMPLATION. The ablution has been made, 
-  But not yet the offering. 
-  Full of trust they look up to him. \e
-  The sacrificial ritual in China began with an ablution and a libation by which the Deity was invoked, after which the sacrifice was offered. The moment of time between these two ceremonies is the most sacred of all, the moment of deepest inner concentration. If piety is sincere and expressive of real faith, the contemplation of it has a transforming and awe-spiring effect on those who witness it.
-  Thus also in nature a holy seriousness is to be seen in the fact that natural occurrences are uniformly subject to law. Contemplation of the divine meaning underlying the workings of the universe gives to the man who is called upon to influence others the means of producing like effects. This requires that power of inner concentration which religious contemplation develops in great men strong in faith. It enables them to apprehend the mysterious and divine laws of life, and by means of profoundest inner concentration they give expression to these laws in their own persons. Thus a hidden spiritual power emanates from them, influencing and dominating others without their being aware of how it happens.';
+' La contemplazione.
+  L\'abluzione è avvenuta, ma l\'offerta non ancora. Fiduciosi innalzano lo sguardo a lui.\e 
+  Si guarda verso qualcuno, che a sua volta ci guarda. Si stabilisce un contatto che purifica ciò che era guasto e rinnova l\'interesse reciproco. 
+  E\' il momento in cui quello che si è fatto ha prodotto un risultato, manca però la conclusione e il compimento dell\'impresa. 
+  Questa è solo una prima parte e altro non viene ancora offerto. 
+  Si spera con fiducia che questa offerta arrivi, così come le linee yin rivolgendo lo sguardo al principio yang, in alto, sono fiduciose. 
+  Una prima parte dell\'impresa si compie, ma anche se manca il coronamento, si pone rimedio a un errore. ';
 $book['20']['image'] = 
-' The wind blows over the earth:
-  The image of CONTEMPLATION. 
-  Thus the kings of old visited the regions of the world,
-  Contemplated the people,
-  And gave them instruction. \e
-  When the wind blows over the earth it goes far and wide, and the grass must bend to its power. These two occurrences find confirmation in the hexagram. The two images are used to symbolize a practice of the kings of old; in making regular journeys the ruler could, in the first place, survey his realm and make certain that none of the existing usages of the people escaped notice; in the second, he could exert influence through which such customs as were unsuitable could be changed.
-  All of this points to the power possessed by a superior personality. On the one hand, such a man will have a view of the real sentiments of the great mass of humanity and therefore cannot be deceived; on the other, he will impress the people so profoundly, by his mere existence and by the impact of his personality, that they will be swayed by him as the grass by the wind.';
+' L\'Immagine Il vento soffia sulla terra: l\'immagine della contemplazione. 
+  Allo stesso modo gli antichi re visitavano le varie regioni, guardavano il popolo e dispensavano istruzioni. 
+  Il vento che penetra dappertutto arriva sulla terra e la svela. 
+  Il vento è paragonato agli antichi re che viaggiavano su tutto il loro territorio, vedevano le condizioni dei più deboli e poi davano ordini e provvedimenti per migliorare le loro condizioni. 
+  Nella vita di tutti i giorni un personaggio importante si mette in contatto con noi portando buone notizie. ';
 $book['20']['line1'] = 
-' Six at the beginning means:
-  Boy like contemplation. 
-  For an inferior man, no blame. 
-  For a superior man, humiliation. \e
-  This means contemplation from a distance, without comprehension. A man of influence is at hand, but his influence is not understood by the common people. This matters little in the case of the masses, for they benefit by the actions of the ruling sage whether they understand them or not. But for a superior man it is a disgrace. He must not content himself with a shallow, thoughtless view of prevailing forces; he must contemplate them as a connected whole and try to understand them.';
+' Sei all\'inizio signifa: 
+  Contemplazione puerile. Per un uomo meschino nessuna macchia. Per un nobile vergogna.\e
+  La linea simboleggia un ragazzino inesperto che si aggira inconcludente e si comporta in modo inadatto per ottenere ciò che desidera. 
+  Egli non ha i mezzi e le capacità per poter avanzare, ma l\'altro che invece potrebbe agire ugualmente non prende iniziative, comportandosi in modo vergognoso. ';
 $book['20']['line2'] = 
-' Six in the second place means:
-  Contemplation through the crack of the door. 
-  Furthering for the perseverance of a woman. \e
-  Through the crack of the door one has a limited outlook; one looks outward from within. Contemplation is subjectively limited. One tends to relate everything to oneself and cannot put oneself in another\'s place and understand his motives. This is appropriate for a good housewife. It is not necessary for her to be conversant with the affairs of the world. But for a man who must take active part in public life, such a narrow, egotistic way of contemplating things is of course harmful.';
+' Sei al secondo posto signifa:
+  Contemplazione attraverso lo spiraglio di una porta. Propizia è la perseveranza di una donna.\e
+  Un legame ostacolato, e che si intravede solo da lontano. Bisogna avere pazienza e qualcosa accadrà con il tempo. ';
 $book['20']['line3'] = 
-' Six in the third place means:
-  Contemplation of my life
-  Decides the choice
-  Between advance and retreat. \e
-  This is the place of transition. We no longer look outward to receive pictures that are more or less limited and confused, but direct out contemplation upon ourselves in order to find a guideline for our decisions. This self-contemplation means the overcoming of naive egotism in the person who sees everything solely form his own standpoint. He begins to reflect and in this way acquires objectivity. However, self-knowledge does not mean preoccupation with one\'s own thoughts; rather, it means concern about the effects one creates. It is only the effects our lives produce that give us the right to judge whether what we have done means progress or regression.';
+' Sei al terzo posto signifa:
+  La contemplazione della mia vita decide tra progresso e regresso.\e
+  E\' il posto di transizione, in cui andando avanti ci sono difficoltà e tornando indietro ci si allontana dal traguardo. La situazione è incerta in entrambi i casi. ';
 $book['20']['line4'] = 
-' Six in the fourth place means:
-  Contemplation of the light of the kingdom. 
-  It furthers one to exert influence as the guest of a king. \e
-  This describes a man who understands the secrets by which a kingdom can be made to flourish. Such a man must be given an authoritative position, in which he can exert influence. He should be, so to speak, a guest–that is, he should be honored and allowed to act independently, and should not be used as a tool.';
+' Sei al quarto posto significa:
+  Contemplazione della luce dell\'impero. Propizio operare come ospite di un re. Si è finalmente più vicini alle linee forti, e c\'è contatto con chi si desidera avvicinare. ';
 $book['20']['line5'] = 
-' Nine in the fifth place means:
-  Contemplation of my life. 
-  The superior man is without blame. \e
-  A man in an authoritative position to whom others look up must always be ready for self-examination. The right sort of self-examination, however, consists not in idle brooding over oneself but in examining the effects one produces. Only when these effects are good, and when one\'s influence on others is good, will the contemplation of one\'s own life bring the satisfaction of knowing oneself to be free of mistakes.';
+' Nove al quarto posto signifa:
+  Contemplazione della mia vita. Il nobile è senza macchia.\e 
+  Si è in una situazione in cui ciò che si è fatto viene visto e soppesato, per valutarne il senso e gli effetti.';
 $book['20']['line6'] = 
-' Nine at the top means:
-  Contemplation of his life. 
-  The superior man is without blame. \e
-  While the preceding line represents a man who contemplates himself, here in the highest place everything that is personal, related to the ego, is excluded. The picture is that of a sage who stands outside the affairs of the world. Liberated from his ego, he contemplates the laws of life and so realizes that knowing how to become free of blame is the highest good.';
+' Nove sopra significa:
+  Contemplazione della sua vita. Il nobile è senza macchia.\e
+  Isolata dalle linee yin, la forte linea yang non può contemplarle, quindi non gli resta che contemplare se stesso. 
+  E\' una situazione in cui anche se si volesse fare qualcosa ci sono troppe difficoltà. Vi è comunque desiderio di uno sviluppo. ';
 
 # -------------------------      21       ----------------------- #
 $book['21']['desc'] = 
@@ -1621,54 +1619,39 @@ $book['29']['line6'] =
 
 # -------------------------      30       ----------------------- #
 $book['30']['desc'] = 
-' Li / The Clinging, Fire 
-  Above LI THE CLINGING, FIRE
-  Below LI THE CLINGING, FIRE \e
-  This hexagram is another double sign. The trigram Li means "to cling to something," "to be conditioned," "to depend or rest on something," and also "brightness. " A dark line clings to two light lines, one above and one below–the image of an empty space between two strong lines, whereby the two strong lines are made bright. The trigram represents the middle daughter. The Creative has incorporated the central line of the Receptive, and thus Li develops. As an image, it is fire. Fire has no definite form but clings to the burning object and thus is bright. As water pours down from heaven, so fire flames up from the earth. While K\'an means the soul shut within the body, Li stands for nature in its radiance.';
+' ESAGRAMMA 30- Il FUOCO \eIl Fuoco è doppio, due linee yin sono tenute ferme da quattro linee yang, che utilizzano l’oscurità per splendere di più, così come il Fuoco utilizza la legna per ardere e illuminare. Le due oscurità sono tenute a bada attraverso l’energica presenza della chiarezza che si fa strada nonostante loro ma anche grazie a loro. Legna e fuoco sono assimilate a chiarezza e oscurità, nel gioco in cui vi è qualcosa che deve continuare a splendere nonostante l’oscurità ma anche tramite essa. L’oscurità è marginale e va tenuta nella giusta considerazione, e ridimensionata al suo posto. La chiarezza regna: se vi è stato un pericolo o una ferita essa è passata, trovando il suo posto nell’economia del cosmo. Permane, ancora, una forma di dipendenza di cui non ci deve vergognare, andando comunque avanti per la propria strada. Dice Wilhelm: Nel mondo l’uomo è condizionato e non indipendente, ma avrà riuscita se riconosce questi limiti e accetta la sua dipendenza dalle forze armoniose e buone dell’universo. L’uomo acquisendo in sé questa arrendevolezza e questa volontaria dipendenza, acquista la chiarezza che non ferisce e trova il suo posto nel mondo. ';
 $book['30']['judge'] = 
-' THE CLINGING. Perseverance furthers. 
-  It brings success. 
-  Care of the cow brings good fortune. \e
-  What is dark clings to what is light and so enhances the brightness of the latter. A luminous thing giving out light must have within itself something that perseveres; otherwise it will in time burn itself out. Everything that gives light is dependent on something to which it clings, in order that it may continue to shine.
-  Thus the sun and moon cling to heaven, and grain, grass, and trees cling to the earth. So too the twofold clarity of the dedicated man clings to what is right and thereby can shape the world. Human life on earth is conditioned and unfree, and when man recognizes this limitation and makes himself dependent upon the harmonious and beneficent forces of the cosmos, he achieves success. The cow is the symbol of extreme docility. By cultivating in himself an attitude of compliance and voluntary dependence, man acquires clarity without sharpness and finds his place in the world.';
+' L’aderente. Propizia è perseveranza. Essa reca riuscita. La cura della vacca reca salute.\e
+Il Fuoco aderisce alle cose illuminandole. Bisogna continuare così e in seguito vi sarà riuscita. In questa situazione è bene essere estremamente arrendevoli e mansueti. La vacca è rappresentata nei due segni yin quasi accuditi dalle forti linee yang, che le tengono a bada. Così curare la vacca significa persistere e pazientare, essere flessibili e docili, nel frattempo che si continua a fare chiarezza. E’ una situazione che descrive un lungo e tranquillo rischiaramento di qualcosa ancora di irrisolto. ';
 $book['30']['image'] = 
-' That which is bright rises twice:
-  The image of FIRE. 
-  Thus the great man, by perpetuating this brightness, 
-  Illumines the four quarters of the world. \e
-  Each of the two trigrams represents the sun in the course of a day. The two together represent the repeated movement of the sun, the function of light with respect to time. The great man continues the work of nature in the human world. Through the clarity of his nature he causes the light to spread farther and farther and to penetrate the nature of man ever more deeply.';
+' Il chiarore sorge due volte: l’immagine del fuoco. Così il grande uomo continuando questo chiarore, illumina le quattro regioni del mondo.\e
+  Il Fuoco su un Fuoco, una luce doppia e persistente che illumina l’oscurità. Così nel mondo umano si rischiarano le oscurità e ciò che è aspro e difficile, in una continua attività illuminante. Tale attività splende sulle debolezze nonostante esse ma anche grazie ad esse. Il Fuoco nel trigramma inferiore è rappresentato al suo primo apparire, esitante e incerto, nel suo ergersi scoppiettante e foriero di sviluppo, nel suo lento estinguersi; nel trigramma superiore nel repentino riattizzarsi in alte fiammate che culminano in solitari lampi. Fu Hsi secondo la mitologia di IChing vide i segni di questo esagramma ed ebbe l’idea di costruire una rete per catturare i pesci. Il simbolo è associato a qualcosa di utile che cattura ciò che è sfuggente. ';
 $book['30']['line1'] = 
-' Nine at the beginning means:
-  The footprints run crisscross. 
-  If one is seriously intent, no blame. \e
-  It is early morning and work begins. The mind has been closed to the outside world in sleep; now its connections with the world begin again. The traces of one\'s impressions run crisscross. Activity and haste prevail. It is important then to preserve inner composure and not to allow oneself to be swept along by the bustle of life. If one is serious and composed, he can acquire the clarity of mind needed for coming to terms with the innumerable impressions that pour in. It is precisely at the beginning that serious concentration is important, because the beginning holds the seed of all that is to follow.';
+' Nove all\'inizio:
+  Le orme corrono in ogni direzione. Se si opera con serietà: nessuna macchia.\e
+  E’ l’inizio di una attività e ancora ciò che seguirà è incerto. Vi sono possibilità ma nessuna delinea una continuità definita. Occorre prendere atto dell’incostanza della situazione. ';
 $book['30']['line2'] = 
-' Six in the second place means:
-  Yellow light. Supreme good fortune. \e
-  Midday has come; the sun shines with a yellow light. Yellow is the color of measure and mean. Yellow light is therefore a symbol of the highest culture and art, whose consummate harmony consists in holding to the mean.';
+' Sei al secondo posto: 
+  Splendore giallo. Sublime salute.\e
+  E’ la pienezza e l’abbondanza, il frutto da cogliere nel naturale fluire delle cose. Ciò che si fa illumina nel senso più ampio.';
 $book['30']['line3'] = 
-' Nine in the third place means:
-  In the light of the setting sun,
-  Men either beat the pot and sing
-  Or loudly bewail the approach of old age. 
-  Misfortune. \e
-  Here the end of the day has come. The light of the setting sun calls to mind the fact that life is transitory and conditional. Caught in this external bondage, men are usually robbed of their inner freedom as well. The sense of the transitoriness of life impels them to uninhibited revelry in order to enjoy life while it lasts, or else they yield to melancholy and spoil the precious time by lamenting the approach of old age. Both attitudes are wrong. To the superior man it makes no difference whether death comes early or late. He cultivates himself, awaits his allotted time, and in this way secures his fate.';
+' Nove al terzo posto: 
+  Alla luce del sole che tramonta, gli uomini o battono sulla pentola o cantano, o sospirano forte per la senilità che si avvicina. Sciagura.\e
+  E’ passato il momento della pienezza. C’è un allontanamento e il volgere al termine di qualcosa. Ci si angustia per ciò che è stato, ci si rattrista, in un malinconico declino. ';
 $book['30']['line4'] = 
-' Nine in the fourth place means:
-  Its coming is sudden;
-  It flames up, dies down, is thrown away. \e
-  Clarity of mind has the same relation to life that fire has to wood. Fire clings to wood, but also consumes it. Clarity of mind is rooted in life but can also consume it. Everything depends upon how the clarity functions. Here the image used is that of a meteor or a straw fire. A man who is excitable and restless may rise quickly to prominence but produces no lasting effects. Thus matters end badly when a man spends himself too rapidly and consumes himself like a meteor.';
+' Nove al quarto posto:
+  Subitanea è la sua venuta; divampa, muore, viene buttato via.\e
+  Talvolta viviamo situazioni meravigliose che non sono destinate a restare tali per molto. Bisogna riconoscere in esse cosa realmente ci dà beneficio, per costruire una direzione durevole in cui incamminarsi.
+  Decisioni da prendere. Incostanza. ';
 $book['30']['line5'] = 
-' Six in the fifth place means:
-  Tears in floods, sighing and lamenting. 
-  Good fortune. \e
-  Here the zenith of life has been reached. Were there no warning, one would at this point consume oneself like a flame. Instead, understanding the vanity of all things, one may put aside both hope and fear, and sigh and lament: if one is intent on retaining his clarity of mind, good fortune will come from this grief. For here we are dealing not with a passing mood, as in the nine in the third place, but with a real change of heart.';
+ 'Sei al quinto posto:
+  Lacrime a fiumi, sospiri e lamenti. Salute!\e
+  La linea si trova in una situazione in bilico. Alla fine si riesce a ripristinare una situazione compromessa. ';
 $book['30']['line6'] = 
-' Nine at the top means:
-  The king uses him to march forth and chastise. 
-  Then it is best to kill the leaders
-  And take captive the followers. No blame. \e
-  It is not the purpose of chastisement to impose punishment blindly but to create discipline. Evil must be cured at its roots. To eradicate evil in political life, it is best to kill the ringleaders and spare the followers. In educating oneself it is best to root out bad habits and tolerate those that are harmless. For asceticism that is too strict, like sentences of undue severity, fails in its purpose.';
+' Nove sopra:
+  Il re lo adopera per spedizioni punitive.
+  La miglior cosa è allora uccidere i capi e catturare i seguaci. Nessuna macchia.\e
+  Occorre fare pulizia cominciando dalla causa principale per risolvere anche altri aspetti secondari della situazione. ';
 
 # -------------------------      31       ----------------------- #
 $book['31']['desc'] = 
@@ -2383,64 +2366,41 @@ $book['44']['line6'] =
 
 # -------------------------      45       ----------------------- #
 $book['45']['desc'] = 
-' Ts\'ui / Gathering Together [Massing] 
-  Above TUI THE JOYOUS, LAKE
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  This hexagram is related in form and meaning to Pi, HOLDING TOGETHER (8). In the latter, water is over the earth; here a lake is over the earth. But since the lake is a place where water collects, the idea of gathering together is even more strongly expressed here than in the other hexagram. The same idea also arises from the fact that in the present case it is two strong lines (the fourth and the fifth) that bring about the gather together, whereas in the former case one strong line (the fifth) stands in the midst of weak lines.';
+' Esagramma 45 : Raccolta 
+  L’acqua si è raccolta sulla terra, formando un lago. La natura dell’acqua è doppia essendo portatrice di vita ma anche di pericoli. 
+  Da qui l’idea dell’estrema imprevedibilità della situazione e di inattesi sviluppi, che potrebbero essere sia positivi che negativi. 
+  Vi è qui l’accenno alla figura del Grande Uomo a cui rivolgersi, figura che compare sempre in IChing quando il karma, o l’inconscio, hanno ancora in serbo parecchi elementi sconosciuti ancora immaturi e al di là della nostra comprensione. La Terra accoglie l’acqua in sé in ogni caso, nella sua naturale recettività, seguendo gli eventi nel loro svolgersi. Nel mondo umano ci si dispone ad accogliere gli eventi che man mano sorgono, cercando sempre di viverli in modo che diano frutto. L’esagramma predice il successo, anche se occorre fare attenzione: hanno qui modo di agire parecchie linee oscure, tenute sotto controllo dalle due linee chiare in posti preminenti: difficoltà persistenti ma non distruttive, che di volta in volta si dovrà affrontare e mediare. 
+  Ora la situazione è per sua natura volta a costruire le basi di una futura riuscita, a breve o lungo termine che sia.' ;
 $book['45']['judge'] = 
-' GATHERING TOGETHER. Success. 
-  The king approaches his temple. 
-  It furthers one to see the great man. 
-  This brings success. Perseverance furthers. 
-  To bring great offerings creates good fortune. 
-  It furthers one to undertake something. \e
-  The gathering together of people in large communities is either a natural occurrence, as in the case of the family, or an artificial one, as in the case of the state. The family gathers about the father as its head. The perpetuation of this gathering in groups is achieved through the sacrifice to the ancestors, at which the whole clan is gathered together. Through the collective piety of the living members of the family, the ancestors become so integrated in the spiritual life of the family that it cannot be dispersed or dissolved.
-  Where men are to be gathered together, religious forces are needed. But there must also be a human leader to serve as the center of the group. In order to be able to bring others together, this leader must first of all be collected within himself. Only collective moral force can unite the world. Such great times of unification will leave great achievements behind them. This is the significance of the great offerings that are made. In the secular sphere likewise there is need of great deeds in the time of GATHERING TOGETHER.';
+' Raccolta. Riuscita. Il re si avvicina al suo tempio. Propizio è vedere il grande uomo. Ciò reca riuscita. Propizia è perseveranza. Offrire grandi sacrifici reca salute. Propizio è imprendere qualche cosa.\e
+  Ci si avvicina al conseguimento di un importante risultato. Vi sono molti aspetti nella situazione di cui dobbiamo ancora capire e sperimentare la natura; tali avvenimenti possono essere compresi solo man mano che emergono, interpretandoli con saggezza e discernimento. 
+  Così vi è riuscita. Non scoraggiarsi e non tirarsi indietro in questa fase, in cui solo compiendo grandi cose si costruiscono le basi di un futuro sviluppo. ';
 $book['45']['image'] = 
-' Over the earth, the lake:
-  The image of GATHERING TOGETHER. 
-  Thus the superior man renews his weapons
-  In order to meet the unforeseen. \e
-  If the water in the lake gathers until it rises above the earth, there is danger of a break-through. Precautions must be taken to prevent this. Similarly where men gather together in great numbers, strife is likely to arise; where possessions are collected, robbery is likely to occur. Thus in the time of GATHERING TOGETHER we must arm promptly to ward off the unexpected. Human woes usually come as a result of unexpected events against which we are not forearmed. If we are prepared, they can be prevented.';
+' Immagine Il Lago è al di sopra della Terra: l’immagine della raccolta. Così il nobile prepara le sue armi per fronteggiare gli imprevisti. \e
+  L’acqua del lago si è raccolta in una cavità del terreno. L’acqua è mobile e indefinita nei suoi aspetti negativi, e come tale imprevedibile; nel mondo umano straripamento e siccità sono i pericoli imprevisti da cui guardarsi sempre. Si affrontano dunque fatti incerti e sconosciuti prima di risolvere l’evento in questione. Bisogna armarsi, prepararsi a una serie di fatti a venire attualmente non ancora in vista e di cui nulla ancora sappiamo. ';
 $book['45']['line1'] = 
-' Six at the beginning means:
-  If you are sincere, but not to the end,
-  There will sometimes be confusion, sometimes gathering together. 
-  If you call out,
-  Then after one grasp of the hand you can laugh again. 
-  Regret not. Going is without blame. \e
-  The situation is this: People desire to gather around a leader to whom they look up. But they are in a large group, by which they allow themselves to be influenced, so that they waver in their decision. Thus they lack a firm center around which to gather. But if expression is given to this need, and if they call for help, one grasp of the hand from the leader is enough to turn away all distress. Therefore they must not allow themselves to be led astray. It is undoubtedly right that they should attach themselves to this leader.';
+' Sei all\'inizio significa: Se sei verace, ma non sino alla fine, ora vi è scompiglio, ora la raccolta. Se chiami, una mano amica porterà gioia. Non preoccuparti. Procedi.\e
+  Quando si comincia qualcosa è difficile essere coerenti fino in fondo, perciò si commettono errori e si hanno ripensamenti; ma la linea è yin e deve procedere verso il chiaro, l’amico alla quarta linea che la attende.
+  Data la sua presenza, essa deve mettersi in marcia, malgrado le incertezze e le preoccupazioni dell’impresa. Alla fine vi sarà possibilità di unirsi e connettersi con l’altro, persona o situazione, a cui si tende. ';
 $book['45']['line2'] = 
-' Six in the second place means:
-  Letting oneself be drawn
-  Brings good fortune and remains blameless. 
-  If one is sincere,
-  It furthers one to bring even a small offering. \e
-  In the time of GATHERING TOGETHER, we should make no arbitrary choice of the way. There are secret forces at work, leading together those who belong together. We must yield to this attraction; then we make no mistakes. Where inner relationships exist, no great preparations and formalities are necessary. People understand one another forthwith, just as the Divinity graciously accepts a small offering if it comes from the heart.';
+' Sei al secondo posto signifa:
+  Lasciarsi tirare reca salute e si rimane senza macchia. Se sei verace è bene compiere un sacrificio. \e
+  Quando si è indecisi si deve sempre seguire ciò che ci è affine, anche se comporta cedere qualcosa per ottenerlo. ';
 $book['45']['line3'] = 
-' Six in the third place means:
-  Gathering together amid sighs. 
-  Nothing that would further. 
-  Going is without blame. 
-  Slight humiliation. \e
-  Often a man feels an urge to unite with others, but the individuals around him have already formed themselves into a group, so that he remains isolated. The whole situation proves untenable. Then he ought to choose the way of progress, resolutely allying himself with a man who stands nearer to the center of the group, and can help him to gain admission to the closed circle. This is not a mistake, even though at first his position as an outsider is somewhat humiliating.';
+' Sei al terzo posto significa: 
+  Raccolta con sospiri. Nulla che sia propizio. Andare è senza macchia, piccola umiliazione.\e
+  La transizione tra volontà di seguire e le acque sfuggenti del lago determina una situazione di faticosa attesa. Non ci si è ancora uniti al proprio simile e si tende sempre ad esso. Si deve sopportare una situazione difficile, cercando di adattarsi; questo atteggiamento porta umiliazioni e profondo disagio ma è un passo che purtroppo va compiuto. ';
 $book['45']['line4'] = 
-' Nine in the fourth place means:
-  Great good fortune. No blame. \e
-  This describes a man who gathers people around him in the name of his ruler. Since he is not striving for any special advantages for himself but is working unselfishly to bring about general unity, his work is crowned with success, and everything becomes as it should be.';
+' Nove al quarto posto significa: 
+  Grande salute! Nessuna macchia. \e
+  La linea yin si riunisce finalmente con l’amico del quarto posto. Chiarezza, sincerità nel dirsi e generosità nel darsi conducono finalmente a unione. ';
 $book['45']['line5'] = 
-' Nine in the fifth place means:
-  If in gathering together one has position,
-  This brings no blame. 
-  If there are some who are not yet sincerely in the work,
-  Sublime and enduring perseverance is needed. 
-  Then remorse disappears. \e
-  When people spontaneously gather around a man, it is only a good. It gives him a certain influence that can be altogether useful. But of course there is also the possibility that many may gather around him not because of a feeling of confidence but merely because of his influential position. This is certainly to be regretted. The only means of dealing with such people is to gain their confidence through steadfastness and intensified, unswerving devotion to duty. In this way secret mistrust will gradually be overcome, and there will be no occasion for regret.';
+' Nove al quinto posto significa: 
+  Se nel raccogliere si possiede la posizione necessaria non c’è nessuna macchia; se alcuni tentennano vi è bisogno di sublime perseveranza. Pentimento svanisce.\e
+  Si è indecisi se andare o restare, prendere o lasciare. In realtà si ha la forza di restare e gestire bene la situazione, anche se di questo non ci si sente molto convinti. Essendoci altri coinvolti, bisogna anche tener conto che si tentenna anche da parte loro. In questa situazione l’unione resta tale solo se almeno uno dei due mostra perseveranza e pazienza. Se lo si fa, allora non vi saranno cause di futuro rammarico. ';
 $book['45']['line6'] = 
-' Six at the top means:
-  Lamenting and sighing, floods of tears. 
-  No blame. \e
-  It may happen that an individual would like to ally himself with another, but his good intentions are misunderstood. Then he becomes sad and laments. But this is the right course. For it may cause the other person to come to his senses, so that the alliance that has been sought and so painfully missed is after all achieved.';
+' Sei sopra significa: Lamenti e sospiri, lacrime a fiumi. Nessuna macchia.\e
+  La linea yin è fuori dall’influenza yang e tende ad allontanarsi. La sua natura di seguire è mutata. Si interrompe il contatto, si resta da soli a rimpiangere l’unione e l’occasione mancata. ';
 
 # -------------------------      46       ----------------------- #
 $book['46']['desc'] = 

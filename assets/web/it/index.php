@@ -1071,58 +1071,53 @@ $book['19']['line6'] =
 
 # -------------------------      20       ----------------------- #
 $book['20']['desc'] = 
-' Kuan / Contemplation (View) 
-  Above SUN THE GENTLE, WIND
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  A slight variation of tonal stress gives the Chinese name for this hexagram a double meaning. It means both contemplating and being seen, in the sense of being an example. These ideas are suggested by the fact that the hexagram can be understood as picturing a type of tower characteristic of ancient China.
-  A tower of this kind commanded a wide view of the country; at the same time, when situated on a mountain, it became a landmark that could be seen for miles around. Thus the hexagram shows a ruler who contemplates the law of heaven above him and the ways of the people below, and who, by means of good government, sets a lofty example to the masses.
-  This hexagram is linked with the eight month (September-October). The light-giving power retreats and the dark power is again on the increase. However, this aspect is not material in the interpretation of the hexagram as a whole.';
+' Esagramma 20: Contemplazione 
+  Il Vento sta sopra la Terra. Il vento penetra dovunque, e vede ciò che accade sulla terra sottostante. 
+  Le linee yin salgono di nuovo sospingendo il principio chiaro in alto, e lo guardano, mentre le due yang nel posto di preminenza, osservano quelle in basso. 
+  La struttura ricorda le torri di guardia, da cui si sorvegliavano i dintorni e su cui si era visti. Guardare ed essere guardati è dunque il senso dell\'esagramma. 
+  I deboli guardano i forti con fiducia, sperando di essere beneficiati con consigli e istruzioni, mentre le linee yang le osservano per decidere il da farsi. 
+  Il segno intrinseco Monte, Immobilità, simboleggia le mani e anche un palazzo, da cui l\'idea delle mani pulite e di un palazzo dalle porte chiuse. 
+  La situazione complessiva è di qualcuno che guarda verso gli altri, più forti, e aspetta un beneficio. Il forte vuole corrispondere e si appresta a farlo ma non completamente, in quanto vi è un blocco che lo impedisce. 
+  Si aspettano risposte e buone nuove che stanno per arrivare, anche se non saranno quelle conclusive. ';
 $book['20']['judge'] = 
-' CONTEMPLATION. The ablution has been made, 
-  But not yet the offering. 
-  Full of trust they look up to him. \e
-  The sacrificial ritual in China began with an ablution and a libation by which the Deity was invoked, after which the sacrifice was offered. The moment of time between these two ceremonies is the most sacred of all, the moment of deepest inner concentration. If piety is sincere and expressive of real faith, the contemplation of it has a transforming and awe-spiring effect on those who witness it.
-  Thus also in nature a holy seriousness is to be seen in the fact that natural occurrences are uniformly subject to law. Contemplation of the divine meaning underlying the workings of the universe gives to the man who is called upon to influence others the means of producing like effects. This requires that power of inner concentration which religious contemplation develops in great men strong in faith. It enables them to apprehend the mysterious and divine laws of life, and by means of profoundest inner concentration they give expression to these laws in their own persons. Thus a hidden spiritual power emanates from them, influencing and dominating others without their being aware of how it happens.';
+' La contemplazione.
+  L\'abluzione è avvenuta, ma l\'offerta non ancora. Fiduciosi innalzano lo sguardo a lui.\e 
+  Si guarda verso qualcuno, che a sua volta ci guarda. Si stabilisce un contatto che purifica ciò che era guasto e rinnova l\'interesse reciproco. 
+  E\' il momento in cui quello che si è fatto ha prodotto un risultato, manca però la conclusione e il compimento dell\'impresa. 
+  Questa è solo una prima parte e altro non viene ancora offerto. 
+  Si spera con fiducia che questa offerta arrivi, così come le linee yin rivolgendo lo sguardo al principio yang, in alto, sono fiduciose. 
+  Una prima parte dell\'impresa si compie, ma anche se manca il coronamento, si pone rimedio a un errore. ';
 $book['20']['image'] = 
-' The wind blows over the earth:
-  The image of CONTEMPLATION. 
-  Thus the kings of old visited the regions of the world,
-  Contemplated the people,
-  And gave them instruction. \e
-  When the wind blows over the earth it goes far and wide, and the grass must bend to its power. These two occurrences find confirmation in the hexagram. The two images are used to symbolize a practice of the kings of old; in making regular journeys the ruler could, in the first place, survey his realm and make certain that none of the existing usages of the people escaped notice; in the second, he could exert influence through which such customs as were unsuitable could be changed.
-  All of this points to the power possessed by a superior personality. On the one hand, such a man will have a view of the real sentiments of the great mass of humanity and therefore cannot be deceived; on the other, he will impress the people so profoundly, by his mere existence and by the impact of his personality, that they will be swayed by him as the grass by the wind.';
+' L\'Immagine Il vento soffia sulla terra: l\'immagine della contemplazione. 
+  Allo stesso modo gli antichi re visitavano le varie regioni, guardavano il popolo e dispensavano istruzioni. 
+  Il vento che penetra dappertutto arriva sulla terra e la svela. 
+  Il vento è paragonato agli antichi re che viaggiavano su tutto il loro territorio, vedevano le condizioni dei più deboli e poi davano ordini e provvedimenti per migliorare le loro condizioni. 
+  Nella vita di tutti i giorni un personaggio importante si mette in contatto con noi portando buone notizie. ';
 $book['20']['line1'] = 
-' Six at the beginning means:
-  Boy like contemplation. 
-  For an inferior man, no blame. 
-  For a superior man, humiliation. \e
-  This means contemplation from a distance, without comprehension. A man of influence is at hand, but his influence is not understood by the common people. This matters little in the case of the masses, for they benefit by the actions of the ruling sage whether they understand them or not. But for a superior man it is a disgrace. He must not content himself with a shallow, thoughtless view of prevailing forces; he must contemplate them as a connected whole and try to understand them.';
+' Sei all\'inizio signifa: 
+  Contemplazione puerile. Per un uomo meschino nessuna macchia. Per un nobile vergogna.\e
+  La linea simboleggia un ragazzino inesperto che si aggira inconcludente e si comporta in modo inadatto per ottenere ciò che desidera. 
+  Egli non ha i mezzi e le capacità per poter avanzare, ma l\'altro che invece potrebbe agire ugualmente non prende iniziative, comportandosi in modo vergognoso. ';
 $book['20']['line2'] = 
-' Six in the second place means:
-  Contemplation through the crack of the door. 
-  Furthering for the perseverance of a woman. \e
-  Through the crack of the door one has a limited outlook; one looks outward from within. Contemplation is subjectively limited. One tends to relate everything to oneself and cannot put oneself in another\'s place and understand his motives. This is appropriate for a good housewife. It is not necessary for her to be conversant with the affairs of the world. But for a man who must take active part in public life, such a narrow, egotistic way of contemplating things is of course harmful.';
+' Sei al secondo posto signifa:
+  Contemplazione attraverso lo spiraglio di una porta. Propizia è la perseveranza di una donna.\e
+  Un legame ostacolato, e che si intravede solo da lontano. Bisogna avere pazienza e qualcosa accadrà con il tempo. ';
 $book['20']['line3'] = 
-' Six in the third place means:
-  Contemplation of my life
-  Decides the choice
-  Between advance and retreat. \e
-  This is the place of transition. We no longer look outward to receive pictures that are more or less limited and confused, but direct out contemplation upon ourselves in order to find a guideline for our decisions. This self-contemplation means the overcoming of naive egotism in the person who sees everything solely form his own standpoint. He begins to reflect and in this way acquires objectivity. However, self-knowledge does not mean preoccupation with one\'s own thoughts; rather, it means concern about the effects one creates. It is only the effects our lives produce that give us the right to judge whether what we have done means progress or regression.';
+' Sei al terzo posto signifa:
+  La contemplazione della mia vita decide tra progresso e regresso.\e
+  E\' il posto di transizione, in cui andando avanti ci sono difficoltà e tornando indietro ci si allontana dal traguardo. La situazione è incerta in entrambi i casi. ';
 $book['20']['line4'] = 
-' Six in the fourth place means:
-  Contemplation of the light of the kingdom. 
-  It furthers one to exert influence as the guest of a king. \e
-  This describes a man who understands the secrets by which a kingdom can be made to flourish. Such a man must be given an authoritative position, in which he can exert influence. He should be, so to speak, a guest–that is, he should be honored and allowed to act independently, and should not be used as a tool.';
+' Sei al quarto posto significa:
+  Contemplazione della luce dell\'impero. Propizio operare come ospite di un re. Si è finalmente più vicini alle linee forti, e c\'è contatto con chi si desidera avvicinare. ';
 $book['20']['line5'] = 
-' Nine in the fifth place means:
-  Contemplation of my life. 
-  The superior man is without blame. \e
-  A man in an authoritative position to whom others look up must always be ready for self-examination. The right sort of self-examination, however, consists not in idle brooding over oneself but in examining the effects one produces. Only when these effects are good, and when one\'s influence on others is good, will the contemplation of one\'s own life bring the satisfaction of knowing oneself to be free of mistakes.';
+' Nove al quarto posto signifa:
+  Contemplazione della mia vita. Il nobile è senza macchia.\e 
+  Si è in una situazione in cui ciò che si è fatto viene visto e soppesato, per valutarne il senso e gli effetti.';
 $book['20']['line6'] = 
-' Nine at the top means:
-  Contemplation of his life. 
-  The superior man is without blame. \e
-  While the preceding line represents a man who contemplates himself, here in the highest place everything that is personal, related to the ego, is excluded. The picture is that of a sage who stands outside the affairs of the world. Liberated from his ego, he contemplates the laws of life and so realizes that knowing how to become free of blame is the highest good.';
+' Nove sopra significa:
+  Contemplazione della sua vita. Il nobile è senza macchia.\e
+  Isolata dalle linee yin, la forte linea yang non può contemplarle, quindi non gli resta che contemplare se stesso. 
+  E\' una situazione in cui anche se si volesse fare qualcosa ci sono troppe difficoltà. Vi è comunque desiderio di uno sviluppo. ';
 
 # -------------------------      21       ----------------------- #
 $book['21']['desc'] = 
@@ -2371,64 +2366,41 @@ $book['44']['line6'] =
 
 # -------------------------      45       ----------------------- #
 $book['45']['desc'] = 
-' Ts\'ui / Gathering Together [Massing] 
-  Above TUI THE JOYOUS, LAKE
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  This hexagram is related in form and meaning to Pi, HOLDING TOGETHER (8). In the latter, water is over the earth; here a lake is over the earth. But since the lake is a place where water collects, the idea of gathering together is even more strongly expressed here than in the other hexagram. The same idea also arises from the fact that in the present case it is two strong lines (the fourth and the fifth) that bring about the gather together, whereas in the former case one strong line (the fifth) stands in the midst of weak lines.';
+' Esagramma 45 : Raccolta 
+  L’acqua si è raccolta sulla terra, formando un lago. La natura dell’acqua è doppia essendo portatrice di vita ma anche di pericoli. 
+  Da qui l’idea dell’estrema imprevedibilità della situazione e di inattesi sviluppi, che potrebbero essere sia positivi che negativi. 
+  Vi è qui l’accenno alla figura del Grande Uomo a cui rivolgersi, figura che compare sempre in IChing quando il karma, o l’inconscio, hanno ancora in serbo parecchi elementi sconosciuti ancora immaturi e al di là della nostra comprensione. La Terra accoglie l’acqua in sé in ogni caso, nella sua naturale recettività, seguendo gli eventi nel loro svolgersi. Nel mondo umano ci si dispone ad accogliere gli eventi che man mano sorgono, cercando sempre di viverli in modo che diano frutto. L’esagramma predice il successo, anche se occorre fare attenzione: hanno qui modo di agire parecchie linee oscure, tenute sotto controllo dalle due linee chiare in posti preminenti: difficoltà persistenti ma non distruttive, che di volta in volta si dovrà affrontare e mediare. 
+  Ora la situazione è per sua natura volta a costruire le basi di una futura riuscita, a breve o lungo termine che sia. ;
 $book['45']['judge'] = 
-' GATHERING TOGETHER. Success. 
-  The king approaches his temple. 
-  It furthers one to see the great man. 
-  This brings success. Perseverance furthers. 
-  To bring great offerings creates good fortune. 
-  It furthers one to undertake something. \e
-  The gathering together of people in large communities is either a natural occurrence, as in the case of the family, or an artificial one, as in the case of the state. The family gathers about the father as its head. The perpetuation of this gathering in groups is achieved through the sacrifice to the ancestors, at which the whole clan is gathered together. Through the collective piety of the living members of the family, the ancestors become so integrated in the spiritual life of the family that it cannot be dispersed or dissolved.
-  Where men are to be gathered together, religious forces are needed. But there must also be a human leader to serve as the center of the group. In order to be able to bring others together, this leader must first of all be collected within himself. Only collective moral force can unite the world. Such great times of unification will leave great achievements behind them. This is the significance of the great offerings that are made. In the secular sphere likewise there is need of great deeds in the time of GATHERING TOGETHER.';
+' Raccolta. Riuscita. Il re si avvicina al suo tempio. Propizio è vedere il grande uomo. Ciò reca riuscita. Propizia è perseveranza. Offrire grandi sacrifici reca salute. Propizio è imprendere qualche cosa.\e
+  Ci si avvicina al conseguimento di un importante risultato. Vi sono molti aspetti nella situazione di cui dobbiamo ancora capire e sperimentare la natura; tali avvenimenti possono essere compresi solo man mano che emergono, interpretandoli con saggezza e discernimento. 
+  Così vi è riuscita. Non scoraggiarsi e non tirarsi indietro in questa fase, in cui solo compiendo grandi cose si costruiscono le basi di un futuro sviluppo. ';
 $book['45']['image'] = 
-' Over the earth, the lake:
-  The image of GATHERING TOGETHER. 
-  Thus the superior man renews his weapons
-  In order to meet the unforeseen. \e
-  If the water in the lake gathers until it rises above the earth, there is danger of a break-through. Precautions must be taken to prevent this. Similarly where men gather together in great numbers, strife is likely to arise; where possessions are collected, robbery is likely to occur. Thus in the time of GATHERING TOGETHER we must arm promptly to ward off the unexpected. Human woes usually come as a result of unexpected events against which we are not forearmed. If we are prepared, they can be prevented.';
+' Immagine Il Lago è al di sopra della Terra: l’immagine della raccolta. Così il nobile prepara le sue armi per fronteggiare gli imprevisti. \e
+  L’acqua del lago si è raccolta in una cavità del terreno. L’acqua è mobile e indefinita nei suoi aspetti negativi, e come tale imprevedibile; nel mondo umano straripamento e siccità sono i pericoli imprevisti da cui guardarsi sempre. Si affrontano dunque fatti incerti e sconosciuti prima di risolvere l’evento in questione. Bisogna armarsi, prepararsi a una serie di fatti a venire attualmente non ancora in vista e di cui nulla ancora sappiamo. ';
 $book['45']['line1'] = 
-' Six at the beginning means:
-  If you are sincere, but not to the end,
-  There will sometimes be confusion, sometimes gathering together. 
-  If you call out,
-  Then after one grasp of the hand you can laugh again. 
-  Regret not. Going is without blame. \e
-  The situation is this: People desire to gather around a leader to whom they look up. But they are in a large group, by which they allow themselves to be influenced, so that they waver in their decision. Thus they lack a firm center around which to gather. But if expression is given to this need, and if they call for help, one grasp of the hand from the leader is enough to turn away all distress. Therefore they must not allow themselves to be led astray. It is undoubtedly right that they should attach themselves to this leader.';
+' Sei all\'inizio significa: Se sei verace, ma non sino alla fine, ora vi è scompiglio, ora la raccolta. Se chiami, una mano amica porterà gioia. Non preoccuparti. Procedi.\e
+  Quando si comincia qualcosa è difficile essere coerenti fino in fondo, perciò si commettono errori e si hanno ripensamenti; ma la linea è yin e deve procedere verso il chiaro, l’amico alla quarta linea che la attende.
+  Data la sua presenza, essa deve mettersi in marcia, malgrado le incertezze e le preoccupazioni dell’impresa. Alla fine vi sarà possibilità di unirsi e connettersi con l’altro, persona o situazione, a cui si tende. ';
 $book['45']['line2'] = 
-' Six in the second place means:
-  Letting oneself be drawn
-  Brings good fortune and remains blameless. 
-  If one is sincere,
-  It furthers one to bring even a small offering. \e
-  In the time of GATHERING TOGETHER, we should make no arbitrary choice of the way. There are secret forces at work, leading together those who belong together. We must yield to this attraction; then we make no mistakes. Where inner relationships exist, no great preparations and formalities are necessary. People understand one another forthwith, just as the Divinity graciously accepts a small offering if it comes from the heart.';
+' Sei al secondo posto signifa:
+  Lasciarsi tirare reca salute e si rimane senza macchia. Se sei verace è bene compiere un sacrificio. \e
+  Quando si è indecisi si deve sempre seguire ciò che ci è affine, anche se comporta cedere qualcosa per ottenerlo. ';
 $book['45']['line3'] = 
-' Six in the third place means:
-  Gathering together amid sighs. 
-  Nothing that would further. 
-  Going is without blame. 
-  Slight humiliation. \e
-  Often a man feels an urge to unite with others, but the individuals around him have already formed themselves into a group, so that he remains isolated. The whole situation proves untenable. Then he ought to choose the way of progress, resolutely allying himself with a man who stands nearer to the center of the group, and can help him to gain admission to the closed circle. This is not a mistake, even though at first his position as an outsider is somewhat humiliating.';
+' Sei al terzo posto significa: 
+  Raccolta con sospiri. Nulla che sia propizio. Andare è senza macchia, piccola umiliazione.\e
+  La transizione tra volontà di seguire e le acque sfuggenti del lago determina una situazione di faticosa attesa. Non ci si è ancora uniti al proprio simile e si tende sempre ad esso. Si deve sopportare una situazione difficile, cercando di adattarsi; questo atteggiamento porta umiliazioni e profondo disagio ma è un passo che purtroppo va compiuto. ';
 $book['45']['line4'] = 
-' Nine in the fourth place means:
-  Great good fortune. No blame. \e
-  This describes a man who gathers people around him in the name of his ruler. Since he is not striving for any special advantages for himself but is working unselfishly to bring about general unity, his work is crowned with success, and everything becomes as it should be.';
+' Nove al quarto posto significa: 
+  Grande salute! Nessuna macchia. \e
+  La linea yin si riunisce finalmente con l’amico del quarto posto. Chiarezza, sincerità nel dirsi e generosità nel darsi conducono finalmente a unione. ';
 $book['45']['line5'] = 
-' Nine in the fifth place means:
-  If in gathering together one has position,
-  This brings no blame. 
-  If there are some who are not yet sincerely in the work,
-  Sublime and enduring perseverance is needed. 
-  Then remorse disappears. \e
-  When people spontaneously gather around a man, it is only a good. It gives him a certain influence that can be altogether useful. But of course there is also the possibility that many may gather around him not because of a feeling of confidence but merely because of his influential position. This is certainly to be regretted. The only means of dealing with such people is to gain their confidence through steadfastness and intensified, unswerving devotion to duty. In this way secret mistrust will gradually be overcome, and there will be no occasion for regret.';
+' Nove al quinto posto significa: 
+  Se nel raccogliere si possiede la posizione necessaria non c’è nessuna macchia; se alcuni tentennano vi è bisogno di sublime perseveranza. Pentimento svanisce.\e
+  Si è indecisi se andare o restare, prendere o lasciare. In realtà si ha la forza di restare e gestire bene la situazione, anche se di questo non ci si sente molto convinti. Essendoci altri coinvolti, bisogna anche tener conto che si tentenna anche da parte loro. In questa situazione l’unione resta tale solo se almeno uno dei due mostra perseveranza e pazienza. Se lo si fa, allora non vi saranno cause di futuro rammarico. ';
 $book['45']['line6'] = 
-' Six at the top means:
-  Lamenting and sighing, floods of tears. 
-  No blame. \e
-  It may happen that an individual would like to ally himself with another, but his good intentions are misunderstood. Then he becomes sad and laments. But this is the right course. For it may cause the other person to come to his senses, so that the alliance that has been sought and so painfully missed is after all achieved.';
+' Sei sopra significa: Lamenti e sospiri, lacrime a fiumi. Nessuna macchia.\e
+  La linea yin è fuori dall’influenza yang e tende ad allontanarsi. La sua natura di seguire è mutata. Si interrompe il contatto, si resta da soli a rimpiangere l’unione e l’occasione mancata. ';
 
 # -------------------------      46       ----------------------- #
 $book['46']['desc'] = 

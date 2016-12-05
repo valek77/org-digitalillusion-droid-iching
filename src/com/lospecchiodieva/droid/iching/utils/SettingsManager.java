@@ -37,16 +37,16 @@ public class SettingsManager {
         Consts.DIVINATION_METHOD_COINS_MANUAL
     });
     put(SETTINGS_MAP.CHANGING_LINES_EVALUATOR, new Integer[]{
-        Consts.EVALUATOR_MANUAL,
-        Consts.EVALUATOR_MASTERYIN,
-        Consts.EVALUATOR_NAJING
+        Consts.EVALUATOR_MANUAL
+       // Consts.EVALUATOR_MASTERYIN,
+        //Consts.EVALUATOR_NAJING
     });
     put(SETTINGS_MAP.LANGUAGE, new String[]{
-        Consts.LANGUAGE_EN,
+       /* Consts.LANGUAGE_EN,
         Consts.LANGUAGE_ES,
-        Consts.LANGUAGE_FR,
-        Consts.LANGUAGE_IT,
-        Consts.LANGUAGE_PT
+        Consts.LANGUAGE_FR,*/
+        Consts.LANGUAGE_IT
+        //Consts.LANGUAGE_PT
     });
     put(SETTINGS_MAP.DICTIONARY, new String[]{
         Consts.DICTIONARY_EVA,
@@ -194,9 +194,9 @@ public class SettingsManager {
     } else if (setting.equals(SETTINGS_MAP.DIVINATION_METHOD)) {
       return Consts.DIVINATION_METHOD_COINS_AUTO;
     } else if (setting.equals(SETTINGS_MAP.CHANGING_LINES_EVALUATOR)) {
-      return Consts.EVALUATOR_MASTERYIN;
+      return Consts.EVALUATOR_MANUAL;
     } else if (setting.equals(SETTINGS_MAP.LANGUAGE)) {
-      return Consts.LANGUAGE_EN;
+      return Consts.LANGUAGE_IT;
     } else if (setting.equals(SETTINGS_MAP.DICTIONARY)) {
       return Consts.DICTIONARY_EVA;
     } else if (setting.equals(SETTINGS_MAP.STORAGE)) {

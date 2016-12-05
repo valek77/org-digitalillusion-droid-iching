@@ -101,11 +101,11 @@ public abstract class ChangingLinesEvaluator {
   }
 
   public static ChangingLinesEvaluator produce(Integer evalType) {
-    if (evalType == Consts.EVALUATOR_MASTERYIN) {
+   /* if (evalType == Consts.EVALUATOR_MASTERYIN) {
       return new MasterYinEvaluator();
     } else if (evalType == Consts.EVALUATOR_NAJING) {
       return new NanjingEvaluator();
-    }
+    }*/
     return new ChangingLinesEvaluator() {
       @Override
       public int evaluate(int[] hex, int[] tHex) {

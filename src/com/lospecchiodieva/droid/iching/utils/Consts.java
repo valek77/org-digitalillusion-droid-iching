@@ -63,20 +63,20 @@ public class Consts {
   /**
    * Master Yin changing lines evaluator
    */
-  public static final int EVALUATOR_MASTERYIN = 1;
+ // public static final int EVALUATOR_MASTERYIN = 1;
   /**
    * Najing changing lines evaluator
    */
-  public static final int EVALUATOR_NAJING = 2;
+  //public static final int EVALUATOR_NAJING = 2;
 
   /**
    * Language codes *
    */
-  public static final String LANGUAGE_EN = "en";
+ /* public static final String LANGUAGE_EN = "en";
   public static final String LANGUAGE_ES = "es";
-  public static final String LANGUAGE_FR = "fr";
+  public static final String LANGUAGE_FR = "fr";*/
   public static final String LANGUAGE_IT = "it";
-  public static final String LANGUAGE_PT = "pt";
+  //public static final String LANGUAGE_PT = "pt";
 
   /**
    * Dictionary settings *

@@ -68,22 +68,21 @@
     <string name="options_about">A proposito</string>
     <string name="options_about_message">
         &lt;p&gt;
+            Questa applicazione è un fork dello splendido splendido lavoro fatto dai ragazzi di Digital Illusion,
+            a loro ogni merito. Se volete ringraziarli la loro mail è digitalillusion@altervista.org.
 	        Questa applicazione è Open Source rilasciata sotto GNU GPL v3, distribuita gratuitamente
 	        nella speranza che possa essere utile. Il codice sorgente completo può essere visualizzato
 	        e scaricato da:
 	    &lt;/p&gt;
 	    &lt;p&gt;
-	        https://github.com/digitalillusion/org-digitalillusion-droid-iching
+	        https://github.com/valek77/org-digitalillusion-droid-iching
         &lt;/p&gt;
         &lt;p&gt;
         	Se volete contattarmi o se incontrate un bug, lasciatemi un email a:
         &lt;/p&gt;
-        	digitalillusion@altervista.org
+        	staff@lospecchiodieva
         &lt;/p&gt;
-        &lt;p&gt;
-        	Grazie per i vostri commenti, &lt;br/&gt;
-        	namasté!
-        &lt;/p&gt;
+
     </string>
     <string name="options_settings">Impostazioni</string>
     <string name="settings_vibration">Vibrazione</string>
@@ -98,7 +97,7 @@
     <string name="settings_chlines_evaluator_2">Nanjing</string>
     <string name="settings_lang">Lingua</string>
     <string name="settings_dictionary">Dizionario</string>
-    <string name="settings_dictionary_altervista">Wilhelm (androidiching.altervista.org)</string>
+    <string name="settings_dictionary_altervista">Lo Specchio di Eva (www.lospecchiodieva.com)</string>
     <string name="settings_dictionary_custom">Personalizzato (local)</string>
     <string name="settings_storage">Salvataggio</string>
     <string name="settings_storage_sdcard">Carta SD</string>
@@ -189,7 +188,7 @@
     <string name="read_desc">Descrizione</string>
     <string name="read_judge">Il Giudizio</string>
     <string name="read_image">L\'Immagine</string>
-    <string name="app_name">I Ching</string>
+    <string name="app_name">Lo Specchio di Eva</string>
     <string name="read_cast">Esagramma Iniziale</string>
     <string name="read_changing">Linee Mutanti</string>
     <string name="read_transformed">Esagramma Trasformato</string>

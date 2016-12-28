@@ -401,70 +401,49 @@ $book['07']['line6'] =
 
 # -------------------------      08       ----------------------- #
 $book['08']['desc'] = 
-'Esagramma 8 – Solidarietà (Il simile attira il simile)
-La solidarietà reca salute. Scruta l’oracolo ancora una volta per sapere se possiedi sublimità durata e perseveranza; allora non vi è macchia. Gli incerti si accostano a poco a poco. Chi arriva tardi ha sciagura.\e
-Questa è una situazione in cui si decide ciò che ci è affine. Ma ci sono ostacoli, e  l’esito è incerto. Unirsi a qualcuno è semplice quando ci è simile e ci viene incontro; non  è altrettanto semplice con chi si presenta a noi portando intoppi, ritardi, piccoli e persistenti ostacoli e confusione. L’esagramma invita a seguire con fiducia ciò che ci dà soddisfazione e gioia; è implicito che occorre distinguere delle priorità internamente e fare poi una scelta; e bisogna affrettarsi, poiché quando l’unione non avviene  in breve tempo e senza ritardo vi sarà sciagura.  Qualcuno farà esperienza di una difficile scelta, ma alla fine deciderà ciò che gli è affine. Altri, che preferiscono rimandare il confronto con le proprie priorità interne, avranno sciagura.
-Si racconta che Yu il Grande, uno dei primi imperatori e fondatore della dinastia Xia, a cui allude questo esagramma, regnasse sui vassalli con pugno di ferro: quando  un suo  capitano arrivò in ritardo alla sua richiesta, Yu lo fece giustiziare. L’esagramma sottolinea  la tempestività nell’agire in una situazione in cui essere solidali per cercare altri al nostro stesso livello ricettivo è importante e che probabilmente si devono affrontare delle prove.
-Sulla terra sta l’acqua: l’ immagine della solidarietà.
-Così gli antichi re hanno concesso i singoli stati come feudi e hanno curato amichevoli rapporti con i principi feudatari.
-L’immagine  è una terra da cui sorgono acque: terra e acqua sono sempre insieme e perciò sono solidali.  Tutte le linee deboli sorreggono un’unica linea forte, questo Re che pone rimedio ai danni, perché ha la forza. Ci viene richiesto di avere forza e capacità come Yu, coerenti per il bene comune, lasciando indietro chi non viene a noi spontaneamente e soprattutto senza ritardo. Se non si ha  forza  e capacità di comprensione di ciò che va accantonato e ciò che va portato avanti, si perde l’occasione.  A volte ci si sforza per continuare come abbiamo sempre fatto: un’aggiustatina e si va avanti, in qualche modo. Ma solidarietà significa trovare dentro se stessi la certezza profonda di chi e cosa seguire.
-In una unione fertile e solidale non vi è sospetto tra i suoi membri, né ambiguità o timore. C’è invece reciproco scambio, e profonda onestà.
-Parole chiave: possibilità di connessione con l’altro  attraverso  prove; perseguire ciò che da stabilità;  distinguere e unirsi con ciò che è affine; se vi è un ritardo segue sciagura.';
+' Esagramma 8: Solidarietà
+  Acqua sulla Terra: si descrive una situazione in cui le persone si avvicinano con reciproco interesse e fiducia, così come la Terra accoglie spontaneamente nelle sue cavità l\'acqua. 
+  La struttura dell\'esagramma rappresenta quattro linee deboli che salgono verso una solare linea yang. Il segno interno del Monte, l\'Arresto, indica un ostacolo o comunque un intoppo. 
+  Unirsi a qualcuno a cui si tiene talvolta non è così semplice: i dubbi, una certa passività, forse stanchezza di provarci causano ritardi nell\' unirsi; oppure ci sono ostacoli esterni. 
+  Tutto questo porta ritardo nell\'unione. La presenza della Terra denota l\'attrazione verso la persona o situazione coinvolte. 
+  L\'Abissale indica che nell\'impresa è connesso il fattore X, sempre fonte di futuri ripensamenti. 
+  Si tende ad unirsi , ma la via è lunga e il tempismo è tutto. 
+  Sapremo superare questi ostacoli e pervenire a una nuova stagione di crescita? Oppure abbiamo perduto l\'occasione, rimandando a causa di ostacoli interni o esterni, il momento dell\'incontro? 
+  L\'oracolo è pronto a dirci se nella lunga corsa ce la faremo e ci invita a un nuovo consulto. 
+  Si racconta che l\'imperatore Yu, a cui allude questo esagramma, regnasse sui vassalli con pugno di ferro: quando un suo capitano arrivò in ritardo alla sua richiesta, Yu lo fece giustiziare. 
+  L’esagramma sottolinea la tempestività nell’agire in una situazione in cui si è solidali con altri al nostro stesso livello ricettivo, e che bisogna essere pronti ad affrontare delle ardue scelte. ';
 $book['08']['judge'] = 
-' HOLDING TOGETHER brings good fortune. 
-  Inquire of the oracle once again
-  Whether you possess sublimity, constancy, and perseverance;
-  Then there is no blame. 
-  Those who are uncertain gradually join. 
-  Whoever come too late
-  Meets with misfortune. \e
-  What is required is that we unite with others, in order that all may complement and aid one another through holding together. But such holding together calls for a central figure around whom other persons may unite. To become a center of influence holding people together is a grave matter and fraught with great responsibility. It requires greatness of spirit, consistency, and strength. Therefore let him who wishes to gather others about him ask himself whether he is equal to the undertaking, for anyone attempting the task without a real calling for it only makes confusion worse than if no union at all had taken place.
-  But when there is a real rallying point, those who at first are hesitant or uncertain gradually come in of their own accord. Late-comers must suffer the consequences, for in holding together the question of the right time is also important. Relationships are formed and firmly established according to definite inner laws. Common experiences strengthen these ties, and he who comes too late to share in these basic experiences must suffer for it if, as a straggler, he finds the door locked.
-  If a man has recognized the necessity for union and does not feel strong enough to function as the center, it is his duty to become a member of some other organic fellowship.';
+' La solidarietà reca salute. Scruta l’oracolo ancora una volta per sapere se possiedi sublimità durata e perseveranza; allora non vi è macchia. Gli incerti si accostano a poco a poco. Chi arriva tardi ha sciagura.\e
+  Stare con chi ci è simile, per interesse o perchè ci sta a cuore,è sempre positivo. 
+  In questo momento la connessione con altri però ha però bisogno di essere coltivata e portata avanti concretamente e con pazienza, cosa che al momento non è facile. 
+  Dedizione, una lunga relazione con l\'oggetto in questione, pazienza: questi gli ingredienti che servono affinchè l\'unione sia possibile. ';
 $book['08']['image'] = 
-' On the earth is water:
-  The image of HOLDING TOGETHER. 
-  Thus the kings of antiquity
-  Bestowed the different states as fiefs
-  And cultivated friendly relations
-  With the feudal lords. \e
-  Water fills up all the empty places on the earth and clings fast to it. The social organization of ancient China was based on this principle of the holding together of dependents and rulers. Water flows to unite with water, because all parts of it are subject to the same laws. So too should human society hold together through a community of interests that allows each individual to feel himself a member of a whole. The central power of a social organization must see to it that every member finds that his true interest lies in holding together with it, as was the case in the paternal relationship between king and vassals in ancient China.';
+' Sulla terra sta l’acqua: l’ immagine della solidarietà. Così gli antichi re hanno concesso i singoli stati come feudi e hanno curato amichevoli rapporti con i principi feudatari.\e
+  L’immagine è una terra da cui sorgono acque: terra e acqua sono sempre insieme e perciò sono solidali. Tutte le linee deboli tendono verso un’unica linea forte, questo Re che a sua volta ricambia la fiducia affidando benefici a chi si avvicina lui. Nel mondo concreto si descrivono rapporti amichevoli tra chi dà e chi riceve.';
 $book['08']['line1'] = 
-' Six at the beginning means:
-  Hold to him in truth and loyalty;
-  This is without blame. 
-  Truth, like a full earthen bowl:
-  Thus in the end
-  Good fortune comes from without. \e
-  Fundamental sincerity is the only proper basis for forming relationships. This attitude, symbolized by a full earthen bowl, in which the content is everything and the empty form nothing, shows itself not in clever words but through the strength of what lies within the speaker. This strength is so great that it has power to attract good fortune to itself from without.';
+' Sei all\'inizio significa:
+  A lui attieniti sincero e fedele: ciò non è macchia. Verità come una terrina colma: così infine viene dall\'esterno salute. \e
+  Si cerca di unirsi anche se la strada è ancora lunga; la buona fede alla fine viene riconosciuta anche da altri e in questo c\'è vantaggio. ';
 $book['08']['line2'] = 
-' Six in the second place means:
-  Hold to him inwardly. 
-  Perseverance brings good fortune. \e
-  If a person responds perseveringly and in the right way to the behests from above that summon him to action, his relations with others are intrinsic and he does not lose himself. But if a man seeks association with others as if he were an obsequious office hunter, he throws himself away. He does not follow the path of the superior man, who never loses his dignity.';
+' Sei al secondo posto significa:
+  Attieniti a lui interiormente. Perseveranza reca salute.\e
+  Anche se le circostanze sembrano opporsi, si continua a cercare la via per unirsi. Non scoraggiarsi e armarsi di pazienza. ';
 $book['08']['line3'] = 
-' Six in the third place means:
-  You hold together with the wrong people. \e
-  We are often among people who do not belong to our own sphere. In that case we must beware of being drawn into false intimacy through force of habit. Needless to say, this would have evil consequences. Maintaining sociability without intimacy is the only right attitude toward such people, because otherwise we should not be free to enter into relationship with people of our own kind later on.';
+' Sei al terzo posto significa:
+  Tu sei solidale con persone che non sono quelle adatte. \e
+  Ci si vuole unire a qualcuno che non ha il nostro stesso scopo e interesse: meglio riconoscerlo in tempo, e abbandonare. ';
 $book['08']['line4'] = 
-' Six in the fourth place means:
-  Hold to him outwardly also. 
-  Perseverance brings good fortune. \e
-  Here the relations with a man who is the center of union are well established. Then we may, and indeed we should, show our attachment openly. But we must remain constant and not allow ourselves to be led astray.';
+' Sei al quarto posto significa:
+  Anche esteriormente attieniti a lui. Perseveranza reca salute. \e
+  La situazione merita rispetto e fiducia; si devono compiere azioni concrete per esprimere la volontà di raggrupparsi. Tuttavia mentre l\'intenzione deve essere mantenuta in questa direzione, sorgono ancora inconvenienti. In seguito si potranno risolvere. ';
 $book['08']['line5'] = 
-' Nine in the fifth place means:
-  Manifestation of holding together. 
-  In the hunt the king uses beaters on three sides only
-  And forgoes game that runs off in front. 
-  The citizens need no warning. 
-  Good fortune. \e
-  In the royal hunts of ancient China it was customary to drive up the game from three sides, but on the fourth the animals had a chance to run off. If they failed to do this they had to pass through a gate behind which the king stood ready to shoot. Only animals that entered here were shot; those that ran off in front were permitted to escape. This custom accorded with a kingly attitude; the royal hunter did not wish to turn the chase into a slaughter, but held that the kill should consist only of those animals which had so to speak voluntarily exposed themselves.
-  There is depicted here a ruler, or influential man, to whom people are attracted. Those who come to him he accepts, those who do not come are allowed to go their own way. He invites none, flatters none–all come of their own free will. In this way there develops a voluntary dependence among those who hold him. They do not have to be constantly on their guard but may express their opinions openly. Police measures are not necessary, and they cleave to their ruler of their own volition. The same principle of freedom is valid for life in general. We should not woo favor from people. If a man cultivates within himself the purity and the strength that are necessary for one who is the center of a fellowship, those who are meant for him come of their own accord.';
+' Nove al quinto posto significa:
+  Palesamento della solidarietà. Il re durante la caccia fa battere solo da tre lati e rinuncia alla selvaggina che fugge prima. \e
+  I cittadini non hanno bisogno di essere messi in guardia. Ci si incontra finalmente. Avvertimento: gli antichi imperatori andavano a caccia lasciando sempre una via di scampo agli animali più scaltri e veloci. 
+  Si valuti bene la situazione, vi è l\'incontro ma anche ulteriori problemi. Se si è già molto compromessi, è difficile tirarsi indietro ora. ';
 $book['08']['line6'] = 
-' Six at the top means:
-  He finds no head for holding together. 
-  Misfortune. \e
-  The head is the beginning. If the beginning is not right, there is no hope of a right ending. If we have missed the right moment for union and go on hesitating to give complete and full devotion, we shall regret the error when it is too late.';
+' Sei sopra significa:
+  Egli non trova nessun capo per associarsi. Sciagura. Si è soli e senza guida. L\'occasione per unirsi è perduta, è troppo tardi. ';
 
 # -------------------------      09       ----------------------- #
 $book['09']['desc'] = 
@@ -2583,60 +2562,50 @@ $book['48']['line6'] =
 
 # -------------------------      49       ----------------------- #
 $book['49']['desc'] = 
-' Ko / Revolution (Molting) 
-  Above TUI THE JOYOUS, LAKE
-  Below LI THE CLINGING, FIRE\e
-  The Chinese character for this hexagram means in its original sense an animal\'s pelt, which is changed in the course of the year by molting. From this word is carried over to apply to the "moltings" in political life, the great revolutions connected with changes of governments. 
-  The two trigrams making up the hexagram are the same two that appear in K\'uei, OPPOSITION (38 ), that is, the two younger daughters, Li and Tui. But while there the elder of the two daughters is above, and what results is essentially only an opposition of tendencies, here the younger daughter is above. The influences are in actual conflict, and the forces combat each other like fire and water (lake), each trying to destroy the other. Hence the idea of revolution.';
+' Ko / Rivoluzione (Molting) 
+  Il fuoco brucia e sale verso l\'alto, il lago preme sul fuoco e tenta di spegnerlo. Il Lago simboleggia anche il calendario e computo del tempo mentre il Fuoco simboleggia armi. 
+  Nel mondo umano si descrive una presa di posizione che rinnova il modo di essere e di fare, cosa che avviene quando determinati avvenimenti ci costringono a cambiare tutto. 
+  L\'esagramma viene come naturale conseguenza del 48, Pozzo: l\'acqua del Pozzo, la vita collettiva e di relazione, diventa fango se non la si rinnova ogni tanto. 
+  Da qui l\'idea di una rigenerazione necessaria, che ripristina ordine e limpidezza. Si sta attraversando una radicale trasformazione da una stagione della vita a un\'altra. 
+  Agire e attendere il risultato a lungo termine, questo è lo spirito del sovvertimento. Se non sapete come comportarvi con qualcuno, è probabile che dobbiate completamente cambiare prospettiva. 
+  Se non sapete se andare avanti o fermarvi, andate avanti affinché un radicale cambiamento avvenga. 
+  La paralisi è finita, una direzione opposta a quella precedente si va mostrando: dove c’era discesa, ora vi è risalita, dove c’era risentimento, tristezza, dubbio ora si presentano crescita e crescente chiarezza. 
+  E’ una grande transizione.
+  Grande invero è il tempo del sovvertimento. (R. Wilhelm)
+  La rivoluzione è creduta solo dopo. (Legge) ';
 $book['49']['judge'] = 
-' REVOLUTION. On your own day
-  You are believed.  
-  Supreme success,1n
-  Furthering through perseverance. 
-  Remorse disappears. \e
-  Political revolutions are extremely grave matters. They should be undertaken only under stress of direst necessity, when there is no other way out. Not everyone is called to this task, but only the man who has the confidence of the people, and even he only when the time is ripe. He must then proceed in the right way, so that he gladdens the people and, by enlightening them, prevents excesses. Furthermore, he must be quite free of selfish aims and must really relieve the need of the people. Only then does he have nothing to regret.
-  Times change, and with them their demands. Thus the seasons change in the course of the year. In the world cycle also there are spring and autumn in the life of peoples and nations, and these call for social transformations.';
+' Sovvertimento. Nel giorno stabilito incontrerai fiducia. Sublime riuscita, propizio per perseveranza. Il pentimento svanisce. \e
+  Un cambiamento radicale delle cose è alle porte e bisogna assecondarlo. Il passaggio dal vecchio al nuovo darà il suo frutto maturo solo alla fine di una accurata preparazione. 
+  Bisogna dedicarsi con fede e impegno all\'impresa aprendo il passaggio a una nuova stagione della vita. Questa è un\'occasione per dissolvere vecchi comportamenti non più adeguati. ';
 $book['49']['image'] = 
-' Fire in the lake: the image of REVOLUTION. 
-  Thus the superior man
-  Sets the calendar in order
-  And makes the seasons clear. \e
-  Fire below and the lake above combat and destroy each other. So too in the course of the year a combat takes place between the forces of light and the forces of darkness, eventuating in the revolution of the seasons. Man masters these changes in nature by noting their regularity and marking off the passage of time accordingly. In this way order and clarity appear in the apparently chaotic changes of the seasons, and man is able to adjust himself in advance to the demands of the different times.';
+' Nel lago vi è il fuoco: l\'immagine del sovvertimento. Così il nobile mette ordine nel computo del tempo e rende chiare le stagioni.\e
+  Fuoco sotto l\'acqua: lo status quo viene scosso da elementi che si contrastano a vicenda. 
+  Nel mondo umano ci si rende conto che la situazione così com\'è non può essere tollerata oltre. Si intraprendono azioni e accadono eventi in cui il nuovo si fa strada. 
+  Non tutto fiorirà subito, qualcosa deve essere intrapreso ora per dare risposte in seguito. Ma bisogna dare spazio al nuovo, in modo che tutto nella vita sia più chiaro. ';
 $book['49']['line1'] = 
-' Nine at the beginning means:
-  Wrapped in the hide of a yellow cow. \e
-  Changes ought to be undertaken only when there is nothing else to be done. Therefore at first the utmost restraint is necessary. One must become firm in one\'s mind, control oneself–yellow is the color of the mean, and the cow is the symbol of docility–and refrain from doing anything for the time being, because any premature offensive will bring evil results.';
+' Nove all\'inizio: 
+  Si viene avvolti in una pelle di una vacca gialla.\e
+  Comincia a farsi strada la chiarezza, un primo indizio di qualcosa che potrebbe svilupparsi in seguito. Una nuova, buona idea da sviluppare e definire. ';
 $book['49']['line2'] = 
-' Six in the second place means:
-  When one\'s own day comes, one may create revolution. 
-  Starting brings good fortune. No blame. \e
-  When we have tried in every other way to bring about reforms, but without success, revolution becomes necessary. But such a thoroughgoing upheaval must be carefully prepared. There must be available a man who has the requisite abilities and who possesses public confidence. To such a man we may well turn. This brings good fortune and is not a mistake. The first thing to be considered is our inner attitude toward the new condition that will inevitably come. We have to go out to meet it, as it were. Only in this way can it be prepared for.';
+' Sei al secondo posto:
+  Nel giorno stabilito si può sovvertire. Incamminarsi reca salute. Nessuna macchia. \e
+  E\' l\'opportunità e l\'occasione per operare il cambiamento cercato. Si può dunque procedere senza timore di conseguenze negative. ';
 $book['49']['line3'] = 
-' Nine in the third place means:
-  Starting brings misfortune. 
-  Perseverance brings danger. 
-  When talk of revolution has gone the rounds three times,
-  One may commit himself,
-  And men will believe him. \e
-  When change is necessary, there are two mistakes to be avoided. One lies in excessive haste and ruthlessness, which bring disaster. The other lies in excessive hesitation and conservatism, which are also dangerous. Not every demand for change in the existing order should be heeded. On the other hand, repeated and well-founded complaints should not fail of a hearing. When talk of change has come to one\'s ears three times, and has been pondered well, he may believe and acquiesce in it. Then he will meet with belief and will accomplish something.';
+' Nove al terzo posto: 
+  Incamminarsi reca sciagura. Perseveranza reca pericolo. Quando per tre volte si sia annunciato il sovvertimento si può ricorrervi e si troverà fiducia.\e
+  Per ora bisogna fermarsi, il momento non è arrivato ancora. Guardare indietro o guardare avanti è la scelta difficile. Si è a un bivio. Il tempo del cambiamento comincia però già a fare il suo effetto e ci si attiva per portarlo avanti. Per tre volte si devono offrire concreti gesti di rinnovamento, e allora si sarà accolti con fiducia. ';
 $book['49']['line4'] = 
-' Nine in the fourth place means:
-  Remorse disappears. Men believe him. 
-  Changing the form of government brings good fortune. \e
-  Radical changes require adequate authority. A man must have inner strength as well as influential position. What he does must correspond with a higher truth and must not spring from arbitrary or petty motives; then it brings great good fortune. If a revolution is not founded on such inner truth, the results are bad, and it has no success. For in the end men will support only those undertakings which they feel instinctively to be just.';
+' Nove al quarto posto: 
+  Il pentimento svanisce. Si incontra fiducia. Mutare l\'ordinamento statale reca salute. \e
+  Si superano i dubbi e serenamente ci si appresta a costruire. E\' importante in questa fase apportare modifiche consistenti nella struttura stessa delle organizzazioni in cui ci si trova, rendendole più adatte e di beneficio per il rinnovamento in corso. ';
 $book['49']['line5'] = 
-' Nine in the fifth place means:
-  The great man changes like a tiger. 
-  Even before he questions the oracle
-  He is believed. \e
-  A tigerskin, with its highly visible black stripes on a yellow ground, shows its distinct pattern from afar. It is the same with a revolution brought about by a great man: large, clear guiding lines become visible, understandable to everyone. Therefore he need not first consult the oracle, for he wins the spontaneous support of the people.';
+' Nove al quinto: 
+  Il grande uomo cambia come una tigre. Ancora prima di interrogare l\'oracolo egli incontra fiducia. 
+  Il tempo della muta è arrivato. Si cambia in meglio, ci si rinnova, sicuri e fiduciosi di se stessi e di chi ci circonda. Senza alcun dubbio sta avvenendo un importante riconoscimento, grazie alle nostre scelte. ';
 $book['49']['line6'] = 
-' Six at the top means:
-  The superior man changes like a panther. 
-  The inferior man molts in the face. 
-  Starting brings misfortune. 
-  To remain persevering brings good fortune. \e
-  After the large and fundamental problems are settled, certain minor reforms, and elaborations of these, are necessary. These detailed reforms may be likened to the equally distinct but relatively small marks of the panther\'s coat. As a consequence, a change also takes place among the inferior people. In conformity with the new order, they likewise "molt. " This molting, it is true, does not go very deep, but that is not to be expected. We must be satisfied with the attainable. If we should go too far and try to achieve too much, it would lead to unrest and misfortune. For the object of a great revolution is the attainment of clarified, secure conditions ensuring a general stabilization on the basis of what is possible at the moment.';
+' Sei sopra: 
+  Il nobile cambia come una pantera. Per l\'uomo comune la muta avviene nel viso. Incamminarsi reca sciagura. Dimorare in perseveranza reca salute. \e
+  Bisogna operare cambiamenti profondi e completi, a questo punto, non accontentarsi di promesse superficiali. Non ci sono altre vie che continuare ad approfondire e compiere ciò che si è già intrapreso. Non mollare e non cambiare direzione. ';
 
 # -------------------------      50       ----------------------- #
 $book['50']['desc'] = 

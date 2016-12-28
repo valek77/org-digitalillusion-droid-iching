@@ -726,55 +726,63 @@ $book['13']['line6'] =
 
 # -------------------------      14       ----------------------- #
 $book['14']['desc'] = 
-' Ta Yu / Possession in Great Measure 
-  Above LI THE CLINGING, FLAME
-  Below CH\'IEN THE CREATIVE, HEAVEN\e
-  The fire in heaven above shines far, and all things stand out in the light and become manifest. The weak fifth line occupies the place of honor and all the strong lines are in accord with it. All things come to the man who is modest and kind in a high position.';
+' Ta Yu / Il possesso grande
+  Il Cielo, ispiratore di tutte le cose è rischiarato dal Fuoco, che illuminandole le mette a nudo. 
+  Ora si distingue il bene da male, ciò che va nutrito e ciò che va lasciato andare. 
+  Dissolti i dubbi si favorisce così crescita ed evoluzione; la linea oscura non disturba tale evoluzione, anzi la spinge e la sostiene. 
+  Se nella situazione ci sono intoppi dunque si affrontano e si superano, con un progressivo rasserenamento. 
+  E\' una situazione di grande potenzialità, in cui c\'è corrispondenza e reciproca fiducia di base, intaccata da qualche sospetto e risentimento non consoni né inerenti alla realtà dei fatti. 
+  In qualche modo bisogna invece cercare di preservare il contatto e farlo prosperare. 
+  Non siate troppo rigidi, non scambiate fiducia per ostilità. Siate ricettivi e non sminuitevi, siete parte di un gruppo in cui vi è sincerità e interessi in comune, sostenuti da una corrispondenza e un interesse reciproco di base. ';
 $book['14']['judge'] = 
-' POSSESSION IN GREAT MEASURE. 
-  Supreme success. \e
-  The two trigrams indicate that strength and clarity unite. Possession in great measure is determined by fate and accords with the time. How is it possible that the weak line has power to hold the strong lines fast and to possess them? It is done by virtue of unselfish modesty. The time is favorable–a time of strength within, clarity and culture without. Power is expressing itself in graceful and controlled way. This brings supreme success and wealth.';
+' Il possesso grande. 
+  Sublime riuscita. \e
+  Il possesso più grande è la capacità di poter guidare le cose e di indirizzarle verso mete condivise e di beneficio a noi stessi e agli altri. Altre persone sono coinvolte nell\'impresa e ci seguono con fiducia, vi è reciproco scambio e dedizione. Tutto va bene. 
 $book['14']['image'] = 
-' Fire in heaven above:
-  The image of POSSESSION IN GREAT MEASURE. 
-  Thus the superior man curbs evil and furthers good,
-  And thereby obeys the benevolent will of heaven. \e
-  The sun in heaven above, shedding light over everything on earth, is the image of possession on a grand scale. But a possession of this sort must be administered properly. The sun brings both evil and good into the light of day. Man must combat and curb the evil, and must favor and promote the good. Only in this way does he fulfill the benevolent will of God, who desires only good and not evil.';
+' Immagine Il fuoco alto nel cielo: l\'immagine del possesso grande. Così il nobile ostacola il male e favorisce il bene, e così obbedisce alla benigna volontà del cielo.\e
+  Il fuoco fiammeggia nel cielo e illumina e mette a nudo ogni cosa, buona o cattiva. Grazie al chiarore delle circostanze si distingue con precisione il male e lo si può combattere attivamente. Questo di cui si parla non è un possesso materiale, quanto una qualità interiore che, se ben nutrita e ordinata, conduce ad un livello più alto dell\'essere.
+  Vi è il pericolo di perdere la modestia e sopravvalutarci, pericolo gravissimo che apre di nuovo le porte all\'oscurità e alla debolezza. 
+  Dobbiamo invece essere aperti e sinceri, coscienti che il proprio bene non ha secondi fini e non si basa su appagamenti momentanei, ma ha solide basi nei propri convincimenti più intimi, nonostante le lusinghe e distrazioni della vita ci trascinino ad adeguarci passivamente agli altri, perdendo così la nostra identità. 
+  Qui la mitezza-grande qualità del Nobile, non è in alcun modo debolezza: affabili ma dignitosi, nutriamo il contatto con tutti, anche se a volte ';
 $book['14']['line1'] = 
-' Nine at the beginning means:
-  No relationship with what is harmful;
-  There is no blame in this. 
-  If one remains conscious of difficulty,
-  One remains without blame. \e
-  Great possession that is still in its beginnings and that has not yet been challenged brings no blame, since there has been no opportunity to make mistakes. Yet there are many difficulties to be overcome. It is only by remaining conscious of theses difficulties that one can keep inwardly free of possible arrogance and wastefulness, and thus in principle overcome all cause for blame.';
+' Nove all\'inizio significa:
+  Nessun rapporto col dannoso; ciò non è una macchia. Restando consapevoli della difficoltà si rimane senza macchia. \e
+  Il dannoso è rappresentato dalla linea scura al quinto posto, che domina il segno. Il rapporto con essa è difficile, a causa della lontananza. Tuttavia esso persiste, anche se la distanza è tanta. Bisogna riflettere sulle possibilità concrete di una tale unione. Confusione e tristezza sono vicini, ma resisti a \'quel\' richiamo. ';
 $book['14']['line2'] = 
-' Nine in the second place means:
-  A big wagon for loading. 
-  One may undertake something. 
-  No blame. \e
-  Great possession consists not only in the quantity of goods at one\'s disposal, but first and foremost, in their mobility and utility, for then they can be used in undertakings, and we remain free of embarrassment and mistakes. The big wagon, which will carry a heavy load and in which one can journey far means that there are at hand able helpers who give their support and are equal to their task. One can load great responsibility upon such persons, and this is necessary in important undertakings.';
+' Nove al secondo posto significa:
+  Un grande carro da caricare. Si imprenda pure qualche cosa. Nessuna macchia. \e
+  Un grande carro ricolmo di beni. Certamente vi è molto da fare e la situazione richiede azione. Si devono vincere i dubbi, accumulare la forza necessaria per portare a maturità la situazione. 
+  Qui molto ha che fare con le nostre propensioni interiori negative, che tentano di fuorviarci.
+  E\' il momento di rimboccarsi le maniche e credere in se stessi, poiché con un po\' di sforzo possiamo raggiungere la meta. ';
 $book['14']['line3'] = 
-' Nine in the third place means:
-  A prince offers it to the Son of Heaven. 
-  A petty man cannot do this. \e
-  A magnanimous, liberal-minded man should not regard what he possesses as his exclusive personal property, but should place it at the disposal of the ruler or of the people at large. In so doing, he takes the right attitude toward his possession, which as private property can never endure. A petty man is incapable of this. He is harmed by great possessions, because instead of sacrificing them, he would keep them for himself.';
+'Nove al terzo posto significa:
+ Un principe ne fa offerta al Figlio del Cielo. Un uomo meschino non lo fa. \e
+ C\'è qui generosità e un atto disinteressato, compiuto senza secondi fini. 
+ Ci si trova in una situazione in cui non si riceve un guadagno immediato, ma ugualmente se ne è accresciuti. 
+ Se si è avuto qualche successo, ci si rinuncia restando fedeli al tempo e al luogo appropriati. 
+ Avremmo anche la possibilità di avere di più, e di prenderci tutto il guadagno possibile, ma alla fine non sarà di molto valore.
+ Dunque è bene rinunciare per conformarsi all\'ordine e all\'equilibrio delle cose. Solo un nobile può farlo e non una persona ordinaria. Un sacrificio è richiesto e lo si deve compiere. ';
 $book['14']['line4'] = 
-' Nine in the fourth place means:
-  He makes a difference
-  Between himself and his neighbor. 
-  No blame. \e
-  This characterizes the position of a man placed among rich and powerful neighbors. It is a dangerous position. He must look neither to the right nor to the left, and must shun envy and the temptation to vie with others. In this way he remains free of mistakes.';
+' Nove al quarto posto significa:
+  Fa una distinzione tra sé e il suo prossimo. Nessuna macchia.\e
+  Segui il tuo cammino e gli altri seguono il loro. Fai quello che devi fare senza emulare nessuno o tantomeno cercare di compiacerlo. 
+  I posti sono assegnati, c\'è una distanza che va mantenuta perché non è alla nostra portata colmarla. 
+  Si fa strada la chiarezza necessaria per questa comprensione.';
 $book['14']['line5'] = 
-' Six in the fifth place means:
-  He whose truth is accessible, yet dignified,
-  Has good fortune. \e
-  The situation is very favorable. People are being won not by coercion but by unaffected sincerity, so that they are attached to us in sincerity and truth. However, benevolence alone is not sufficient at the time of POSSESSION IN GREAT MEASURE. For insolence might begin to spread. Insolence must be kept in bounds by dignity; then good fortune is assured.';
+' Sei al quinto posto significa:
+  Quegli la cui verità è affabile e pur dignitosa ha salute. 
+  Ci si mostra per quello che si è, senza orpelli e mascheramenti. 
+  E per questo si viene accettati e rispettati e si ha un seguito. 
+  Vi è potere in questo ed ancora più potente è la mancanza di aspettative nel presente, foriera di sviluppi positivi futuri. 
+  Restando fedeli a se stessi siate aperti e sinceri, mostrando la vostra singolarità e il vostro buon cuore. 
+  Così si è capaci di attrarre verso di sè anche persone e situazioni controverse. ';
 $book['14']['line6'] = 
 ' Nine at the top means:
-  He is blessed by heaven. 
-  Good fortune. 
-  Nothing that does not further. \e
-  In the fullness of possession and at the height of power, one remains modest and gives honor to the sage who stands outside the affairs of the world. By this means one puts oneself under the beneficent influence descending form heaven, and all goes well. Confucius says of this line: To bless means to help. Heaven helps the man who is devoted; men help the man who is true. He who walks in truth and is devoted in his thinking, and furthermore reveres the worthy, is blessed by heaven. He has good fortune, and there is nothing that would not further.';
+  Dal cielo è benedetto. Salute! Nulla che non sia propizio. \e
+  La posizione è ormai al di là di guadagno o perdita materiali. 
+  Sostenuti da chiarezza e capacità di azione disinteressata le esperienze fruttificano in modi benefici e inaspettati. 
+  Tutto il potere di plasmare la situazione è nelle nostre mani. 
+  Il compimento dell\'impresa, iniziato con la prima linea, è irreversibile e trova qui il sublime successo. ';
 
 # -------------------------      15       ----------------------- #
 $book['15']['desc'] = 

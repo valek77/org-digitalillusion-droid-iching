@@ -777,7 +777,7 @@ $book['14']['line5'] =
   Restando fedeli a se stessi siate aperti e sinceri, mostrando la vostra singolarità e il vostro buon cuore. 
   Così si è capaci di attrarre verso di sè anche persone e situazioni controverse. ';
 $book['14']['line6'] = 
-' Nine at the top means:
+' Nove sopra:
   Dal cielo è benedetto. Salute! Nulla che non sia propizio. \e
   La posizione è ormai al di là di guadagno o perdita materiali. 
   Sostenuti da chiarezza e capacità di azione disinteressata le esperienze fruttificano in modi benefici e inaspettati. 
@@ -2744,62 +2744,61 @@ $book['51']['line6'] =
 
 # -------------------------      52       ----------------------- #
 $book['52']['desc'] = 
-' Kên / Keeping Still, Mountain 
-  Above KÊN KEEPING STILL, MOUNTAIN
-  Below KÊN KEEPING STILL, MOUNTAIN\e
-  The image of this hexagram is the mountain, the youngest son of heaven and earth. The male principle is at the top, because it strives upward by nature; the female principle is below, since the direction of its movement is downward. Thus there is rest because the movement has come to its normal end.
-  In its application to man, the hexagram turns upon the problem of achieving a quiet heart. It is very difficult to bring quiet to the heart. While Buddhism strives for rest through an ebbing away of all movement in nirvana, the Book of Changes holds that rest is merely a state of polarity that always posits movement as its complement. Possibly the words of the text embody directions for the practice of yoga.';
+' Esagramma 52: Monte
+  Monte su monte, fermezza su fermezza, l’immagine è assimilata a quella del corpo in posizione yogica: non si muove la schiena, non i piedi, non i polpacci, le anche, il tronco, le mascelle. Come una divinità archetipica, non si ha bisogno di eccitare e creare cause ed effetti per stabilire ciò che si è. L’idea del cambiamento è tutta inclusa nel lasciare le cose come sono e rilassarsi in esse. E’ il principio del wuwei, a cui questo esagramma si ispira.
+  Di base, ciò che si muove e muove l’azione è la mente: il fare è qui espresso come antitesi del divenire, e ogni momento e linea dell’esagramma esprime i vari stadi in cui l’azione deve essere abbandonata. 
+  Un’azione determinata dal raziocinio, dal desiderio offuscato è impura e porta alla disgregazione e all’accumulo di karma negativo: ciò che si fa ora quindi crea soltanto ostacolo e futuro malessere. 
+  Meglio non prendere quella strada, anche se ci costa rimpianti e malinconie.
+  Stare fermi e non intraprendere alcunché permetterà a ciò che è sano e di valore di emergere e fiorire: ciò può voler dire voltare pagina, o, per qualcuno, recidere un legame. 
+  Il nostro problema spesso è soltanto legato al volerci sforzare contro natura, costringendoci a fare cose che possono forse darci una soddisfazione superficiale, ma che non ci farà muovere di un millimetro in termini di evoluzione della nostra situazione di vita. Non è facile, la mente che si muove si aggrappa ora a una ora a un’altra cosa…..è il karma, a cui il Nobile, lo shun tzu, deve cercare di sottrarsi. 
+  Egli non agisce per un progetto definito e particolare, ma solo per esprimere le energie più pure, che nella loro semplicità e mancanza di artifici, ci sembrano, purtroppo, prive di attrattiva. 
+  La semplicità non ha bisogno di fare, è. Ed è qui, nell’esimersi dalla manipolazione, in questa rinuncia ad attaccamento, che si aprono ora i favolosi scenari di un possibile balzo karmiko.
+  Senza muoversi egli compie il suo destino, si legge nel Daode jing. ';
 $book['52']['judge'] = 
-' KEEPING STILL. Keeping his back still
-  So that he no longer feels his body. 
-  He goes into his courtyard
-  And does not see his people. 
-  No blame. \e
-  True quiet means keeping still when the time has come to keep still, and going forward when the time has come to go forward. In this way rest and movement are in agreement with the demands of the time, and thus there is light in life.
-  The hexagram signifies the end and the beginning of all movement. The back is named because in the back are located all the nerve fibers that mediate movement. If the movement of these spinal nerves is brought to a standstill, the ego, with its restlessness, disappears as it were. When a man has thus become calm, he may turn to the outside world. He no longer sees in it the struggle and tumult of individual beings, and therefore he has that true peace of mind which is needed for understanding the great laws of the universe and for acting in harmony with them. Whoever acts from these deep levels makes no mistakes.';
+' Tener fermo il dorso così che egli non avverta più il suo corpo. Egli va nel suo cortile e non vede la sua gente. Nessuna macchia.\e
+  Il moto è arrivato al suo arresto naturale. Tutto si immobilizza intorno mentre altre priorità emergono internamente. 
+  Chi ci ha accompagnato da vicino finora si allontana sullo sfondo, e non c\'è più contatto.
+  Questa impresa è per ora ferma e conclusa, e in attesa di nuovi eventi ci si ritira coltivando ciò che si si ha già. 
+  Che è tanto, anche se non ci sembra sufficiente. 
+  Si tratta di una sosta che è di beneficio, in cui all\'esterno non accade nulla di nuovo ma internamente si acquisisce la capacità di distacco dignitoso verso qualcosa che finora stimolava ad agire.
+  Questa è una pausa costruttiva di riorganizzazione e riordinamento interiore, in cui si abbandonano comportamenti di attaccamento che non hanno fatto altro che generare preoccupazione. 
+  Rilassandosi e attingendo alle proprie priorità interne, si ha rigenerazione e una visione più chiara di come le cose sono, senza interventi dall\'esterno. ';
 $book['52']['image'] = 
-' Mountains standing close together:
-  The image of KEEPING STILL. 
-  Thus the superior man
-  Does not permit his thoughts
-  To go beyond his situation. \e
-  The heart thinks constantly. This cannot be changed, but the movements of the heart–that is, a man\'s thoughts–should restrict themselves to the immediate situation. All thinking that goes beyond this only makes the heart sore.';
+' Montagna serrata a montagna: l\'immagine dell\'arresto. Così il nobile nei suoi pensieri non va oltre la sua situazione.\e
+  Si ha molto da fare qui e ora, e non bisogna preoccuparsi di edificare nuove vie. 
+  Il moto si ferma, i due monti dell\'immagine sono immobili e non interagiscono. 
+  Inutile sforzarsi di aggiungere, stimolare e costruire alternative. 
+  Quello che si ha adesso è ciò che resta e che non si modifica nel tempo. 
+  Occorre valorizzare e riconoscere il beneficio di una sosta costruttiva, poiché si è giunti al termine di un percorso che per ora non può svilupparsi oltre e non si possono attingere dall\'esterno nuovi stimoli. ';
 $book['52']['line1'] = 
-' Six at the beginning means:
-  Keeping his toes still. 
-  No blame. 
-  Continued perseverance furthers. \e
-  Keeping the toes still means halting before one has even begun to move. The beginning is the time of few mistakes. At that time one is still in harmony with primal innocence. Not yet influenced by obscuring interests and desires, one sees things intuitively as they really are. A man who halts at the beginning, so long as he has not yet abandoned the truth, finds the right way. But persisting firmness is needed to keep one from drifting irresolutely.';
+' Sei all\'inizio signifa:
+  Tener ferme le dita dei piedi. Nessuna macchia. \e
+  I piedi tipicamente si muovono inconsulti, così come, di solito, si è spinti ad agire per incapacità di visione. 
+  Meglio allora fermarsi e aspettare che tutto si acquieti, per poi decidere con maggior lucidità in seguito. ';
 $book['52']['line2'] = 
-' Six in the second place means:
-  Keeping his calves still. 
-  He cannot rescue him whom he follows. 
-  His heart is not glad. \e
-  The leg cannot move independently; it depends on the movement of the body. If a leg is suddenly stopped while the whole body is in vigorous motion, the continuing body movement will make one fall.
-  The same is true of a man who serves a master stronger than himself. He is swept along, and even though he may himself halt on the path of wrongdoing, he can no longer check the other in his powerful movement. Where the master presses forward, the servant, no matter how good his intentions, cannot save him.';
+' Sei al secondo posto signifa: 
+  Tener fermi i polpacci Egli non può salvare colui che lo precede. Il suo cuore non è lieto.\e
+  Talvolta ci sta a cuore da tanto tempo intraprendere qualcosa: ora si presenta l\'occasione, ma bisogna rinunciare anche se ciò porta tristezza e un inevitabile rimpianto ';
 $book['52']['line3'] = 
-' Nine in the third place means:
-  Keeping his hips still. 
-  Making his sacrum stiff. 
-  Dangerous. The heart suffocates. \e
-  This refers to enforced quiet. The restless heart is to be subdued by forcible means. But fire when it is smothered changes into acrid smoke that suffocates as it spreads.
-  Therefore, in exercises in meditation and concentration, one ought not to try to force results. Rather, calmness must develop naturally out of a state of inner composure. If one tries to induce calmness by means of artificial rigidity, meditation will lead to very unwholesome results.';
+' Nove al terzo posto significa: 
+  Tener ferme le anche. Irrigidire l\'osso sacro. Pericoloso. Il cuore soffoca.\eIl
+  Invece di rilassarsi ci si indurisce, restando testardamente immobili nella propria posizione. 
+  Tale staticità impedisce di ascoltare altre istanze che invece porterebbero vivificante energia alla situazione. 
+  Il pericolo di chiudersi in un immobilismo forzato, continuando a restare rigidamente fissi in un\'idea, una situazione di immobilità o un comportamento reiterato è una forma di attaccamento pericolosa per noi stessi e i nostri reali bisogni. ';
 $book['52']['line4'] = 
-' Six in the fourth place means:
-  Keeping his trunk still. 
-  No blame. \e
-  As has been pointed out above in the comment on the Judgment, keeping the back at rest means forgetting the ego. This is the highest stage of rest. Here this stage has not yet been reached: the individual in this instance, though able to keep the ego, with its thoughts and impulses, in a state of rest, is not yet quite liberated from its dominance. Nonetheless, keeping the heart at rest is an important function, leading in the end to the complete elimination of egotistic drives. Even though at this point one does not yet remain free from all the dangers of doubt and unrest, this frame of mind is not a mistake, as it leads ultimately to that other, higher level.';
+' Sei al quarto posto signifa: 
+  Tener fermo il tronco. Nessuna macchia.\e
+  Bisogna senza dubbio fermarsi: desistere da grandi piani ed idee in questo momento è il meglio che si possa fare, perchè si è deboli e senza obiettivi chiari. Concentrarsi sulle risorse già presenti. ';
 $book['52']['line5'] = 
-' Six in the fifth place means:
-  Keeping his jaws still. 
-  The words have order. 
-  Remorse disappears. \e
-  A man in a dangerous situation, especially when he is not adequate to it, is inclined to be very free with talk and presumptuous jokes. But injudicious speech easily leads to situations that subsequently give much cause for regret. However, if a man is reserved in speech, his words take ever more definite form, and every occasion for regret vanishes.';
+' Sei al quinto posto significa: 
+  Tener ferme le mascelle. Le parole sono ordinate. Il pentimento svanisce. \e
+  Silenzio interiore e appartarsi sono la via maestra per lasciar esprimere le istanze psichiche recondite. 
+  Non dire, non definire, prendere tempo, purchè sia fatto come un atto d\'amore verso se stessi. Si è comunque sulla buona strada. Pazienza. ';
 $book['52']['line6'] = 
-' Nine at the top means:
-  Noblehearted keeping still. 
-  Good fortune. \e
-  This marks the consummation of the effort to attain tranquillity. One is at rest, not merely in a small, circumscribed way in regard to matters of detail, but one has also a general resignation in regard to life as a whole, and this confers peace and good fortune in relation to every individual matter.';
+' Sei sopra signifa:
+  Magnanima quiete. Salute!  \e
+  Fermezza e immobilità senza sforzi conducono ad abbondanza e riuscita. Ciò che disturba è lontano, si è acquisita indipendenza e certezza interiore. 
+  Il tempo dell\'arresto ha ottenuto la sua finale posizione. ';
 
 # -------------------------      53       ----------------------- #
 $book['53']['desc'] = 

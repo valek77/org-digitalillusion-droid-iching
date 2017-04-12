@@ -7,39 +7,24 @@ $h = $_REQUEST['h'];
 # -------------------------      01       ----------------------- #
 $book['01']['desc'] = 
 ' Esagramma 1- Il Creativo\e
-  La situazione si presenta colma della massima creatività, mai come in questo momento  sei pronto per compiere ciò che da tantissimo tempo stai cercando di fare, a tentoni e lottando. Non è ancora compiuto, qui c’è la Potenzialità, l’occasione e la forza. Qui  c’è l’opportunità  di tirarti fuori dalle cose che ostacolano, dai legacci angustianti del non-sapere, non-riuscire, non-avere forza. Nel Creativo, ora, c’è  la forza per liberarsi da tutte le ombre. Nulla è ancora compiuto e finito, nulla ancora è iniziato, ma finalmente può cominciare il primo passo verso il rinnovamento, poiché tutte le circostanze sono favorevoli.  Ci vorrà pazienza, cura e nutrimento, ma hai atteso per tanto tempo, alla cieca camminando a tentoni, lasciando fermentare dentro di te le forze sia dell’oscurità che della luce. E adesso, emerge la comprensione: ora puoi capire e trovare ciò che cerchi.
-  Nessuna frattura con ciò che senti internamente e ciò che è esteriormente: puoi iniziare a sentirti in armonia con il mondo e le cose e cominciare a costruire secondo i tuoi reali desideri.
-  L’uscita di questo esagramma invita anche all’attenzione:  attuare i tuoi più profondi desideri non deve diventare una nuova mania, un nuovo ostacolo, una nuova opponente separazione tra te e gli altri, te e il mondo! E’ essenziale trovare concretamente qualcosa a cui dare forma, per iniziare a costruire nel mondo ciò che hai mancato di fare finora, ma che è stato sempre lì, ad aspettare che tu fossi abbastanza forte e maturo per poter cominciare . Ora puoi e devi, ora hai la forza, il potere, le condizioni: ti sei liberato dalla zavorra delle passate situazioni, è come se non ti interessassero più.
-  E’ come una nascita: come uscire dal grembo materno e cominciare a crescere. L’energia che ti spingeva a compiere qualcosa di nuovo era finora bloccata a causa delle difficili esperienze, eri esitante, non sapevi bene come portare avanti le fuggevoli intuizioni, cominciavi e ti perdevi, tornando sempre ai vecchi schemi, come un gambero che prosegue in linea obliqua e mai diritto. Ora le e situazioni e gli ostacoli dell’ombra sono spazzati via. Inizia un periodo di costruzione: sta a te trovare cosa costruire.
-  Parola chiave : CREATIVITA’ PERSISTENTE NEL TEMPO.
+  Cielo su Cielo. Possibilità di espansione. L’uscita di questo esagramma invita anche all’attenzione:  attuare i tuoi più profondi desideri non deve diventare una nuova mania, un nuovo ostacolo, una nuova opponente separazione tra te e gli altri, te e il mondo. E’ essenziale trovare concretamente qualcosa di giusto a cui dare forma, per iniziare a costruire nel mondo ciò che hai mancato di fare finora, ma che è stato sempre lì, ad aspettare che tu fossi abbastanza forte e maturo per poter cominciare . Ora puoi e devi, ora hai la forza, il potere, le condizioni: ti sei liberato dalla zavorra delle passate situazioni e può iniziare un periodo di costruzione: sta a te trovare cosa costruire. Creatività persistente nel tempo.
 ';
 $book['01']['judge'] = 
-' THE CREATIVE works sublime success,
-  Furthering through perseverance.\e 
-  According to the original meaning, the attributes [sublimity, potentiality of success, power to further, perseverance] are paired. When an individual draws this oracle, it means that success will come to him from the primal depths of the universe and that everything depends upon his seeking his happiness and that of others in one way only, that is, by perseverance in what is right.
-  The specific meanings of the four attributes became the subject of speculation at an early date. The Chinese word here rendered by "sublime" means literally "head," "origin," "great. " This is why Confucius says in explaining it: "Great indeed is the generating power of the Creative; all beings owe their beginning to it. This power permeates all heaven. " For this attribute inheres in the other three as well.
-  The beginning of all things lies still in the beyond in the form of ideas that have yet to become real. But the Creative furthermore has power to lend form to these archetypes of ideas. This is indicated in the word success, and the process is represented by an image from nature: "The clouds pass and the rain does its work, and all individual beings flow into their forms. "
-  Applied to the human world, these attributes show the great man the way to notable success: "Because he sees with great clarity and cause and effects, he completes the six steps at the right time and mounts toward heaven on them at the right time, as though on sic dragons. " The six steps are the six different positions given in the hexagram, which are represented later by the dragon symbol. Here it is shown that the way to success lies in apprehending and giving actuality to the way of the universe [Tao], which, as a law running through end and beginning, brings about all phenomena in time. Thus each step attained forthwith becomes a preparation for the next. Time is no longer a hindrance but the means of making actual what is potential.
-  The act of creation having found expression in the two attributes sublimity and success, the work of conservation is shown to be a continuous actualization and differentiation of form. This is expressed in the two terms "furthering" (literally, "creating that which accords with the nature of a given being") and "persevering" (literally, "correct and firm"). "The course of the Creative alters and shapes beings until each attains its true, specific nature, then it keeps them in conformity with the Great Harmony. Thus does it show itself to further through perseverance. "
-  In relation to the human sphere, this shows how the great man brings peace and security to the world through his activity in creating order: "He towers high above the multitude of beings, and all lands are united in peace. "
-  Another line of speculation goes still further in separating the words "sublime," "success," "furthering," "perseverance," and parallels them with the four cardinal virtues in humanity. To sublimity, which, as the fundamental principle, embraces all the other attributes, it links love. To the attribute success are linked the morals, which regulate and organize expressions of love and thereby make them successful. The attribute furthering is correlated with justice, which creates the conditions in which each receives that which accords with his being, that which is due him and which constitutes his happiness. The attribute perseverance is correlated with wisdom, which discerns the immutable laws of all that happens and can therefore bring about enduring conditions. These speculations, already broached in the commentary called Wên Yen , later formed the bridge connecting the philosophy of the "five stages (elements) of change," as laid down in the Book of History (Shu Ching) with the philosophy of the Book of Changes, which is based solely on the polarity of positive and negative principles. In the course of time this combination of the two systems of thought opened the way for an increasingly intricate number symbolism.';
+'Il creativo opera sublime riuscita, propizio per perseveranza. La via del creativo si basa su trasformazioni durature che riescono nel tempo a dare forma e misura alle cose.';
 $book['01']['image'] = 
-' The movement of heaven is full of power.
-  Thus the superior man makes himself strong and untiring.\e 
-  Since there is only one heaven, the doubling of the trigram Ch\'ien, of which heaven is the image, indicates the movement of heaven. One complete revolution of heaven makes a day, and the repetition of the trigram means that each day is followed by another. This creates the idea of time. Since it is the same heaven moving with untiring power, there is also created the idea of duration both in and beyond time, a movement that never stops nor slackens, just as one day follows another in an unending course. This duration in time is the image of the power inherent in the Creative.
-  With this image as a model, the sage learns how best to develop himself so that his influence may endure. He must make himself strong in every way, by consciously casting out all that is inferior and degrading. Thus he attains that tirelessness which depends upon consciously limiting the fields of his activity.';
+' Il moto del cielo è vigoroso. \e
+  Così il nobile rende se stesso forte e instancabile. I due trigrammi raddoppiati indicano forza e instancabilità, così come ad ogni atto ne segue subito in altro, operando per dare forma armoniosa a ciò che si fa.';
 $book['01']['line1'] = 
-' Nine at the beginning means:
-  Hidden dragon. Do not act. \e
-  In China the dragon has a meaning altogether different from that given it in the Western world. The dragon is a symbol of the electrically charged, dynamic, arousing force that manifests itself in the thunderstorm. In winter this energy withdraws into the earth; in the early summer it becomes active again, appearing in the sky as thunder and lightning. As a result the creative forces on earth begin to stir again.
-  Here this creative force is still hidden beneath the earth and therefore has no effect. In terms of human affairs, this symbolizes a great man who is still unrecognized. Nonetheless he remains true to himself. He does not allow himself to be influenced by outward success or failure, but confident in his strength, he bides his time. Hence it is wise for the man who consults the oracle and draws this line to wait in the calm strength of patience. The time will fulfill itself. One need not fear lest strong will should not prevail; the main thing is not to expend one\'s powers prematurely in an attempt to obtain by force something for which the time is not yet ripe.';
+' Nove al primo posto significa:
+  Drago coperto. Non agire. \e
+  La possibilità di agire è limitata, ci sono aspetti sconosciuti e celati non ancora manifesti che si esprimeranno nel tempo. Fino ad allora non intervenire.';
 $book['01']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Dragon appearing in the field. 
   It furthers one to see the great man. \e
   Here the effects of the light-giving power begin to manifest themselves. In terms of human affairs, this means that the great man makes his appearance in his chosen field of activity. As yet he has no commanding position but is still with his peers. However, what distinguishes him form the others is his seriousness of purpose, his unqualified reliability, and the influence he exerts on his environment with out conscious effort. Such a man is destined to gain great influence and to set the world in order. Therefore it is favorable to see him.';
 $book['01']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   All day long the superior man is creatively active. 
   At nightfall his mind is still beset with cares. 
   Danger. No blame. \e
@@ -193,7 +178,7 @@ $book['04']['line1'] =
   To go on in this way bring humiliation. \e
   Law is the beginning of education. Youth in its inexperience is inclined at first to take everything carelessly and playfully. It must be shown the seriousness of life. A certain measure of taking oneself in hand, brought about by strict discipline, is a good thing. He who plays with life never amounts to anything. However, discipline should not degenerate into drill. Continuous drill has a humiliating effect and cripples a man\'s powers.';
 $book['04']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   To bear with fools in kindliness brings good fortune. 
   To know how to take women
   Brings good fortune. 
@@ -246,19 +231,19 @@ $book['05']['image'] =
   Is joyous and of good cheer. \e
   When clouds rise in the sky, it is a sign that it will rain. There is nothing to do but to wait until after the rain falls. It is the same in life when destiny is at work. We should not worry and seek to shape the future by interfering in things before the time is ripe. We should quietly fortify the body with food and drink and the mind with gladness and good cheer. Fate comes when it will, and thus we are ready.';
 $book['05']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Waiting in the meadow. 
   It furthers one to abide in what endures. 
   No blame. \e
   The danger is not yet close. One is still waiting on the open plain. Conditions are still simple, yet there is a feeling of something impending. One must continue to lead a regular life as long as possible. Only in this way does one guard against a premature waste of strength, keep free of blame and error that would become a source of weakness later on.';
 $book['05']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Waiting on the sand. 
   There is some gossip. 
   The end brings good fortune. \e
   The danger gradually comes closer. Sand is near the bank of the river, and the water means danger. Disagreements crop up. General unrest can easily develop in such times, and we lay the blame on one another. He who stays calm will succeed in making things go well in the end. Slander will be silenced if we do not gratify it with injured retorts.';
 $book['05']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   Waiting in the mud
   Brings about the arrival of the enemy. \e
   Mud is no place for waiting, since it is already being washed by the water of the stream. Instead of having gathered strength to cross the stream at one try, one has made a premature start that has got him no farther than the muddy bank. Such an unfavorable position invites enemies from without, who naturally take advantage of it. Caution and a sense of the seriousness of the situation are all that can keep one from injury.';
@@ -310,7 +295,7 @@ $book['06']['line1'] =
   In the end, good fortune comes. \e
   While a conflict is in the incipient stage, the best thing to do is to drop the issue. Especially when the adversary is stronger, it is not advisable to risk pushing the conflict to a decision. It may come to a slight dispute, but in the end all goes well.';
 $book['06']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   One cannot engage in conflict;
   One returns home, gives way. 
   The people of his town,
@@ -369,7 +354,7 @@ $book['07']['line1'] =
   If the order is not good, misfortune threatens. \e
   At the beginning of a military enterprise, order is imperative. A just and valid cause must exist, and the obedience and coordination of the troops must be well organized, otherwise the result is inevitably failure.';
 $book['07']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   In the midst of the army. 
   Good fortune. No blame. 
   The king bestows a triple decoration. \e
@@ -466,18 +451,18 @@ $book['09']['image'] =
   Refines the outward aspect of his nature. \e
   The wind can indeed drive the clouds together in the sky; yet, being nothing but air, without solid body, it does not produce great or lasting effects. So also an individual, in times when he can produce no great effect in the outer world, can do nothing except refine the expression of his nature in small ways.';
 $book['09']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Return to the way. 
   How could there be blame in this?
   Good fortune. \e
   It lies in the nature of a strong man to press forward. In so doing he encounters obstructions. Therefore he returns to the way suited to his situation, where he is free to advance or to retreat. In the nature of things this will bring good fortune, for it is wise and reasonable not to try to obtain anything by force.';
 $book['09']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   He allows himself to be drawn into returning. 
   Good fortune. \e
   One would like to press forward, but before going farther one sees from the example of others like oneself that this way is blocked. In such a case, if the effort to push forward is not in harmony with the time, a reasonable and resolute man will not expose himself to a personal rebuff, but will retreat with others of like mind. This brings good fortune, because he does not needlessly jeopardize himself.';
 $book['09']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The spokes burst out of the wagon wheels. 
   Man and wife roll their eyes. \e
   Here an attempt is made to press forward forcibly, in the consciousness that the obstructing power is slight. But since, under the circumstances, power actually lies with the weak, this sudden offensive is doomed to failure. External conditions hinder the advance, just as loss of the wheel spokes stops the progress of a wagon. We do not yet heed this hint form fate, hence there are annoying arguments like those of a married couple. Naturally this is not a favorable state of things, for though the situation may enable the weaker side to hold its ground, the difficulties are too numerous to permit of a happy result. In consequence even the strong man cannot so use his power as to exert the right influence on those around him. He experiences a rebuff where he expected an easy victory, and he thus compromises his dignity.';
@@ -523,12 +508,12 @@ $book['10']['image'] =
   And thereby fortifies the thinking of the people. \e
   Heaven and the lake show a difference of elevation that inheres in the natures of the two, hence no envy arises. Among mankind also there are necessarily differences of elevation; it is impossible to bring about universal equality. But it is important that differences in social rank should not be arbitrary and unjust, for if this occurs, envy and class struggle are the inevitable consequences. If, on the other hand, external differences in rank correspond with differences in inner worth, and if inner worth forms the criterion of external rank, people acquiesce and order reigns in society.';
 $book['10']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Simple conduct. Progress without blame. \e
   The situation is one in which we are still not bound by any obligations of social intercourse. If our conduct is simple, we remain free of them We can quietly follow our predilections as long as we are content and make no demands on people.
   The meaning of the hexagram is not standstill but progress. A man finds himself in an altogether inferior position at the start. However, he has the inner strength that guarantees progress. If he can be content with simplicity, he can make progress without blame. When a man is dissatisfied with modest circumstances, he is restless and ambitious and tries to advance, not for the sake of accomplishing anything worth while, but merely in order to escape from lowliness and poverty by dint of his conduct. Once his purpose is achieved, he is certain to become arrogant and luxury-loving. Therefore blame attaches to his progress. On the other hand, a man who is good at his work is content to behave simply. He wishes to make progress in order to accomplish something. When he attains his goal, he does something worth while, and all is well.';
 $book['10']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Treading a smooth, level course. 
   The perseverance of a dark man
   Brings good fortune. \e
@@ -581,13 +566,13 @@ $book['11']['image'] =
   And so aids the people. \e
   Heaven and earth are in contact and combine their influences, producing a time of universal flowering and prosperity. This stream of energy must be regulated by the ruler of men. It is done by a process of division. Thus men divide the uniform flow of time into the seasons, according to the succession of natural phenomena, and mark off infinite space by the points of the compass. In this way nature in its overwhelming profusion of phenomena is bounded and controlled. On the other hand, nature must be furthered in her productiveness. This is done by adjusting the products to the right time and the right place, which increases the natural yield. This controlling and furthering activity of man in his relation to nature is the work on nature that rewards him.';
 $book['11']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   When ribbon grass is pulled up, the sod comes with it. 
   Each according to his kind. 
   Undertakings bring good fortune. \e
   In times of prosperity every able man called to fill an office draws like minded people along with him, just as in pulling up ribbon grass one always pulls up a bunch of it, because the stalks are connected by their roots. In such times, when it is possible to extend influence widely, the mind of an able man is set upon going out into life and accomplishing something.';
 $book['11']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Bearing with the uncultured in gentleness,
   Fording the river with resolution,
   Not neglecting what is distant,
@@ -595,7 +580,7 @@ $book['11']['line2'] =
   Thus one may manage to walk in the middle. \e
   In times of prosperity it is important and above all to possess enough greatness of soul to bear with imperfect people. For in the hands of a great master no material is unproductive; he can find use for everything. But this generosity is by no means laxity or weakness. It is during times of prosperity especially that we must always be ready to risk even dangerous undertakings, such as the crossing of a river, if they are necessary. So too we must not neglect what is distant but must attend scrupulously to everything. Factionalism and the dominance of cliques are especially to be avoided. Even if people of like mind come forward together, they ought not to form a faction by holding together for mutual advantage; instead, each man should do is duty. These are four ways in which one can overcome the hidden danger of a gradual slackening that always lurks in any time of peace. And that is how one finds the middle way for action.';
 $book['11']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   No plain not followed by a slope. 
   No going not followed by a return. 
   He who remains persevering in danger
@@ -814,7 +799,7 @@ $book['15']['line2'] =
   Perseverance brings good fortune. \e
   "Out of the fullness of the heart the mouth speaketh. " When a man\'s attitude of mind is so modest that this expresses itself in his outward behavior, it is a source of good fortune to him. For the possibility of exerting a lasting influence arises of itself and no one can interfere.';
 $book['15']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   A superior man of modesty and merit
   Carries things to conclusion. 
   Good fortune. \e
@@ -911,7 +896,7 @@ $book['17']['image'] =
   Goes indoors for rest and recuperation. \e
   In the autumn electricity withdraws into the earth again and rests. Here it is the thunder in the middle of the lake that serves as the image–thunder in its winter rest, not thunder in motion. The idea of following in the sense of adaptation to the demands of the time grows out of this image. Thunder in the middle of the lake indicates times of darkness and rest. Similarly, a superior man, after being tirelessly active all day, allows himself rest and recuperation at night. No situation can become favorable until one is able to adapt to it and does not wear himself out with mistaken resistance.';
 $book['17']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   The standard is changing. 
   Perseverance brings good fortune. 
   To go out of the door in company
@@ -976,12 +961,12 @@ $book['18']['line1'] =
   Danger. In the end good fortune. \e
   Rigid adherence to tradition has resulted in decay. But the decay has not yet penetrated deeply and so can still be easily remedied. It is as if a son were compensating for the decay his father allowed to creep in. Then no blame attaches to the father. However, one must not overlook the danger or take the matter too lightly. Only if one is conscious of the danger connected with every reform will everything go well in the end.';
 $book['18']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Setting right what has been spoiled by the mother. 
   One must not be too persevering. \e
   This refers to mistakes that as a result of weakness have brought about decay–hence the symbol, "what has been spoiled by the mother. " In setting things right in such a case, a certain gentle consideration is called for. In order not to wound, one should not attempt to proceed too drastically.';
 $book['18']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   Setting right what has been spoiled by the father. 
   There will be a little remorse. No great blame. \e
   This describes a man who proceeds a little too energetically in righting the mistakes of the past. Now and then, as a result, minor discourse and annoyances will surely develop. But too much energy is better than too little. Therefore, although he may at times have slight cause for regret, he remains free of any serious blame.';
@@ -1022,12 +1007,12 @@ $book['19']['image'] =
   In his tolerance and protection of the people.\e
   The earth borders upon the lake from above. This symbolizes the approach and condescension of the man of higher position to those beneath him. The two parts of the image indicate what his attitude toward these people will be. Just as the lake is inexhaustible in depth, so the sage is inexhaustible in his readiness to teach mankind, and just as the earth is boundlessly wide, sustaining and caring for all creatures on it, so the sage sustains and cares for all people and excludes no part of humanity.';
 $book['19']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Joint approach. 
   Perseverance brings good fortune. \e
   The good begins to prevail and to find response in influential circles. This in turn is an incentive to men of ability. It is well to join this upward trend, but we must not let ourselves be carried away by the current of the time; we must adhere perseveringly to what is right. This bring good fortune.';
 $book['19']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Joint approach. 
   Good fortune. 
   Everything furthers. \e
@@ -1124,7 +1109,7 @@ $book['21']['image'] =
   Through clearly defined penalties. \e
   Penalties are the individual applications of the law. The laws specify the penalties. Clarity prevails when mild and severe penalties are differentiated, according to the nature of the crimes. This is symbolized by the clarity of lightning. The law is strengthened by a just application of penalties. This is symbolized by the terror of thunder. This clarity and severity have the effect of instilling respect; it is not that the penalties are ends in themselves. The obstructions in the social life of man increase when there is a lack of clarity in the penal codes and slackness in executing them. The only to strengthen the law is to make it clear and make penalties certain and swift.';
 $book['21']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   His feet are fastened in the stocks,
   So that his toes disappear. 
   No blame. \e
@@ -1182,7 +1167,7 @@ $book['22']['image'] =
   But he dare not decide controversial issues in this way. \e
   The fire, whose light illuminates the mountain and makes it pleasing, does not shine far; in the same way, beautiful form suffices to brighten and to throw light upon matters of lesser moment, but important questions cannot be decided in this way. They require greater earnestness.';
 $book['22']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   He lends grace to his toes, leaves the carriage, and walks. \e
   A beginner in a subordinate place must take upon himself the labor of advancing. There might be an opportunity of surreptitiously easing the way–symbolized by the carriage–but a self-contained man scorns help gained in a dubious fashion. He thinks it more graceful to go on foot than to drive in a carriage under false pretenses.';
 $book['22']['line2'] = 
@@ -1190,7 +1175,7 @@ $book['22']['line2'] =
   Lends grace to the beard on his chin. \e
   The beard is not an independent thing; it moves only with the chin. The image therefore means that form is to be considered only as a result and attribute of content. The beard is a superfluous ornament. To devote care to it for its own sake, without regard for the inner content of which it is an ornament, would bespeak a certain vanity.';
 $book['22']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   Graceful and moist. 
   Constant perseverance brings good fortune. \e
   This represents a very charming life situation. One is under the spell of grace and the mellow mood induced by wine. This grace can adorn, but it can also swamp us. Hence the warning not to sink into convivial indolence but to remain constant in perseverance. Good fortune depends on this.';
@@ -1288,7 +1273,7 @@ $book['24']['image'] =
   Did not travel through the provinces. \e
   The winter solstice has always been celebrated in China as the resting time of the year–a custom that survives in the time of rest observed at the new year. In winter the life energy, symbolized by thunder, the Arousing, is still underground. Movement is just at its beginning; therefore it must be strengthened by rest so that it will not be dissipated by being used prematurely. This principle, i. e. , of allowing energy that is renewing itself to be reinforced by rest, applies to all similar situations. The return of health after illness, the return of understanding after an estrangement: everything must be treated tenderly and with care at the beginning, so that the return may lead to a flowering.';
 $book['24']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Return from a short distance. 
   No need for remorse. 
   Great good fortune. \e
@@ -1343,7 +1328,7 @@ $book['25']['image'] =
   Fostered and nourished all beings. \e
   In springtime when thunder, life energy, begins to move again under the heavens, everything sprouts and grows, and all beings receive from the creative activity of nature the childlike innocence of their original state. So it is with the good rulers of mankind: drawing on the spiritual wealth at their command, they take care of all forms of life and all forms of culture and do everything to further them, and at the proper time.';
 $book['25']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Innocent behavior brings good fortune. \e
   The original impulses of the heart are always good, so that we may follow them confidently, assured of good fortune and achievement of our aims.';
 $book['25']['line2'] = 
@@ -1396,15 +1381,15 @@ $book['26']['image'] =
   In order to strengthen his character thereby. \e
   Heaven within the mountain points to hidden treasures. In the words and deeds of the past there lies hidden a treasure that men may use to strengthen and elevate their own characters. The way to study the past is not to confine oneself to mere knowledge of history but, through application of this knowledge, to give actuality to the past.';
 $book['26']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Danger is at hand. It furthers one to desist. \e
   A man wishes to make vigorous advance, but circumstances present an obstacle. He sees himself held back firmly. If he should attempt to force an advance, it would lead him into misfortune. Therefore it is better for him to compose himself and to wait until an outlet is offered for release of his stored-up energies.';
 $book['26']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   The axletrees are taken from the wagon. \e
   Here advance is checked just as in the third line of THE TAMING POWER OF THE SMALL (9 ). However, in the later the restraining force is slight; thus a conflict arises between the propulsive and the restraining movement, as a result of which the spokes fall out of the wagon wheels, while here the restraining force is absolutely superior; hence no struggle takes place. One submits and removes the axletrees from the wagon–in other words, contents himself with waiting. In this way energy accumulates for a vigorous advance later on.';
 $book['26']['line3'] = 
-' Nine in the third place means. 
+' Nove al terzo posto significa. 
   A good horse that follows others. 
   Awareness of danger,
   With perseverance, furthers. 
@@ -1448,7 +1433,7 @@ $book['27']['image'] =
   And temperate in eating and drinking. \e
   "God comes forth in the sign of the Arousing": when in the spring the life forces stir again, all things come into being anew. "He brings to perfection in the sign of Keeping Still": thus in the early spring, when the seeds fall to earth, all things are made ready. This is an image of providing nourishment through movement and tranquillity. The superior man takes it as a pattern for the nourishment and cultivation of his character. Words are a movement going from within outward. Eating and drinking are movements from without inward. Both kinds of movement can be modified by tranquillity. For tranquillity keeps the words that come out of the mouth from exceeding proper measure, and keeps the food that goes into the mouth from exceeding its proper measure. Thus character is cultivated.';
 $book['27']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   You let your magic tortoise go,
   And look at me with the corners of your mouth drooping. 
   Misfortune. \e
@@ -1515,14 +1500,14 @@ $book['28']['line1'] =
   No blame. \e
   When a man wishes to undertake an enterprise in extraordinary times, he must be extraordinarily cautious, just as when setting a heavy thing down on the floor, one takes care to put rushes under it, so that nothing will break. This caution, though it may seem exaggerated, is not a mistake. Exceptional enterprises cannot succeed unless utmost caution is observed in their beginnings and in the laying of their foundations.';
 $book['28']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   A dry poplar sprouts at the root. 
   An older man takes a young wife. 
   Everything furthers. \e
   Wood is near water; hence the image of an old poplar sprouting at the root. This means an extraordinary situation arises when an older man marries a young girl who suits him. Despite the unusualness of the situation, all goes well.
   From the point of view of politics, the meaning is that in exceptional times one does well to join with the lowly, for this affords a possibility of renewal.';
 $book['28']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The ridgepole sags to the breaking point. 
   Misfortune. \e
   This indicates a type of man who in times of preponderance of the great insists on pushing ahead. He accepts no advice from others, and therefore they in turn are not willing to lend him support. Because of this the burden grows, until the structure of things bends or breaks. Plunging willfully ahead in times of danger only hastens the catastrophe.';
@@ -1571,7 +1556,7 @@ $book['29']['line1'] =
   Misfortune. \e
   By growing used to what is dangerous, a man can easily allow it to become part of him. He is familiar with it and grows used to evil. With this he has lost the right way, and misfortune is the natural result.';
 $book['29']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   The abyss is dangerous. 
   One should strive to attain small things only. \e
   When we are in danger we ought not to attempt to get out of it immediately, regardless of circumstances; at first we must content ourselves with not being overcome by it. We must calmly weigh the conditions of the time and be satisfied with small gains, because for the time being a great success cannot be attained. A spring flows only sparingly at first, and tarries for some time before it makes its way into the open.';
@@ -1669,7 +1654,7 @@ $book['31']['line2'] =
   Tarrying brings good fortune. \e
   In movement, the calf of the leg follows the foot; by itself it can neither go forward nor stand still. Since the movement is not self-governed, it bodes ill. One should wait quietly until one is impelled to action by a real influence. Then one remains uninjured.';
 $book['31']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The influence shows itself in the thighs. 
   Holds to that which follows it. 
   To continue is humiliating. \e
@@ -1719,11 +1704,11 @@ $book['32']['line1'] =
   Nothing that would further. \e
   Whatever endures can be created only gradually by long-continued work and careful reflection. In the same sense Lao-tse says: "If we wish to compress something, we must first let it fully expand. " He who demands too much at once is acting precipitately, and because he attempts too much, he ends by succeeding in nothing.';
 $book['32']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Remorse disappears. \e
   The situation is abnormal. A man\'s force of character is greater than the available material power. Thus he might be afraid of allowing himself to attempt something beyond his strength. However, since it is the time of DURATION, it is possible for him to control his inner strength and so to avoid excess. Cause for remorse then disappears.';
 $book['32']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   He who does not give duration to his character
   Meets with disgrace. 
   Persistent humiliation. \e
@@ -1770,7 +1755,7 @@ $book['33']['line2'] =
   Yellow is the color of the middle. It indicates that which is correct and in line with duty. Oxhide is strong and not to be torn.
   While the superior men retreat and the inferior press after them, the inferior man represented here holds on so firmly and tightly to the superior man that the latter cannot shake him off. And because he is in quest of what is right and so strong in purpose, he reaches his goal. Thus the line confirms what is said in the Judgment: "In what is small"–here equivalent to "in the inferior man"–"perseverance furthers. "';
 $book['33']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   A halted retreat
   Is nerve-wracking and dangerous. 
   To retain people as men- and maidservants
@@ -1806,17 +1791,17 @@ $book['34']['image'] =
   That do not accord with established order. \e
   Thunder–electrical energy–mounts upward in the spring. The direction of this movement is in harmony with that of the movement of heaven. It is therefore a movement in accord with heaven, producing great power. However, true greatness depends on being in harmony with what is right. Therefore in times of great power the superior man avoids doing anything that is not in harmony with the established order.';
 $book['34']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Power in the toes. 
   Continuing brings misfortune. 
   This is certainly true. \e
   The toes are in the lowest place and are ready to advance. So likewise great power in lowly station is inclined to effect advance by force. This, if carried further, would certainly lead to misfortune, and therefore by way of advice a warning is added.';
 $book['34']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Perseverance brings good fortune. \e
   The premise here is that the gates to success are beginning to open. Resistance gives way and we forge ahead. This is the point at which, only too easily, we become the prey of exuberant self-confidence. This is why the oracle says that perseverance (i. e. , perseverance in inner equilibrium, without excessive use of power) brings good fortune.';
 $book['34']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The inferior man works through power. 
   The superior man does not act thus. 
   To continue is dangerous. 
@@ -1918,7 +1903,7 @@ $book['36']['image'] =
   He veils his light, yet still shines. \e
   In a time of darkness it is essential to be cautious and reserved. One should not needlessly awaken overwhelming enmity by inconsiderate behavior. In such times one ought not to fall in with the practices of others; neither should one drag them censoriously into the light. In social intercourse one should not try to be all-knowing. One should let many things pass, without being duped.';
 $book['36']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Darkening of the light during flight. 
   He lowers his wings. 
   The superior man does not eat for three days
@@ -1933,7 +1918,7 @@ $book['36']['line2'] =
   Good fortune. \e
   Here the Lord of Light is in a subordinate place and is wounded by the Lord of Darkness. But the injury is not fatal; it is only a hindrance. Rescue is still possible. The wounded man gives no thought to himself; he thinks only of saving the others who are also in danger. Therefore he tries with all his strength to save all that can be saved. There is good fortune in thus acting according to duty.';
 $book['36']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   Darkening of the light during the hunt in the south. 
   Their great leader is captured. 
   One must not expect perseverance too soon. \e
@@ -1974,7 +1959,7 @@ $book['37']['image'] =
   And duration in his way of life. \e
   Heat creates energy: this is signified by the wind stirred up by the fire and issuing forth form it. This represents influence working from within outward. The same thing is needed in the regulation of the family. Here too the influence on others must proceed form one\'s own person. In order to be capable of producing such an influence, one\'s words must have power, and this they can have only if they are based on something real, just as flame depends on its fuel Words have influence only when they are pertinent and clearly related to definite circumstances. General discourses and admonitions have no effect whatsoever. Furthermore, the words must be supported by one\'s entire conduct, just as the wind is made effective by its duration. Only firm and consistent conduct will make such an impression on others that they can adapt and conform to it. If words and conduct are not in accord and not consistent, they will have no effect.';
 $book['37']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Firm seclusion within the family. 
   Remorse disappears. \e
   The family must form a well-defined unit within which each member knows his place. From the beginning each child must be accustomed to firmly established rules of order, before ever its will is directed to other things. If we begin too late to enforce order, when the will of the child has already been overindulged, the whims and passions, grown stronger with the years, offer resistance and give cause for remorse. If we insist on order from the outset, occasions for remorse may arise–in general social life these are unavoidable–but the remorse always disappears again, and everything rights itself. For there is nothing more easily avoided and more difficult to carry through than "breaking a child\'s will. "';
@@ -1986,7 +1971,7 @@ $book['37']['line2'] =
   The wife must always be guided by the will of the master of the house, be he father, husband, or grown son. There, without having to look for them, she has great and important duties. She must attend to the nourishment of her family and to the food for the sacrifice. In this way she becomes the center of the social and religious life of the family, and her perseverance in this position brings good fortune to the whole house.
   In relation to general conditions, the counsel here is to seek nothing by means of force, but quietly to confine oneself to the duties at hand.';
 $book['37']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   When tempers flare up in the family,
   Too great severity brings remorse. 
   Good fortune nonetheless. 
@@ -2027,7 +2012,7 @@ $book['38']['image'] =
   The superior man retains his individuality. \e
   The two elements, fire and water, never mingle but even when in contact retain their own natures. So the cultured man is never led into baseness or vulgarity through intercourse or community of interests with persons of another sort; regardless of all commingling, he will always preserve his individuality.';
 $book['38']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Remorse disappears. 
   If you lose your horse, do not run after it;
   It will come back of its own accord. 
@@ -2035,7 +2020,7 @@ $book['38']['line1'] =
   Guard yourself against mistakes. \e
   Even in times when oppositions prevail, mistakes can be avoided, so that remorse disappears. When opposition begins to manifest itself, a man must not try to bring about unity by force, for by so doing he would only achieve the contrary, just as a horse goes farther and farther away if one runs after it. If it is one\'s own horse, one can safely let it go; it will come back of its own accord. So too when someone who belongs with us is momentarily estranged because of a misunderstanding, he will return of his own accord if we leave matters to him. One the other hand, it is well to be cautious when evil men who do not belong with us force themselves upon us, again as the result of a misunderstanding. Here the important thing is to avoid mistakes. We must not try to shake off these evil men by force; this would give rise to real hostility. We must simply endure them. They will eventually withdraw of their own accord.';
 $book['38']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   One meets his lord in a narrow street. 
   No blame. \e
   As a result of misunderstandings, it has become impossible for people who by nature belong together to meet in the correct way. This being so, an accidental meeting under informal circumstances may serve the purpose, provided there is an inner affinity between them.';
@@ -2100,7 +2085,7 @@ $book['39']['line2'] =
   But it is not his own fault. \e
   Ordinarily it is best to go around an obstacle and try to overcome it along the line of least resistance. But there is one instance in which a man must go out to meet the trouble, even though difficulty piles upon difficulty: this is when the path of duty leads directly to it–in other words, when he cannot act of his own volition but is duty bound to go and seek out danger in the service of a higher cause. Then he may do it without compunction, because it is not through any fault of his that he is putting himself in this difficult situation.';
 $book['39']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   Going leads to obstructions;
   Hence he comes back. \e
   While the preceding line shows the official compelled by duty to follow the way of danger, this line shows the man who must act as father of a family or as head of his kin. If he were to plunge recklessly in to danger, it would be a useless act, because those entrusted to his care cannot get along by themselves. But if he withdraws and turns back to his own, they welcome him with great joy.';
@@ -2145,7 +2130,7 @@ $book['40']['line1'] =
   Without blame. \e
   In keeping with the situation, few words are needed. The hindrance is past, deliverance has come. One recuperates in peace and keeps still. This is the right thing to do in times when difficulties have been overcome.';
 $book['40']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   One kills three foxes in the field
   And receives a yellow arrow. 
   Perseverance brings good fortune. \e
@@ -2225,7 +2210,7 @@ $book['42']['image'] =
   If he has faults, he rids himself of them. \e
   While observing how thunder and wind increase and strengthen each other, a man can note the way to self-increase and self-improvement. When he discovers good in others, he should imitate it and thus make everything on earth his own. If he perceives something bad in himself, let him rid himself of it. In this way he becomes free of evil. This ethical change represents the most important increase of personality.';
 $book['42']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   It furthers one to accomplish great deeds. 
   Supreme good fortune. No blame. \e
   If great help comes to a man from on high, this increased strength must be used to achieve something great for which he might otherwise never have found energy, or readiness to take responsibility. Great good fortune is produced by selflessness, and in bringing about great good fortune, he remains free of reproach.';
@@ -2323,12 +2308,12 @@ $book['44']['line1'] =
   Even a lean pig has it in him to rage around. \e
   If an inferior element has wormed its way in, it must be energetically checked at once. By consistently checking it, bad effects can be avoided. If it is allowed to take its course, misfortune is bound to result; the insignificance of that which creeps in should not be a temptation to underrate it. A pig that is still young and lean cannot rage around much, but after it has eaten its fill and become strong, its true nature comes out if it has not previously been curbed.';
 $book['44']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   There is a fish in the tank. No blame. 
   Does not further guests. \e
   The inferior element is not overcome by violence but is kept under gentle control. Then nothing evil is to be feared. But care must be taken not to let it come in contact with those further away, because once free it would unfold its evil aspects unchecked.';
 $book['44']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   There is no skin on his thighs,
   And walking comes hard. 
   If one is mindful of the danger,
@@ -2415,13 +2400,13 @@ $book['46']['line1'] =
   Brings great good fortune. \e
   This situation at the beginning of ascent. Just as wood draws strength for its upward push from the root, which in itself is in the lowest place, so the power to rise comes from this low and obscure station. But there is a spiritual affinity with the rulers above, and this solidarity creates the confidence needed to accomplish something.';
 $book['46']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   If one is sincere,
   It furthers one to bring even a small offering. 
   No blame. \e
   Here a strong man is presupposed. It is true that he does not fit in with his environment, inasmuch as he is too brusque and pays too little attention to form. But as he is upright in character, he meets with response, and his lack of outward form does no harm. Here uprightness is the outcome of sound qualities of character, whereas in the corresponding line of the preceding hexagram it is the result of innate humility.';
 $book['46']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   One pushes upward into an empty city. \e
   All obstructions that generally block progress fall away here. Things proceed with remarkable ease. Unhesitatingly one follows this road, in order to profit by one\'s success. Seen from without, everything seems to be in the best of order. However, no promise of good fortune is added. It is a question how long such unobstructed success can last. But it is wise not to yield to such misgivings, because they only inhibit one\'s power. Instead, the point is to profit by the propitiousness of time.';
 $book['46']['line4'] = 
@@ -2467,7 +2452,7 @@ $book['47']['line1'] =
   For three years one sees nothing. \e
   When adversity befalls a man, it is important above all things for him to be strong and to overcome the trouble inwardly. If he is weak, the trouble overwhelms him. Instead of proceeding on his way, he remains sitting under a bare tree and falls ever more deeply into gloom and melancholy. This makes the situation only more and more hopeless. Such an attitude comes from an inner delusion that he must by all means overcome.';
 $book['47']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   One is oppressed while at meat and drink. 
   The man with the scarlet knee bands is just coming. 
   It furthers one to offer sacrifice. 
@@ -2538,13 +2523,13 @@ $book['48']['line1'] =
   No animals come to an old well. \e
   If a man wanders around in swampy lowlands, his life is submerged in mud. Such a man loses all significance for mankind. He who throws himself away is no longer sought out by others. In the end no one troubles about him any more.';
 $book['48']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   At the wellhole one shoots fishes. 
   The jug is broken and leaks. \e
   The water itself is clear, but it is not being used. Thus the well is a place where only fish will stay, and whoever comes to it, comes only to catch fish. But the jug is broken, so that the fish cannot be kept in it.
   This describes the situation of a person who possesses good qualities but neglects them. No one bothers about him. As a result he deteriorates in mind. He associates with inferior men and can no longer accomplish anything worth while.';
 $book['48']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The well is cleaned, but no one drinks from it. 
   This is my heart\'s sorrow,
   For one might draw from it. 
@@ -2644,14 +2629,14 @@ $book['50']['line1'] =
   If a ting is turned upside down before being used, no harm is done–on the contrary, this clears it of refuse. A concubine\'s position is lowly, but because she has a son she comes to be honored.
   These two metaphors express the idea that in a highly developed civilization, such as that indicated by this hexagram, every person of good will can in some way or other succeed. No matter how lowly he may be, provided he is ready to purify himself, he is accepted. He attains a station in which he can prove himself fruitful in accomplishment, and as a result he gains recognition.';
 $book['50']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   There is food in the ting. 
   My comrades are envious,
   But they cannot harm me. 
   Good fortune. \e
   In a period of advanced culture, it is of the greatest importance that one should achieve something significant. If a man concentrates on such real undertakings, he may indeed experience envy and disfavor, but that is not dangerous. The more he limits himself to his actual achievements, the less harm the envious inflict on him.';
 $book['50']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The handle of the ting is altered. 
   One is impeded in his way of life. 
   The fat of the pheasant is not eaten. 
@@ -2701,7 +2686,7 @@ $book['51']['image'] =
   And examines himself. \e
   The shock of continuing thunder brings fear and trembling. The superior man is always filled with reverence at the manifestation of God; he sets his life in order and searches his heart, lest it harbor any secret opposition to the will of God. Thus reverence is the foundation of true culture.';
 $book['51']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Shock comes–oh, oh!
   Then follow laughing words–ha, ha!
   Good fortune. \e
@@ -2835,7 +2820,7 @@ $book['53']['line2'] =
   The cliff is a safe place on shore. The development has gone a step further. The initial insecurity has been overcome, and a safe position in life has been found, giving one enough to live on. This first success, opening up a path to activity, brings a certain joyousness of mood, and one goes to meet the future reassured.
   It is said of the wild goose that it calls to its comrades whenever it finds food; this is the symbol of peace and concord in good fortune. A man does not want to keep his good luck for himself only, but is ready to share it with others.';
 $book['53']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The wild goose gradually draws near the plateau. 
   The man goes forth and does not return. 
   The woman carries a child but does not bring it forth. 
@@ -2883,7 +2868,7 @@ $book['54']['image'] =
   In the light of the eternity of the end. \e
   Thunder stirs the water of the lake, which follows it in shimmering waves. This symbolizes the girl who follows the man of her choice. But every relationship between individuals bears within it the danger that wrong turns may be taken, leading to endless misunderstandings and disagreements. Therefore it is necessary constantly to remain mindful of the end. If we permit ourselves to drift along, we come together and are parted again as the day may determine. If on the other hand a man fixes his mind on an end that endures, he will succeed in avoiding the reefs that confront the closer relationships of people.';
 $book['54']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   The marrying maiden as a concubine. 
   A lame man who is able to tread. 
   Undertakings bring good fortune. \e
@@ -2891,7 +2876,7 @@ $book['54']['line1'] =
   The meaning is that a girl entering a family with the consent of the wife will not rank outwardly as the equal of the latter but will withdraw modestly into the background. However, if she understands how to fit herself into the pattern of things, her position will be entirely satisfactory, and she will feel sheltered in the love of the husband to whom she bears children.
   The same meaning is brought out in the relationships between officials. A man may enjoy the personal friendship of a prince and be taken into his confidence. Outwardly this man must keep tactfully in the background behind the official ministers of state, but, although he is hampered by this status, as if he were lame, he can nevertheless accomplish something through the kindliness of his nature.';
 $book['54']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   A one-eyed man who is able to see. 
   The perseverance of a solitary man furthers. \e
   Here the situation is that of a girl married to a man who has disappointed her. Man and wife ought to work together like a pair of eyes. Here the girl is left behind in loneliness; the man of her choice either has become unfaithful or has died. But she does not lost the inner light of loyalty. Thought the other eye is gone, she maintains her loyalty even in loneliness.';
@@ -2942,7 +2927,7 @@ $book['55']['image'] =
   And carries out punishments. \e
   This hexagram has a certain connection with Shih Ho, BITING THROUGH (21), in which thunder and lightning similarly appear together, but in the reverse order. In BITING THROUGH, laws are laid down; here they are applied and enforced. Clarity [Li] within makes it possible to investigate the facts exactly, and shock [Chên] without ensures a strict and precise carrying out of punishments.';
 $book['55']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   When a man meets his destined ruler,
   They can be together ten days,
   And it is not a mistake. 
@@ -2957,7 +2942,7 @@ $book['55']['line2'] =
   Good fortune comes. \e
   It often happens that plots and party intrigues, which have the darkening effect of an eclipse of the sun, come between a ruler intent on great achievement and the man who could effect great undertakings. Then, instead of the sun, we see the northern stars in the sky. The ruler is overshadowed by a party that has usurped power. If a man at such a time were to try to take energetic measures, he would encounter only mistrust and envy, which would prohibit all movement. The essential thing then is to hold inwardly to the power of truth, which in the end is so strong that it exerts an invisible influence on the ruler, so that all goes well.';
 $book['55']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The underbrush is of such abundance
   That the small stars can be seen at noon. 
   He breaks his right arm. No blame. \e
@@ -3018,7 +3003,7 @@ $book['56']['line2'] =
   He wins the steadfastness of a young servant. \e
   The wanderer here described is modest and reserved. He does not lose touch with his inner being, hence he finds a resting place. In the outside world he does not lose the liking of other people, hence all persons further him, so that he can acquire property. Moreover, he wins the allegiance of a faithful and trustworthy servant–a thing of inestimable value to a wanderer.';
 $book['56']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The wanderer\'s inn burns down. 
   He loses the steadfastness of his young servant. 
   Danger. \e
@@ -3070,13 +3055,13 @@ $book['57']['line1'] =
   The perseverance of a warrior furthers. \e
   Inborn gentleness is often carried to the point of indecisiveness. One does not feel strong enough to advance resolutely. A thousand doubts crop up; one is, however, not minded to withdraw but drifts indecisively to and fro. In such a situation, a military decisiveness is the proper thing, so that one resolutely does what order demands. Resolute discipline is far better than irresolute license.';
 $book['57']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Penetration under the bed. 
   Priests and magicians are used in great number. 
   Good fortune. No blame. \e
   At times one has to deal with hidden enemies, intangible influences that slink into dark corners and from this hiding affect people by suggestion. In instances like this, it is necessary to trace these things back to the most secret recesses, in order to determine the nature of the influences to be dealt with. This is the task of the priests; removing the influences is the task of the magicians. The very anonymity of such plotting requires an especially vigorous and indefatigable effort, but this is well worth while. For when such elusive influences are brought into the light and branded, they lose their power over people.';
 $book['57']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   Repeated penetration. Humiliation. \e
   Penetrating reflection must not be pushed too far, lest it cripple the power of decision. After a matter has been thoroughly pondered, it is essential to form a decision and to act. Repeated deliberation brings fresh doubts and scruples, and thereby humiliation, because one shows oneself unable to act.';
 $book['57']['line4'] = 
@@ -3120,11 +3105,11 @@ $book['58']['image'] =
   For discussion and practice. \e
   A lake evaporates upward and thus gradually dries up; but when two lakes are joined they do not dry up so readily, for one replenishes the other. It is the same in the field of knowledge. Knowledge should be a refreshing and vitalizing force. It becomes so only through stimulating intercourse with congenial friends with whom one holds discussion and practices application of the truths of life. In this way learning becomes many-sided and takes on a cheerful lightness, whereas there is always something ponderous and one-sided about the learning of the self-taught.';
 $book['58']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Contented joyousness. Good fortune. \e
   A quiet, wordless, self-contained joy, desiring nothing from without and resting content with everything, remains free of all egotistic likes and dislikes. In this freedom lies good fortune, because it harbors the quiet security of a heart fortified within itself.';
 $book['58']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Sincere joyousness. Good fortune. 
   Remorse disappears. \e
   We often find ourselves associating with inferior people in whose company we are tempted by pleasures that are inappropriate for the superior man. To participate in such pleasures would certainly bring remorse, for a superior man can find no real satisfaction in low pleasures. When, recognizing this, a man does not permit his will to swerve, so that he does not find such ways agreeable, not even dubious companions will venture to proffer any base pleasures, because he would not enjoy them. Thus every cause for regret is removed.';
@@ -3172,7 +3157,7 @@ $book['59']['line1'] =
   Good fortune. \e
   It is important that disunion should be overcome at the outset, before it has become complete–that the clouds should be dispersed before they have brought storm and rain. At such times when hidden divergences in temper make themselves felt and lead to mutual misunderstandings we must take quick and vigorous action to dissolve the misunderstandings and mutual distrust.';
 $book['59']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   At the dissolution
   He hurries to that which supports him. 
   Remorse disappears. \e
@@ -3219,12 +3204,12 @@ $book['60']['image'] =
   And examines the nature of virtue and correct conduct. \e
   A lake is something limited. Water is inexhaustible. A lake can contain only a definite amount of the infinite quantity of water; this is its peculiarity. In human life too the individual achieves significance through discrimination and the setting of limits. Therefore what concerns us here is the problem of clearly defining these discriminations, which are, so to speak, the backbone of morality. Unlimited possibilities are not suited to man; if they existed, his life would only dissolve in the boundless. To become strong, a man\'s life needs the limitations ordained by duty and voluntarily accepted. The individual attains significance as a free spirit only by surrounding himself with these limitations and by determining for himself what his duty is.';
 $book['60']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Not going out of the door and the courtyard
   Is without blame. \e
   Often a man who would like to undertake something finds himself confronted by insurmountable limitations. Then he must know where to stop. If he rightly understands this and does not go beyond the limits set for him, he accumulates an energy that enables him, when the proper time comes, to act with great force. Discretion is of prime importance in preparing the way for momentous things. Concerning this, Confucius says: Where disorder develops, words are the first steps. If the prince is not discreet, he loses his servant. If the servant is not discreet he loses his life. If germinating things are not handled with discretion, the perfecting of them is impeded. Therefore the superior man is careful to maintain silence and does not go forth.';
 $book['60']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Not going out of the gate and the courtyard
   Brings misfortune. \e
   When the time for action has come, the moment must be quickly seized. Just as water first collects in a lake without flowing out, yet is certain to find an outlet when the lake is full, so it is in the life of man. It is a good thing to hesitate so long as the time for action has not come, but no longer. Once the obstacles to action have been removed, anxious hesitation is a mistake that is bound to bring disaster, because one misses one\'s opportunity.';
@@ -3271,12 +3256,12 @@ $book['61']['image'] =
   In order to delay executions. \e
   Wind stirs water by penetrating it. Thus the superior man, when obliged to judge the mistakes of men, tries to penetrate their minds with understanding, in order to gain a sympathetic appreciation of the circumstances. In ancient China, the entire administration of justice was guided by this principle. A deep understanding that knows how to pardon was considered the highest form of justice. This system was not without success, for its aim was to make so strong a moral impression that there was no reason to fear abuse of such mildness. For it sprang not from weakness but from a superior clarity.';
 $book['61']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   Being prepared brings good fortune. 
   If there are secret designs, it is disquieting. \e
   The force of inner truth depends chiefly on inner stability and preparedness. From this state of mind springs the correct attitude toward the outer world. But if a man should try to cultivate secret relationships of a special sort, it would deprive him of his inner independence. The more reliance he places on the support of others, the more uneasy and anxious he will become as to whether these secret ties are really tenable. In this way inner peace and the force of inner truth are lost.';
 $book['61']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   A crane calling in the shade. 
   Its young answers it. 
   I have a good goblet. 
@@ -3343,7 +3328,7 @@ $book['62']['line2'] =
   Two exceptional situations are instanced here. In the temple of ancestors, where alternation of generations prevails, the grandson stands on the same side as the grandfather. Hence his closest relations are with the grandfather. The present line designates the grandson\'s wife, who during the sacrifice passes by the ancestor and goes toward the ancestress. This unusual behavior is, however, an expression of her modesty. She ventures rather to approach the ancestress, for she feels related to her by their common sex. Hence here deviation from the rule is not a mistake.
   Another image is that of the official who, in compliance with regulation, first seeks an audience with his prince. If he is not successful in this, he does not try to force anything but goes about conscientious fulfillment of his duty, taking his place among the other officials. This extraordinary restraint is likewise not a mistake in exceptional times. (The rule is that every official should first have an audience with the prince by whom he is appointed. Here the appointment is made by the minister. )';
 $book['62']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   If one is not extremely careful,
   Somebody may come up from behind and strike him. 
   Misfortune. \e
@@ -3389,7 +3374,7 @@ $book['63']['image'] =
   And arms himself against it in advance. \e
   When water in a kettle hangs over fire, the two elements stand in relation and thus generate energy (cf. the production of steam). But the resulting tension demands caution. If the water boils over, the fire is extinguished an its energy is lost. If the heat is too great, the water evaporates into the air. These elements here brought into relation and thus generating energy are by nature hostile to each other. Only the most extreme caution can prevent damage. In life too there are junctures when all forces are in balance and work in harmony, so that everything seems to be in the best of order. In such times only the sage recognizes the moments that bode danger and knows how to banish it by means of timely precautions.';
 $book['63']['line1'] = 
-' Nine at the beginning means:
+' Nove al primo posto significa:
   He breaks his wheels. 
   He gets his tail in the water. 
   No blame. \e
@@ -3402,7 +3387,7 @@ $book['63']['line2'] =
   When a woman drove out in her carriage, she had a curtain that hid her from the glances of the curious. It was regarded as a breach of propriety to drive on if this curtain was lost. Applied to public life, this means that a man who wants to achieve something is not receiving that confidence of the authorities which he needs, so to speak, for his personal protection. Especially in times "after completion" it may happen that those who have come to power grow arrogant and conceited and no longer trouble themselves about fostering new talent.
   This as a rule results in office seeking. If a man\'s superiors withhold their trust from him, he will seek ways and means of getting it and of drawing attention to himself. We are warned against such an unworthy procedure: "Do not seek it. " Do not throw yourself away on the world, but wait tranquilly and develop your personal worth by your own efforts. Times change. When the six stages of the hexagram have passed, the new era dawns. That which is a man\'s own cannot be permanently lost. It comes to him of its own accord. He need only be able to wait.';
 $book['63']['line3'] = 
-' Nine in the third place means:
+' Nove al terzo posto significa:
   The Illustrious Ancestor
   Disciplines the Devil\'s Country. 
   After three years he conquers it. 
@@ -3451,7 +3436,7 @@ $book['64']['line1'] =
   Humiliating. \e
   In times of disorder there is a temptation to advance oneself as rapidly as possible in order to accomplish something tangible. But this enthusiasm leads only to failure and humiliation if the time for achievement has not yet arrived. In such time it is wise to spare ourselves the opprobrium of failure by holding back.';
 $book['64']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   He brakes his wheels. 
   Perseverance brings good fortune. \e
   Here again the time to act has not yet come. But the patience needed is not that of idle waiting without thought of the morrow. Kept up indefinitely, this would not lead to any success. Instead, an individual must develop in himself the strength that will enable him to go forward. He must have a vehicle, as it were, to effect the crossing. But he must for the time being use the brakes. Patience in the highest sense means putting brakes on strength. Therefore he must not fall asleep and lose sight of the goal. If he remains strong and steadfast in his resolve, all goes well in the end.';

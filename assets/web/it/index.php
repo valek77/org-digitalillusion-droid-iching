@@ -34,7 +34,7 @@ $book['01']['line1'] =
   In China the dragon has a meaning altogether different from that given it in the Western world. The dragon is a symbol of the electrically charged, dynamic, arousing force that manifests itself in the thunderstorm. In winter this energy withdraws into the earth; in the early summer it becomes active again, appearing in the sky as thunder and lightning. As a result the creative forces on earth begin to stir again.
   Here this creative force is still hidden beneath the earth and therefore has no effect. In terms of human affairs, this symbolizes a great man who is still unrecognized. Nonetheless he remains true to himself. He does not allow himself to be influenced by outward success or failure, but confident in his strength, he bides his time. Hence it is wise for the man who consults the oracle and draws this line to wait in the calm strength of patience. The time will fulfill itself. One need not fear lest strong will should not prevail; the main thing is not to expend one\'s powers prematurely in an attempt to obtain by force something for which the time is not yet ripe.';
 $book['01']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Dragon appearing in the field. 
   It furthers one to see the great man. \e
   Here the effects of the light-giving power begin to manifest themselves. In terms of human affairs, this means that the great man makes his appearance in his chosen field of activity. As yet he has no commanding position but is still with his peers. However, what distinguishes him form the others is his seriousness of purpose, his unqualified reliability, and the influence he exerts on his environment with out conscious effort. Such a man is destined to gain great influence and to set the world in order. Therefore it is favorable to see him.';
@@ -45,18 +45,18 @@ $book['01']['line3'] =
   Danger. No blame. \e
   A sphere of influence opens up for the great man. His fame begins to spread. The masses flock to him. His inner power is adequate to the increased outer activity. There are all sorts of things to be done, and when others are at rest in the evening, plans and anxieties press in upon him. But danger lurks here at the place of transition from lowliness to the heights. Many a great man has been ruined because the masses flocked to him and swept him into their course. Ambition has destroyed his integrity. However, true greatness is not impaired by temptations. He who remains in touch with the time that is dawning, and with its demands is prudent enough to avoid all pitfalls, and remains blameless.';
 $book['01']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Wavering flight over the depths. 
   No blame. \e
   A place of transition has been reached, and free choice can enter in. A twofold possibility is presented to the great man: he can soar to the heights and play an important part in the world, or he can withdraw into solitude and develop himself. He can go the way of the hero or that of the holy sage who seeks seclusion. There is no general law of his being. If the individual acts consistently and is true to himself, he will find the way that is appropriate for him. This way is right for him and without blame.';
 $book['01']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Flying dragon in the heavens. 
   It furthers one to see the great man. \e
   Here the great man has attained the sphere of the heavenly beings. His influence spreads and becomes visible throughout the whole world. Everyone who sees him may count himself blessed. Confucius says about this line:
   Things that accord in tone vibrate together. Things that have affinity in their inmost natures seek one another. Water flows to what is wet, fire turns to what is dry. Clouds (the breath of heaven) follow the dragon, wind (the breath of earth) follows the tiger. Thus the sage arises, and all creatures follow him with their eyes. What is born of heaven feels related to what is above. What is born of earth feels related to what is below. Each follows its kind.';
 $book['01']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Arrogant dragon will have cause to repent. \e
   When a man seeks to climb so high that he loses touch with the rest of mankind, he becomes isolated, and this necessarily leads to failure. This line warns against titanic aspirations that exceed one\'s power. A precipitous fall would follow.';
 $book['01']['line-3'] = 
@@ -186,7 +186,7 @@ $book['04']['line1'] =
   To go on in this way bring humiliation. \e
   Law is the beginning of education. Youth in its inexperience is inclined at first to take everything carelessly and playfully. It must be shown the seriousness of life. A certain measure of taking oneself in hand, brought about by strict discipline, is a good thing. He who plays with life never amounts to anything. However, discipline should not degenerate into drill. Continuous drill has a humiliating effect and cripples a man\'s powers.';
 $book['04']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   To bear with fools in kindliness brings good fortune. 
   To know how to take women
   Brings good fortune. 
@@ -208,7 +208,7 @@ $book['04']['line5'] =
   Childlike folly brings good fortune. \e
   An inexperienced person who seeks instruction in a childlike and unassuming way is on the right path, for the man devoid of arrogance who subordinated himself to his teacher will certainly be helped.';
 $book['04']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   In punishing folly
   It does not further one
   To commit transgressions. 
@@ -245,7 +245,7 @@ $book['05']['line1'] =
   No blame. \e
   The danger is not yet close. One is still waiting on the open plain. Conditions are still simple, yet there is a feeling of something impending. One must continue to lead a regular life as long as possible. Only in this way does one guard against a premature waste of strength, keep free of blame and error that would become a source of weakness later on.';
 $book['05']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Waiting on the sand. 
   There is some gossip. 
   The end brings good fortune. \e
@@ -261,7 +261,7 @@ $book['05']['line4'] =
   Get out of the pit. \e
   The situation is extremely dangerous. It is of utmost gravity now–a matter of life and death. Bloodshed seems imminent. There is no going forward or backward; we are cut off as if in a pit. Now we must simply stand fast and let fate take its course. This composure, which keeps us from aggravating the trouble by anything we might do, is the only way of getting out of the dangerous pit.';
 $book['05']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Waiting at meat and drink. 
   Perseverance brings good fortune. \e
   Even in the midst of danger there come intervals of peace when things go relatively well. If we possess enough inner strength, we shall take advantage of these intervals to fortify ourselves for renewed struggle. We must know how to enjoy the moment without being deflected from the goal, for perseverance is needed to remain victorious.
@@ -292,7 +292,7 @@ $book['06']['desc'] =
   Quindi si tratta di lasciare da parte la litigiosità e venire a patti con l’orgoglio, l’ira e tutte le speranze e le paure che covate nel cuore ed ammettere che la natura del vostro rapporto è tale fin dall’inizio e che è pura illusione sperare di cambiare le cose.
   L’idea è che qualunque impresa si intraprenda è limitata nella sua espressione.
   Oppure, se volete togliervi ‘il sassolino dalla scarpa’ (e ne avete ben ragione!) potete sempre dar fuoco alle polveri e decidere di affrontarlo a viso a viso. 
-  Ne seguirà conflitto, il che vi allontanerà ancor di più da lui. 
+  Ne seguirà conflitto, il che vi allontanerà ancor di più da lui/lei. 
   Se è questo che volete, iniziate la guerra, ma anche se ci sarà vittoria, sarà molto, molto amara.';
 $book['06']['judge'] = 
 ' Sei verace e vieni impedito. Accorto fermarsi a metà strada reca salute. Condurre a termine reca sciagura. 
@@ -310,44 +310,34 @@ $book['06']['image'] =
   Ogni linea insegna punto per punto come evitare la lite.';
 $book['06']['line1'] = 
 ' Sei all\'inizio significa:
-  If one does not perpetuate the affair,
-  There is a little gossip. 
-  In the end, good fortune comes. \e
-  While a conflict is in the incipient stage, the best thing to do is to drop the issue. Especially when the adversary is stronger, it is not advisable to risk pushing the conflict to a decision. It may come to a slight dispute, but in the end all goes well.';
+  Se non si perpetua la cosa, avviene un piccolo battibecco. Alla fine viene salute.\e
+  Esiste un limite entro il quale si può trovare un certo equilibrio; spingersi oltre equivale a rompere quell’equilibrio, in vostro sfavore. 
+  Muta in 10 Procedere';
 $book['06']['line2'] = 
-' Nine in the second place means:
-  One cannot engage in conflict;
-  One returns home, gives way. 
-  The people of his town,
-  Three hundred households, 
-  Remain free of guilt. \e
-  In a struggle with an enemy of superior strength, retreat is no disgrace. Timely withdrawal prevents bad consequences. If, out of a false sense of honor, a man allowed himself to be tempted into an unequal conflict, he would be drawing down disaster upon himself. In such a case a wise and conciliatory attitude benefits the whole community, which will then not be drawn into the conflict.';
+' Nove al secondo posto significa:
+  Non si può litigare, si rincasa per altra via. La gente della propria città, trecento casate, rimane esente da colpa.\e
+  Non esasperare il conflitto, che è irrisolvibile, ma aggirarlo e cambiare strada. 
+  In questo modo si preserva ciò che ci sta a cuore e chi ci sta vicino. Muta in 12 Ristagno';
 $book['06']['line3'] = 
 ' Sei al terzo posto significa:
-  To nourish oneself on ancient virtue induces perseverance. 
-  Danger. In the end, good fortune comes. 
-  If by chance you are in the service of a king,
-  Seek not works. \e
-  This is a warning of the danger that goes with an expansive disposition. Only that which has been honestly acquired through merit remains a permanent possession. It can happen that such a possession may be contested, but since it is really one\'s own, one cannot be robbed of it. Whatever a man possesses through the strength of his own nature cannot be lost. If one enters the service of a superior, one can avoid conflict only by not seeking works for the sake of prestige. It is enough if the work is done: let the honor go to the other.';
+  Nutrirsi di antica virtù dà perseveranza. Pericolo, alla fine viene salute. Se sei al servizio di un re non ricercare opere.\e
+  Capire che non si otterrà niente comporta accettazione dello stato attuale delle cose. 
+  Mantenete la calma senza eccitare conseguenze, anche se la situazione sembra dura: ricordarsi di ciò che c’è stato di buono aiuta a superare il momento. 
+  Non superate i limiti che vi competono. Muta in 44 Farsi incontro';
 $book['06']['line4'] = 
-' Nine in the fourth place means:
-  One cannot engage in conflict. 
-  One turns back and submits to fate,
-  Changes one\'s attitude, 
-  And finds peace in perseverance. 
-  Good fortune. \e
-  This refers to a person whose inner attitude at first lacks peace. He does not feel content with his situation and would like to improve it through conflict. In contrast to the situation of the nine in the second place, he is dealing with a weaker opponent and might therefore succeed. But he cannot carry on the fight, because, since right is not on his side, he cannot justify the conflict to his conscience. Therefore he turns back and accepts his fate. He changes his mind and finds lasting peace in being at one with eternal law. This brings good fortune.';
+' Nove al quarto posto significa:
+  Non si può litigare, si torna indietro e ci si arrende alla sorte, si cambia e si trova pace nella perseveranza. Salute! \e
+  Non insistete nel vostro punto di vista, dimenticate le cause di contrasti e continuate a conservare la fiducia. 
+  Accettate le differenze e prendetene atto, andate per la vostra strada senza esasperare il dissidio. Muta in 59 Dispersione';
 $book['06']['line5'] = 
-' Nine in the fifth place means:
-  To contend before him
-  Brings supreme good fortune. \e
-  This refers to an arbiter in a conflict who is powerful and just, and strong enough to lend weight to the right side. A dispute can be turned over to him with confidence. If one is in the right, one attains great good fortune.';
+' Nove al quinto posto significa:
+  Litigare davanti a lui reca sublime salute. Bisogna portare la questione davanti a un giudice imparziale.\e
+  Chiarite la vostra posizione, fate valere le vostre ragioni, ma accogliete anche nuove posizioni e tutto andrà bene. 
+  Muta in 64 Prima del compimento';
 $book['06']['line6'] = 
-' Nine at the top means:
-  Even if by chance a leather belt is bestowed on one,
-  By the end of a morning
-  It will have been snatched away three times. \e
-  Here we have someone who has carried a conflict to the bitter end and has triumphed. He is granted a decoration, but his happiness does not last. He is attacked again and again, and the result is conflict without end.';
+' Nove sopra significa:
+  Anche se ci vien conferita una cintura di cuoio, alla fine di un mattino ci viene strappata tre volte.\e
+  Anche se vengono riconosciute le tue ragioni, poi ci saranno rivolgimenti e voltafaccia. Muta in 47 Oppressione';
 
 # -------------------------      07       ----------------------- #
 $book['07']['desc'] = 
@@ -374,7 +364,7 @@ $book['07']['line1'] =
   If the order is not good, misfortune threatens. \e
   At the beginning of a military enterprise, order is imperative. A just and valid cause must exist, and the obedience and coordination of the troops must be well organized, otherwise the result is inevitably failure.';
 $book['07']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   In the midst of the army. 
   Good fortune. No blame. 
   The king bestows a triple decoration. \e
@@ -477,7 +467,7 @@ $book['09']['line1'] =
   Good fortune. \e
   It lies in the nature of a strong man to press forward. In so doing he encounters obstructions. Therefore he returns to the way suited to his situation, where he is free to advance or to retreat. In the nature of things this will bring good fortune, for it is wise and reasonable not to try to obtain anything by force.';
 $book['09']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   He allows himself to be drawn into returning. 
   Good fortune. \e
   One would like to press forward, but before going farther one sees from the example of others like oneself that this way is blocked. In such a case, if the effort to push forward is not in harmony with the time, a reasonable and resolute man will not expose himself to a personal rebuff, but will retreat with others of like mind. This brings good fortune, because he does not needlessly jeopardize himself.';
@@ -492,12 +482,12 @@ $book['09']['line4'] =
   No blame. \e
   If one is in the difficult and responsible position of counselor to a powerful man, one should restrain him in such a way that right may prevail. Therin lies a danger so great that the threat of actual bloodshed may arise. Nonetheless, the power of disinterested truth is greater than all these obstacles. It carries such weight that the end is achieved, and all danger of bloodshed and all fear disappear.';
 $book['09']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   If you are sincere and loyally attached,
   You are rich in your neighbor. \e
   Loyalty leads to firm ties because it means that each partner complements the other. In the weaker person loyalty consists in devotion, in the stronger it consists in trustworthiness. This relation of mutual reinforcement leads to a true wealth that is all the more apparent because it is not selfishly hoarded but is shared with friends. Pleasure shared is pleasure doubled.';
 $book['09']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The rain comes, there is rest. 
   This is due to the lasting effect of character. 
   Perseverance brings the woman into danger. 
@@ -533,7 +523,7 @@ $book['10']['line1'] =
   The situation is one in which we are still not bound by any obligations of social intercourse. If our conduct is simple, we remain free of them We can quietly follow our predilections as long as we are content and make no demands on people.
   The meaning of the hexagram is not standstill but progress. A man finds himself in an altogether inferior position at the start. However, he has the inner strength that guarantees progress. If he can be content with simplicity, he can make progress without blame. When a man is dissatisfied with modest circumstances, he is restless and ambitious and tries to advance, not for the sake of accomplishing anything worth while, but merely in order to escape from lowliness and poverty by dint of his conduct. Once his purpose is achieved, he is certain to become arrogant and luxury-loving. Therefore blame attaches to his progress. On the other hand, a man who is good at his work is content to behave simply. He wishes to make progress in order to accomplish something. When he attains his goal, he does something worth while, and all is well.';
 $book['10']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Treading a smooth, level course. 
   The perseverance of a dark man
   Brings good fortune. \e
@@ -548,18 +538,18 @@ $book['10']['line3'] =
   Thus does a warrior act on behalf of his great prince. \e
   A one-eyed man can indeed see, but not enough for clear vision. A lame man can indeed tread, but not enough to make progress. If in spite of such defects a man considers himself strong and consequently exposes himself to danger, he is inviting disaster, for he is undertaking something beyond his strength. This reckless way of plunging ahead, regardless of the adequacy of one\'s powers, can be justified only in the case of a warrior battling for his prince.';
 $book['10']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   He treads on the tail of the tiger. 
   Caution and circumspection
   Lead ultimately to good fortune. \e
   This text refers to a dangerous enterprise. The inner power to carry it through is there, but this inner power is combined with hesitating caution in one\'s external attitude. This line contrasts with the preceding line, which is weak within but outwardly presses forward. Here one is sure of ultimate success, which consists in achieving one\'s purpose, that is, in overcoming danger by going forward.';
 $book['10']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Resolute conduct. 
   Perseverance with awareness of danger. \e
   This refers to the ruler of the hexagram as a whole. One sees that one has to be resolute in conduct. But at the same time one must remain conscious of the danger connected with such resoluteness, especially if it is to be persevered in. Only awareness of the danger makes success possible.';
 $book['10']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Look to your conduct and weigh the favorable signs. 
   When everything is fulfilled, supreme good fortune comes. \e
   The work is ended. If we want to know whether good fortune will follow, we must look back upon our conduct and its consequences. If the effects are good, then good fortune is certain. No one knows himself. It is only by the consequences of his actions, by the fruit of his labors, that a man can judge what he is to expect.';
@@ -592,7 +582,7 @@ $book['11']['line1'] =
   Undertakings bring good fortune. \e
   In times of prosperity every able man called to fill an office draws like minded people along with him, just as in pulling up ribbon grass one always pulls up a bunch of it, because the stalks are connected by their roots. In such times, when it is possible to extend influence widely, the mind of an able man is set upon going out into life and accomplishing something.';
 $book['11']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Bearing with the uncultured in gentleness,
   Fording the river with resolution,
   Not neglecting what is distant,
@@ -664,13 +654,13 @@ $book['12']['line3'] =
   They bear shame. \e
   Inferior people who have risen to power illegitimately do not feel equal to the responsibility they have taken upon themselves. In their hearts they begin to be ashamed, although at first they do not show it outwardly. This marks a turn for the better.';
 $book['12']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   He who acts at the command of the highest 
   Remains without blame. 
   Those of like mind partake of the blessing. \e
   The time of standstill is nearing the point of change into its opposite. Whoever wishes to restore order must feel himself called to the task and have the necessary authority. A man who sets himself up as capable of creating order according to his own judgment could make mistakes and end in failure. But the man who is truly called to the task is favored by the conditions of the time, and all those of like mind will share in his blessing.';
 $book['12']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Standstill is giving way. 
   Good fortune for the great man. 
   "What if it should fail, what if it should fail?"
@@ -678,12 +668,12 @@ $book['12']['line5'] =
   The time undergoes a change. The right man, able to restore order, has arrived. Hence "good fortune. " But such periods of transition are the very times in which we must fear and tremble. Success is assured only through greatest caution, which asks always, "What if it should fail?" When a mulberry bush is cut down, a number of unusually strong shoots sprout from the roots. Hence the image of tying something to a cluster of mulberry shoots is used to symbolize the way of making success certain. Confucius says about this line:
   Danger arises when a man feels secure in his position. Destruction threatens when a man seeks to preserve his worldly estate. Confusion develops when a man has put everything in order. Therefore the superior man does not forget danger in his security, not ruin when he is well established, nor confusion when his affairs are in order. In this way he gains personal safety and is able to protect the empire.';
 $book['12']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The standstill comes to an end. 
   First standstill, then good fortune. \e
   The standstill does not last forever. However, it does not cease of its own accord; the right man is needed to end it. This is the difference between a state of peace and a state of stagnation. Continuous effort is necessary to maintain peace: left to itself it would change into stagnation and disintegration. The time of disintegration, however, does not change back automatically to a condition of peace and prosperity; effort must be put forth in order to end it. This shows the creative attitude that man must take if the world is to be put in order.';
 $book['12']['line-3'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The standstill comes to an end. 
   First standstill, then good fortune. \e
   The standstill does not last forever. However, it does not cease of its own accord; the right man is needed to end it. This is the difference between a state of peace and a state of stagnation. Continuous effort is necessary to maintain peace: left to itself it would change into stagnation and disintegration. The time of disintegration, however, does not change back automatically to a condition of peace and prosperity; effort must be put forth in order to end it. This shows the creative attitude that man must take if the world is to be put in order.';
@@ -880,7 +870,7 @@ $book['16']['line3'] =
   Hesitation brings remorse. \e
   This line is the opposite of the preceding one: the latter bespeaks self-reliance, while here there is enthusiastic looking up to a leader. If a man hesitates too long, this also will bring remorse. The right moment for approach must be seized: only then will he do the right thing.';
 $book['16']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   The source of enthusiasm. 
   He achieves great things. 
   Doubt not. 
@@ -935,14 +925,14 @@ $book['17']['line3'] =
   It furthers one to remain persevering. \e
   When the right connection with distinguished people has been found, a certain loss naturally ensues. A man must part company with the inferior and superficial. But in his heart he will feel satisfied, because he seeks and needs for the development of his personality. The important thing is to remain firm. He must know what he wants and not be led astray by momentary inclinations.';
 $book['17']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Following creates success. 
   Perseverance brings misfortune. 
   To go one\'s way with sincerity brings clarity. 
   How could there be blame in this? \e
   It often happens, when a man exerts a certain amount of influence, that he obtains a following by condescension toward inferiors. But the people who attach themselves to him are not honest in their intentions. They seek personal advantage and try to make themselves indispensable through flattery and subservience. If one becomes accustomed to such satellites and cannot do without them, it brings misfortune. Only when a man is completely free from his ego, and intent, by conviction, upon what is right and essential, does he acquire the clarity that enables him to see through such people, and become free of blame.';
 $book['17']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Sincere in the good. Good fortune. \e
   Every man must have something he follows–something that serves him as a lodestar. He who follows with conviction the beautiful and the good may feel himself strengthened by this saying.';
 $book['17']['line6'] = 
@@ -981,7 +971,7 @@ $book['18']['line1'] =
   Danger. In the end good fortune. \e
   Rigid adherence to tradition has resulted in decay. But the decay has not yet penetrated deeply and so can still be easily remedied. It is as if a son were compensating for the decay his father allowed to creep in. Then no blame attaches to the father. However, one must not overlook the danger or take the matter too lightly. Only if one is conscious of the danger connected with every reform will everything go well in the end.';
 $book['18']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Setting right what has been spoiled by the mother. 
   One must not be too persevering. \e
   This refers to mistakes that as a result of weakness have brought about decay–hence the symbol, "what has been spoiled by the mother. " In setting things right in such a case, a certain gentle consideration is called for. In order not to wound, one should not attempt to proceed too drastically.';
@@ -1001,7 +991,7 @@ $book['18']['line5'] =
   One meets with praise. \e
   An individual is confronted with corruption originating from neglect in former times. He lacks the power to ward it off alone, but with able helpers he can at least bring about a thorough reform, if he cannot create a new beginning, and this also is praiseworthy.';
 $book['18']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He does not serve kings and princes,
   Sets himself higher goals. \e
   Not every man has an obligation to mingle in the affairs of the world. There are some who are developed to such a degree that they are justified in letting the world go its own way and refusing to enter public life with a view to reforming it. But this does not imply a right to remain idle or to sit back and merely criticize. Such withdrawal is justified only when we strive to realize in ourselves the higher aims of mankind. For although the sage remains distant from the turmoil of daily life, he creates incomparable human values for the future.';
@@ -1032,7 +1022,7 @@ $book['19']['line1'] =
   Perseverance brings good fortune. \e
   The good begins to prevail and to find response in influential circles. This in turn is an incentive to men of ability. It is well to join this upward trend, but we must not let ourselves be carried away by the current of the time; we must adhere perseveringly to what is right. This bring good fortune.';
 $book['19']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Joint approach. 
   Good fortune. 
   Everything furthers. \e
@@ -1147,7 +1137,7 @@ $book['21']['line3'] =
   Slight humiliation. No blame. \e
   Punishment is to be carried out by someone who lacks the power and authority to do so. Therefore the culprits do not submit. The matter at issue is an old one–as symbolized by salted game–and in dealing with it difficulties arise. This old meat is spoiled: by taking up the problem the punisher arouses poisonous hatred against himself, and n this way is put in a somewhat humiliating position. But since punishment was required by the time, he remains free of blame.';
 $book['21']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Bites on dried gristly meat. 
   Receives metal arrows. 
   It furthers one to be mindful of difficulties
@@ -1162,7 +1152,7 @@ $book['21']['line5'] =
   No blame. \e
   The case to be decided is indeed not easy but perfectly clear. Since we naturally incline to leniency, we must make every effort to be like yellow gold–that is, as true as gold and as impartial as yellow, the color of the middle [the mean]. It is only by remaining conscious of the dangers growing out of the responsibility we have assumed that we can avoid making mistakes.';
 $book['21']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   His neck is fastened in the wooden cangue,
   So that his ears disappear. 
   Misfortune. \e
@@ -1213,7 +1203,7 @@ $book['22']['line5'] =
   Humiliation, but in the end good fortune. \e
   A man withdraws from contact with people of the lowlands, who seek nothing but magnificence and luxury, into the solitude of the heights. There he finds an individual to look up to, whom he would like to have as a friend. But the gifts he has to offer are poor and few, so that he feels ashamed. However, it is not the material gifts that count, but sincerity of feeling, and so all goes well in the end.';
 $book['22']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Simple grace. No blame. \e
   Here at the highest stage of development all ornament is discarded. Form no longer conceals content but brings out its value to the full. Perfect grace consists not in exterior ornamentation of the substance, but in the simple fitness of its form.';
 
@@ -1262,7 +1252,7 @@ $book['23']['line5'] =
   Everything acts to further. \e
   Here, in immediate proximity to the strong, light-giving principle at the top, the nature of the dark force undergoes a change. It no longer opposes the strong principle by means of intrigues but submits to its guidance. Indeed, as the head of the other weak lines, it leads all of these to the strong line, just as a princess leads her maids-in-waiting like a shoal of fishes to her husband and thus gains his favor. Inasmuch as the lower element thus voluntarily places itself under the higher, it attains happiness and the higher also receives its due. Therefore all goes well.';
 $book['23']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   There is a large fruit still uneaten. 
   The superior man receives a carriage. 
   The house of the inferior man is split apart. \e
@@ -1364,18 +1354,18 @@ $book['25']['line3'] =
   Is the wanderer\'s gain, the citizen\'s loss. 
   Sometimes undeserved misfortune befalls a man at the hands of another, as for instance when someone passes by and takes a tethered cow along with him. His gain is the owner\'s loss. In all transactions, no matter how innocent, we must accommodate ourselves to the demands of the time, otherwise unexpected misfortune overtakes us.';
 $book['25']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   He who can be persevering 
   Remains without blame. \e
   We cannot lose what really belongs to us, even if we throw it away. Therefore we need have no anxiety. All that need concern us is that we should remain true to our own natures and not listen to others.';
 $book['25']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Use no medicine in an illness
   Incurred through no fault of your own. 
   It will pass of itself. \e
   An unexpected evil may come accidentally from without. If it does not originate in one\'s own nature or have a foothold there, one should not resort to external means to eradicate it, but should quietly let nature take its course. Then improvement will come of itself.';
 $book['25']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Innocent action brings misfortune. 
   Nothing furthers. \e
   When, in a given situation, the time is not ripe for further progress, the best thing to do is to wait quietly, without ulterior designs. If one acts thoughtlessly and tries to push ahead in opposition to fate, success will not be achieved.';
@@ -1405,7 +1395,7 @@ $book['26']['line1'] =
   Danger is at hand. It furthers one to desist. \e
   A man wishes to make vigorous advance, but circumstances present an obstacle. He sees himself held back firmly. If he should attempt to force an advance, it would lead him into misfortune. Therefore it is better for him to compose himself and to wait until an outlet is offered for release of his stored-up energies.';
 $book['26']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   The axletrees are taken from the wagon. \e
   Here advance is checked just as in the third line of THE TAMING POWER OF THE SMALL (9 ). However, in the later the restraining force is slight; thus a conflict arises between the propulsive and the restraining movement, as a result of which the spokes fall out of the wagon wheels, while here the restraining force is absolutely superior; hence no struggle takes place. One submits and removes the axletrees from the wagon–in other words, contents himself with waiting. In this way energy accumulates for a vigorous advance later on.';
 $book['26']['line3'] = 
@@ -1427,7 +1417,7 @@ $book['26']['line5'] =
   Good fortune. \e
   Here the restraining of the impetuous forward drive is achieved in an indirect way. A boar\'s tusk is in itself dangerous, but if the boar\'s nature is altered, the tusk is no longer a menace. Thus also where men are concerned, wild force should not be combated directly; instead, its roots should be eradicated.';
 $book['26']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   One attains the way of heaven. 
   Success. \e
   The time of obstruction is past. The energy long dammed up by inhibition forces its way out and achieves great success. This refers to a man who is honored by the ruler and whose principles now prevail and shape the world.';
@@ -1488,7 +1478,7 @@ $book['27']['line5'] =
   One should not cross the great water. \e
   A man may be conscious of a deficiency in himself. He should be undertaking the nourishment of the people, but he has not the strength to do it. Thus he must turn from his accustomed path and beg counsel and help from a man who is spiritually his superior but undistinguished outwardly. If he maintains this attitude of mind perseveringly, success and good fortune are his. But he must remain aware of his dependence. He must not put his own person forward nor attempt great labors, such as crossing the great water.';
 $book['27']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The source of nourishment. 
   Awareness of danger brings good fortune. 
   It furthers one to cross the great water. \e
@@ -1520,7 +1510,7 @@ $book['28']['line1'] =
   No blame. \e
   When a man wishes to undertake an enterprise in extraordinary times, he must be extraordinarily cautious, just as when setting a heavy thing down on the floor, one takes care to put rushes under it, so that nothing will break. This caution, though it may seem exaggerated, is not a mistake. Exceptional enterprises cannot succeed unless utmost caution is observed in their beginnings and in the laying of their foundations.';
 $book['28']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   A dry poplar sprouts at the root. 
   An older man takes a young wife. 
   Everything furthers. \e
@@ -1532,12 +1522,12 @@ $book['28']['line3'] =
   Misfortune. \e
   This indicates a type of man who in times of preponderance of the great insists on pushing ahead. He accepts no advice from others, and therefore they in turn are not willing to lend him support. Because of this the burden grows, until the structure of things bends or breaks. Plunging willfully ahead in times of danger only hastens the catastrophe.';
 $book['28']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   The ridgepole is braced. Good fortune. 
   If there are ulterior motives, it is humiliating. \e
   Through friendly relations with people of lower rank, a responsible man succeeds in becoming master of the situation. But if, instead of working for the rescue of the whole, he were to misuse his connections to obtain personal power and success, it would lead to humiliation.';
 $book['28']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   A withered poplar puts forth flowers. 
   An older woman takes a husband. 
   No blame. No praise. \e
@@ -1576,7 +1566,7 @@ $book['29']['line1'] =
   Misfortune. \e
   By growing used to what is dangerous, a man can easily allow it to become part of him. He is familiar with it and grows used to evil. With this he has lost the right way, and misfortune is the natural result.';
 $book['29']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   The abyss is dangerous. 
   One should strive to attain small things only. \e
   When we are in danger we ought not to attempt to get out of it immediately, regardless of circumstances; at first we must content ourselves with not being overcome by it. We must calmly weigh the conditions of the time and be satisfied with small gains, because for the time being a great success cannot be attained. A spring flows only sparingly at first, and tarries for some time before it makes its way into the open.';
@@ -1596,7 +1586,7 @@ $book['29']['line4'] =
   In times of danger ceremonious forms are dropped. What matters most is sincerity. Although as a rule it is customary for an official to present certain introductory gifts and recommendations before he is appointed, here everything is simplified to the utmost. The gifts are insignificant, there is no one to sponsor him, he introduces himself; yet all this need not be humiliating if only there is the honest intention of mutual help in danger.
   Still another idea is suggested. The window is the place through which light enters the room. If in difficult times we want to enlighten someone, we must begin with that which is in itself lucid and proceed quite simply from that point on.';
 $book['29']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   The abyss is not filled to overflowing,
   It is filled only to the rim. 
   No blame. \e
@@ -1680,7 +1670,7 @@ $book['31']['line3'] =
   To continue is humiliating. \e
   Every mood of the heart influences us to movement. What the heart desires, the thighs run after without a moment\'s hesitation; they hold to the heart, which they follow. In the life of man, however, acting on the spur of every caprice is wrong and if continued leads to humiliation. Three considerations suggest themselves here. First, a man should not run precipitately after all the persons whom he would like to influence, but must be able to hold back under certain circumstances. As little should he yield immediately to every whim of those in whose service he stands. Finally, where the moods of his own heart are concerned, he should never ignore the possibility of inhibition, for this is the basis of human freedom.';
 $book['31']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Perseverance brings good fortune. 
   Remorse disappears. 
   If a man is agitated in mind,
@@ -1690,7 +1680,7 @@ $book['31']['line4'] =
   Will follow. \e
   Here the place of the heart is reached. The impulse that springs from this source is the most important of all. It is of particular concern that this influence be constant and good; then, in spite of the danger arising from the great susceptibility of the human heart, there will be no cause for remorse. When the quiet power of a man\'s own character is at work, the effects produced are right. All those who are receptive to the vibrations of such a spirit will then be influenced. Influence over others should not express itself as a conscious and willed effort to manipulate them. Through practicing such conscious incitement, one becomes wrought up and is exhausted by the eternal stress and strain. Moreover, the effects produced are then limited to those on whom one\'s thoughts are consciously fixed.';
 $book['31']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   The influence shows itself in the back of the neck. 
   No remorse. \e
   The back of the neck is the most rigid part of the body. When the influence shows itself there, the will remains firm and the influence does not lead to confusion. Hence remorse does not enter into consideration here. What takes place in the depths of one\'s being, in the unconscious, can neither be called forth nor prevented by the conscious mind. It is true that if we cannot be influenced ourselves, we cannot influence the outside world.';
@@ -1724,7 +1714,7 @@ $book['32']['line1'] =
   Nothing that would further. \e
   Whatever endures can be created only gradually by long-continued work and careful reflection. In the same sense Lao-tse says: "If we wish to compress something, we must first let it fully expand. " He who demands too much at once is acting precipitately, and because he attempts too much, he ends by succeeding in nothing.';
 $book['32']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Remorse disappears. \e
   The situation is abnormal. A man\'s force of character is greater than the available material power. Thus he might be afraid of allowing himself to attempt something beyond his strength. However, since it is the time of DURATION, it is possible for him to control his inner strength and so to avoid excess. Cause for remorse then disappears.';
 $book['32']['line3'] = 
@@ -1734,7 +1724,7 @@ $book['32']['line3'] =
   Persistent humiliation. \e
   If a man remains at the mercy of moods of hope or fear aroused by the outer world, he loses his inner consistency of character. Such inconsistency invariably leads to distressing experiences. These humiliations often come from an unforeseen quarter. Such experiences are not merely effects produced by the external world, but logical consequences evoked by his own nature.';
 $book['32']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   No game in the field. \e
   If we are in pursuit of game and want to get a shot at a quarry, we must set about it in the right way. A man who persists in stalking game in a place where there is none may wait forever without finding any. Persistence in search is not enough. What is not sought in the right way is not found.';
 $book['32']['line5'] = 
@@ -1782,16 +1772,16 @@ $book['33']['line3'] =
   Brings good fortune. \e
   When it is time to retreat it is both unpleasant and dangerous to be held back, because then one no longer has freedom of action. In such a case the only expedient is to take into one\'s service, so to speak, those who refuse to let one go, so that one may at least keep one\'s initiative and not fall helplessly under their domination. But even with this expedient the situation is far from satisfactory–for what can one hope to accomplish with such servants?';
 $book['33']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Voluntary retreat brings good fortune to the superior man
   And downfall to the inferior man. \e
   In retreating the superior man is intent on taking his departure willingly and in all friendliness. He easily adjusts his mind to retreat, because in retreating he does not have to do violence to his convictions. The only one who suffers is the inferior man from whom he retreats, who will degenerate when deprived of the guidance of the superior man.';
 $book['33']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Friendly retreat. Perseverance brings good fortune. \e
   It is the business of the superior man to recognize in time that the moment for retreat has come. If the right moment is chosen, the retreat can be carried out within the forms of perfect friendliness, without the necessity of disagreeable discussions. Yet, for all the observance of amenities, absolute firmness of decision is necessary if one is not to be led astray by irrelevant considerations.';
 $book['33']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Cheerful retreat. Everything serves to further. \e
   The situation is unequivocal. Inner detachment has become an established fact, and we are at liberty to depart. When one sees the way ahead thus clearly, free of all doubt, a cheerful mood sets in, and one chooses what is right without further thought. Such a clear path ahead always leads to the good.';
 
@@ -1817,7 +1807,7 @@ $book['34']['line1'] =
   This is certainly true. \e
   The toes are in the lowest place and are ready to advance. So likewise great power in lowly station is inclined to effect advance by force. This, if carried further, would certainly lead to misfortune, and therefore by way of advice a warning is added.';
 $book['34']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Perseverance brings good fortune. \e
   The premise here is that the gates to success are beginning to open. Resistance gives way and we forge ahead. This is the point at which, only too easily, we become the prey of exuberant self-confidence. This is why the oracle says that perseverance (i. e. , perseverance in inner equilibrium, without excessive use of power) brings good fortune.';
 $book['34']['line3'] = 
@@ -1829,7 +1819,7 @@ $book['34']['line3'] =
   And gets its horns entangled. \e
   Making a boast of power leads to entanglements, just as a goat entangles its horns when it butts against a hedge. Whereas an inferior man revels in power when he comes into possession of it, the superior man never makes this mistake. He is conscious at all times of the danger of pushing ahead regardless of circumstances, and therefore renounces in good time the empty display of force.';
 $book['34']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Perseverance brings good fortune. 
   Remorse disappears. 
   The hedge opens; there is no entanglement. 
@@ -1885,7 +1875,7 @@ $book['35']['line3'] =
   All are in accord. Remorse disappears. \e
   A man strives onward, in association with others whose backing encourages him. This dispels any cause for regret over the fact that he does not have enough independence to triumph unaided over every hostile turn of fate.';
 $book['35']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Progress like a hamster. 
   Perseverance brings danger. \e
   In times of progress it is easy for strong men in the wrong places to amass great possessions. But such conduct shuns the light. And since times of progress are also times in which dubious procedures are inevitably brought to the light, perseverance in such action always leads to danger.';
@@ -1897,7 +1887,7 @@ $book['35']['line5'] =
   Everything serves to further. \e
   The situation described here is that of one who, finding himself in an influential position in a time of progress, remains gentle and reserved. He might reproach himself for lack of energy in making the most of the propitiousness of the time and obtaining all possible advantage. However, this regret passes away. He must not take either loss or gain to heart; they are minor considerations. What matters much more is the fact that in this way he has assured himself of opportunities for successful and beneficent influence.';
 $book['35']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Making progress with the horns is permissible
   Only for the purpose of punishing one\'s own city. 
   To be conscious of danger brings good fortune. 
@@ -2004,13 +1994,13 @@ $book['37']['line4'] =
   Great good fortune. \e
   It is upon the woman of the house that the well-being of the family depends. Well-being prevails when expenditures and income are soundly balanced. This leads to great good fortune. In the sphere of public life, this line refers to the faithful steward whose measures further the general welfare.';
 $book['37']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   As a king he approaches his family. 
   Fear not. 
   Good fortune. \e
   A king is the symbol of a fatherly man who is richly endowed in mind. He does nothing to make himself feared; on the contrary, the whole family can trust him, because love governs their intercourse. His character of itself exercises the right influence.';
 $book['37']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   His work commands respect. 
   In the end good fortune comes. \e
   In the last analysis, order within the family depends on the character of the master of the house. If he cultivates his personality so that it works impressively through the force of inner truth, all goes well with the family. In a ruling position one must of his own accord assume responsibility.';
@@ -2040,7 +2030,7 @@ $book['38']['line1'] =
   Guard yourself against mistakes. \e
   Even in times when oppositions prevail, mistakes can be avoided, so that remorse disappears. When opposition begins to manifest itself, a man must not try to bring about unity by force, for by so doing he would only achieve the contrary, just as a horse goes farther and farther away if one runs after it. If it is one\'s own horse, one can safely let it go; it will come back of its own accord. So too when someone who belongs with us is momentarily estranged because of a misunderstanding, he will return of his own accord if we leave matters to him. One the other hand, it is well to be cautious when evil men who do not belong with us force themselves upon us, again as the result of a misunderstanding. Here the important thing is to avoid mistakes. We must not try to shake off these evil men by force; this would give rise to real hostility. We must simply endure them. They will eventually withdraw of their own accord.';
 $book['38']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   One meets his lord in a narrow street. 
   No blame. \e
   As a result of misunderstandings, it has become impossible for people who by nature belong together to meet in the correct way. This being so, an accidental meeting under informal circumstances may serve the purpose, provided there is an inner affinity between them.';
@@ -2052,7 +2042,7 @@ $book['38']['line3'] =
   Not a good beginning, but a good end. \e
   Often it seems to a man as though everything were conspiring against him. He sees himself checked and hindered in his progress, insulted and dishonored. However, he must not let himself be misled; despite this opposition, he must cleave to the man with whom he knows he belongs. Thus, notwithstanding the bad beginning, the matter will end well.';
 $book['38']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Isolated through opposition,
   One meets a like-minded man
   With whom one can associate in good faith. 
@@ -2066,7 +2056,7 @@ $book['38']['line5'] =
   How could it be a mistake? \e
   Coming upon a sincere man, one fails to recognize him at first because of the general estrangement. However, he bites his way through the wrappings that are causing the separation. When such a companion thus reveals himself in his true character, it is one\'s duty to go to meet him and to work with him.';
 $book['38']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Isolated through opposition,
   One sees one\'s companion as a pig covered with dirt,
   As a wagon full of devils. 
@@ -2115,7 +2105,7 @@ $book['39']['line4'] =
   Coming leads to union. \e
   This too describes a situation that cannot be managed single-handed. In such a case the direct way is not the shortest. If a person were to forge ahead on his own strength and without the necessary preparations, he would not find the support he needs and would realize too late that he has been mistaken in his calculations, inasmuch as the conditions on which he hoped he could rely would prove to be inadequate. In this case it is better, therefore, to hold back for the time being and to gather together trustworthy companions who can be counted upon for help in overcoming the obstructions.';
 $book['39']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   In the midst of the greatest obstructions,
   Friends come. \e
   Here we see a man who is called to help in an emergency. He should not seek to evade the obstructions, no matter how dangerously they pile up before him. But because he is really called to the task, the power of his spirit is strong enough to attract helpers whom he can effectively organize, so that through the well-directed co-operation of all participants the obstruction is overcome.';
@@ -2150,7 +2140,7 @@ $book['40']['line1'] =
   Without blame. \e
   In keeping with the situation, few words are needed. The hindrance is past, deliverance has come. One recuperates in peace and keeps still. This is the right thing to do in times when difficulties have been overcome.';
 $book['40']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   One kills three foxes in the field
   And receives a yellow arrow. 
   Perseverance brings good fortune. \e
@@ -2164,7 +2154,7 @@ $book['40']['line3'] =
   This refers to a man who has come out of needy circumstances into comfort and freedom from want. If now, in the manner of an upstart, he tries to take his ease in comfortable surroundings that do not suit his nature, he thereby attracts robbers. If he goes on thus he is sure to bring disgrace upon himself. Confucius says about this line:
   Carrying a burden on the back is the business of a common man; a carriage is the appurtenance of a man of rank. Now, when a common man uses the appurtenance of a man of rank, robbers plot to take it away from him. If a man is insolent toward those above him and hard toward those below him, robbers plot to attack him. Carelessness in guarding things tempts thieves to steal. Sumptuous ornaments worn by a maiden are an enticement to rob her of her virtue.';
 $book['40']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Deliver yourself from your great toe. 
   Then the companion comes,
   And him you can trust. \e
@@ -2258,13 +2248,13 @@ $book['42']['line4'] =
   In the removal of the capital. \e
   It is important that there should be men who mediate between leaders and followers. These should be disinterested people, especially in times of increase, since the benefit is to spread from the leader to the people. Nothing of this benefit should be held back in a selfish way; it should really reach those for whom it is intended. This sort of intermediary, who also exercises a good influence on the leader, is especially important in times when it is a matter of great undertakings, decisive for the future and requiring the inner assent of all concerned.';
 $book['42']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   If in truth you have a kind heart, ask not. 
   Supreme good fortune. 
   Truly, kindness will be recognized as your virtue. \e
   True kindness does not count upon nor ask about merit and gratitude but acts from inner necessity. And such a truly kind heart finds itself rewarded in being recognized, and thus the beneficent influence will spread unhindered.';
 $book['42']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He brings increase to no one. 
   Indeed, someone even strikes him. 
   He does not keep his heart constantly steady. 
@@ -2328,7 +2318,7 @@ $book['44']['line1'] =
   Even a lean pig has it in him to rage around. \e
   If an inferior element has wormed its way in, it must be energetically checked at once. By consistently checking it, bad effects can be avoided. If it is allowed to take its course, misfortune is bound to result; the insignificance of that which creeps in should not be a temptation to underrate it. A pig that is still young and lean cannot rage around much, but after it has eaten its fill and become strong, its true nature comes out if it has not previously been curbed.';
 $book['44']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   There is a fish in the tank. No blame. 
   Does not further guests. \e
   The inferior element is not overcome by violence but is kept under gentle control. Then nothing evil is to be feared. But care must be taken not to let it come in contact with those further away, because once free it would unfold its evil aspects unchecked.';
@@ -2340,18 +2330,18 @@ $book['44']['line3'] =
   No great mistake is made. \e
   There is a temptation to fall in with the evil element offering itself–a very dangerous situation. Fortunately circumstances prevent this; one would like to do it, but cannot. This leads to painful indecision in behavior. But if we gain clear insight into the danger of the situation, we shall at least avoid more serious mistakes.';
 $book['44']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   No fish in the tank. 
   This leads to misfortune. \e
   Insignificant people must be tolerated in order to keep them well disposed. Then we can make use of them if we should need them. If we become alienated from them and do not meet them halfway, they turn their backs on us and are not at our disposal when we need them. But this is our own fault.';
 $book['44']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   A melon covered with willow leaves. 
   Hidden lines. 
   Then it drops down to one from heave. \e
   The melon, like the fish, is a symbol of the principle of darkness. It is sweet but spoils easily and for this reason is protected with a cover of willow leaves. This is a situation in which a strong, superior, well-poised man tolerates and protects the inferiors in his charge. He has the firm lines of order and beauty within himself but he does not lay stress upon them. He does not bother his subordinates with outward show or tiresome admonitions but leaves them quite free, putting his trust in the transforming power of a strong and upright personality. And behold! Fate is favorable. His inferiors respond to his influence and fall to his disposition like ripe fruit.';
 $book['44']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He comes to meet with his horns. 
   Humiliation. No blame. \e
   When a man has withdrawn from the world, its tumult often becomes unbearable to him. There are many people who in a noble pride hold themselves aloof from all that is low and rebuff it brusquely wherever it comes to meet them. Such persons are reproached for being proud and distant, but since active duties no longer hold them to the world, this does not greatly matter. They know how to bear the dislike of the masses with composure.';
@@ -2420,7 +2410,7 @@ $book['46']['line1'] =
   Brings great good fortune. \e
   This situation at the beginning of ascent. Just as wood draws strength for its upward push from the root, which in itself is in the lowest place, so the power to rise comes from this low and obscure station. But there is a spiritual affinity with the rulers above, and this solidarity creates the confidence needed to accomplish something.';
 $book['46']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   If one is sincere,
   It furthers one to bring even a small offering. 
   No blame. \e
@@ -2472,7 +2462,7 @@ $book['47']['line1'] =
   For three years one sees nothing. \e
   When adversity befalls a man, it is important above all things for him to be strong and to overcome the trouble inwardly. If he is weak, the trouble overwhelms him. Instead of proceeding on his way, he remains sitting under a bare tree and falls ever more deeply into gloom and melancholy. This makes the situation only more and more hopeless. Such an attitude comes from an inner delusion that he must by all means overcome.';
 $book['47']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   One is oppressed while at meat and drink. 
   The man with the scarlet knee bands is just coming. 
   It furthers one to offer sacrifice. 
@@ -2488,12 +2478,12 @@ $book['47']['line3'] =
   This shows a man who is restless and indecisive in times of adversity. At first he wants to push ahead, then he encounters obstructions that, it is true, mean oppression only when recklessly dealt with. He butts his head against a wall and in consequence feels himself oppressed by the wall. Then he leans on things that have in themselves no stability and that are merely a hazard for him who leans on them. Thereupon he turns back irresolutely and retires into his house, only to find, as a fresh disappointment, that his wife is not there. Confucius says about this line:
   If a man permits himself to be oppressed by something that ought not to oppress him, his name will certainly be disgraced. If he leans on things upon which one cannot lean, his life will certainly be endangered. For him who is in disgrace and danger, the hour of death draws near; how can he then still see his wife?';
 $book['47']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   He comes very quietly, oppressed in a golden carriage. 
   Humiliation, but the end is reached. \e
   A well-to-do man sees the need of the lower classes and would like very much to be of help. But instead of proceeding with speed and energy where there is need, he begins in a hesitant and measured way. Then he encounters obstructions. Powerful and wealthy acquaintances draw him into their circle; he has to do as they do and cannot withdraw from them. Hence he finds himself in great embarrassment. But the trouble is transitory. The original strength of his nature offsets the mistake he has made, and the goal is reached.';
 $book['47']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   His nose and feet are cut off. 
   Oppression at the hands of the man with the purple knee bands. 
   Joy comes softly. 
@@ -2543,7 +2533,7 @@ $book['48']['line1'] =
   No animals come to an old well. \e
   If a man wanders around in swampy lowlands, his life is submerged in mud. Such a man loses all significance for mankind. He who throws himself away is no longer sought out by others. In the end no one troubles about him any more.';
 $book['48']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   At the wellhole one shoots fishes. 
   The jug is broken and leaks. \e
   The water itself is clear, but it is not being used. Thus the well is a place where only fish will stay, and whoever comes to it, comes only to catch fish. But the jug is broken, so that the fish cannot be kept in it.
@@ -2561,7 +2551,7 @@ $book['48']['line4'] =
   The well is being lined. No blame. \e
   True, if a well is being lined with stone, it cannot be used while the work is going on. But the work is not in vain; the result is that the water stays clear. In life also there are times when a man must put himself in order. During such a time he can do nothing for others, but his work is nonetheless valuable, because by enhancing his powers and abilities through inner development, he can accomplish all the more later on.';
 $book['48']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   In the well there is a clear, cold spring
   From which one can drink. \e
   A well that is fed by a spring of living water is a good well. A man who has virtues like a well of this sort is born to be a leader and savior of men, for he has the water of life. Nevertheless, the character for "good fortune" is left out here. The all-important thing about a well is that its water be drawn. The best water is only a potentiality for refreshment as long as it is not brought up. So too with leaders of mankind: it is all-important that one should drink from the spring of their words and translate them into life.';
@@ -2649,7 +2639,7 @@ $book['50']['line1'] =
   If a ting is turned upside down before being used, no harm is done–on the contrary, this clears it of refuse. A concubine\'s position is lowly, but because she has a son she comes to be honored.
   These two metaphors express the idea that in a highly developed civilization, such as that indicated by this hexagram, every person of good will can in some way or other succeed. No matter how lowly he may be, provided he is ready to purify himself, he is accepted. He attains a station in which he can prove himself fruitful in accomplishment, and as a result he gains recognition.';
 $book['50']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   There is food in the ting. 
   My comrades are envious,
   But they cannot harm me. 
@@ -2665,7 +2655,7 @@ $book['50']['line3'] =
   The handle is the means for lifting up the ting. If the handle is altered, the ting cannot be lifted up and used, and, sad to say, the delicious food in it, such as pheasant fat, cannot be eaten by anyone.
   This describes a man who, in a highly evolved civilization, finds himself in a place where no one notices or recognizes him. This is a severe block to his effectiveness. All of his good qualities and gifts of mind thus needlessly go to waste. But if he will only see to it that he is possessed of something truly spiritual, the time is bound to come, sooner or later, when the difficulties will be resolved and all will go well. The fall of rain symbolizes here, as in other instances, release of tension.';
 $book['50']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   The legs of the ting are broken. 
   The prince\'s meal is spilled
   And his person is soiled. 
@@ -2679,7 +2669,7 @@ $book['50']['line5'] =
   Perseverance furthers. \e
   Here we have, in a ruling position, a man who is approachable and modest in nature. As a result of this attitude he succeeds in finding strong and able helpers who complement and aid him in his work. Having achieved this attitude, which requires constant self-abnegation, it is important for him to hold to it and not to let himself be led astray.';
 $book['50']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The ting has rings of jade. 
   Great good fortune. 
   Nothing that would not act to further. \e
@@ -2727,7 +2717,7 @@ $book['51']['line3'] =
   One remains free of misfortune. \e
   There are three kinds of shock–the shock of heaven, which is thunder, the shock of fate, and, finally, the shock of the heart. The present hexagram refers less to inner shock than to the shock of fate. In such times of shock, presence of mind is all too easily lost: the individual overlooks all opportunities for action and mutely lets fate take its course. But if he allows the shocks of fate to induce movement within his mind, he will overcome these external blows with little effort.';
 $book['51']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Shock is mired. \e
   Movement within the mind depends for its success partly on circumstances. If there is neither a resistance that might be vigorously combated, nor yet a yielding that permits of victory–if, instead, everything is tough and inert like mire–movement is crippled.';
 $book['51']['line5'] = 
@@ -2854,14 +2844,14 @@ $book['53']['line4'] =
   Perhaps it will find a flat branch. No blame. \e
   A tree is not a suitable place for a wild goose. But if it is clever, it will find a flat branch on which it can get a footing. A man\'s life too, in the course of its development, often brings him into inappropriate situations, in which he finds it difficult to hold his own without danger. Then it is important to be sensible and yielding. This enables him to discover a safe place in which life can go on, although he may be surrounded by danger.';
 $book['53']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   The wild goose gradually draws near the summit. 
   For three years the woman has no child. 
   In the end nothing can hinder her. 
   Good fortune. \e
   The summit is a high place. In a high position one easily becomes isolated. One is misjudged by the very person on whom one is dependent–the woman by her husband, the official by his superior. This is the work of deceitful persons who have wormed their way in. The result is that relationships remain sterile, and nothing is accomplished. But in the course of further development, such misunderstandings are cleared away, and reconciliation is achieved after all.';
 $book['53']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The wild goose gradually draws near the clouds heights. 
   Its feathers can be used for the sacred dance. 
   Good fortune. \e
@@ -2896,7 +2886,7 @@ $book['54']['line1'] =
   The meaning is that a girl entering a family with the consent of the wife will not rank outwardly as the equal of the latter but will withdraw modestly into the background. However, if she understands how to fit herself into the pattern of things, her position will be entirely satisfactory, and she will feel sheltered in the love of the husband to whom she bears children.
   The same meaning is brought out in the relationships between officials. A man may enjoy the personal friendship of a prince and be taken into his confidence. Outwardly this man must keep tactfully in the background behind the official ministers of state, but, although he is hampered by this status, as if he were lame, he can nevertheless accomplish something through the kindliness of his nature.';
 $book['54']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   A one-eyed man who is able to see. 
   The perseverance of a solitary man furthers. \e
   Here the situation is that of a girl married to a man who has disappointed her. Man and wife ought to work together like a pair of eyes. Here the girl is left behind in loneliness; the man of her choice either has become unfaithful or has died. But she does not lost the inner light of loyalty. Thought the other eye is gone, she maintains her loyalty even in loneliness.';
@@ -2907,7 +2897,7 @@ $book['54']['line3'] =
   A girl who is in a lowly position and finds no husband may, in some circumstances, still win shelter as a concubine.
   This pictures the situation of a person who longs too much for joys that cannot be obtained in the usual way. He enters upon a situation not altogether compatible with self-esteem. Neither judgment nor warning is added to this line; it merely lays bare the actual situation, so that everyone may draw a lesson from it.';
 $book['54']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   The marrying maiden draws out the allotted time. 
   A late marriage comes in due course. \e
   The girl is virtuous. She does not wish to throw herself away, and allows the customary time for marriage to slip by. However, there is no harm in this; she is rewarded for her purity and, even though belatedly, finds the husband intended for her.';
@@ -2969,7 +2959,7 @@ $book['55']['line3'] =
   The image is that of a progressive covering over of the sun. Here the eclipse reaches totality, therefore even the small stars can be seen at noon.
   In the sphere of social relationships, this means that the prince is now so eclipsed that even the most insignificant persons can push themselves into the foreground. This makes it impossible for an able man, though he might be the right hand of the ruler, to undertake anything. It is as though his arm were broken, but he is not to blame for being thus hindered in action.';
 $book['55']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   The curtain is of such fullness
   That the polestars can be seen at noon. 
   He meets his ruler, who is of like kind. 
@@ -3029,7 +3019,7 @@ $book['56']['line3'] =
   Danger. \e
   A truculent stranger does not know how to behave properly. He meddles in affairs and controversies that do not concern him; thus he loses his resting place. He treats his servant with aloofness and arrogance; thus he loses the man\'s loyalty. When a stranger in a strange land has no one left on whom he can rely, the situation becomes very dangerous.';
 $book['56']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   The wanderer rests in a shelter. 
   He obtains his property and an ax. 
   My heart is not glad. \e
@@ -3042,7 +3032,7 @@ $book['56']['line5'] =
   Traveling statesman were in the habit of introducing themselves to local princes with the gift of a pheasant. Here the wanderer wants to enter the service of a prince. To this end he shoots a pheasant, killing it at the first shot. Thus he finds friends who praise and recommend him, and in the end the prince accepts him and confers an office upon him.
   Circumstances often cause a man to seek a home in foreign parts. If he knows how to meet the situation and how to introduce himself in the right way, he may find a circle of friends and a sphere of activity even in a strange country.';
 $book['56']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The bird\'s nest burns up. 
   The wanderer laughs at first,
   Then must needs lament and weep. 
@@ -3075,7 +3065,7 @@ $book['57']['line1'] =
   The perseverance of a warrior furthers. \e
   Inborn gentleness is often carried to the point of indecisiveness. One does not feel strong enough to advance resolutely. A thousand doubts crop up; one is, however, not minded to withdraw but drifts indecisively to and fro. In such a situation, a military decisiveness is the proper thing, so that one resolutely does what order demands. Resolute discipline is far better than irresolute license.';
 $book['57']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Penetration under the bed. 
   Priests and magicians are used in great number. 
   Good fortune. No blame. \e
@@ -3091,7 +3081,7 @@ $book['57']['line4'] =
   Three kinds of game are caught. \e
   When a responsible position and accumulated experience lead one to combine innate modesty with energetic action, great success is assured. The three kinds of animals referred to served for offerings to the gods, for feasting guests, and for everyday consumption. When the catch answered all three purposes, the hunt was considered especially successful.';
 $book['57']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Perseverance brings good fortune. 
   Remorse vanishes. 
   Nothing that does not further. 
@@ -3101,7 +3091,7 @@ $book['57']['line5'] =
   Good fortune. \e
   In the situation described in Ku, WORK ON WHAT HAS BEEN SPOILED (18), an entirely new point of departure must be set up, whereas here it is only a question of reforms. The beginning has not been good, but the moment has been reached when a new direction can be taken. Change and improvement are called for. Such steps must be undertaken with steadfastness, that is, with a firm and correct attitude of mind; then they will succeed, and remorse will disappear. But it must be remembered that such improvements require careful consideration. Before a change is made, it must be pondered over again and again. After the change is made, it is necessary to note carefully for some time after how the improvements bear the test of actuality. Such careful work is accompanied by good fortune.';
 $book['57']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Penetration under the bed. 
   He loses his property and his ax. 
   Perseverance brings misfortune. \e
@@ -3129,7 +3119,7 @@ $book['58']['line1'] =
   Contented joyousness. Good fortune. \e
   A quiet, wordless, self-contained joy, desiring nothing from without and resting content with everything, remains free of all egotistic likes and dislikes. In this freedom lies good fortune, because it harbors the quiet security of a heart fortified within itself.';
 $book['58']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Sincere joyousness. Good fortune. 
   Remorse disappears. \e
   We often find ourselves associating with inferior people in whose company we are tempted by pleasures that are inappropriate for the superior man. To participate in such pleasures would certainly bring remorse, for a superior man can find no real satisfaction in low pleasures. When, recognizing this, a man does not permit his will to swerve, so that he does not find such ways agreeable, not even dubious companions will venture to proffer any base pleasures, because he would not enjoy them. Thus every cause for regret is removed.';
@@ -3138,12 +3128,12 @@ $book['58']['line3'] =
   Coming joyousness. Misfortune. \e
   True joy must spring from within. But if one is empty within and wholly given over to the world, idle pleasures come streaming in from without. This is what many people welcome as diversion. Those who lack inner stability and therefore need amusement, will always find opportunity of indulgence. They attract external pleasures by the emptiness of their natures. Thus they lose themselves more and more, which of course has bad results.';
 $book['58']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Joyousness that is weighed is not at peace. 
   After ridding himself of mistakes a man has joy. \e
   Often a man finds himself weighing the choice between various kinds of pleasures, and so long as he has not decided which kind he will choose, the higher or the lower, he has no inner peace. Only when he clearly recognizes that passion brings suffering, can he make up his mind to turn away from the lower pleasures and to strive for the higher. Once this decision is sealed, he finds true joy and peace, and inner conflict is overcome.';
 $book['58']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Sincerity toward disintegrating influences is dangerous. \e
   Dangerous elements approach even the best of men. If a man permits himself to have anything to do with them, their disintegrating influence acts slowly but surely, and inevitable brings dangers in its train. But if he recognizes the situation and can comprehend the danger, he knows how to protect himself and remains unharmed.';
 $book['58']['line6'] = 
@@ -3177,7 +3167,7 @@ $book['59']['line1'] =
   Good fortune. \e
   It is important that disunion should be overcome at the outset, before it has become complete–that the clouds should be dispersed before they have brought storm and rain. At such times when hidden divergences in temper make themselves felt and lead to mutual misunderstandings we must take quick and vigorous action to dissolve the misunderstandings and mutual distrust.';
 $book['59']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   At the dissolution
   He hurries to that which supports him. 
   Remorse disappears. \e
@@ -3194,12 +3184,12 @@ $book['59']['line4'] =
   This is something that ordinary men do not think of. \e
   When we are working at a task that affects the general welfare, we must leave all private friendships out of account. Only by rising above party interests can we achieve something decisive. He who has the courage thus to forego what is near wins what is afar. But in order to comprehend this standpoint, one must have a wide view of the interrelationships of life, such as only unusual men attain.';
 $book['59']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   His loud cries are as dissolving as sweat. 
   Dissolution! A king abides without blame. \e
   In times of general dispersion and separation, a great idea provides a focal point for the organization of recovery. Just as an illness reaches its crisis in a dissolving sweat, so a great stimulating idea is a true salvation in times of general deadlock. It gives the people a rallying point–a man in a ruling position who can dispel misunderstandings.';
 $book['59']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He dissolves his blood. 
   Departing, keeping at a distance, going out,
   Is without blame. \e
@@ -3229,7 +3219,7 @@ $book['60']['line1'] =
   Is without blame. \e
   Often a man who would like to undertake something finds himself confronted by insurmountable limitations. Then he must know where to stop. If he rightly understands this and does not go beyond the limits set for him, he accumulates an energy that enables him, when the proper time comes, to act with great force. Discretion is of prime importance in preparing the way for momentous things. Concerning this, Confucius says: Where disorder develops, words are the first steps. If the prince is not discreet, he loses his servant. If the servant is not discreet he loses his life. If germinating things are not handled with discretion, the perfecting of them is impeded. Therefore the superior man is careful to maintain silence and does not go forth.';
 $book['60']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   Not going out of the gate and the courtyard
   Brings misfortune. \e
   When the time for action has come, the moment must be quickly seized. Just as water first collects in a lake without flowing out, yet is certain to find an outlet when the lake is full, so it is in the life of man. It is a good thing to hesitate so long as the time for action has not come, but no longer. Once the obstacles to action have been removed, anxious hesitation is a mistake that is bound to bring disaster, because one misses one\'s opportunity.';
@@ -3244,7 +3234,7 @@ $book['60']['line4'] =
   Contented limitation. Success. \e
   Every limitation has its value, but a limitation that requires persistent effort entails a cost of too much energy. When, however, the limitation is a natural one (as for example, the limitation by which water flows only downhill), it necessarily leads to success, for then it means a saving of energy. The energy that otherwise would be consumed in a vain struggle with the object, is applied wholly to the benefit of the matter in hand, and success is assured.';
 $book['60']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   Sweet limitation brings good fortune. 
   Going brings esteem. \e
   The limitation must be carried out in the right way if it is to be effective. If we seek to impose restrictions on others only, while evading them ourselves, these restrictions will always be resented and will provoke resistance. If, however, a man in a leading position applies the limitation first to himself, demanding little from those associated with him, and with modest means manages to achieve something, good fortune is the result. Where such an example occurs, it meets with emulation, so that whatever is undertaken must succeed.';
@@ -3281,7 +3271,7 @@ $book['61']['line1'] =
   If there are secret designs, it is disquieting. \e
   The force of inner truth depends chiefly on inner stability and preparedness. From this state of mind springs the correct attitude toward the outer world. But if a man should try to cultivate secret relationships of a special sort, it would deprive him of his inner independence. The more reliance he places on the support of others, the more uneasy and anxious he will become as to whether these secret ties are really tenable. In this way inner peace and the force of inner truth are lost.';
 $book['61']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   A crane calling in the shade. 
   Its young answers it. 
   I have a good goblet. 
@@ -3301,12 +3291,12 @@ $book['61']['line4'] =
   No blame. \e
   To intensify the power of inner truth, a man must always turn to his superior, from whom he can receive enlightenment as the moon receives light form the sun. However, this requires a certain humility, like that of the moon when it is not yet quite full. At the moment when the moon becomes full and stands directly opposite the sun, it begins to wane. Just as on the one hand we must be humble and reverent when face to face with the source of enlightenment, so likewise must we on the other renounce factionalism among men. Only be pursuing one\'s course like a horse that goes straight ahead without looking sidewise at its mate, can one retain the inner freedom that helps one onward.';
 $book['61']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   He possesses truth, which links together. 
   No blame. \e
   This describes the ruler who holds all elements together by the power of his personality. Only when the strength of his character is so ample that he can influence all who are subject to him, is he as he needs to be. The power of suggestion must emanate from the ruler. It will firmly knit together and unite all his adherents. Without this central force, all external unity is only deception and breaks down at the decisive moment.';
 $book['61']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Cockcrow penetrating to heaven. 
   Perseverance brings misfortune. \e
   The cock is dependable. It crows at dawn. But it cannot itself fly to heaven. It just crows. A man may count on mere words to awaken faith. This may succeed now and then, but if persisted in, it will have bad consequences.';
@@ -3354,7 +3344,7 @@ $book['62']['line3'] =
   Misfortune. \e
   At certain times extraordinary caution is absolutely necessary. But it is just in such life situations that we find upright and strong personalities who, conscious of being in the right, disdain to hold themselves on guard, because they consider it petty. Instead, they go their way proud and unconcerned. But this self-confidence deludes them. There are dangers lurking for which they are unprepared. Yet such danger is not unavoidable; one can escape it if he understands that the time demands that he pay especial attention to small and insignificant things.';
 $book['62']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   No blame. He meets him without passing by.
   Going brings danger. One must be on guard. 
   Do not act. Be constantly persevering. \e
@@ -3420,7 +3410,7 @@ $book['63']['line4'] =
   Be careful all day long. \e
   In a time of flowering culture, an occasional convulsion is bound to occur, uncovering a hidden evil within society and at first causing a great sensation. But since the situation is favorable on the whole, such evils can easily be glossed over and concealed from the public. Then everything is forgotten and peace apparently reigns complacently once more. However, to the thoughtful man, such occurrences are grave omens that he does not neglect. This is the only way of averting evil consequences.';
 $book['63']['line5'] = 
-' Nine in the fifth place means:
+' Nove al quinto posto significa:
   The neighbor in the east who slaughters an ox
   Does not attain as much real happiness
   As the neighbor in the west
@@ -3456,7 +3446,7 @@ $book['64']['line1'] =
   Humiliating. \e
   In times of disorder there is a temptation to advance oneself as rapidly as possible in order to accomplish something tangible. But this enthusiasm leads only to failure and humiliation if the time for achievement has not yet arrived. In such time it is wise to spare ourselves the opprobrium of failure by holding back.';
 $book['64']['line2'] = 
-' Nine in the second place means:
+' Nove al secondo posto significa:
   He brakes his wheels. 
   Perseverance brings good fortune. \e
   Here again the time to act has not yet come. But the patience needed is not that of idle waiting without thought of the morrow. Kept up indefinitely, this would not lead to any success. Instead, an individual must develop in himself the strength that will enable him to go forward. He must have a vehicle, as it were, to effect the crossing. But he must for the time being use the brakes. Patience in the highest sense means putting brakes on strength. Therefore he must not fall asleep and lose sight of the goal. If he remains strong and steadfast in his resolve, all goes well in the end.';
@@ -3466,7 +3456,7 @@ $book['64']['line3'] =
   It furthers one to cross the great water. \e
   The time of transition has arrived, but one lacks the strength to complete the transition. If one should attempt to force it, disaster would result, because collapse would then be unavoidable. What is to be done? A new situation must be created; one must engage the energies of able helpers and in this fellowship take the decisive step–cross the great water. Then completion will become possible.';
 $book['64']['line4'] = 
-' Nine in the fourth place means:
+' Nove al quarto posto significa:
   Perseverance brings good fortune. 
   Remorse disappears. 
   Shock, thus to discipline the Devil\'s Country. 
@@ -3480,7 +3470,7 @@ $book['64']['line5'] =
   Good fortune. \e
   The victory has been won. The power of steadfastness has not been routed. Everything has gone well. All misgivings have been overcome. Success has justified the deed. The light of a superior personality shines forth anew and makes its influence felt among men who have faith in it and rally around it. The new time has arrived, and with it good fortune. And just as the sun shines forth in redoubled beauty after rain, or as a forest grows more freshly green from charred ruins after a fire, so the new era appears all the more glorious by contrast with the misery of the old.';
 $book['64']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   There is drinking of wine
   In genuine confidence. No blame. 
   But if one wets his head,

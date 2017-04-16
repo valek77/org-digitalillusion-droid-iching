@@ -4,7 +4,7 @@ $s = $_REQUEST['s'];
 $h = $_REQUEST['h'];
 
 # SOURCE: http://wengu.tartarie.com/wg/wengu.php?lang=en&l=Yijing
-# -------------------------      01       ----------------------- #
+# -------------------------      01   -    ----------------------- #
 $book['01']['desc'] = 
 ' Esagramma 1- Il Creativo\e
   La situazione si presenta colma della massima creatività, mai come in questo momento  sei pronto per compiere ciò che da tantissimo tempo stai cercando di fare, a tentoni e lottando. Non è ancora compiuto, qui c’è la Potenzialità, l’occasione e la forza. Qui  c’è l’opportunità  di tirarti fuori dalle cose che ostacolano, dai legacci angustianti del non-sapere, non-riuscire, non-avere forza. Nel Creativo, ora, c’è  la forza per liberarsi da tutte le ombre. Nulla è ancora compiuto e finito, nulla ancora è iniziato, ma finalmente può cominciare il primo passo verso il rinnovamento, poiché tutte le circostanze sono favorevoli.  Ci vorrà pazienza, cura e nutrimento, ma hai atteso per tanto tempo, alla cieca camminando a tentoni, lasciando fermentare dentro di te le forze sia dell’oscurità che della luce. E adesso, emerge la comprensione: ora puoi capire e trovare ciò che cerchi.

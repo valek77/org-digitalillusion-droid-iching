@@ -239,168 +239,167 @@ $book['05']['line6'] =
 
 # -------------------------      06       ----------------------- #
 $book['06']['desc'] = 
-' Esagramma 6 – Divergenza.
-  La lite: sei verace e vieni impedito. Accorto fermarsi a metà strada reca salute. Condurre a termine reca sciagura.
-  Propizio è vedere il grande uomo. Non propizio attraversare la grande acqua. Sentenza (W) \e
+' Esagramma 6 – La lite
+  Il Cielo, calmo e aperto sul pericoloso e infido Abissale. Tra i due, il nulla: direzioni e scopi diversi, nature diverse, determinano una distanza che è difficile colmare. 
+  Ciascuno dei due è quello che è, e non può assumere altra natura. 
+  Non si tratta di torti o ragioni, ma di incompatibilità di punti di vista. 
+  Quando nasce una divergenza, la maggior parte delle persone che fa? 
+  Si arma e cerca di costringere l’altro a reagire, e allora la lite è iniziata e continuerà per sempre. 
+  In questa situazione non bisogna quindi agire con aggressività o volontà di sopraffare. F
+  ar valere le proprie ragioni non serve, quando la natura del rapporto è conflittuale fin dall’inizio: occorre allora adoperarsi di pazienza e continuare per la propria strada, senza curarsi dell’offesa che riteniamo ci sia stata fatta. 
+  Comportatevi come avete fatto finora: restate con quel nulla che avete cercato di immaginare diverso….e rendetevi conto che non potrà mai essere come sperate. 
+  Il problema qui è la mancanza di comunicazione: non siete in grado di capirvi l’un l’altro, e in fondo, ciò significa che non vi conoscete l’un l’altro. 
+  C’è una grande incomprensione di fondo tra voi. All’inizio del vostro rapporto la distanza tra voi già esisteva, non si è formata nel tempo o in seguito a qualcosa. 
+  Il vostro rapporto è condizionato proprio da questa incompatibilità di visione e se finora ci sono stati punti in comune è perché avete cercato di adattarvi e di mediare le divergenze. 
+  Cosa che potete continuare benissimo a fare, come l’esagramma consiglia. 
+  L’asino non diventa un cavallo solo perché lo volete voi. 
+  Quindi si tratta di lasciare da parte la litigiosità e venire a patti con l’orgoglio, l’ira e tutte le speranze e le paure che covate nel cuore ed ammettere che la natura del vostro rapporto è tale fin dall’inizio e che è pura illusione sperare di cambiare le cose.
   L’idea è che qualunque impresa si intraprenda è limitata nella sua espressione.
-  Il Cielo, calmo e aperto sul pericoloso e infido Abissale. Tra i due, il nulla. Ciascuno dei due è quello che è, e non può assumere altra natura. Non si tratta di torti o ragioni, ma di incompatibilità di punti di vista. Quando nasce una divergenza, la maggior parte delle persone che fa? Si arma e cerca di costringere l’altro a reagire, e allora la lite è iniziata e continuerà per sempre. Non ci sarà nessun tornaconto, ci si è fatto un nemico, e basta. In questa situazione non bisogna quindi agire con aggressività o volontà di sopraffare. Far valere le proprie ragioni  non serve, quando la natura del rapporto è conflittuale fin dall’inizio: occorre allora adoperarsi di pazienza e continuare per la propria strada, senza curarsi dell’offesa che riteniamo ci sia stata fatta. Comportatevi come  avete fatto finora: restate con quel nulla che avete cercato di immaginare diverso….e rendetevi conto che non potrà mai essere come sperate.  Il problema qui è la mancanza di comunicazione: non siete in grado di capirvi l’un l’altro, e in fondo, ciò significa che non vi conoscete l’un l’altro. C’è una grande incomprensione di fondo tra voi. All’inizio del vostro rapporto la distanza tra voi già esisteva, non si è formata nel tempo o in seguito a qualcosa. Il vostro rapporto è condizionato proprio da questa incompatibilità di visione e se finora ci sono stati punti in comune è perché avete cercato di adattarvi e di mediare le divergenze. Cosa che potete continuare benissimo a fare, come l’esagramma consiglia. L’asino non diventa un cavallo solo perché lo volete voi. Quindi si tratta di lasciare da parte la litigiosità e venire a patti con l’orgoglio, l’ira e tutte le speranze e le paure che covate nel cuore ed ammettere che la natura del vostro rapporto è tale fin dall’inizio e che è pura illusione sperare di cambiare le cose.
-  Oppure, se volete togliervi ‘ il sassolino dalla scarpa’ ( e ne avete ben ragione!) potete sempre dar fuoco alle polveri e decidere di affrontarlo a viso a viso. Ne seguirà conflitto, il che vi allontanerà ancor di più da lui. Se è questo che volete, iniziate la guerra, ma anche se ci sarà vittoria, sarà molto, molto amara.';
+  Oppure, se volete togliervi ‘il sassolino dalla scarpa’ (e ne avete ben ragione!) potete sempre dar fuoco alle polveri e decidere di affrontarlo a viso a viso. 
+  Ne seguirà conflitto, il che vi allontanerà ancor di più da lui/lei. 
+  Se è questo che volete, iniziate la guerra, ma anche se ci sarà vittoria, sarà molto, molto amara.';
 $book['06']['judge'] = 
-' CONFLICT. You are sincere
-  And are being obstructed. 
-  A cautious halt halfway brings good fortune. 
-  Going through to the end brings misfortune. 
-  It furthers one to see the great man. 
-  It does not further one to cross the great water. \e
-  Conflict develops when one feels himself to be in the right and runs into opposition. If one is not convinced of being in the right, opposition leads to craftiness or high-handed encroachment but not to open conflict.
-  If a man is entangled in a conflict, his only salvation lies in being so clear- headed and inwardly strong that he is always ready to come to terms by meeting the opponent halfway. To carry on the conflict to the bitter end has evil effects even when one is the right, because the enmity is then perpetuated. It is important to see the great man, that is, an impartial man whose authority is great enough to terminate the conflict amicably or assure a just decision. In times of strife, crossing the great water is to be avoided, that is, dangerous enterprises are not to be begun, because in order to be successful they require concerted unity of focus. Conflict within weakens the power to conquer danger without.';
+' Sei verace e vieni impedito. Accorto fermarsi a metà strada reca salute. Condurre a termine reca sciagura. 
+  Propizio è vedere il grande uomo. Non propizio attraversare la grande acqua. \e
+  Vi sono differenze di punti di vista e le vostre ragioni anche se giuste non sono accolte. 
+  Vi è qualcuno che vi si oppone, ma è bene tentare una riconciliazione senza estremizzare il conflitto. 
+  In questa situazione di dissidio di fondo non si possono iniziare imprese impegnative. Appellatevi a qualcuno al di sopra delle parti.';
 $book['06']['image'] = 
-' Heaven and water go their opposite ways:
-  The image of CONFLICT. 
-  Thus in all his transactions the superior man
-  Carefully considers the beginning. \e
-  The image indicates that the causes of conflict are latent in the opposing tendencies of the two trigrams. Once these opposing tendencies appear, conflict is inevitable. To avoid it, therefore, everything must be taken carefully into consideration in the very beginning. If rights and duties are exactly defined, or if, in a group, the spiritual trends of the individuals harmonize, the cause of conflict is removed in advance.';
+' Cielo e acqua vanno in direzioni opposte: l’immagine della lite. 
+  Così il nobile, in ogni faccenda che imprende pondera l’inizio. \e
+  Il cielo è in alto, l’acqua va verso il basso. 
+  I due elementi, l’uno infido l’altro forte e chiaro, divergono per la loro natura e si separano. 
+  In questa impresa vi è qualcuno con cui vi è difficoltà intrinseca a unirsi. 
+  Facendo chiarezza sulle origini del dissidio, si evita il conflitto aperto.
+  Ogni linea insegna punto per punto come evitare la lite.';
 $book['06']['line1'] = 
 ' Sei all\'inizio significa:
-  If one does not perpetuate the affair,
-  There is a little gossip. 
-  In the end, good fortune comes. \e
-  While a conflict is in the incipient stage, the best thing to do is to drop the issue. Especially when the adversary is stronger, it is not advisable to risk pushing the conflict to a decision. It may come to a slight dispute, but in the end all goes well.';
+  Se non si perpetua la cosa, avviene un piccolo battibecco. Alla fine viene salute.\e
+  Esiste un limite entro il quale si può trovare un certo equilibrio; spingersi oltre equivale a rompere quell’equilibrio, in vostro sfavore. 
+  Muta in 10 Procedere';
 $book['06']['line2'] = 
 ' Nove al secondo posto significa:
-  One cannot engage in conflict;
-  One returns home, gives way. 
-  The people of his town,
-  Three hundred households, 
-  Remain free of guilt. \e
-  In a struggle with an enemy of superior strength, retreat is no disgrace. Timely withdrawal prevents bad consequences. If, out of a false sense of honor, a man allowed himself to be tempted into an unequal conflict, he would be drawing down disaster upon himself. In such a case a wise and conciliatory attitude benefits the whole community, which will then not be drawn into the conflict.';
+  Non si può litigare, si rincasa per altra via. La gente della propria città, trecento casate, rimane esente da colpa.\e
+  Non esasperare il conflitto, che è irrisolvibile, ma aggirarlo e cambiare strada. 
+  In questo modo si preserva ciò che ci sta a cuore e chi ci sta vicino. Muta in 12 Ristagno';
 $book['06']['line3'] = 
 ' Sei al terzo posto significa:
-  To nourish oneself on ancient virtue induces perseverance. 
-  Danger. In the end, good fortune comes. 
-  If by chance you are in the service of a king,
-  Seek not works. \e
-  This is a warning of the danger that goes with an expansive disposition. Only that which has been honestly acquired through merit remains a permanent possession. It can happen that such a possession may be contested, but since it is really one\'s own, one cannot be robbed of it. Whatever a man possesses through the strength of his own nature cannot be lost. If one enters the service of a superior, one can avoid conflict only by not seeking works for the sake of prestige. It is enough if the work is done: let the honor go to the other.';
+  Nutrirsi di antica virtù dà perseveranza. Pericolo, alla fine viene salute. Se sei al servizio di un re non ricercare opere.\e
+  Capire che non si otterrà niente comporta accettazione dello stato attuale delle cose. 
+  Mantenete la calma senza eccitare conseguenze, anche se la situazione sembra dura: ricordarsi di ciò che c’è stato di buono aiuta a superare il momento. 
+  Non superate i limiti che vi competono. Muta in 44 Farsi incontro';
 $book['06']['line4'] = 
 ' Nove al quarto posto significa:
-  One cannot engage in conflict. 
-  One turns back and submits to fate,
-  Changes one\'s attitude, 
-  And finds peace in perseverance. 
-  Good fortune. \e
-  This refers to a person whose inner attitude at first lacks peace. He does not feel content with his situation and would like to improve it through conflict. In contrast to the situation of the nine in the second place, he is dealing with a weaker opponent and might therefore succeed. But he cannot carry on the fight, because, since right is not on his side, he cannot justify the conflict to his conscience. Therefore he turns back and accepts his fate. He changes his mind and finds lasting peace in being at one with eternal law. This brings good fortune.';
+  Non si può litigare, si torna indietro e ci si arrende alla sorte, si cambia e si trova pace nella perseveranza. Salute! \e
+  Non insistete nel vostro punto di vista, dimenticate le cause di contrasti e continuate a conservare la fiducia. 
+  Accettate le differenze e prendetene atto, andate per la vostra strada senza esasperare il dissidio. Muta in 59 Dispersione';
 $book['06']['line5'] = 
 ' Nove al quinto posto significa:
-  To contend before him
-  Brings supreme good fortune. \e
-  This refers to an arbiter in a conflict who is powerful and just, and strong enough to lend weight to the right side. A dispute can be turned over to him with confidence. If one is in the right, one attains great good fortune.';
+  Litigare davanti a lui reca sublime salute. Bisogna portare la questione davanti a un giudice imparziale.\e
+  Chiarite la vostra posizione, fate valere le vostre ragioni, ma accogliete anche nuove posizioni e tutto andrà bene. 
+  Muta in 64 Prima del compimento';
 $book['06']['line6'] = 
 ' Nove sopra significa:
-  Even if by chance a leather belt is bestowed on one,
-  By the end of a morning
-  It will have been snatched away three times. \e
-  Here we have someone who has carried a conflict to the bitter end and has triumphed. He is granted a decoration, but his happiness does not last. He is attacked again and again, and the result is conflict without end.';
-
+  Anche se ci vien conferita una cintura di cuoio, alla fine di un mattino ci viene strappata tre volte.\e
+  Anche se vengono riconosciute le tue ragioni, poi ci saranno rivolgimenti e voltafaccia. Muta in 47 Oppressione';
 # -------------------------      07       ----------------------- #
 $book['07']['desc'] = 
-'Esagramma 7 – Esercito
-Nel grembo della terra vi è l’acqua: l’immagine dell’esercito. Così il nobile, magnanimo verso il popolo, cresce le sue masse. L’esercito ha bisogno di perseveranza e di un uomo forte. Salute senza macchia. \e
-Un lago si è raccolto sulla terra, da qui l’idea di molte persone insieme che collaborano per una meta condivisa. E’ una visione di giustizia, di uguaglianza e di accordo, poichè non si possono ottenere risultati di valore senza ricevere il contributo degli altri, né è possibile un vero e aperto scambio senza dare in ritorno il proprio contributo. Ma ciascuno dà quello che può e sa dare; come in un esercito,  in ogni impresa impegnativa ognuno ha il suo ruolo  importante, e opera affinché anche gli altri possano operare. Tutto però deve essere diretto da chi ha la saggezza e l’esperienza, l’abnegazione e sa assumersi le responsabilità di prendere le decisioni.  E’necessario mantenere le redini della situazione pur restando in atteggiamento di accoglienza. Non agire d’impulso, o sconsideratamente. Attenzione a non mettersi in situazioni di debolezza, qui presenti tutto intorno alla domanda in questione: imponi la tua volontà e la tua visione e altri ti seguiranno spontaneamente. Non cedere alle oscurità,sempre in agguato e persevera.   L’impresa si può fare, la costruzione può cominciare. Queste sono le basi di qualcosa raramente sperimentato prima, un percorso che metterà alla prova le tue possibilità creative; ciò che verrà sarà impegnativo ma darà frutto, e perciò dovrai essere forte e andare avanti. Non sarai sola,  avrai sostegno e condividerai con altri la tua visione. Sarai capita, anche se a volte con fatica. Salute senza macchia: tutto ciò che avverrà su questa linea del karma ti avvicina alla Meta.
-Parole chiave: mettere insieme  dettagli, unificare e dare direzione produttiva alle cose; una situazione consolidata si trasforma radicalmente grazie ad unione costruttiva; guidare un team con uno scopo comune. Imporre la propria volontà  per definire una situazione controversa agendo in base e a ciò che si ritiene giusto e non per compiacere ad altri.
+' Esagramma 7 – Esercito
+  Un lago si è raccolto sulla terra, da qui l’idea di molte persone insieme che collaborano per una meta condivisa. 
+  E’ una visione di giustizia, di uguaglianza e di accordo, poichè non si possono ottenere risultati di valore senza ricevere il contributo degli altri, né è possibile un vero e aperto scambio senza dare in ritorno il proprio contributo. 
+  Ma ciascuno dà quello che può e sa dare; come in un esercito, in ogni impresa impegnativa ognuno ha il suo ruolo importante, e opera affinché anche gli altri possano operare. 
+  Tutto però deve essere diretto da chi ha la saggezza e l’esperienza, l’abnegazione e sa assumersi le responsabilità di prendere le decisioni. 
+  E’necessario mantenere le redini della situazione pur restando in atteggiamento di accoglienza. Non agire d’impulso, o sconsideratamente. 
+  Attenzione a non mettersi in situazioni di debolezza, qui presenti tutto intorno alla domanda in questione: imponi la tua volontà e la tua visione e altri ti seguiranno spontaneamente. Non cedere alle oscurità,sempre in agguato e persevera. L’impresa si può fare, la costruzione può cominciare. Queste sono le basi di qualcosa raramente sperimentato prima, un percorso che metterà alla prova le tue possibilità creative; ciò che verrà sarà impegnativo ma darà frutto, e perciò dovrai essere forte e andare avanti. Non sarai solo, avrai sostegno e condividerai con altri la tua visione. 
+  Sarai capito, anche se a volte con fatica. Salute senza macchia: tutto ciò che avverrà su questa linea del karma ti avvicina alla Meta.
 ';
 $book['07']['judge'] = 
-' THE ARMY. The army needs perseverance
-  And a strong man. 
-  Good fortune without blame. \e
-  An army is a mass that needs organization in order to become a fighting force. Without strict discipline nothing can be accomplished, but this discipline must not be achieved by force. It requires a strong man who captures the hearts of the people and awakens their enthusiasm. In order that he may develop his abilities he needs the complete confidence of his ruler, who must entrust him with full responsibility as long as the war lasts. But war is always a dangerous thing and brings with it destruction and devastation. Therefore it should not be resorted to rashly but, like a poisonous drug, should be used as a last recourse.
-  The justifying cause of a war, and clear and intelligible war aims, ought to be explained to the people by an experienced leader. Unless there is a quite definite war aim to which the people can consciously pledge themselves, the unity and strength of conviction that lead to victory will not be forthcoming. But the leader must also look to it that the passion of war and the delirium of victory do not give rise to unjust acts that will not meet with general approval. If justice and perseverance are the basis of action, all goes well.';
+' L’esercito ha bisogno di perseveranza e di un uomo forte. Salute senza macchia.\e
+  Una situazione consolidata si trasforma radicalmente grazie ad unione costruttiva; 
+  bisogna saper guidare altri verso uno scopo comune e imporre la propria volontà per definire una situazione controversa agendo in base e a ciò che si ritiene giusto e non per compiacere ad altri. 
+  L’impresa è impegnativa e duratura: mettere insieme dettagli, unificare e dare direzione produttiva alle cose.';
 $book['07']['image'] = 
-' In the middle of the earth is water:
-  The image of THE ARMY. 
-  Thus the superior man increases his masses
-  By generosity toward the people. \e
-  Ground water is invisibly present within the earth. In the same way the military power of a people is invisibly present in the masses. When danger threatens, every peasant becomes a soldier; when the war ends, he goes back to his plow. He who is generous toward the people wins their love, and a people living under a mild rule becomes strong and powerful. Only a people economically strong can be important in military power. Such power must therefore be cultivated by improving the economic condition of the people and by humane government. Only when there is this invisible bond between government and people, so that the people are sheltered by their government as ground water is sheltered by the earth, is it possible to wage a victorious war.';
+' Nel grembo della terra vi è l’acqua: l’immagine dell’esercito. Così il nobile, magnanimo verso il popolo, cresce le sue masse. \e
+  I segni Terra e Acqua hanno linee deboli, tenute insieme dall’unica linea forte. Così è l’esercito in cui solo uno comanda e disciplina coloro che eseguono il suo volere. Generosità e disponibilità creano un forte seguito.';
 $book['07']['line1'] = 
 ' Sei all\'inizio significa:
-  An army must set forth in proper order. 
-  If the order is not good, misfortune threatens. \e
-  At the beginning of a military enterprise, order is imperative. A just and valid cause must exist, and the obedience and coordination of the troops must be well organized, otherwise the result is inevitably failure.';
+  Un esercito deve marciare in buon ordine. Se questo non c’è sciagura. \e 
+  Quando si mette mano a un’impresa è bene fin dall’inizio eseguire ciò che va fatto.
+  Prendere le cose alla leggera, tergiversare non è adatto. Muta in 19 Avvicinamento';
 $book['07']['line2'] = 
 ' Nove al secondo posto significa:
-  In the midst of the army. 
-  Good fortune. No blame. 
-  The king bestows a triple decoration. \e
-  The leader should be in the midst of his army, in touch with it, sharing good and bad with the masses he leads. This alone makes him equal to the heavy demands made upon him. He needs also the recognition of the ruler. The decorations he receives are justified, because there is no question of personal preferment here: the whole army, whose center he is, is honored in his person.';
+  In mezzo all’esercito! Salute! Nessuna macchia! Il re conferisce triplice onorificenza.\e
+  Si ha il comando della situazione, si ha un seguito fidato e non bisogna preoccuparsi. Seguono soddisfazioni. Muta in 2 Ricettivo';
 $book['07']['line3'] = 
-' Sei al terzo posto significa:
-  Perchance the army carries corpses in the wagon. 
-  Misfortune. \e
-  Here we have a choice of two explanations. One points to defeat because someone other than the chosen leader interferes with the command; the other is similar in its general meaning, but the expression, "carries corpses in the wagon," is interpreted differently. At burials and at sacrifices to the dead it was customary in China for the deceased to whom the sacrifice was made to be represented by a boy of the family, who sat in the dead man\'s place and was honored as his representative. On the basis of this custom the text is interpreted as meaning that a "corpse boy" is sitting in the wagon, or, in other words, that authority is not being exercised by the proper leaders but has been usurped by others. Perhaps the whole difficulty clears up if it is inferred that there has been an error in copying. The character fan, meaning "all," may have been misread as shih, which means "corpse. " Allowing for this error, the meaning would be that if the multitude assumes leadership of the army (rides in the wagon), misfortune will ensue.';
+' L’esercito conduce cadaveri sul carro. Sciagura.\e
+  Si è perduta la direzione, il tentativo è destinato a fallire. 
+  Biasimo e vittimismo accompagnano la disfatta, vi è un rifiuto, un dissapore, una difficoltà a comprendersi. Muta in 46- Ascendere';
 $book['07']['line4'] = 
 ' Sei al quarto posto significa:
-  The army retreats. No blame. \e
-  In the face of a superior enemy, with whom it would be hopeless to engage in battle, an orderly retreat is the only correct procedure, because it will save the army from defeat and disintegration. It is by no means a sign of courage or strength to insist upon engaging in a hopeless struggle regardless of circumstances.';
+  L’esercito si ritira. Nessuna macchia. \e
+  La situazione non può svilupparsi oltre ed è inutile insistere; ci si sbarazza di un peso che ha inutilmente impegnato le nostre energie. 
+  Rilassarsi e lasciare che sorgano nuove opportunità. Muta in 40 Liberazione';
 $book['07']['line5'] = 
-' Sei al quinto posto significa:
-  There is game in the field. 
-  It furthers one to catch it. 
-  Without blame. 
-  Let the eldest lead the army. 
-  The younger transports corpses;
-  Then perseverance brings misfortune. \e
-  Game is in the field–it has left its usual haunts in the forest and is devastating the fields. This points to an enemy invasion. Energetic combat and punishment are here thoroughly justified, but they must not degenerate into a wild melee in which everyone fends for himself. Despite the greatest degree of perseverance and bravery, this would lead to misfortune. The army must be directed by an experienced leader. It is a matter of waging war, not of permitting the mob to slaughter all who fall into their hands; if they do, defeat will be the result, and despite all perseverance there is danger of misfortune.';
+' Nel campo vi è selvaggina ed è propizio catturarla. Nessuna macchia. 
+  Il più anziano conduca l’esercito. Il meno anziano conduce cadaveri, allora perseveranza reca sciagura. 
+  L’impresa si presenta ricca di opportunità e si conseguono soddisfazioni. 
+  E’ importante in questa situazione che sia il più esperto a guidare e dirigere il da farsi; 
+  se invece si da spazio a chi avventatamente e con la sua inesperienza cerca di dirigere le cose si resta intrappolati in una situazione da cui non sarà facile uscire. Muta in 29 Abissale';
 $book['07']['line6'] = 
 ' Sei sopra significa:
-  The great prince issues commands,
-  Founds states, vests families with fiefs. 
-  Inferior people should not be employed. \e
-  The war has ended successfully, victory is won, and the king divided estates and fiefs among his faithful vassals. But it is important that inferior people should not come into power. If they have helped, let them be paid off with money, but they should not be awarded lands or the privileges of rulers, lest power be abused.';
-
+  Il grande principe emana ordini, fonda stati, infeuda famiglie. Uomini comuni non vanno impiegati.\e
+  Qualcuno con polso fermo pretende disciplina e fedeltà da coloro che gli stanno intorno. 
+  Non è facile essere all’altezza di una persona del genere. Muta in 4 Inesperienza';
 # -------------------------      08       ----------------------- #
 $book['08']['desc'] = 
 ' Esagramma 8: Solidarietà
-  Acqua sulla Terra: si descrive una situazione in cui le persone si avvicinano con reciproco interesse e fiducia, così come la Terra accoglie spontaneamente nelle sue cavità l\'acqua. 
-  La struttura dell\'esagramma rappresenta quattro linee deboli che salgono verso una solare linea yang. Il segno interno del Monte, l\'Arresto, indica un ostacolo o comunque un intoppo. 
-  Unirsi a qualcuno a cui si tiene talvolta non è così semplice: i dubbi, una certa passività, forse stanchezza di provarci causano ritardi nell\' unirsi; oppure ci sono ostacoli esterni. 
-  Tutto questo porta ritardo nell\'unione. La presenza della Terra denota l\'attrazione verso la persona o situazione coinvolte. 
-  L\'Abissale indica che nell\'impresa è connesso il fattore X, sempre fonte di futuri ripensamenti. 
-  Si tende ad unirsi , ma la via è lunga e il tempismo è tutto. 
-  Sapremo superare questi ostacoli e pervenire a una nuova stagione di crescita? Oppure abbiamo perduto l\'occasione, rimandando a causa di ostacoli interni o esterni, il momento dell\'incontro? 
-  L\'oracolo è pronto a dirci se nella lunga corsa ce la faremo e ci invita a un nuovo consulto. 
-  Si racconta che l\'imperatore Yu, a cui allude questo esagramma, regnasse sui vassalli con pugno di ferro: quando un suo capitano arrivò in ritardo alla sua richiesta, Yu lo fece giustiziare. 
-  L’esagramma sottolinea la tempestività nell’agire in una situazione in cui si è solidali con altri al nostro stesso livello ricettivo, e che bisogna essere pronti ad affrontare delle ardue scelte. ';
+  Acqua sulla Terra: si descrive una situazione in cui le persone si avvicinano tra loro, così come la Terra accoglie spontaneamente nelle sue cavità l’acqua. 
+  La struttura dell’esagramma rappresenta quattro linee deboli che salgono verso una solare linea yang. Il segno interno del Monte, l’Arresto, indica un ostacolo o comunque un intoppo. 
+  Unirsi a qualcuno a cui si tiene talvolta non è così semplice: i dubbi, una certa passività, forse stanchezza di provarci causano ritardi nell’ unirsi; oppure ci sono ostacoli esterni. 
+  Tutto questo porta ritardo nell’unione. Sapremo superare questi ostacoli e pervenire a una nuova stagione di crescita? 
+  Oppure abbiamo perduto l’occasione, rimandando a causa di ostacoli interni o esterni, il momento dell’incontro? 
+  L’oracolo è pronto a dirci se nella lunga corsa ce la faremo e ci invita a un nuovo consulto.';
 $book['08']['judge'] = 
-' La solidarietà reca salute. Scruta l’oracolo ancora una volta per sapere se possiedi sublimità durata e perseveranza; allora non vi è macchia. Gli incerti si accostano a poco a poco. Chi arriva tardi ha sciagura.\e
-  Stare con chi ci è simile, per interesse o perchè ci sta a cuore,è sempre positivo. 
-  In questo momento la connessione con altri però ha però bisogno di essere coltivata e portata avanti concretamente e con pazienza, cosa che al momento non è facile. 
-  Dedizione, una lunga relazione con l\'oggetto in questione, pazienza: questi gli ingredienti che servono affinchè l\'unione sia possibile. ';
+' Sentenza La solidarietà reca salute. Scruta l’oracolo ancora una volta per sapere se possiedi sublimità perseveranza e durata; allora non vi è macchia.\e 
+  Gli incerti si accostano a poco a poco. Chi arriva troppo tardi ha sciagura. 
+  Si racconta che l’imperatore Yu, a cui allude questo esagramma, regnasse sui vassalli con pugno di ferro: quando un suo capitano arrivò in ritardo alla sua richiesta, Yu lo fece giustiziare. 
+  L’esagramma sottolinea la tempestività nell’agire in una situazione in cui essere solidali per cercare altri al nostro stesso livello ricettivo è importante e che ci si deve affrettare se si vuole che il ricongiungimento abbia luogo. 
+  Sono richieste disponibilità, pazienza e fedeltà allo scopo. ';
 $book['08']['image'] = 
-' Sulla terra sta l’acqua: l’ immagine della solidarietà. Così gli antichi re hanno concesso i singoli stati come feudi e hanno curato amichevoli rapporti con i principi feudatari.\e
-  L’immagine è una terra da cui sorgono acque: terra e acqua sono sempre insieme e perciò sono solidali. Tutte le linee deboli tendono verso un’unica linea forte, questo Re che a sua volta ricambia la fiducia affidando benefici a chi si avvicina lui. Nel mondo concreto si descrivono rapporti amichevoli tra chi dà e chi riceve.';
+' Immagine Sulla terra sta l’acqua: l’ immagine della solidarietà. Così gli antichi re hanno concesso i singoli stati come feudi e hanno curato amichevoli rapporti con i principi feudatari.\e
+  L’immagine è una terra da cui sorgono acque: terra e acqua sono sempre insieme e perciò sono solidali. 
+  Tutte le linee deboli tendono verso un’unica linea forte, questo Re che a sua volta ricambia la fiducia affidando benefici a chi si avvicina lui.
+  Nel mondo concreto si descrivono rapporti amichevoli tra chi dà e chi riceve, in una situazione in cui ci vengono elargiti benefici da qualcuno dall’alto.';
 $book['08']['line1'] = 
 ' Sei all\'inizio significa:
-  A lui attieniti sincero e fedele: ciò non è macchia. Verità come una terrina colma: così infine viene dall\'esterno salute. \e
-  Si cerca di unirsi anche se la strada è ancora lunga; la buona fede alla fine viene riconosciuta anche da altri e in questo c\'è vantaggio. ';
+  A lui attieniti sincero e fedele: ciò non è macchia. Verità come una terrina colma: così infine viene dall’esterno salute.\e
+  Si cerca di unirsi con qualcuno in cui si può avere fiducia. Egli è in buona fede e può portarci beneficio. Muta in 3- Difficoltà iniziale ';
 $book['08']['line2'] = 
 ' Sei al secondo posto significa:
   Attieniti a lui interiormente. Perseveranza reca salute.\e
   Anche se le circostanze sembrano opporsi, si continua a cercare la via per unirsi. Non scoraggiarsi e armarsi di pazienza. ';
 $book['08']['line3'] = 
 ' Sei al terzo posto significa:
-  Tu sei solidale con persone che non sono quelle adatte. \e
-  Ci si vuole unire a qualcuno che non ha il nostro stesso scopo e interesse: meglio riconoscerlo in tempo, e abbandonare. ';
+  Tu sei solidale con persone che non sono quelle adatte.\e
+  Ci si vuole unire a qualcuno che non ha il nostro stesso scopo e interesse: meglio riconoscerlo in tempo, e abbandonare. Muta in 39- Impedimento ';
 $book['08']['line4'] = 
 ' Sei al quarto posto significa:
-  Anche esteriormente attieniti a lui. Perseveranza reca salute. \e
-  La situazione merita rispetto e fiducia; si devono compiere azioni concrete per esprimere la volontà di raggrupparsi. Tuttavia mentre l\'intenzione deve essere mantenuta in questa direzione, sorgono ancora inconvenienti. In seguito si potranno risolvere. ';
+  Anche esteriormente attieniti a lui. Perseveranza reca salute.\e
+  Si devono compiere azioni concrete per esprimere la volontà di raggrupparsi. 
+  Tuttavia mentre l’intenzione deve essere mantenuta in questa direzione, sorgono ancora inconvenienti. 
+  In seguito si potranno risolvere. Muta in 45- Raccolta';
 $book['08']['line5'] = 
 ' Nove al quinto posto significa:
-  Palesamento della solidarietà. Il re durante la caccia fa battere solo da tre lati e rinuncia alla selvaggina che fugge prima. \e
-  I cittadini non hanno bisogno di essere messi in guardia. Ci si incontra finalmente. Avvertimento: gli antichi imperatori andavano a caccia lasciando sempre una via di scampo agli animali più scaltri e veloci. 
-  Si valuti bene la situazione, vi è l\'incontro ma anche ulteriori problemi. Se si è già molto compromessi, è difficile tirarsi indietro ora. ';
+  Palesamento della solidarietà. Il re durante la caccia fa battere solo da tre lati e rinuncia alla selvaggina che fugge prima.\e 
+  I cittadini non hanno bisogno di essere messi in guardia. 
+  Bisogna farsi avanti apertamente e cercare il contatto. 
+  Avvertimento: gli antichi imperatori andavano a caccia lasciando sempre una via di scampo agli animali più scaltri e veloci.
+  Si valuti bene la situazione, vi è l’incontro ma anche ulteriori problemi. Se si è già molto compromessi, è difficile tirarsi indietro ora. 
+  Muta in 2- Ricettivo ';
 $book['08']['line6'] = 
 ' Sei sopra significa:
-  Egli non trova nessun capo per associarsi. Sciagura. Si è soli e senza guida. L\'occasione per unirsi è perduta, è troppo tardi. ';
+  Egli non trova nessun capo per associarsi. Sciagura. \e
+  Si è soli e senza guida. L’occasione per unirsi è perduta, è troppo tardi. Muta in 20 Contemplazione';
 
 # -------------------------      09       ----------------------- #
 $book['09']['desc'] = 

@@ -245,8 +245,8 @@ $book['06']['desc'] =
   Non si tratta di torti o ragioni, ma di incompatibilità di punti di vista. 
   Quando nasce una divergenza, la maggior parte delle persone che fa? 
   Si arma e cerca di costringere l’altro a reagire, e allora la lite è iniziata e continuerà per sempre. 
-  In questa situazione non bisogna quindi agire con aggressività o volontà di sopraffare. F
-  ar valere le proprie ragioni non serve, quando la natura del rapporto è conflittuale fin dall’inizio: occorre allora adoperarsi di pazienza e continuare per la propria strada, senza curarsi dell’offesa che riteniamo ci sia stata fatta. 
+  In questa situazione non bisogna quindi agire con aggressività o volontà di sopraffare. 
+  Far valere le proprie ragioni non serve, quando la natura del rapporto è conflittuale fin dall’inizio: occorre allora adoperarsi di pazienza e continuare per la propria strada, senza curarsi dell’offesa che riteniamo ci sia stata fatta. 
   Comportatevi come avete fatto finora: restate con quel nulla che avete cercato di immaginare diverso….e rendetevi conto che non potrà mai essere come sperate. 
   Il problema qui è la mancanza di comunicazione: non siete in grado di capirvi l’un l’altro, e in fondo, ciò significa che non vi conoscete l’un l’altro. 
   C’è una grande incomprensione di fondo tra voi. All’inizio del vostro rapporto la distanza tra voi già esisteva, non si è formata nel tempo o in seguito a qualcosa. 

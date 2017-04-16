@@ -391,48 +391,53 @@ $book['07']['line6'] =
 # -------------------------      08       ----------------------- #
 $book['08']['desc'] = 
 ' Esagramma 8: Solidarietà
-  Acqua sulla Terra: si descrive una situazione in cui le persone si avvicinano con reciproco interesse e fiducia, così come la Terra accoglie spontaneamente nelle sue cavità l\'acqua. 
-  La struttura dell\'esagramma rappresenta quattro linee deboli che salgono verso una solare linea yang. Il segno interno del Monte, l\'Arresto, indica un ostacolo o comunque un intoppo. 
-  Unirsi a qualcuno a cui si tiene talvolta non è così semplice: i dubbi, una certa passività, forse stanchezza di provarci causano ritardi nell\' unirsi; oppure ci sono ostacoli esterni. 
-  Tutto questo porta ritardo nell\'unione. La presenza della Terra denota l\'attrazione verso la persona o situazione coinvolte. 
-  L\'Abissale indica che nell\'impresa è connesso il fattore X, sempre fonte di futuri ripensamenti. 
-  Si tende ad unirsi , ma la via è lunga e il tempismo è tutto. 
-  Sapremo superare questi ostacoli e pervenire a una nuova stagione di crescita? Oppure abbiamo perduto l\'occasione, rimandando a causa di ostacoli interni o esterni, il momento dell\'incontro? 
-  L\'oracolo è pronto a dirci se nella lunga corsa ce la faremo e ci invita a un nuovo consulto. 
-  Si racconta che l\'imperatore Yu, a cui allude questo esagramma, regnasse sui vassalli con pugno di ferro: quando un suo capitano arrivò in ritardo alla sua richiesta, Yu lo fece giustiziare. 
-  L’esagramma sottolinea la tempestività nell’agire in una situazione in cui si è solidali con altri al nostro stesso livello ricettivo, e che bisogna essere pronti ad affrontare delle ardue scelte. ';
+  Acqua sulla Terra: si descrive una situazione in cui le persone si avvicinano tra loro, così come la Terra accoglie spontaneamente nelle sue cavità l’acqua. 
+  La struttura dell’esagramma rappresenta quattro linee deboli che salgono verso una solare linea yang. Il segno interno del Monte, l’Arresto, indica un ostacolo o comunque un intoppo. 
+  Unirsi a qualcuno a cui si tiene talvolta non è così semplice: i dubbi, una certa passività, forse stanchezza di provarci causano ritardi nell’ unirsi; oppure ci sono ostacoli esterni. 
+  Tutto questo porta ritardo nell’unione. Sapremo superare questi ostacoli e pervenire a una nuova stagione di crescita? 
+  Oppure abbiamo perduto l’occasione, rimandando a causa di ostacoli interni o esterni, il momento dell’incontro? 
+  L’oracolo è pronto a dirci se nella lunga corsa ce la faremo e ci invita a un nuovo consulto.';
 $book['08']['judge'] = 
-' La solidarietà reca salute. Scruta l’oracolo ancora una volta per sapere se possiedi sublimità durata e perseveranza; allora non vi è macchia. Gli incerti si accostano a poco a poco. Chi arriva tardi ha sciagura.\e
-  Stare con chi ci è simile, per interesse o perchè ci sta a cuore,è sempre positivo. 
-  In questo momento la connessione con altri però ha però bisogno di essere coltivata e portata avanti concretamente e con pazienza, cosa che al momento non è facile. 
-  Dedizione, una lunga relazione con l\'oggetto in questione, pazienza: questi gli ingredienti che servono affinchè l\'unione sia possibile. ';
+' Sentenza La solidarietà reca salute. Scruta l’oracolo ancora una volta per sapere se possiedi sublimità perseveranza e durata; allora non vi è macchia.\e 
+  Gli incerti si accostano a poco a poco. Chi arriva troppo tardi ha sciagura. 
+  Si racconta che l’imperatore Yu, a cui allude questo esagramma, regnasse sui vassalli con pugno di ferro: quando un suo capitano arrivò in ritardo alla sua richiesta, Yu lo fece giustiziare. 
+  L’esagramma sottolinea la tempestività nell’agire in una situazione in cui essere solidali per cercare altri al nostro stesso livello ricettivo è importante e che ci si deve affrettare se si vuole che il ricongiungimento abbia luogo. 
+  Sono richieste disponibilità, pazienza e fedeltà allo scopo. ';
 $book['08']['image'] = 
-' Sulla terra sta l’acqua: l’ immagine della solidarietà. Così gli antichi re hanno concesso i singoli stati come feudi e hanno curato amichevoli rapporti con i principi feudatari.\e
-  L’immagine è una terra da cui sorgono acque: terra e acqua sono sempre insieme e perciò sono solidali. Tutte le linee deboli tendono verso un’unica linea forte, questo Re che a sua volta ricambia la fiducia affidando benefici a chi si avvicina lui. Nel mondo concreto si descrivono rapporti amichevoli tra chi dà e chi riceve.';
+' Immagine Sulla terra sta l’acqua: l’ immagine della solidarietà. Così gli antichi re hanno concesso i singoli stati come feudi e hanno curato amichevoli rapporti con i principi feudatari.\e
+  L’immagine è una terra da cui sorgono acque: terra e acqua sono sempre insieme e perciò sono solidali. 
+  Tutte le linee deboli tendono verso un’unica linea forte, questo Re che a sua volta ricambia la fiducia affidando benefici a chi si avvicina lui.
+  Nel mondo concreto si descrivono rapporti amichevoli tra chi dà e chi riceve, in una situazione in cui ci vengono elargiti benefici da qualcuno dall’alto.';
 $book['08']['line1'] = 
 ' Sei all\'inizio significa:
-  A lui attieniti sincero e fedele: ciò non è macchia. Verità come una terrina colma: così infine viene dall\'esterno salute. \e
-  Si cerca di unirsi anche se la strada è ancora lunga; la buona fede alla fine viene riconosciuta anche da altri e in questo c\'è vantaggio. ';
+  A lui attieniti sincero e fedele: ciò non è macchia. Verità come una terrina colma: così infine viene dall’esterno salute.\e
+  Si cerca di unirsi con qualcuno in cui si può avere fiducia. Egli è in buona fede e può portarci beneficio. Muta in 3- Difficoltà iniziale ';
 $book['08']['line2'] = 
 ' Sei al secondo posto significa:
   Attieniti a lui interiormente. Perseveranza reca salute.\e
   Anche se le circostanze sembrano opporsi, si continua a cercare la via per unirsi. Non scoraggiarsi e armarsi di pazienza. ';
 $book['08']['line3'] = 
 ' Sei al terzo posto significa:
-  Tu sei solidale con persone che non sono quelle adatte. \e
-  Ci si vuole unire a qualcuno che non ha il nostro stesso scopo e interesse: meglio riconoscerlo in tempo, e abbandonare. ';
+  Tu sei solidale con persone che non sono quelle adatte.\e
+  Ci si vuole unire a qualcuno che non ha il nostro stesso scopo e interesse: meglio riconoscerlo in tempo, e abbandonare. Muta in 39- Impedimento ';
 $book['08']['line4'] = 
 ' Sei al quarto posto significa:
-  Anche esteriormente attieniti a lui. Perseveranza reca salute. \e
-  La situazione merita rispetto e fiducia; si devono compiere azioni concrete per esprimere la volontà di raggrupparsi. Tuttavia mentre l\'intenzione deve essere mantenuta in questa direzione, sorgono ancora inconvenienti. In seguito si potranno risolvere. ';
+  Anche esteriormente attieniti a lui. Perseveranza reca salute.\e
+  Si devono compiere azioni concrete per esprimere la volontà di raggrupparsi. 
+  Tuttavia mentre l’intenzione deve essere mantenuta in questa direzione, sorgono ancora inconvenienti. 
+  In seguito si potranno risolvere. Muta in 45- Raccolta';
 $book['08']['line5'] = 
 ' Nove al quinto posto significa:
-  Palesamento della solidarietà. Il re durante la caccia fa battere solo da tre lati e rinuncia alla selvaggina che fugge prima. \e
-  I cittadini non hanno bisogno di essere messi in guardia. Ci si incontra finalmente. Avvertimento: gli antichi imperatori andavano a caccia lasciando sempre una via di scampo agli animali più scaltri e veloci. 
-  Si valuti bene la situazione, vi è l\'incontro ma anche ulteriori problemi. Se si è già molto compromessi, è difficile tirarsi indietro ora. ';
+  Palesamento della solidarietà. Il re durante la caccia fa battere solo da tre lati e rinuncia alla selvaggina che fugge prima.\e 
+  I cittadini non hanno bisogno di essere messi in guardia. 
+  Bisogna farsi avanti apertamente e cercare il contatto. 
+  Avvertimento: gli antichi imperatori andavano a caccia lasciando sempre una via di scampo agli animali più scaltri e veloci.
+  Si valuti bene la situazione, vi è l’incontro ma anche ulteriori problemi. Se si è già molto compromessi, è difficile tirarsi indietro ora. 
+  Muta in 2- Ricettivo ';
 $book['08']['line6'] = 
 ' Sei sopra significa:
-  Egli non trova nessun capo per associarsi. Sciagura. Si è soli e senza guida. L\'occasione per unirsi è perduta, è troppo tardi. ';
+  Egli non trova nessun capo per associarsi. Sciagura. \e
+  Si è soli e senza guida. L’occasione per unirsi è perduta, è troppo tardi. Muta in 20 Contemplazione';
 
 # -------------------------      09       ----------------------- #
 $book['09']['desc'] = 

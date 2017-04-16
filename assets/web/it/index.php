@@ -151,68 +151,50 @@ $book['03']['line6'] =
 # -------------------------      04       ----------------------- #
 $book['04']['desc'] = 
 ' Esagramma 4 – L’Apprendistato.
-  Stoltezza giovanile ha riuscita. Non sono  io a cercare  il giovane stolto, il giovane stolto cerca me. Consultato una prima volta, io rispondo. Se egli consulta due, tre volte è importuno. Se egli importuna, non rispondo.Propizia è perseveranza.\e
-  Un monte che ha davanti a sé un abisso contenente acqua.
-  La risposta alla domanda è che prima di arrivare a un qualche risultato  è indispensabile  apprendere a superare l’abisso, cioè un errore di fondo, un impedimento, contro cui ci si blocca, ansiosi di ottenere che  il nostro desiderio si realizzi, perdendo di vista invece le lezioni dell’esperienza. Che cosa si è imparato, fin qui? Quale è la lezione che si doveva imparare e che è stata trascurata? A volte nel tentativo di mantenere speranze in vita, gli ostacoli e difficoltà vengono ignorati e messi da parte, con ingenua e un po’ sciocca noncuranza; ma è proprio con quegli avvertimenti che la vita ci impartisce le sue lezioni. Il bambino impara che ci sono frustrazioni e così  ad adattarsi al mondo; e  da adulti impariamo, dalle situazioni che si presentano, a distinguere tra quelle percorribili e quelle da scartare, per ora. Quando non si è capaci di distinguere tra impossibilità e possibilità stiamo solo fantasticando, in una insormontabile frattura tra ciò che vogliamo e ciò che è realizzabile concretamente. Le fantasie, cariche di potenziale creativo, sono scollegate dal  nostro modo di agire; e così, in preda a infantili speranze, spesso compiamo errori madornali, per poi continuare a chiederci perché non riusciamo a realizzare quello che desideriamo. In questa situazione o chiediamo consiglio a una guida sicura o apriamo gli occhi per vedere lo stato delle cose.  Quando chiediamo a qualcun altro di aiutarci a risolvere un problema,  e ci dica come fare e cosa fare,  ci avviciniamo a chi ci consiglia con umiltà e desiderio di imparare: così vi è scambio, apertura e costruzione di qualcosa di nuovo. Ma quando  agiamo seguendo l’impulso invece che secondo ciò che ci consiglia qualcun altro, insomma ci mettiamo in gioco, la situazione può sembrare incerta e carica di pericoli.   Ma poiché, a tutti gli effetti, imparare dagli errori è il solo modo per imparare alcunché, forse è arrivato il momento di assumersi la responsabilità anche di fallire. Questo è un tempo di errori e di apprendimento attraverso gli errori. Ma gli errori si pagano, e duramente, se restano semplici impedimenti e non maestri di vita.
-  Bussiamo alle porte del futuro agli ordini di speranze e timori, e poi ci meravigliamo che le porte non si aprano: questo è il segno dell’ inesperienza, della stoltezza, ma anche di una certa innocenza. E per fortuna il senso dell’esagramma si concentra sulla qualità dell’innocenza, della nostra mancanza di visione e sull’apprendistato necessario per acquisirla. Mete lontane come vette inaccessibili e vergini sono fantasie che ci distraggono dal presente; e difficilmente si può creare qualcosa di durevole se non impariamo mai nulla dal passato. Quando la vita ci impartisce lezioni, più volte, e noi ignoriamo la lezione, più volte, l’innocenza diventa  stoltezza giovanile, e di conseguenza la porta resta ancora chiusa davanti a noi.
-  Assumiamoci la responsabilità di prendere decisioni, mettiamoci veramente in gioco; smettiamo di chiedere su future realizzazioni  – per concentrarci su quello che onestamente sappiamo  e possiamo fare e abbiamo a disposizione ora. Temere e non fidarsi di se stessi , come atteggiamento di vita, ci rende privi della qualità fondamentale per riuscire in qualunque impresa: imparare dall’esperienza, dalla nostra personale  Storia, fatta di cadute e delusioni ma anche di risalite e passione; è questo il maestro a cui chiedere una guida. Ma quando non vogliamo o sappiamo farlo, non ci resta, come bambini sperduti, che cercare sostegni e aiuti esterni e procedere. Se infatti nonostante i ripetuti insuccessi si continuano a commettere gli stessi errori, a causa dell’ incapacità di imparare,  allora bisogna  modificare qualcosa e adottare un comportamento diverso; anche se in tempi di crisi, per una persona indebolita dai colpi della vita, è difficile seguire strade scomode che  conducano al nuovo. Ma imparare è spesso scomodo e difficile, soprattutto se si pensa di aver già capito tutto.
-  Parole chiave:   Incoscienza. Bisogna imparare dall’esperienza e non insistere in atteggiamenti fatui. Assumersi la responsabilità di andare avanti sapendo già che le  cadute, se ci saranno, insegneranno a chiarire meglio gli obiettivi. Chi non ha obiettivi chiari e non si assume responsabilità non sarà mai maestro, soltanto uno che vaga in preda a speranze e timori.
+  Acqua o un pericoloso abisso, sotto il Monte. Una sorgente che sgorga da ciò che è fermo, mentre i trigrammi interni Tuono e Terra indicano varie esperienze scioccanti ma passeggere che ci vengono incontro. 
+  E’ un momento in cui c’è pericolo e bisogna arrestarsi. 
+  La vita ci impartisce lezioni che dobbiamo imparare a superare, lasciandoci alle spalle i passati errori. 
 ';
 $book['04']['judge'] = 
-' YOUTHFUL FOLLY has success.
-  It is not I who seek the young fool;
-  The young fool seeks me.
-  At the first oracle I inform him.
-  If he asks two or three times, it is importunity.
-  If he importunes, I give him no information.
-  Perseverance furthers.\e
-  In the time of youth, folly is not an evil. One may succeed in spite of it, provided one finds an experienced teacher and has the right attitude toward him. This means, first of all, that the youth himself must be conscious of his lack of experience and must seek out the teacher. Without this modesty and this interest there is no guarantee that he has the necessary receptivity, which should express itself in respectful acceptance of the teacher. This is the reason why the teacher must wait to be sought out instead of offering himself. Only thus can the instruction take place at the right time and in the right way.
-  A teacher\'s answer to the question of a pupil ought to be clear and definite like that expected from an oracle; thereupon it ought to be accepted as a key for resolution of doubts and a basis for decision. If mistrustful or unintelligent questioning is kept up, it serves only to annoy the teacher. He does well to ignore it in silence, just as the oracle gives one answer only and refuses to be tempted by questions implying doubt.
-  Given addition a perseverance that never slackens until the points are mastered one by one, real success is sure to follow. Thus the hexagram counsels the teacher as well as the pupil.';
+' Stoltezza giovanile ha riuscita. Non sono io a cercare il giovane stolto, il giovane stolto cerca me. Consultato una prima volta, io rispondo. Se egli consulta due, tre volte è importuno. Se egli importuna, non rispondo. Propizia è perseveranza.\e
+  Errori su errori si compiono prima di diventare adulti e maturi. La stupidità, o l’ingenuità alla fine si trasformano in saggezza e discernimento.
+  Si impara infine una lezione che da tempo dovevamo già sapere bene. Ma noi, come bambini inesperti abbiamo sbagliato più volte, e chiesto più volte la stessa cosa all’oracolo. 
+  Non è più tempo di chiedere, ma di agire di conseguenza e di apprendere la lezione che finora abbiamo mancato di capire. Bisogna insistere in questa direzione. ';
 $book['04']['image'] = 
-' A spring wells up at the foot of the mountain:
-  The image of YOUTH.
-  Thus the superior man fosters his character
-  By thoroughness in all that he does.\e
-  A spring succeeds in flowing on and escapes stagnation by filling up all the hollow places in its path. In the same way character is developed by thoroughness that skips nothing but, like water, gradually and steadily fills up all gaps and so flows onward.';
+' Ai piedi del monte sgorga una fonte: l’immagine della giovinezza. Così il nobile alimenta il suo carattere agendo con cura e ponderatezza. \e
+  Prima di diventare un fiume adulto c’è la sorgente che, nel suo percorso, incontra esperienze che la fanno crescere. 
+  Per crescere bisogna agire con discernimento e scegliere bene il percorso, senza riprendere in considerazione vecchi dubbi ma guardando avanti. ';
 $book['04']['line1'] = 
 ' Sei all\'inizio significa:
-  To make a fool develop
-  It furthers one to apply discipline. 
-  The fetters should be removed. 
-  To go on in this way bring humiliation. \e
-  Law is the beginning of education. Youth in its inexperience is inclined at first to take everything carelessly and playfully. It must be shown the seriousness of life. A certain measure of taking oneself in hand, brought about by strict discipline, is a good thing. He who plays with life never amounts to anything. However, discipline should not degenerate into drill. Continuous drill has a humiliating effect and cripples a man\'s powers.';
+ Per far progredire lo stolto è propizio mettere l’uomo sotto disciplina. Bisogna togliere i vincoli. Continuare così reca umiliazione. \e
+ Dato che la lezione finora non è stata appresa, nonostante i chiari segni, sono in arrivo duri colpi. 
+ Senza mezzi termini bisogna allontanarsi da un legame che ci avvince, ma che non riesce a farci progredire. 
+ Continuare un tale legame, comportandosi come chi ancora non capisce è soltanto umiliante per noi. Muta in 41- Diminuzione ';
 $book['04']['line2'] = 
 ' Nove al secondo posto significa:
-  To bear with fools in kindliness brings good fortune. 
-  To know how to take women
-  Brings good fortune. 
-  The son is capable of taking charge of the household. \e
-  These lines picture a man who has no external power, but who has enough strength of mind to bear his burden of responsibility. He has the inner superiority and that enable him to tolerate with kindliness the shortcomings of human folly. The same attitude is owed to women as the weaker sex. One must understand them and give them recognition in a spirit of chivalrous consideration. Only this combination of inner strength with outer reserve enables one to take on the responsibility of directing a larger social body with real success.';
+  Sopportare gli stolti in mitezza reca salute. Saper prendere le donne reca salute. Il figlio è all’altezza delle cure domestiche. \e
+  Anche quando le situazioni sono stancanti e le persone sembrano non capirci, è meglio sopportare. 
+  Ti stai dedicando a qualcosa che ti impegna molto, e senti di non farcela. Ma resisti, a lungo termine ne sarai ripagato. 
+  Delle donne o comunque persone indebolite dalla vita guardano a te con fiducia. Stai svolgendo bene il tuo compito. Muta in 23- Frantumazione ';
 $book['04']['line3'] = 
 ' Sei al terzo posto significa:
-  Take not a maiden who, when she sees a man of bronze,
-  Loses possession of herself. 
-  Nothing furthers. \e
-  A weak, inexperienced man, struggling to rise, easily loses his own individuality when he slavishly imitates a strong personality of higher station. He is like a girl throwing herself away when she meets a strong man. Such a servile approach should not be encouraged, because it is bad both for the youth and the teacher. A girl owes it to her dignity to wait until she is wooed. In both cases it is undignified to offer oneself, and no good comes of accepting such an offer.';
+  Non prenderai una ragazza che vede un uomo di bronzo e non rimane in possesso di se stessa. Nulla è propizio.\e
+  Una donna mostra apertamente o ostenta i suoi sentimenti.
+  Dall’altra parte c’è un uomo inflessibile che non gradisce le sue attenzioni e non le corrisponde. Muta in 18- Emendamento delle cose guaste. ';
 $book['04']['line4'] = 
 ' Sei al quarto posto significa:
-  Entangled folly bring humiliation. \e
-  For youthful folly it is the most hopeless thing to entangle itself in empty imaginings. The more obstinately it clings to such unreal fantasies, the more certainly will humiliation overtake it.
-  Often the teacher, when confronted with such entangled folly, has no other course but to leave the fool to himself for a time, not sparing him the humiliation that results. This is frequently the only means of rescue.';
+  Stoltezza di mente ristretta reca umiliazione. \e
+  Avvolti nel proprio compiacimento, si perde di vista la realtà; non riuscite ad avere il quadro generale della situazione e vi state appigliando a particolari futili. 
+  Muta in 64- Prima del Compimento ';
 $book['04']['line5'] = 
 ' Sei al quinto posto significa:
-  Childlike folly brings good fortune. \e
-  An inexperienced person who seeks instruction in a childlike and unassuming way is on the right path, for the man devoid of arrogance who subordinated himself to his teacher will certainly be helped.';
+  Stoltezza fanciullesca reca salute.\e
+  Anche se la situazione è incerta si è cortesi nelle parole e desiderosi di ascoltare gli altri. Così vi saranno sviluppi positivi. Muta in 59- Dispersione. ';
 $book['04']['line6'] = 
-' Nine at the top means:
-  In punishing folly
-  It does not further one
-  To commit transgressions. 
-  The only thing that furthers 
-  Is to prevent transgressions. \e
-  Sometimes an incorrigible fool must be punished. He who will not heed will be made to feel. This punishment is quite different from a preliminary shaking up. But the penalty should not be imposed in anger; it must be restricted to an objective guarding against unjustified excesses. Punishment is never an end in itself but serves merely to restore order.
-  This applies not only in regard to education but also in regard to the measures taken by a government against a populace guilty of transgressions. Governmental interference should always be merely preventive and should have as its sole aim the establishment of public security and peace.';
+' Nove sopra significa:
+ Quando si punisce la stoltezza non è propizio commettere prevaricazioni. Propizio è soltanto difendersi dalle prevaricazioni.\e
+ La nostra stoltezza è dovuta all’ingenuità non alla cattiveria o una nostra colpa. Così, non siate duri contro voi stessi.
+ Siate duri invece con chi vi spinge a sbagliare di nuovo, dall’esterno. Muta in 7- Esercito ';
 
 # -------------------------      05       ----------------------- #
 $book['05']['desc'] = 
@@ -328,7 +310,7 @@ $book['06']['line5'] =
   Brings supreme good fortune. \e
   This refers to an arbiter in a conflict who is powerful and just, and strong enough to lend weight to the right side. A dispute can be turned over to him with confidence. If one is in the right, one attains great good fortune.';
 $book['06']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Even if by chance a leather belt is bestowed on one,
   By the end of a morning
   It will have been snatched away three times. \e
@@ -482,7 +464,7 @@ $book['09']['line5'] =
   You are rich in your neighbor. \e
   Loyalty leads to firm ties because it means that each partner complements the other. In the weaker person loyalty consists in devotion, in the stronger it consists in trustworthiness. This relation of mutual reinforcement leads to a true wealth that is all the more apparent because it is not selfishly hoarded but is shared with friends. Pleasure shared is pleasure doubled.';
 $book['09']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The rain comes, there is rest. 
   This is due to the lasting effect of character. 
   Perseverance brings the woman into danger. 
@@ -544,7 +526,7 @@ $book['10']['line5'] =
   Perseverance with awareness of danger. \e
   This refers to the ruler of the hexagram as a whole. One sees that one has to be resolute in conduct. But at the same time one must remain conscious of the danger connected with such resoluteness, especially if it is to be persevered in. Only awareness of the danger makes success possible.';
 $book['10']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Look to your conduct and weigh the favorable signs. 
   When everything is fulfilled, supreme good fortune comes. \e
   The work is ended. If we want to know whether good fortune will follow, we must look back upon our conduct and its consequences. If the effects are good, then good fortune is certain. No one knows himself. It is only by the consequences of his actions, by the fruit of his labors, that a man can judge what he is to expect.';
@@ -663,12 +645,12 @@ $book['12']['line5'] =
   The time undergoes a change. The right man, able to restore order, has arrived. Hence "good fortune. " But such periods of transition are the very times in which we must fear and tremble. Success is assured only through greatest caution, which asks always, "What if it should fail?" When a mulberry bush is cut down, a number of unusually strong shoots sprout from the roots. Hence the image of tying something to a cluster of mulberry shoots is used to symbolize the way of making success certain. Confucius says about this line:
   Danger arises when a man feels secure in his position. Destruction threatens when a man seeks to preserve his worldly estate. Confusion develops when a man has put everything in order. Therefore the superior man does not forget danger in his security, not ruin when he is well established, nor confusion when his affairs are in order. In this way he gains personal safety and is able to protect the empire.';
 $book['12']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The standstill comes to an end. 
   First standstill, then good fortune. \e
   The standstill does not last forever. However, it does not cease of its own accord; the right man is needed to end it. This is the difference between a state of peace and a state of stagnation. Continuous effort is necessary to maintain peace: left to itself it would change into stagnation and disintegration. The time of disintegration, however, does not change back automatically to a condition of peace and prosperity; effort must be put forth in order to end it. This shows the creative attitude that man must take if the world is to be put in order.';
 $book['12']['line-3'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The standstill comes to an end. 
   First standstill, then good fortune. \e
   The standstill does not last forever. However, it does not cease of its own accord; the right man is needed to end it. This is the difference between a state of peace and a state of stagnation. Continuous effort is necessary to maintain peace: left to itself it would change into stagnation and disintegration. The time of disintegration, however, does not change back automatically to a condition of peace and prosperity; effort must be put forth in order to end it. This shows the creative attitude that man must take if the world is to be put in order.';
@@ -986,7 +968,7 @@ $book['18']['line5'] =
   One meets with praise. \e
   An individual is confronted with corruption originating from neglect in former times. He lacks the power to ward it off alone, but with able helpers he can at least bring about a thorough reform, if he cannot create a new beginning, and this also is praiseworthy.';
 $book['18']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He does not serve kings and princes,
   Sets himself higher goals. \e
   Not every man has an obligation to mingle in the affairs of the world. There are some who are developed to such a degree that they are justified in letting the world go its own way and refusing to enter public life with a view to reforming it. But this does not imply a right to remain idle or to sit back and merely criticize. Such withdrawal is justified only when we strive to realize in ourselves the higher aims of mankind. For although the sage remains distant from the turmoil of daily life, he creates incomparable human values for the future.';
@@ -1147,7 +1129,7 @@ $book['21']['line5'] =
   No blame. \e
   The case to be decided is indeed not easy but perfectly clear. Since we naturally incline to leniency, we must make every effort to be like yellow gold–that is, as true as gold and as impartial as yellow, the color of the middle [the mean]. It is only by remaining conscious of the dangers growing out of the responsibility we have assumed that we can avoid making mistakes.';
 $book['21']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   His neck is fastened in the wooden cangue,
   So that his ears disappear. 
   Misfortune. \e
@@ -1198,7 +1180,7 @@ $book['22']['line5'] =
   Humiliation, but in the end good fortune. \e
   A man withdraws from contact with people of the lowlands, who seek nothing but magnificence and luxury, into the solitude of the heights. There he finds an individual to look up to, whom he would like to have as a friend. But the gifts he has to offer are poor and few, so that he feels ashamed. However, it is not the material gifts that count, but sincerity of feeling, and so all goes well in the end.';
 $book['22']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Simple grace. No blame. \e
   Here at the highest stage of development all ornament is discarded. Form no longer conceals content but brings out its value to the full. Perfect grace consists not in exterior ornamentation of the substance, but in the simple fitness of its form.';
 
@@ -1247,7 +1229,7 @@ $book['23']['line5'] =
   Everything acts to further. \e
   Here, in immediate proximity to the strong, light-giving principle at the top, the nature of the dark force undergoes a change. It no longer opposes the strong principle by means of intrigues but submits to its guidance. Indeed, as the head of the other weak lines, it leads all of these to the strong line, just as a princess leads her maids-in-waiting like a shoal of fishes to her husband and thus gains his favor. Inasmuch as the lower element thus voluntarily places itself under the higher, it attains happiness and the higher also receives its due. Therefore all goes well.';
 $book['23']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   There is a large fruit still uneaten. 
   The superior man receives a carriage. 
   The house of the inferior man is split apart. \e
@@ -1360,7 +1342,7 @@ $book['25']['line5'] =
   It will pass of itself. \e
   An unexpected evil may come accidentally from without. If it does not originate in one\'s own nature or have a foothold there, one should not resort to external means to eradicate it, but should quietly let nature take its course. Then improvement will come of itself.';
 $book['25']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Innocent action brings misfortune. 
   Nothing furthers. \e
   When, in a given situation, the time is not ripe for further progress, the best thing to do is to wait quietly, without ulterior designs. If one acts thoughtlessly and tries to push ahead in opposition to fate, success will not be achieved.';
@@ -1412,7 +1394,7 @@ $book['26']['line5'] =
   Good fortune. \e
   Here the restraining of the impetuous forward drive is achieved in an indirect way. A boar\'s tusk is in itself dangerous, but if the boar\'s nature is altered, the tusk is no longer a menace. Thus also where men are concerned, wild force should not be combated directly; instead, its roots should be eradicated.';
 $book['26']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   One attains the way of heaven. 
   Success. \e
   The time of obstruction is past. The energy long dammed up by inhibition forces its way out and achieves great success. This refers to a man who is honored by the ruler and whose principles now prevail and shape the world.';
@@ -1473,7 +1455,7 @@ $book['27']['line5'] =
   One should not cross the great water. \e
   A man may be conscious of a deficiency in himself. He should be undertaking the nourishment of the people, but he has not the strength to do it. Thus he must turn from his accustomed path and beg counsel and help from a man who is spiritually his superior but undistinguished outwardly. If he maintains this attitude of mind perseveringly, success and good fortune are his. But he must remain aware of his dependence. He must not put his own person forward nor attempt great labors, such as crossing the great water.';
 $book['27']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The source of nourishment. 
   Awareness of danger brings good fortune. 
   It furthers one to cross the great water. \e
@@ -1776,7 +1758,7 @@ $book['33']['line5'] =
   Friendly retreat. Perseverance brings good fortune. \e
   It is the business of the superior man to recognize in time that the moment for retreat has come. If the right moment is chosen, the retreat can be carried out within the forms of perfect friendliness, without the necessity of disagreeable discussions. Yet, for all the observance of amenities, absolute firmness of decision is necessary if one is not to be led astray by irrelevant considerations.';
 $book['33']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Cheerful retreat. Everything serves to further. \e
   The situation is unequivocal. Inner detachment has become an established fact, and we are at liberty to depart. When one sees the way ahead thus clearly, free of all doubt, a cheerful mood sets in, and one chooses what is right without further thought. Such a clear path ahead always leads to the good.';
 
@@ -1882,7 +1864,7 @@ $book['35']['line5'] =
   Everything serves to further. \e
   The situation described here is that of one who, finding himself in an influential position in a time of progress, remains gentle and reserved. He might reproach himself for lack of energy in making the most of the propitiousness of the time and obtaining all possible advantage. However, this regret passes away. He must not take either loss or gain to heart; they are minor considerations. What matters much more is the fact that in this way he has assured himself of opportunities for successful and beneficent influence.';
 $book['35']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Making progress with the horns is permissible
   Only for the purpose of punishing one\'s own city. 
   To be conscious of danger brings good fortune. 
@@ -1995,7 +1977,7 @@ $book['37']['line5'] =
   Good fortune. \e
   A king is the symbol of a fatherly man who is richly endowed in mind. He does nothing to make himself feared; on the contrary, the whole family can trust him, because love governs their intercourse. His character of itself exercises the right influence.';
 $book['37']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   His work commands respect. 
   In the end good fortune comes. \e
   In the last analysis, order within the family depends on the character of the master of the house. If he cultivates his personality so that it works impressively through the force of inner truth, all goes well with the family. In a ruling position one must of his own accord assume responsibility.';
@@ -2051,7 +2033,7 @@ $book['38']['line5'] =
   How could it be a mistake? \e
   Coming upon a sincere man, one fails to recognize him at first because of the general estrangement. However, he bites his way through the wrappings that are causing the separation. When such a companion thus reveals himself in his true character, it is one\'s duty to go to meet him and to work with him.';
 $book['38']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Isolated through opposition,
   One sees one\'s companion as a pig covered with dirt,
   As a wagon full of devils. 
@@ -2249,7 +2231,7 @@ $book['42']['line5'] =
   Truly, kindness will be recognized as your virtue. \e
   True kindness does not count upon nor ask about merit and gratitude but acts from inner necessity. And such a truly kind heart finds itself rewarded in being recognized, and thus the beneficent influence will spread unhindered.';
 $book['42']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He brings increase to no one. 
   Indeed, someone even strikes him. 
   He does not keep his heart constantly steady. 
@@ -2336,7 +2318,7 @@ $book['44']['line5'] =
   Then it drops down to one from heave. \e
   The melon, like the fish, is a symbol of the principle of darkness. It is sweet but spoils easily and for this reason is protected with a cover of willow leaves. This is a situation in which a strong, superior, well-poised man tolerates and protects the inferiors in his charge. He has the firm lines of order and beauty within himself but he does not lay stress upon them. He does not bother his subordinates with outward show or tiresome admonitions but leaves them quite free, putting his trust in the transforming power of a strong and upright personality. And behold! Fate is favorable. His inferiors respond to his influence and fall to his disposition like ripe fruit.';
 $book['44']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He comes to meet with his horns. 
   Humiliation. No blame. \e
   When a man has withdrawn from the world, its tumult often becomes unbearable to him. There are many people who in a noble pride hold themselves aloof from all that is low and rebuff it brusquely wherever it comes to meet them. Such persons are reproached for being proud and distant, but since active duties no longer hold them to the world, this does not greatly matter. They know how to bear the dislike of the masses with composure.';
@@ -2664,7 +2646,7 @@ $book['50']['line5'] =
   Perseverance furthers. \e
   Here we have, in a ruling position, a man who is approachable and modest in nature. As a result of this attitude he succeeds in finding strong and able helpers who complement and aid him in his work. Having achieved this attitude, which requires constant self-abnegation, it is important for him to hold to it and not to let himself be led astray.';
 $book['50']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The ting has rings of jade. 
   Great good fortune. 
   Nothing that would not act to further. \e
@@ -2846,7 +2828,7 @@ $book['53']['line5'] =
   Good fortune. \e
   The summit is a high place. In a high position one easily becomes isolated. One is misjudged by the very person on whom one is dependent–the woman by her husband, the official by his superior. This is the work of deceitful persons who have wormed their way in. The result is that relationships remain sterile, and nothing is accomplished. But in the course of further development, such misunderstandings are cleared away, and reconciliation is achieved after all.';
 $book['53']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The wild goose gradually draws near the clouds heights. 
   Its feathers can be used for the sacred dance. 
   Good fortune. \e
@@ -3027,7 +3009,7 @@ $book['56']['line5'] =
   Traveling statesman were in the habit of introducing themselves to local princes with the gift of a pheasant. Here the wanderer wants to enter the service of a prince. To this end he shoots a pheasant, killing it at the first shot. Thus he finds friends who praise and recommend him, and in the end the prince accepts him and confers an office upon him.
   Circumstances often cause a man to seek a home in foreign parts. If he knows how to meet the situation and how to introduce himself in the right way, he may find a circle of friends and a sphere of activity even in a strange country.';
 $book['56']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   The bird\'s nest burns up. 
   The wanderer laughs at first,
   Then must needs lament and weep. 
@@ -3086,7 +3068,7 @@ $book['57']['line5'] =
   Good fortune. \e
   In the situation described in Ku, WORK ON WHAT HAS BEEN SPOILED (18), an entirely new point of departure must be set up, whereas here it is only a question of reforms. The beginning has not been good, but the moment has been reached when a new direction can be taken. Change and improvement are called for. Such steps must be undertaken with steadfastness, that is, with a firm and correct attitude of mind; then they will succeed, and remorse will disappear. But it must be remembered that such improvements require careful consideration. Before a change is made, it must be pondered over again and again. After the change is made, it is necessary to note carefully for some time after how the improvements bear the test of actuality. Such careful work is accompanied by good fortune.';
 $book['57']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Penetration under the bed. 
   He loses his property and his ax. 
   Perseverance brings misfortune. \e
@@ -3184,7 +3166,7 @@ $book['59']['line5'] =
   Dissolution! A king abides without blame. \e
   In times of general dispersion and separation, a great idea provides a focal point for the organization of recovery. Just as an illness reaches its crisis in a dissolving sweat, so a great stimulating idea is a true salvation in times of general deadlock. It gives the people a rallying point–a man in a ruling position who can dispel misunderstandings.';
 $book['59']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   He dissolves his blood. 
   Departing, keeping at a distance, going out,
   Is without blame. \e
@@ -3291,7 +3273,7 @@ $book['61']['line5'] =
   No blame. \e
   This describes the ruler who holds all elements together by the power of his personality. Only when the strength of his character is so ample that he can influence all who are subject to him, is he as he needs to be. The power of suggestion must emanate from the ruler. It will firmly knit together and unite all his adherents. Without this central force, all external unity is only deception and breaks down at the decisive moment.';
 $book['61']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   Cockcrow penetrating to heaven. 
   Perseverance brings misfortune. \e
   The cock is dependable. It crows at dawn. But it cannot itself fly to heaven. It just crows. A man may count on mere words to awaken faith. This may succeed now and then, but if persisted in, it will have bad consequences.';
@@ -3465,7 +3447,7 @@ $book['64']['line5'] =
   Good fortune. \e
   The victory has been won. The power of steadfastness has not been routed. Everything has gone well. All misgivings have been overcome. Success has justified the deed. The light of a superior personality shines forth anew and makes its influence felt among men who have faith in it and rally around it. The new time has arrived, and with it good fortune. And just as the sun shines forth in redoubled beauty after rain, or as a forest grows more freshly green from charred ruins after a fire, so the new era appears all the more glorious by contrast with the misery of the old.';
 $book['64']['line6'] = 
-' Nine at the top means:
+' Nove sopra significa:
   There is drinking of wine
   In genuine confidence. No blame. 
   But if one wets his head,

@@ -89,38 +89,31 @@ $book['02']['image'] =
   Carries the outer world.\e
   Just as there is only one heaven, so too there is only one earth. In the hexagram of heaven the doubling of the trigram implies duration in time, but in the hexagram of earth the doubling connotes the solidity and extension in space by virtue of which the earth is able to carry and preserve all things that live and move upon it. The earth in its devotion carries all things, good and evil,, without exception. In the same way the superior man gives to his character breadth, purity, and sustaining power, so that he is able both to support and to bear with people and things.';
 $book['02']['line1'] = 
-' Six at the beginning means:
-  When there is hoarfrost underfoot,
-  Solid ice is not far off. \e
-  Just as the light-giving power represents life, so the dark power, the shadowy, represents death. When the first hoarfrost comes in the autumn, the power of darkness and cold is just at its beginning. After these first warnings, signs of death will gradually multiply, until, in obedience to immutable laws, stark winter with its ice is here.
-  In life it is the same. After certain scarcely noticeable signs of decay have appeared, they go on increasing until final dissolution comes. But in life precautions can be taken by heeding the first signs of decay and checking them in time.';
+' Sei all\'inizio significa:
+  Se non si perpetua la cosa, avviene un piccolo battibecco. Alla fine viene salute. \e
+  Esiste un limite entro il quale si può trovare un certo equilibrio; spingersi oltre equivale a rompere quell’equilibrio, in vostro sfavore. Muta in 10 Procedere';
 $book['02']['line2'] = 
-' Six in the second place means:
-  Straight, square, great. 
-  Without purpose,
-  Yet nothing remains unfurthered. \e
-  The symbol of heaven is the circle, and that of earth is the square. Thus squareness is a primary quality of the earth. On the other hand, movement in a straight line, as well as magnitude, is a primary quality of the Creative. But all square things have their origin in a straight line and into turn form solid bodies. In mathematics, when we discriminate between lines, planes and solids, we find that rectangular planes result from straight lines, and cubic magnitudes from rectangular planes. The Receptive accommodates itself to the qualities of the Creative and makes them its own. Thus a square develops out of a straight line and a cube out of a square. This is compliance with the laws of the Creative; nothing is taken away, nothing added. Therefore the Receptive has no need of a special purpose of its own, nor of any effort\' yet everything turns out as it should.
-  Nature creates all beings without erring: this is its foursquareness. It tolerates all creatures equally: this is its greatness. Therefore it attains what is right for all without artifice or special intentions. Man achieves the height of wisdom when all that he does is as self-evident as what nature does.';
+' Sei al secondo posto significa:
+  Non si può litigare, si rincasa per altra via. La gente della propria città, trecento casate, rimane esente da colpa. \e
+  Non esasperare il conflitto, che è irrisolvibile, ma aggirarlo e cambiare strada. In questo modo si preserva ciò che ci sta a cuore e chi ci sta vicino. Muta in 12 Ristagno';
 $book['02']['line3'] = 
-' Six in the third place means:
-  Hidden lines. 
-  One is able to remain persevering. 
-  If by chance you are in the service of a king,
-  Seek not works, but bring to completion. \e
-  If a man is free of vanity he is able to conceal his abilities and keep them from attracting attention too soon; thus he can mature undisturbed. If conditions demand it, he can also enter public life, but that too he does with restraint. The wise man gladly leaves fame to others. He does not seek to have credited to himself things that stand accomplished, but hopes to release active forces; that is, he completes his works in such a manner that they may bear fruit for the future.';
+' Sei al terzo posto significa:
+  Nutrirsi di antica virtù dà perseveranza. Pericolo, alla fine viene salute. Se sei al servizio di un re non ricercare opere.\e
+  Capire che non si otterrà niente comporta accettazione dello stato attuale delle cose.
+  Mantenete la calma senza eccitare conseguenze, anche se la situazione sembra dura: ricordarsi di ciò che c’è stato di buono aiuta a superare il momento. 
+  Non superate i limiti che vi competono. Muta in 44 Farsi incontro';
 $book['02']['line4'] = 
-' Six in the fourth place means:
-  A tied-up sack. No blame, no praise. \e
-  The dark element opens when it moves and closes when at rest. The strictest reticence is indicated here. The time is dangerous, because any degree of prominence leads either to the enmity of irresistible antagonists if one challenges them or to misconceived recognition if one is complaisant. Therefore a man ought to maintain reserve, be it in solitude or in the turmoil of the world, for there too he can hide himself so well that no one knows him.';
+' Sei al quarto posto significa:
+  Non si può litigare, si torna indietro e ci si arrende alla sorte, si cambia e si trova pace nella perseveranza. Salute!\e 
+  Non insistete nel vostro punto di vista, dimenticate le cause di contrasti e continuate a conservare la fiducia. Accettate le differenze e prendetene atto, andate per la vostra strada senza esasperare il dissidio. Muta in 59 Dispersione';
 $book['02']['line5'] = 
-' Six in the fifth place means:
-  A yellow lower garment brings supreme good fortune. \e
-  Yellow is the color of the earth and of the middle; it is the symbol of that which is reliable and genuine. The lower garment is inconspicuously decorated–the symbol of aristocratic reserve. When anyone is called upon to work in a prominent but not independent position, true success depends on the utmost discretion. A man\'s genuineness and refinement should not reveal themselves directly; they should express themselves only indirectly as an effect from within.';
+' Sei al quinto posto significa:
+  Litigare davanti a lui reca sublime salute. Bisogna portare la questione davanti a un giudice imparziale.\e
+  Chiarite la vostra posizione, fate valere le vostre ragioni, ma accogliete anche nuove posizioni e tutto andrà bene. Muta in 64 Prima del compimento';
 $book['02']['line6'] = 
-' Six at the top means:
-  Dragons fight in the meadow. 
-  Their blood is black and yellow. \e
-  In the top place the dark element should yield to the light. If it attempts to maintain a position to which it is not entitled and to rule instead of serving, it draws down upon itself the anger of the strong. A struggle ensues in which it is overthrown, with injury, however, to both sides. The dragon, symbol of heaven, comes to fight the false dragon that symbolized the inflation of the earth principle. Midnight blue is the color of heaven; yellow is the color of earth. Therefore, when black and yellow blood flow, it is a sign that in this unnatural contest both primal powers suffer injury.';
+' Sei sopra significa:
+  Anche se ci vien conferita una cintura di cuoio, alla fine di un mattino ci viene strappata tre volte.\e
+  Anche se vengono riconosciute le tue ragioni, poi ci saranno rivolgimenti e voltafaccia. Muta in 47 Oppressione';
 $book['02']['line-3'] = 
 ' When all the lines are sixes, it means:
   Lasting perseverance furthers. \e
@@ -186,7 +179,7 @@ $book['04']['image'] =
   By thoroughness in all that he does.\e
   A spring succeeds in flowing on and escapes stagnation by filling up all the hollow places in its path. In the same way character is developed by thoroughness that skips nothing but, like water, gradually and steadily fills up all gaps and so flows onward.';
 $book['04']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   To make a fool develop
   It furthers one to apply discipline. 
   The fetters should be removed. 
@@ -200,18 +193,18 @@ $book['04']['line2'] =
   The son is capable of taking charge of the household. \e
   These lines picture a man who has no external power, but who has enough strength of mind to bear his burden of responsibility. He has the inner superiority and that enable him to tolerate with kindliness the shortcomings of human folly. The same attitude is owed to women as the weaker sex. One must understand them and give them recognition in a spirit of chivalrous consideration. Only this combination of inner strength with outer reserve enables one to take on the responsibility of directing a larger social body with real success.';
 $book['04']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Take not a maiden who, when she sees a man of bronze,
   Loses possession of herself. 
   Nothing furthers. \e
   A weak, inexperienced man, struggling to rise, easily loses his own individuality when he slavishly imitates a strong personality of higher station. He is like a girl throwing herself away when she meets a strong man. Such a servile approach should not be encouraged, because it is bad both for the youth and the teacher. A girl owes it to her dignity to wait until she is wooed. In both cases it is undignified to offer oneself, and no good comes of accepting such an offer.';
 $book['04']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Entangled folly bring humiliation. \e
   For youthful folly it is the most hopeless thing to entangle itself in empty imaginings. The more obstinately it clings to such unreal fantasies, the more certainly will humiliation overtake it.
   Often the teacher, when confronted with such entangled folly, has no other course but to leave the fool to himself for a time, not sparing him the humiliation that results. This is frequently the only means of rescue.';
 $book['04']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Childlike folly brings good fortune. \e
   An inexperienced person who seeks instruction in a childlike and unassuming way is on the right path, for the man devoid of arrogance who subordinated himself to his teacher will certainly be helped.';
 $book['04']['line6'] = 
@@ -263,7 +256,7 @@ $book['05']['line3'] =
   Brings about the arrival of the enemy. \e
   Mud is no place for waiting, since it is already being washed by the water of the stream. Instead of having gathered strength to cross the stream at one try, one has made a premature start that has got him no farther than the muddy bank. Such an unfavorable position invites enemies from without, who naturally take advantage of it. Caution and a sense of the seriousness of the situation are all that can keep one from injury.';
 $book['05']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Waiting in blood. 
   Get out of the pit. \e
   The situation is extremely dangerous. It is of utmost gravity now–a matter of life and death. Bloodshed seems imminent. There is no going forward or backward; we are cut off as if in a pit. Now we must simply stand fast and let fate take its course. This composure, which keeps us from aggravating the trouble by anything we might do, is the only way of getting out of the dangerous pit.';
@@ -274,7 +267,7 @@ $book['05']['line5'] =
   Even in the midst of danger there come intervals of peace when things go relatively well. If we possess enough inner strength, we shall take advantage of these intervals to fortify ourselves for renewed struggle. We must know how to enjoy the moment without being deflected from the goal, for perseverance is needed to remain victorious.
   This is true in public life as well; it is not possible to achieve everything all at once. The height of wisdom is to allow people enough recreation to quicken pleasure in their work until the task is completed. Herein lies the secret of the whole hexagram. It differs from Chin OBSTRUCTION (39), in the fact that in this instance, while waiting, we are sure of our cause and therefore do not lose the serenity born of inner cheerfulness.';
 $book['05']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   One falls into the pit. 
   Three uninvited guests arrive. 
   Honor them, and in the end there will be good fortune. \e
@@ -282,29 +275,41 @@ $book['05']['line6'] =
 
 # -------------------------      06       ----------------------- #
 $book['06']['desc'] = 
-' Esagramma 6 – Divergenza.
-  La lite: sei verace e vieni impedito. Accorto fermarsi a metà strada reca salute. Condurre a termine reca sciagura.
-  Propizio è vedere il grande uomo. Non propizio attraversare la grande acqua. Sentenza (W) \e
+' Esagramma 6 – La lite
+  Il Cielo, calmo e aperto sul pericoloso e infido Abissale. Tra i due, il nulla: direzioni e scopi diversi, nature diverse, determinano una distanza che è difficile colmare. 
+  Ciascuno dei due è quello che è, e non può assumere altra natura. 
+  Non si tratta di torti o ragioni, ma di incompatibilità di punti di vista. 
+  Quando nasce una divergenza, la maggior parte delle persone che fa? 
+  Si arma e cerca di costringere l’altro a reagire, e allora la lite è iniziata e continuerà per sempre. 
+  In questa situazione non bisogna quindi agire con aggressività o volontà di sopraffare. F
+  ar valere le proprie ragioni non serve, quando la natura del rapporto è conflittuale fin dall’inizio: occorre allora adoperarsi di pazienza e continuare per la propria strada, senza curarsi dell’offesa che riteniamo ci sia stata fatta. 
+  Comportatevi come avete fatto finora: restate con quel nulla che avete cercato di immaginare diverso….e rendetevi conto che non potrà mai essere come sperate. 
+  Il problema qui è la mancanza di comunicazione: non siete in grado di capirvi l’un l’altro, e in fondo, ciò significa che non vi conoscete l’un l’altro. 
+  C’è una grande incomprensione di fondo tra voi. All’inizio del vostro rapporto la distanza tra voi già esisteva, non si è formata nel tempo o in seguito a qualcosa. 
+  Il vostro rapporto è condizionato proprio da questa incompatibilità di visione e se finora ci sono stati punti in comune è perché avete cercato di adattarvi e di mediare le divergenze. 
+  Cosa che potete continuare benissimo a fare, come l’esagramma consiglia. 
+  L’asino non diventa un cavallo solo perché lo volete voi. 
+  Quindi si tratta di lasciare da parte la litigiosità e venire a patti con l’orgoglio, l’ira e tutte le speranze e le paure che covate nel cuore ed ammettere che la natura del vostro rapporto è tale fin dall’inizio e che è pura illusione sperare di cambiare le cose.
   L’idea è che qualunque impresa si intraprenda è limitata nella sua espressione.
-  Il Cielo, calmo e aperto sul pericoloso e infido Abissale. Tra i due, il nulla. Ciascuno dei due è quello che è, e non può assumere altra natura. Non si tratta di torti o ragioni, ma di incompatibilità di punti di vista. Quando nasce una divergenza, la maggior parte delle persone che fa? Si arma e cerca di costringere l’altro a reagire, e allora la lite è iniziata e continuerà per sempre. Non ci sarà nessun tornaconto, ci si è fatto un nemico, e basta. In questa situazione non bisogna quindi agire con aggressività o volontà di sopraffare. Far valere le proprie ragioni  non serve, quando la natura del rapporto è conflittuale fin dall’inizio: occorre allora adoperarsi di pazienza e continuare per la propria strada, senza curarsi dell’offesa che riteniamo ci sia stata fatta. Comportatevi come  avete fatto finora: restate con quel nulla che avete cercato di immaginare diverso….e rendetevi conto che non potrà mai essere come sperate.  Il problema qui è la mancanza di comunicazione: non siete in grado di capirvi l’un l’altro, e in fondo, ciò significa che non vi conoscete l’un l’altro. C’è una grande incomprensione di fondo tra voi. All’inizio del vostro rapporto la distanza tra voi già esisteva, non si è formata nel tempo o in seguito a qualcosa. Il vostro rapporto è condizionato proprio da questa incompatibilità di visione e se finora ci sono stati punti in comune è perché avete cercato di adattarvi e di mediare le divergenze. Cosa che potete continuare benissimo a fare, come l’esagramma consiglia. L’asino non diventa un cavallo solo perché lo volete voi. Quindi si tratta di lasciare da parte la litigiosità e venire a patti con l’orgoglio, l’ira e tutte le speranze e le paure che covate nel cuore ed ammettere che la natura del vostro rapporto è tale fin dall’inizio e che è pura illusione sperare di cambiare le cose.
-  Oppure, se volete togliervi ‘ il sassolino dalla scarpa’ ( e ne avete ben ragione!) potete sempre dar fuoco alle polveri e decidere di affrontarlo a viso a viso. Ne seguirà conflitto, il che vi allontanerà ancor di più da lui. Se è questo che volete, iniziate la guerra, ma anche se ci sarà vittoria, sarà molto, molto amara.';
+  Oppure, se volete togliervi ‘il sassolino dalla scarpa’ (e ne avete ben ragione!) potete sempre dar fuoco alle polveri e decidere di affrontarlo a viso a viso. 
+  Ne seguirà conflitto, il che vi allontanerà ancor di più da lui. 
+  Se è questo che volete, iniziate la guerra, ma anche se ci sarà vittoria, sarà molto, molto amara.';
 $book['06']['judge'] = 
-' CONFLICT. You are sincere
-  And are being obstructed. 
-  A cautious halt halfway brings good fortune. 
-  Going through to the end brings misfortune. 
-  It furthers one to see the great man. 
-  It does not further one to cross the great water. \e
-  Conflict develops when one feels himself to be in the right and runs into opposition. If one is not convinced of being in the right, opposition leads to craftiness or high-handed encroachment but not to open conflict.
-  If a man is entangled in a conflict, his only salvation lies in being so clear- headed and inwardly strong that he is always ready to come to terms by meeting the opponent halfway. To carry on the conflict to the bitter end has evil effects even when one is the right, because the enmity is then perpetuated. It is important to see the great man, that is, an impartial man whose authority is great enough to terminate the conflict amicably or assure a just decision. In times of strife, crossing the great water is to be avoided, that is, dangerous enterprises are not to be begun, because in order to be successful they require concerted unity of focus. Conflict within weakens the power to conquer danger without.';
+' Sei verace e vieni impedito. Accorto fermarsi a metà strada reca salute. Condurre a termine reca sciagura. 
+  Propizio è vedere il grande uomo. Non propizio attraversare la grande acqua. \e
+  Vi sono differenze di punti di vista e le vostre ragioni anche se giuste non sono accolte. 
+  Vi è qualcuno che vi si oppone, ma è bene tentare una riconciliazione senza estremizzare il conflitto. 
+  In questa situazione di dissidio di fondo non si possono iniziare imprese impegnative. Appellatevi a qualcuno al di sopra delle parti.';
 $book['06']['image'] = 
-' Heaven and water go their opposite ways:
-  The image of CONFLICT. 
-  Thus in all his transactions the superior man
-  Carefully considers the beginning. \e
-  The image indicates that the causes of conflict are latent in the opposing tendencies of the two trigrams. Once these opposing tendencies appear, conflict is inevitable. To avoid it, therefore, everything must be taken carefully into consideration in the very beginning. If rights and duties are exactly defined, or if, in a group, the spiritual trends of the individuals harmonize, the cause of conflict is removed in advance.';
+' Cielo e acqua vanno in direzioni opposte: l’immagine della lite. 
+  Così il nobile, in ogni faccenda che imprende pondera l’inizio. \e
+  Il cielo è in alto, l’acqua va verso il basso. 
+  I due elementi, l’uno infido l’altro forte e chiaro, divergono per la loro natura e si separano. 
+  In questa impresa vi è qualcuno con cui vi è difficoltà intrinseca a unirsi. 
+  Facendo chiarezza sulle origini del dissidio, si evita il conflitto aperto.
+  Ogni linea insegna punto per punto come evitare la lite.';
 $book['06']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   If one does not perpetuate the affair,
   There is a little gossip. 
   In the end, good fortune comes. \e
@@ -318,7 +323,7 @@ $book['06']['line2'] =
   Remain free of guilt. \e
   In a struggle with an enemy of superior strength, retreat is no disgrace. Timely withdrawal prevents bad consequences. If, out of a false sense of honor, a man allowed himself to be tempted into an unequal conflict, he would be drawing down disaster upon himself. In such a case a wise and conciliatory attitude benefits the whole community, which will then not be drawn into the conflict.';
 $book['06']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   To nourish oneself on ancient virtue induces perseverance. 
   Danger. In the end, good fortune comes. 
   If by chance you are in the service of a king,
@@ -364,7 +369,7 @@ $book['07']['image'] =
   By generosity toward the people. \e
   Ground water is invisibly present within the earth. In the same way the military power of a people is invisibly present in the masses. When danger threatens, every peasant becomes a soldier; when the war ends, he goes back to his plow. He who is generous toward the people wins their love, and a people living under a mild rule becomes strong and powerful. Only a people economically strong can be important in military power. Such power must therefore be cultivated by improving the economic condition of the people and by humane government. Only when there is this invisible bond between government and people, so that the people are sheltered by their government as ground water is sheltered by the earth, is it possible to wage a victorious war.';
 $book['07']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   An army must set forth in proper order. 
   If the order is not good, misfortune threatens. \e
   At the beginning of a military enterprise, order is imperative. A just and valid cause must exist, and the obedience and coordination of the troops must be well organized, otherwise the result is inevitably failure.';
@@ -375,16 +380,16 @@ $book['07']['line2'] =
   The king bestows a triple decoration. \e
   The leader should be in the midst of his army, in touch with it, sharing good and bad with the masses he leads. This alone makes him equal to the heavy demands made upon him. He needs also the recognition of the ruler. The decorations he receives are justified, because there is no question of personal preferment here: the whole army, whose center he is, is honored in his person.';
 $book['07']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Perchance the army carries corpses in the wagon. 
   Misfortune. \e
   Here we have a choice of two explanations. One points to defeat because someone other than the chosen leader interferes with the command; the other is similar in its general meaning, but the expression, "carries corpses in the wagon," is interpreted differently. At burials and at sacrifices to the dead it was customary in China for the deceased to whom the sacrifice was made to be represented by a boy of the family, who sat in the dead man\'s place and was honored as his representative. On the basis of this custom the text is interpreted as meaning that a "corpse boy" is sitting in the wagon, or, in other words, that authority is not being exercised by the proper leaders but has been usurped by others. Perhaps the whole difficulty clears up if it is inferred that there has been an error in copying. The character fan, meaning "all," may have been misread as shih, which means "corpse. " Allowing for this error, the meaning would be that if the multitude assumes leadership of the army (rides in the wagon), misfortune will ensue.';
 $book['07']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The army retreats. No blame. \e
   In the face of a superior enemy, with whom it would be hopeless to engage in battle, an orderly retreat is the only correct procedure, because it will save the army from defeat and disintegration. It is by no means a sign of courage or strength to insist upon engaging in a hopeless struggle regardless of circumstances.';
 $book['07']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   There is game in the field. 
   It furthers one to catch it. 
   Without blame. 
@@ -393,7 +398,7 @@ $book['07']['line5'] =
   Then perseverance brings misfortune. \e
   Game is in the field–it has left its usual haunts in the forest and is devastating the fields. This points to an enemy invasion. Energetic combat and punishment are here thoroughly justified, but they must not degenerate into a wild melee in which everyone fends for himself. Despite the greatest degree of perseverance and bravery, this would lead to misfortune. The army must be directed by an experienced leader. It is a matter of waging war, not of permitting the mob to slaughter all who fall into their hands; if they do, defeat will be the result, and despite all perseverance there is danger of misfortune.';
 $book['07']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   The great prince issues commands,
   Founds states, vests families with fiefs. 
   Inferior people should not be employed. \e
@@ -482,7 +487,7 @@ $book['09']['line3'] =
   Man and wife roll their eyes. \e
   Here an attempt is made to press forward forcibly, in the consciousness that the obstructing power is slight. But since, under the circumstances, power actually lies with the weak, this sudden offensive is doomed to failure. External conditions hinder the advance, just as loss of the wheel spokes stops the progress of a wagon. We do not yet heed this hint form fate, hence there are annoying arguments like those of a married couple. Naturally this is not a favorable state of things, for though the situation may enable the weaker side to hold its ground, the difficulties are too numerous to permit of a happy result. In consequence even the strong man cannot so use his power as to exert the right influence on those around him. He experiences a rebuff where he expected an easy victory, and he thus compromises his dignity.';
 $book['09']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   If you are sincere, blood vanishes and fear gives way. 
   No blame. \e
   If one is in the difficult and responsible position of counselor to a powerful man, one should restrain him in such a way that right may prevail. Therin lies a danger so great that the threat of actual bloodshed may arise. Nonetheless, the power of disinterested truth is greater than all these obstacles. It carries such weight that the end is achieved, and all danger of bloodshed and all fear disappear.';
@@ -534,7 +539,7 @@ $book['10']['line2'] =
   Brings good fortune. \e
   The situation of a lonely sage is indicated here. He remains withdrawn from the bustle of life, seeks nothing, asks nothing of anyone, and is not dazzled by enticing goals. He is true to himself and travels through life unassailed, on a level road. Since he is content and does not challenge fate, he remains free of entanglements.';
 $book['10']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   A one-eyed man is able to see,
   A lame man is able to tread. 
   He treads on the tail of the tiger. 
@@ -604,20 +609,20 @@ $book['11']['line3'] =
   Enjoy the good fortune you still possess. \e
   Everything on earth is subject to change. Prosperity is followed by decline: this is the eternal law on earth. Evil can indeed be held in check but not permanently abolished. It always returns. This conviction might induct melancholy, but it should not; it ought only to keep us from falling into illusion when good fortune comes to us. If we continue mindful of the danger, we remain persevering and make no mistakes. As long as a man\'s inner nature remains stronger and richer than anything offered by external fortune, as long as he remains inwardly superior to fate, fortune will not desert him.';
 $book['11']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   He flutters down, not boasting of his wealth,
   Together with his neighbor,
   Guileless and sincere. \e
   In times of mutual confidence, people of high rank come in close contact with the lowly quite simply and without boasting of their wealth. This is not due to the force of circumstances but corresponds with their inmost sentiment. The approach is made quite spontaneously, because it is based on inner conviction.';
 $book['11']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   The sovereign I
   Gives his daughter in marriage. 
   This brings blessing
   And supreme good fortune. \e
   The sovereign I is T\'ang the Completer. By his decree the imperial princesses, although higher in rank than their husbands, had to obey them like all other wives. Here too we are shown a truly modest union of high and low that brings happiness and blessings.';
 $book['11']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   The wall falls back into the moat. 
   Use no army now. 
   Make your commands known within your own town. 
@@ -643,19 +648,19 @@ $book['12']['image'] =
   He does not permit himself to be honored with revenue. \e
   When, owing to the influence of inferior men, mutual mistrust prevails in public life, fruitful activity is rendered impossible, because the fundaments are wrong. Therefore the superior man knows what he must do under such circumstances; he does not allow himself to be tempted by dazzling offers to take part in public activities. This would only expose him to danger, since he cannot assent to the meanness of the others. He therefore hides his worth and withdraws into seclusion.';
 $book['12']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   When ribbon grass is pulled up, the sod comes with it. 
   Each according to his kind. 
   Perseverance brings good fortune and success. \e
   The text is almost the same as that of the first line of the preceding hexagram, but with a contrary meaning. In the latter a man is drawing another along with him on the road to an official career; here a man is drawing another with him into retirement form public life. This is why the text says here, "Perseverance brings good fortune and success," and not "Undertakings bring good fortune. " If it becomes impossible to make our influence count, it is only by retirement that we spare ourselves humiliation. Success in a higher sense can be ours, because we know how to safeguard the value of our personalities.';
 $book['12']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   They bear and endure;
   This means good fortune for inferior people. 
   The standstill serves to help the great man to attain success. \e
   Inferior people are ready to flatter their superiors in a servile way. They would also endure the superior man if he would put an end to their confusion. This is fortunate for them. But the great man calmly bears the consequences of the standstill. He does not mingle with the crowd of the inferior; that is not his place. By his willingness to suffer personally he insures the success of his fundamental principles.';
 $book['12']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   They bear shame. \e
   Inferior people who have risen to power illegitimately do not feel equal to the responsibility they have taken upon themselves. In their hearts they begin to be ashamed, although at first they do not show it outwardly. This marks a turn for the better.';
 $book['12']['line4'] = 
@@ -803,13 +808,13 @@ $book['15']['image'] =
   He weighs things and makes them equal. \e
   The wealth of the earth in which a mountain is hidden is not visible to the eye, because the depths are offset by the height of the mountain. Thus high and low competent each other and the result is the plain. Here an effect that it took a long time to achieve, but that in the end seems easy of accomplishment and self-evident, is used as the image of modesty. The superior man does the same thing when he establishes order in the world; he equalizes the extremes that are the source of social discontent and thereby creates just and equable conditions.';
 $book['15']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   A superior man modest about his modesty
   May cross the great water. 
   Good fortune. \e
   A dangerous enterprise, such as the crossing of a great stream, is made much more difficult if many claims and considerations have to be taken into account. On the other hand, the task is easy if it is attended to quickly and simply. Therefore the unassuming attitude of mind that goes with modesty fits a man to accomplish even difficult undertakings: he imposes no demands or stipulations but settles matters easily and quickly. Where no claims are put forward, no resistances arise.';
 $book['15']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Modesty that comes to expression. 
   Perseverance brings good fortune. \e
   "Out of the fullness of the heart the mouth speaketh. " When a man\'s attitude of mind is so modest that this expresses itself in his outward behavior, it is a source of good fortune to him. For the possibility of exerting a lasting influence arises of itself and no one can interfere.';
@@ -820,18 +825,18 @@ $book['15']['line3'] =
   Good fortune. \e
   This is the center of the hexagram, where its secret is disclosed. A distinguished name is readily earned by great achievements. If a man allows himself to be dazzled by fame, he will soon be criticized, and difficulties will arise. If, on the contrary, he remains modest despite his merit, he makes himself beloved and wins the support necessary for carrying his work through to the end.';
 $book['15']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Nothing that would not further modesty
   In movement. \e
   Everything has its proper measure. Even modesty in behavior can be carried too far. Here, however, it is appropriate, because the place between a worthy helper below and a kindly ruler above carries great responsibility. The confidence of the man in superior place must not be abused nor the merits of the man in inferior place concealed. There are officials who indeed do not strive for prominence; they hide behind the letter of ordinances, decline all responsibility, accept pay without giving its equivalent in work, and bear empty titles. This is the opposite of what is meant here by modesty. In such a position, modesty is shown by interest in one\'s work.';
 $book['15']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   No boasting of wealth before one\'s neighbor. 
   It is favorable to attack with force. 
   Nothing that would not further. \e
   Modesty is not to be confused with weak good nature that lets things take their own course. When a man holds a responsible position, he must at times resort to energetic measures. In doing so he must not try to make an impression by boasting of his superiority but must make certain of the people around him. The measures taken should be purely objective and in no way personally offensive. Thus modesty manifests itself even in severity.';
 $book['15']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Modesty that comes to expression. 
   It is favorable to set armies marching
   To chastise one\'s own city and one\'s country. \e
@@ -860,17 +865,17 @@ $book['16']['image'] =
   Rulers have made use of this natural taste for music; they elevated and regulated it. Music was looked upon as something serious and holy, designed to purify the feelings of men. It fell to music to glorify the virtues of heroes and thus to construct a bridge to the world of the unseen. In the temple men drew near to God with music and pantomimes (out of this later the theater developed). Religious feeling for the Creator of the world was united with the most sacred of human feelings, that of reverence for the ancestors. The ancestors were invited to these divine services as guests. of the Ruler of Heaven and as representatives of humanity in the higher regions. This uniting of the human past with the Divinity in solemn moments of religious inspiration established the bond between God and man. The ruler who revered the Divinity in revering his ancestors became thereby the Son of Heaven, in whom the heavenly and the earthly world met in mystical contact.
   These ideas are the final summation of Chinese culture. Confucius has said of the great sacrifice at which these rites were performed: "He who could wholly comprehend this sacrifice could rule the world as though it were spinning on his hand. "';
 $book['16']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   Enthusiasm that expresses itself
   Brings misfortune. \e
   A man in an inferior position has aristocratic connections about which he boasts enthusiastically. This arrogance inevitably invites misfortune. Enthusiasm should never be an egotistic emotion; it is justified only when it is a general feeling that unites one with others.';
 $book['16']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Firm as a rock. Not a whole day. 
   Perseverance brings good fortune. \e
   This describes a person who does not allow himself to be misled by any illusions. While others are letting themselves be dazzled by enthusiasm, he recognizes with perfect clarity the first signs of the time. Thus he neither flatters those above nor neglects those beneath him; he is as firm as a rock. When the first sign of discord appears, he knows the right moment for withdrawing and does not delay even for a day. Perseverance in such conduct will bring good fortune. Confucius says about this line: To know the seeds, that is divine indeed. In his association with those above him, the superior man does not flatter. In his association with those beneath him, he is not arrogant. For he knows the seeds. The seeds are the first imperceptible beginning of movement, the first trace of good fortune (or misfortune) that shows itself. The superior man perceives the seeds and immediately takes action. He does not wait even a whole day. In the Book of Changes it is said: "Firm as a rock. Not a whole day. Perseverance brings good fortune. " Firm as a rock, what need of a whole day? The judgment can be known. The superior man knows what is hidden and what is evident. He knows weakness, he knows strength as well. Hence the myriads look up to him.';
 $book['16']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Enthusiasm that looks upward creates remorse. 
   Hesitation brings remorse. \e
   This line is the opposite of the preceding one: the latter bespeaks self-reliance, while here there is enthusiastic looking up to a leader. If a man hesitates too long, this also will bring remorse. The right moment for approach must be seized: only then will he do the right thing.';
@@ -883,11 +888,11 @@ $book['16']['line4'] =
   As a hair clasp gathers the hair. \e
   This describes a man who is able to awaken enthusiasm through his own sureness and freedom from hesitation. He attracts people because he has no doubts and is wholly sincere. Owing to his confidence in them he wins their enthusiastic co-operation and attains success. Just as a clasp draws the hair together and holds it, so he draws men together by the support he gives them.';
 $book['16']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Persistently ill, and still does not die. \e
   Here enthusiasm is obstructed. A man is under constant pressure, which prevents him from breathing freely. However, this pressure has its advantage–it prevents him from consuming his powers in empty enthusiasm. Thus constant pressure can actually serve to keep one alive.';
 $book['16']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Deluded enthusiasm. 
   But if after completion one changes,
   There is no blame. \e
@@ -918,12 +923,12 @@ $book['17']['line1'] =
   Produces deeds. \e
   There are exceptional conditions in which the relation between leader and followers changes. It is implicit in the idea of following and adaptation that if one wants to lead others, one must remain accessible and responsive to the views of those under him. At the same time, however, he must have firm principles, so that he does not vacillate where there is only a question of current opinion. Once we are ready to listen to the opinions of others, we must not associate exclusively with people who share our views or with members of our own party; instead, we must go out and mingle freely with all sorts of people, friends or foes. That is the only way to achieve something.';
 $book['17']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   If one clings to the little boy,
   One loses the strong man. \e
   In friendships and close relationships an individual must make a careful choice. He surrounds himself either with good or with bad company; he cannot have both at once. If he throws himself away on unworthy friends he loses connection with people of intellectual power who could further him in the good.';
 $book['17']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   If one clings to the strong man,
   One loses the little boy. 
   Through following one finds what one seeks. 
@@ -941,7 +946,7 @@ $book['17']['line5'] =
   Sincere in the good. Good fortune. \e
   Every man must have something he follows–something that serves him as a lodestar. He who follows with conviction the beautiful and the good may feel himself strengthened by this saying.';
 $book['17']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   He meets with firm allegiance
   And is still further bound. 
   The king introduces him
@@ -986,12 +991,12 @@ $book['18']['line3'] =
   There will be a little remorse. No great blame. \e
   This describes a man who proceeds a little too energetically in righting the mistakes of the past. Now and then, as a result, minor discourse and annoyances will surely develop. But too much energy is better than too little. Therefore, although he may at times have slight cause for regret, he remains free of any serious blame.';
 $book['18']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Tolerating what has been spoiled by the father. 
   In continuing one sees humiliation. \e
   This shows the situation of someone too weak to take measures against decay that has its roots in the past and is just beginning to manifest itself. It is allowed to run its course. If this continues, humiliation will result.';
 $book['18']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Setting right what has been spoiled by the father. 
   One meets with praise. \e
   An individual is confronted with corruption originating from neglect in former times. He lacks the power to ward it off alone, but with able helpers he can at least bring about a thorough reform, if he cannot create a new beginning, and this also is praiseworthy.';
@@ -1033,25 +1038,25 @@ $book['19']['line2'] =
   Everything furthers. \e
   When the stimulus to approach comes from a high place, and when a man has the inner strength and consistency that need no admonition, good fortune will ensue. Nor need the future cause any concern. He is well aware that everything earthly is transitory, and that a descent follows upon every rise, but need not be confused by this universal law of fate. Everything serves to further. Therefore he will travel the paths of life swiftly, honestly, and valiantly.';
 $book['19']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Comfortable approach. 
   Nothing that would further. 
   If one is induced to grieve over it,
   One becomes free of blame. \e
   Things are going well for a man: he achieves power and influence. But in this lies the danger that he may relax, and confident of his position, allow the easygoing, careless mood to show itself in his dealings with other people. This would inevitably be harmful. But there is possibility of a change of mood. If he regrets his mistaken attitude and feels the responsibility of an influential position, he frees himself of faults.';
 $book['19']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Complete approach. 
   No blame. \e
   While the three lower lines indicate rise to power and influence, the three upper lines show the attitude of persons in higher position toward those of lower rank for whom they procure influence. Here is shown the open- minded approach of a person of high rank to a man of ability whom he draws in to his own circle, regardless of class prejudice. This is very favorable.';
 $book['19']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Wise approach. 
   This is right for a great prince. 
   Good fortune. \e
   A prince, or anyone in a leading position, must have the wisdom to attract to himself people of ability who are expert in directing affairs. His wisdom consists both in selecting the right people and in allowing those chosen to have a free hand without interference from him. For only through such self- restraint will he find the experts needed to satisfy all of his requirements.';
 $book['19']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Greathearted approach. 
   Good fortune. No blame. \e
   A sage who has put the world behind him and who in spirit has already withdrawn from life may, under certain circumstances, decide to return once more to the here and now and to approach other men. This means great good fortune for the men whom he teaches and helps. And for him this greathearted humbling of himself is blameless.';
@@ -1130,13 +1135,13 @@ $book['21']['line1'] =
   No blame. \e
   If a sentence is imposed the first time a man attempts to do wrong, the penalty is a mild one. Only the toes are put in the stocks. This prevents him from sinning further and thus he becomes free of blame. It is a warning to halt in time on the path of evil.';
 $book['21']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Bites through tender meat,
   So that his nose disappears. 
   No blame. \e
   It is easy to discriminate between right and wrong in this case; it is like biting through tender meat. But one encounters a hardened sinner, and, aroused by anger, one goes a little too far. The disappearance of the nose in the course of the bite signifies that indignation blots out finer sensibility. However, there is no great harm in this, because the penalty as such is just.';
 $book['21']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Bites on old dried meat 
   And strikes on something poisonous. 
   Slight humiliation. No blame. \e
@@ -1150,7 +1155,7 @@ $book['21']['line4'] =
   Good fortune. \e
   There are great obstacles to be overcome, powerful opponents are to be punished. Though this is arduous, the effort succeeds. But it is necessary to be hard as metal and straight as an arrow to surmount the difficulties. If one knows these difficulties and remains persevering, he attains good fortune. The difficult task is achieved in the end.';
 $book['21']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Bites on dried lean meat. 
   Receives yellow gold. 
   Perseveringly aware of danger. 
@@ -1186,7 +1191,7 @@ $book['22']['line1'] =
   He lends grace to his toes, leaves the carriage, and walks. \e
   A beginner in a subordinate place must take upon himself the labor of advancing. There might be an opportunity of surreptitiously easing the way–symbolized by the carriage–but a self-contained man scorns help gained in a dubious fashion. He thinks it more graceful to go on foot than to drive in a carriage under false pretenses.';
 $book['22']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Lends grace to the beard on his chin. \e
   The beard is not an independent thing; it moves only with the chin. The image therefore means that form is to be considered only as a result and attribute of content. The beard is a superfluous ornament. To devote care to it for its own sake, without regard for the inner content of which it is an ornament, would bespeak a certain vanity.';
 $book['22']['line3'] = 
@@ -1195,14 +1200,14 @@ $book['22']['line3'] =
   Constant perseverance brings good fortune. \e
   This represents a very charming life situation. One is under the spell of grace and the mellow mood induced by wine. This grace can adorn, but it can also swamp us. Hence the warning not to sink into convivial indolence but to remain constant in perseverance. Good fortune depends on this.';
 $book['22']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Grace or simplicity?
   A white horse comes as if on wings. 
   He is not a robber,
   He will woo at the right time. \e
   An individual is in a situation in which doubts arise as to which is better–to pursue the grace of external brilliance, or to return to simplicity. The doubt itself implies the answer. Confirmation comes from the outside; it comes like a white winged horse. The white color indicates simplicity. At first it may be disappointing to renounce the comforts that might have been obtained, yet one finds peace of mind in a true relationship with the friend who courts him. The winged horse is the symbol of the thoughts that transcend all limits of space and time.';
 $book['22']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Grace in the hills and gardens. 
   The roll of silk is meager and small. 
   Humiliation, but in the end good fortune. \e
@@ -1231,28 +1236,28 @@ $book['23']['image'] =
   Only by giving generously to those below. \e
   The mountain rests on the earth. When it is steep and narrow, lacking a broad base, it must topple over. Its position is strong only when it rises out of the earth broad and great, not proud and steep. So likewise those who rule rest on the broad foundation of the people. They too should be generous and benevolent, like the earth that carries all. Then they will make their position as secure as a mountain is in its tranquillity.';
 $book['23']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   The leg of the bed is split. 
   Those who persevere are destroyed. 
   Misfortune. \e
   Inferior people are on the rise and stealthily begin their destructive burrowing from below in order to undermine the place where the superior man rests. Those followers of the ruler who remain loyal are destroyed by slander and intrigue. The situation bodes disaster, yet there is nothing to do but wait.';
 $book['23']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   The bed is split at the edge. 
   Those who persevere are destroyed. 
   Misfortune. \e
   The power of the inferior people is growing. The danger draws close to one\'s person; already there are clear indications, and rest is disturbed. Moreover, in this dangerous situation one is as yet without help or friendly advances from above or below. Extreme caution is necessary in this isolation. One must adjust to the time and promptly avoid the danger. Stubborn perseverance in maintaining one\'s standpoint would lead to downfall.';
 $book['23']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   He splits with them. No blame. \e
   An individual finds himself in an evil environment to which he is committed by external ties. But he has an inner relationship with a superior man, and through this he attains the stability to free himself from the way of the inferior people around him. This brings him into opposition to them of course, but that is not wrong.';
 $book['23']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The bed is split up to the skin. 
   Misfortune. \e
   Here the disaster affects not only the resting place but even the occupant. No warning or other comment is added. Misfortune has reached its peak: it can no longer be warded off.';
 $book['23']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   A shoal of fishes. Favor comes through the court ladies. 
   Everything acts to further. \e
   Here, in immediate proximity to the strong, light-giving principle at the top, the nature of the dark force undergoes a change. It no longer opposes the strong principle by means of intrigues but submits to its guidance. Indeed, as the head of the other weak lines, it leads all of these to the strong line, just as a princess leads her maids-in-waiting like a shoal of fishes to her husband and thus gains his favor. Inasmuch as the lower element thus voluntarily places itself under the higher, it attains happiness and the higher also receives its due. Therefore all goes well.';
@@ -1294,24 +1299,24 @@ $book['24']['line1'] =
   Great good fortune. \e
   Slight digressions from the good cannot be avoided, but one must turn back in time, before going too far. This is especially important in the development of character; every faintly evil thought must be put aside immediately, before it goes too far and takes root in the mind. Then there is no cause for remorse, and all goes well.';
 $book['24']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Quiet return. Good fortune. \e
   Return always calls for a decision and is an act of self-mastery. It is made easier if a man is in good company. If he can bring himself to put aside pride and follow the example of good men, good fortune results.';
 $book['24']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Repeated return. Danger. No blame. \e
   There are people of a certain inner instability who feel a constant urge to reverse themselves. There is danger in continually deserting the good because of uncontrolled desires, then turning back to it again because of a better resolution. However, since this does not lead to habituation in evil, a general inclination to overcome the defect is not wholly excluded.';
 $book['24']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Walking in the midst of others,
   One returns alone. \e
   A man is in a society composed of inferior people, but is connected spiritually with a strong and good friend, and this makes him turn back alone. Although nothing is said of reward and punishment, this return is certainly favorable, for such a resolve to choose the good brings its own reward.';
 $book['24']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Noblehearted return. No remorse. \e
   When the time for return has come, a man should not take shelter in trivial excuses, but should look within and examine himself. And if he has done something wrong he should make a noblehearted resolve to confess his fault. No one will regret having taken this road.';
 $book['24']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Missing the return. Misfortune. 
   Misfortune from within and without. 
   If armies are set marching in this way,
@@ -1347,13 +1352,13 @@ $book['25']['line1'] =
   Innocent behavior brings good fortune. \e
   The original impulses of the heart are always good, so that we may follow them confidently, assured of good fortune and achievement of our aims.';
 $book['25']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   If one does not count on the harvest while plowing,
   Nor on the use of the ground while clearing it,
   It furthers one to undertake something. \e
   We should do every task for its own sake as time and place demand and not with an eye to the result. Then each task turns out well, and anything we undertake succeeds.';
 $book['25']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Undeserved misfortune. 
   The cow that was tethered by someone
   Is the wanderer\'s gain, the citizen\'s loss. 
@@ -1412,12 +1417,12 @@ $book['26']['line3'] =
   It furthers one to have somewhere to go. \e
   The way opens; the hindrance has been cleared away. A man is in contact with a strong will acting in the same direction as his own, and goes forward like one good horse following another. But danger still threatens, and he must remain aware of it, or he will be robbed of his firmness. Thus he must acquire skill on the one hand in what will take him forward, and on the other in what will protect him against unforeseen attacks. It is good in such a pass to have a goal toward which to strive.';
 $book['26']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The headboard of a young bull. 
   Great good fortune. \e
   This line and the one following it are the two that tame the forward-pushing lower lines. Before a bull\'s horns grow out, a headboard is fastened to its forehead, so that later when the horns appear they cannot do harm. A good way to restrain wild force is to forestall it. By so doing one achieves an easy and great success.';
 $book['26']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   The tusk of a gelded boar. 
   Good fortune. \e
   Here the restraining of the impetuous forward drive is achieved in an indirect way. A boar\'s tusk is in itself dangerous, but if the boar\'s nature is altered, the tusk is no longer a menace. Thus also where men are concerned, wild force should not be combated directly; instead, its roots should be eradicated.';
@@ -1454,21 +1459,21 @@ $book['27']['line1'] =
   Misfortune. \e
   The magic tortoise is a creature possessed of such supernatural powers that it lives on air and needs no earthly nourishment. The image means that a man fitted by nature and position to live freely and independently renounces this self-reliance and instead looks with envy and discontent at others who are outwardly in better circumstances. But such base envy only arouses derision and contempt in those others. This has bad results.';
 $book['27']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Turning to the summit for nourishment,
   Deviating from the path
   To seek nourishment from the hill. 
   Continuing to do this brings misfortune. \e
   Normally a person either provides his own means of nourishment or is supported in a proper way by those whose duty and privilege it is to provide for him. If, owing to weakness of spirit, a man cannot support himself, a feeling of uneasiness comes over him; this is because in shirking the proper way of obtaining a living, he accepts support as a favor from those in higher place. This is unworthy, for he is deviating from his true nature. Kept up indefinitely, this course leads to misfortune.';
 $book['27']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Turning away from nourishment. 
   Perseverance brings misfortune. 
   Do not act thus for ten years. 
   Nothing serves to further. \e
   He who seeks nourishment that does not nourish reels from desire to gratification and in gratification craves desire. Mad pursuit of pleasure for the satisfaction of the senses never brings one to the goal. One should never (ten years is a complete cycle of time) follow this path, for nothing good can come of it.';
 $book['27']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Turning to the summit
   For provision of nourishment
   Brings good fortune. 
@@ -1477,7 +1482,7 @@ $book['27']['line4'] =
   No blame. \e
   In contrast to the six in the second place, which refers to a man bent exclusively on his own advantage, this line refers to one occupying a high position and striving to let his light shine forth. To do this he needs helpers, because he cannot attain his lofty aim alone. With the greed of a hungry tiger he is on the lookout for the right people. Since he is not working for himself but for the good of all, there is no wrong in such zeal.';
 $book['27']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Turning away from the path. 
   To remain persevering brings good fortune. 
   One should not cross the great water. \e
@@ -1510,7 +1515,7 @@ $book['28']['image'] =
   He is undaunted. \e
   Extraordinary times when the great preponderates are like flood times when the lake rises over the treetops. But such conditions are temporary. The two trigrams indicate the attitude proper to such exceptional times: the symbol of the trigram Sun is the tree, which stands firm even though it stands alone, and the attribute of Tui is joyousness, which remains undaunted even if it must renounce the world.';
 $book['28']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   To spread white rushes underneath. 
   No blame. \e
   When a man wishes to undertake an enterprise in extraordinary times, he must be extraordinarily cautious, just as when setting a heavy thing down on the floor, one takes care to put rushes under it, so that nothing will break. This caution, though it may seem exaggerated, is not a mistake. Exceptional enterprises cannot succeed unless utmost caution is observed in their beginnings and in the laying of their foundations.';
@@ -1539,7 +1544,7 @@ $book['28']['line5'] =
   A withered poplar that flowers exhausts its energies thereby and only hastens its end. An older woman may marry once more, but no renewal takes place. Everything remains barren. Thus, though all the amenities are observed, the net result is only the anomaly of the situation.
   Applied to politics, the metaphor means that if in times of insecurity we give up alliance with those below us and keep up only the relationships we have with people of higher rank, an unstable situation is created.';
 $book['28']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   One must go through the water. 
   It goes over one\'s head. 
   Misfortune. No blame. \e
@@ -1565,7 +1570,7 @@ $book['29']['image'] =
   And carries on the business of teaching. \e
   Water reaches its goal by flowing continually. It fills up every depression before it flows on. The superior man follows its example; he is concerned that goodness should be an established attribute of character rather than an accidental and isolated occurrence. So likewise in teaching others everything depends on consistency, for it is only through repetition that the pupil makes the material his own.';
 $book['29']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   Repetition of the Abysmal. 
   In the abyss one falls into a pit. 
   Misfortune. \e
@@ -1576,14 +1581,14 @@ $book['29']['line2'] =
   One should strive to attain small things only. \e
   When we are in danger we ought not to attempt to get out of it immediately, regardless of circumstances; at first we must content ourselves with not being overcome by it. We must calmly weigh the conditions of the time and be satisfied with small gains, because for the time being a great success cannot be attained. A spring flows only sparingly at first, and tarries for some time before it makes its way into the open.';
 $book['29']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Forward and backward, abyss on abyss. 
   In danger like this, pause at first and wait,
   Otherwise you will fall into a pit in the abyss. 
   Do not act this way. \e
   Here every step, forward or backward, leads into danger. Escape is out of the question. Therefore we must not be misled into action, as a result of which we should only bog down deeper in the danger; disagreeable as it may be to remain in such a situation, we must wait until a way out shows itself.';
 $book['29']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   A jug of wine, a bowl of rice with it;
   Earthen vessels
   Simply handed in through the Window. 
@@ -1597,7 +1602,7 @@ $book['29']['line5'] =
   No blame. \e
   Danger comes because one is too ambitious. In order to flow out of a ravine, water does not rise higher than the lowest point of the rim. So likewise a man when in danger has only to proceed along the line of least resistance; thus he reaches the goal. Great labors cannot be accomplished in such times; it is enough to get out of the danger.';
 $book['29']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Bound with cords and ropes,
   Shut in between thorn-hedged prison walls:
   For three years one does not find the way. 
@@ -1659,11 +1664,11 @@ $book['31']['image'] =
   By his readiness to receive them. \e
   A mountain with a lake on its summit is stimulated by the moisture from the lake. It has this advantage because its summit does not jut out as a peak but is sunken. The image counsels that the mind should be kept humble and free, so that it may remain receptive to good advice. People soon give up counseling a man who thinks that he knows everything better than anyone else.';
 $book['31']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   The influence shows itself in the big toe. \e
   A movement, before it is actually carried out, shows itself first in the toes. The idea of an influence is already present, but it is not immediately apparent to others. As long as the intention has no visible effect, it is of no importance to the outside world and leads neither to good nor to evil.';
 $book['31']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   The influence shows itself in the calves of the legs. 
   Misfortune. 
   Tarrying brings good fortune. \e
@@ -1690,7 +1695,7 @@ $book['31']['line5'] =
   No remorse. \e
   The back of the neck is the most rigid part of the body. When the influence shows itself there, the will remains firm and the influence does not lead to confusion. Hence remorse does not enter into consideration here. What takes place in the depths of one\'s being, in the unconscious, can neither be called forth nor prevented by the conscious mind. It is true that if we cannot be influenced ourselves, we cannot influence the outside world.';
 $book['31']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   The influence shows itself in the jaws, cheeks, and tongue. \e
   The most superficial way of trying to influence others is through talk that has nothing real behind it. The influence produced by such mere tongue wagging must necessarily remain insignificant. Hence no indication is added regarding good or bad fortune.';
 
@@ -1714,7 +1719,7 @@ $book['32']['image'] =
   And does not change has direction. \e
   Thunder rolls, and the wind blows; both are examples of extreme mobility and so are seemingly the very opposite of duration, but the laws governing their appearance and subsidence, their coming and going, endure. In the same way the independence of the superior man is not based on rigidity and immobility of character. He always keeps abreast of the time and changes with it. What endures is the unswerving directive, the inner law of his being, which determines all his actions.';
 $book['32']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   Seeking duration too hastily brings misfortune persistently.
   Nothing that would further. \e
   Whatever endures can be created only gradually by long-continued work and careful reflection. In the same sense Lao-tse says: "If we wish to compress something, we must first let it fully expand. " He who demands too much at once is acting precipitately, and because he attempts too much, he ends by succeeding in nothing.';
@@ -1733,12 +1738,12 @@ $book['32']['line4'] =
   No game in the field. \e
   If we are in pursuit of game and want to get a shot at a quarry, we must set about it in the right way. A man who persists in stalking game in a place where there is none may wait forever without finding any. Persistence in search is not enough. What is not sought in the right way is not found.';
 $book['32']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Giving duration to one\'s character through perseverance. 
   This is good fortune for a woman, misfortune for a man. \e
   A woman should follow a man her whole life long, but a man should at all times hold to what is his duty at the given moment. Should he persistently seek to conform to the woman, it would be a mistake for him. Accordingly it is altogether right for a woman to hold conservatively to tradition, but a man must always be flexible and adaptable and allow himself to be guided solely by what his duty requires of him at the moment.';
 $book['32']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Restlessness as an enduring condition brings misfortune. \e
   There are people who live in a state of perpetual hurry without ever attaining inner composure. Restlessness not only prevents all thoroughness but actually becomes a danger if it is dominant in places of authority.';
 
@@ -1759,12 +1764,12 @@ $book['33']['image'] =
   Not angrily but with reserve. \e
   The mountain rises up under heaven, but owing to its nature it finally comes to a stop. Heaven on the other hand retreats upward before it into the distance and remains out of reach. This symbolizes the behavior of the superior man toward a climbing inferior; he retreats into his own thoughts as the inferior man comes forward. He does not hate him, for hatred is a form of subjective involvement by which we are bound to the hated object. The superior man shows strength (heaven) in that he brings the inferior man to a standstill (mountain) by his dignified reserve.';
 $book['33']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   At the tail in retreat. This is dangerous. 
   One must not wish to undertake anything. \e
   Since the hexagram is the picture of something that is retreating, the lowest line represents the tail and the top line the head. In a retreat it is advantageous to be at the front. Here one is at the back, in immediate contact with the pursuing enemy. This is dangerous, and under such circumstances it is not advisable to undertake anything. Keeping still is the easiest way of escaping from the threatening danger.';
 $book['33']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   he holds him fast with yellow oxhide. 
   No one can tear him loose. \e
   Yellow is the color of the middle. It indicates that which is correct and in line with duty. Oxhide is strong and not to be torn.
@@ -1832,12 +1837,12 @@ $book['34']['line4'] =
   If a man goes on quietly and perseveringly working at the removal of resistances, success comes in the end. The obstructions give way and all occasion for remorse arising from excessive use of power disappears.
   Such a man\'s power does not show externally, yet it can move heavy loads, like a big cart whose real strength lies in its axle. The less that power is applied outwardly, the greater its effect.';
 $book['34']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Loses the goat with ease. 
   No remorse. \e
   The goat is noted for hardness outwardly and weakness within. Now the situation is such that everything is easy; there is no more resistance. One can give up a belligerent, stubborn way of acting and will not have to regret it.';
 $book['34']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   A goat butts against a hedge. 
   It cannot go backward, it cannot go forward. 
   Nothing serves to further. 
@@ -1863,20 +1868,20 @@ $book['35']['image'] =
   Brightens his bright virtue. \e
   The light of the sun rises over the earth is by nature clear. The higher the sun rises, the more it emerges from the dark mists, spreading the pristine purity of its rays over an ever widening area. The real nature of man is likewise originally good, but it becomes clouded by contact with earthly things and therefore needs purification before it can shine forth in its native clarity.';
 $book['35']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   Progressing, but turned back. 
   Perseverance brings good fortune. 
   If one meets with no confidence, one should remain calm. 
   No mistake. \e
   At a time when all elements are pressing for progress, we are still uncertain whether in the course of advance we may not meet with a rebuff. Then the thing to do is simply continue in what is right; in the end this will bring good fortune. It may be that we meet with no confidence. In this case we ought not to try to win confidence regardless of the situation, but should remain calm and cheerful and refuse to be roused to anger. Thus we remain free of mistakes.';
 $book['35']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Progressing, but in sorrow. 
   Perseverance brings good fortune. 
   Then one obtains great happiness from one\'s ancestress. \e
   Progress is halted; an individual is kept from getting in touch with the man in authority with whom he has a connection. When this happens, he must remain persevering, although he is grieved; then with a maternal gentleness the man in question will bestow great happiness upon him. This happiness comes to him–and is well deserved–because in this case mutual attraction does not rest on selfish or partisan motives but on firm and correct principles.';
 $book['35']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   All are in accord. Remorse disappears. \e
   A man strives onward, in association with others whose backing encourages him. This dispels any cause for regret over the fact that he does not have enough independence to triumph unaided over every hostile turn of fate.';
 $book['35']['line4'] = 
@@ -1885,7 +1890,7 @@ $book['35']['line4'] =
   Perseverance brings danger. \e
   In times of progress it is easy for strong men in the wrong places to amass great possessions. But such conduct shuns the light. And since times of progress are also times in which dubious procedures are inevitably brought to the light, perseverance in such action always leads to danger.';
 $book['35']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Remorse disappears. 
   Take not gain and loss to heart. 
   Undertakings bring good fortune. 
@@ -1927,7 +1932,7 @@ $book['36']['line1'] =
   The host has occasion to gossip about him. \e
   With grandiose resolve a man endeavors to soar above all obstacles, but thus encounters a hostile fate. He retreats and evades the issue. The time is difficult. Without rest, he must hurry along, with no permanent abiding place. If he does not want to make compromises within himself, but insists on remaining true to his principles, he suffers deprivation. Never the less he has a fixed goal to strive for even though the people with whom he lives do not understand him and speak ill of him.';
 $book['36']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Darkening of the light injures him in the left thigh. 
   He gives aid with the strength of a horse. 
   Good fortune. \e
@@ -1939,19 +1944,19 @@ $book['36']['line3'] =
   One must not expect perseverance too soon. \e
   It seems as if chance were at work. While the strong, loyal man is striving eagerly and in good faith to create order, he meets the ringleader of the disorder, as if by accident, and seizes him. Thus victory is achieved. But in abolishing abuses one must not be too hasty. This would turn out badly because the abuses have been in existence so long.';
 $book['36']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   He penetrates the left side of the belly. 
   One gets at the very heart of the darkening of the light,
   And leaves gate and courtyard. \e
   We find ourselves close to the commander of darkness and so discover his mot secret thoughts. In this way we realize that there is no longer any hope of improvement, and thus we are enabled to leave the scene of disaster before the storm breaks.';
 $book['36']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Darkening of the light as with Prince Chi. 
   Perseverance furthers. \e
   Prince Chi lived at the court of the evil tyrant Chou Hsin, who, although not mentioned by name, furnished the historical example on which this whole situation is based. Prince Chi was a relative of the tyrant and could not withdraw from the court; therefore he concealed his true sentiments and feigned insanity. Although he was held a slave, he did not allow external misery to deflect him from his convictions.
   This provides a teaching for those who cannot leave their posts in times of darkness. In order to escape danger, they need invincible perseverance of spirit and redoubled caution in their dealings with the world.';
 $book['36']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Not light but darkness. 
   First he climbed up to heaven,
   Then plunged into the depths of the earth. \e
@@ -1979,7 +1984,7 @@ $book['37']['line1'] =
   Remorse disappears. \e
   The family must form a well-defined unit within which each member knows his place. From the beginning each child must be accustomed to firmly established rules of order, before ever its will is directed to other things. If we begin too late to enforce order, when the will of the child has already been overindulged, the whims and passions, grown stronger with the years, offer resistance and give cause for remorse. If we insist on order from the outset, occasions for remorse may arise–in general social life these are unavoidable–but the remorse always disappears again, and everything rights itself. For there is nothing more easily avoided and more difficult to carry through than "breaking a child\'s will. "';
 $book['37']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   She should not follow her whims. 
   She must attend within to the food. 
   Perseverance brings good fortune. \e
@@ -1994,7 +1999,7 @@ $book['37']['line3'] =
   It leads in the end to humiliation.  \e
   In the family the proper mean between severity and indulgence ought to prevail. Too great severity toward one\'s own flesh and blood leads to remorse. The wise thing is to build strong dikes within which complete freedom of movement is allowed each individual. But in doubtful instances too great severity, despite occasional mistakes, is preferable, because it preserves discipline in the family, whereas too great weakness leads to disgrace.';
 $book['37']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   She is the treasure of the house. 
   Great good fortune. \e
   It is upon the woman of the house that the well-being of the family depends. Well-being prevails when expenditures and income are soundly balanced. This leads to great good fortune. In the sphere of public life, this line refers to the faithful steward whose measures further the general welfare.';
@@ -2040,7 +2045,7 @@ $book['38']['line2'] =
   No blame. \e
   As a result of misunderstandings, it has become impossible for people who by nature belong together to meet in the correct way. This being so, an accidental meeting under informal circumstances may serve the purpose, provided there is an inner affinity between them.';
 $book['38']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   One sees the wagon dragged back,
   The oxen halted,
   A man\'s hair and nose cut off. 
@@ -2054,7 +2059,7 @@ $book['38']['line4'] =
   Despite the danger, no blame. \e
   If a man finds himself in a company of people from whom he is separated by an inner opposition, he becomes isolated. But if in such a situation a man meets someone who fundamentally, by the very law of his being, is kin to him, and whom he can trust completely, he overcomes all the dangers of isolation. His will achieves its aim, and he becomes free of faults.';
 $book['38']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Remorse disappears. 
   The companion bites his way through the wrappings. 
   If one goes to him,
@@ -2090,12 +2095,12 @@ $book['39']['image'] =
   And molds his character. \e
   Difficulties and obstructions throw a man back upon himself. While the inferior man seeks to put the blame on other persons, bewailing his fate, the superior man seeks the error within himself, and through this introspection the external obstacle becomes for him an occasion for inner enrichment and education.';
 $book['39']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   Going leads to obstructions,
   Coming meets with praise. \e
   When one encounters an obstruction, the important thing is to reflect on how best to deal with it. When threatened with danger, one should not strive blindly to go ahead, for this only leads to complications. The correct thing is, on the contrary, to retreat for the time being, not in order to give up the struggle but to await the right moment for action.';
 $book['39']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   The King\'s servant is beset by obstruction upon obstruction,
   But it is not his own fault. \e
   Ordinarily it is best to go around an obstacle and try to overcome it along the line of least resistance. But there is one instance in which a man must go out to meet the trouble, even though difficulty piles upon difficulty: this is when the path of duty leads directly to it–in other words, when he cannot act of his own volition but is duty bound to go and seek out danger in the service of a higher cause. Then he may do it without compunction, because it is not through any fault of his that he is putting himself in this difficult situation.';
@@ -2105,7 +2110,7 @@ $book['39']['line3'] =
   Hence he comes back. \e
   While the preceding line shows the official compelled by duty to follow the way of danger, this line shows the man who must act as father of a family or as head of his kin. If he were to plunge recklessly in to danger, it would be a useless act, because those entrusted to his care cannot get along by themselves. But if he withdraws and turns back to his own, they welcome him with great joy.';
 $book['39']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Going leads to obstructions,
   Coming leads to union. \e
   This too describes a situation that cannot be managed single-handed. In such a case the direct way is not the shortest. If a person were to forge ahead on his own strength and without the necessary preparations, he would not find the support he needs and would realize too late that he has been mistaken in his calculations, inasmuch as the conditions on which he hoped he could rely would prove to be inadequate. In this case it is better, therefore, to hold back for the time being and to gather together trustworthy companions who can be counted upon for help in overcoming the obstructions.';
@@ -2115,7 +2120,7 @@ $book['39']['line5'] =
   Friends come. \e
   Here we see a man who is called to help in an emergency. He should not seek to evade the obstructions, no matter how dangerously they pile up before him. But because he is really called to the task, the power of his spirit is strong enough to attract helpers whom he can effectively organize, so that through the well-directed co-operation of all participants the obstruction is overcome.';
 $book['39']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Going leads to obstructions,
   Coming leads to great good fortune. 
   It furthers one to see the great man. \e
@@ -2141,7 +2146,7 @@ $book['40']['image'] =
   And forgives misdeeds. \e
   A thunderstorm has the effect of clearing the air; the superior man produces a similar effect when dealing with mistakes and sins of men that induce a condition of tension. Through clarity he brings deliverance. However, when failings come to light, he does not dwell on them; he simply passes over mistakes, the unintentional transgressions, just as thunder dies away. He forgives misdeeds, the intentional transgressions, just as water washes everything clean.';
 $book['40']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   Without blame. \e
   In keeping with the situation, few words are needed. The hindrance is past, deliverance has come. One recuperates in peace and keeps still. This is the right thing to do in times when difficulties have been overcome.';
 $book['40']['line2'] = 
@@ -2151,7 +2156,7 @@ $book['40']['line2'] =
   Perseverance brings good fortune. \e
   The image is taken from the hunt. The hunter catches three cunning foxes and receives a yellow arrow as a reward. The obstacles in public life are the designing foxes who try to influence the ruler through flattery. They must be removed before there can be any deliverance. But the struggle must not be carried on with the wrong weapons. The yellow color points to measure and mean in proceeding against the enemy; the arrow signifies the straight course. If one devotes himself wholeheartedly to the task of deliverance, he develops so much inner strength from his rectitude that it acts as a weapon against all that is false and low.';
 $book['40']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   If a man carries a burden on his back
   And nonetheless rides in a carriage,
   He thereby encourages robbers to draw near. 
@@ -2165,13 +2170,13 @@ $book['40']['line4'] =
   And him you can trust. \e
   In times of standstill it will happen that inferior people attach themselves to a superior man, and through force of daily habit they may grow very close to him and become indispensable, just as the big toe is indispensable to the foot because it makes walking easier. But when the time of deliverance draws near, with its call to deeds, a man must free himself from such chance acquaintances with whom he has no inner connection. For otherwise the friends who share his views, on whom he could really rely and together with whom he could accomplish something, mistrust him and stay away.';
 $book['40']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   If only the superior man can deliver himself,
   It brings good fortune. 
   Thus he proves to inferior men that he is in earnest. \e
   Times of deliverance demand inner resolve. Inferior people cannot be driven off by prohibitions or any external means. If one desires to be rid of them, he must first break completely with them in his own mind; they will see for themselves that he is in earnest and will withdraw.';
 $book['40']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   The prince shoots at a hawk on a high wall. 
   He kills it. Everything serves to further. \e
   The hawk on a high wall is the symbol of a powerful inferior in a high position who is hindering the deliverance. He withstands the force of inner influences, because he is hardened in his wickedness. He must be forcibly removed, and this requires appropriate means. Confucius says about this line:
@@ -2230,7 +2235,7 @@ $book['42']['line1'] =
   Supreme good fortune. No blame. \e
   If great help comes to a man from on high, this increased strength must be used to achieve something great for which he might otherwise never have found energy, or readiness to take responsibility. Great good fortune is produced by selflessness, and in bringing about great good fortune, he remains free of reproach.';
 $book['42']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Someone does indeed increase him;
   Ten pairs of tortoises cannot oppose it. 
   Constant perseverance brings good fortune. 
@@ -2238,14 +2243,14 @@ $book['42']['line2'] =
   Good fortune. \e
   A man brings about real increase by producing in himself the conditions for it, that is, through receptivity to and love of the good. Thus the thing for which he strives comes of itself, with the inevitability of natural law. Where increase is thus in harmony with the highest laws of the universe, it cannot be prevented by any constellation of accidents. But everything depends on his not letting unexpected good fortune make him heedless; he must make it his own through inner strength and steadfastness. Then he acquires meaning before God and man, and can accomplish something for the good of the world.';
 $book['42']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   One is enriched through unfortunate events. 
   No blame, if you are sincere
   And walk in the middle,
   And report with a seal to the prince. \e
   A time of blessing and enrichment has such powerful effects that even events ordinarily unfortunate must turn out to the advantage of those affected by them. These persons become free of error, and by acting in harmony with truth they gain such inner authority that they exert influence as if sanctioned by letter and seal.';
 $book['42']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   If you walk in the middle
   And report the prince,
   He will follow. 
@@ -2316,7 +2321,7 @@ $book['44']['image'] =
   And proclaiming them to the four quarters of heaven. \e
   The situation here resembles that in hexagram 20, Kuan, CONTEMPLATION (VIEW). In the latter the wind blows over the earth, here it blows under heaven; in both cases it goes everywhere. There the wind is on the earth and symbolizes the ruler taking note of the conditions in his kingdom; here the wind blows from above and symbolizes the influence exercised by the ruler through his commands. Heaven is far from the things of earth, but it sets them in motion by means of the wind. The ruler is far form his people, but he sets them in motion by means of his commands and decrees.';
 $book['44']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   It must be checked with a brake of bronze. 
   Perseverance brings good fortune. 
   If one lets it take its course, one experiences misfortune. 
@@ -2410,7 +2415,7 @@ $book['46']['image'] =
   In order to achieve something high and great.\e
   Adapting itself to obstacles and bending around them, wood in the earth grows upward without haste and without rest. Thus too the superior man is devoted in character and never pauses in his progress.';
 $book['46']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   Pushing upward that meets with confidence
   Brings great good fortune. \e
   This situation at the beginning of ascent. Just as wood draws strength for its upward push from the root, which in itself is in the lowest place, so the power to rise comes from this low and obscure station. But there is a spiritual affinity with the rulers above, and this solidarity creates the confidence needed to accomplish something.';
@@ -2425,17 +2430,17 @@ $book['46']['line3'] =
   One pushes upward into an empty city. \e
   All obstructions that generally block progress fall away here. Things proceed with remarkable ease. Unhesitatingly one follows this road, in order to profit by one\'s success. Seen from without, everything seems to be in the best of order. However, no promise of good fortune is added. It is a question how long such unobstructed success can last. But it is wise not to yield to such misgivings, because they only inhibit one\'s power. Instead, the point is to profit by the propitiousness of time.';
 $book['46']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The king offers him Mount Ch\'i. 
   Good fortune. No blame. \e
   Mount Ch\'i is in western China, the homeland of King Wên, whose son, the Duke of Chou, added the words to the individual lines. The pronouncement takes us back to a time when the Chou dynasty was coming into power. At that time King Wên introduced his illustrious helpers to the god of his native mountain, and they received their places in the halls of the ancestors by the side of the ruler. This indicates a stage in which pushing upward attains its goal. One acquires fame in the sight of gods and men, is received into the circle of those who foster the spiritual life of the nation, and thereby attains a significance that endures beyond time.';
 $book['46']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Perseverance brings good fortune. 
   One pushes upward by steps. \e
   When a man is advancing farther and farther, it is important for him not to become intoxicated by success. Precisely when he experiences great success it is necessary to remain sober and not to try to skip any stages; he must go on slowly, step by step, as though hesitant. Only such calm, steady progress, overleaping nothing, leads to the goal.';
 $book['46']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Pushing upward in darkness. 
   It furthers one
   To be unremittingly persevering. \e
@@ -2461,7 +2466,7 @@ $book['47']['image'] =
   On following his will. \e
   When the water has flowed out below, the lake must dry up and become exhausted. That is fate. This symbolizes an adverse fate in human life. In such times there is nothing a man can do but acquiesce in his fate and remain true to himself. This concerns the deepest stratum of his being, for this alone is superior to all external fate.';
 $book['47']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   One sits oppressed under a bare tree
   And strays into a gloomy valley. 
   For three years one sees nothing. \e
@@ -2475,7 +2480,7 @@ $book['47']['line2'] =
   No blame. \e
   This pictures a state of inner oppression. Externally, all is well, one has meat and drink. But one is exhausted by the commonplaces of life, and there seems to be no way of escape. Then help comes from a high place. A prince–in ancient China princes wore scarlet knee bands–is in search of able helpers. But there are still obstructions to be overcome. Therefore it is important to meet these obstructions in the visible realm by offerings and prayer. To set forth without being prepared would be disastrous, though not morally wrong. Here a disagreeable situation must be overcome by patience of spirit.';
 $book['47']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   A man permits himself to be oppressed by stone,
   And leans on thorns and thistles. 
   He enters the house and does not see his wife. 
@@ -2495,14 +2500,14 @@ $book['47']['line5'] =
   It furthers one to make offerings and libations. \e
   An individual who has the good of mankind at heart is oppressed from above and below (this is the meaning of the cutting off of nose and feet). He finds no help among the people whose duty it would be to aid in the work of rescue (ministers wore purple knee bands). But little by little, things take a turn for the better. Until that time, he should turn to God, firm in his inner composure, and pray and offer sacrifice for the general well-being.';
 $book['47']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   He is oppressed by creeping vines. 
   He moves uncertainly and says, "Movement brings remorse. "
   If one feels remorse over this and makes a start,
   Good fortune comes. \e
   A man is oppressed by bonds that can easily be broken. The distress is drawing to an end. But he is still irresolute; he is still influenced by the previous condition and fears that he may have cause for regret if he makes a move. But as soon as he grasps the situation, changes this mental attitude, and makes a firm decision, he masters the oppression.';
 $book['47']['line-3'] = 
-' Six at the top means:
+' Sei sopra significa:
   He is oppressed by creeping vines. 
   He moves uncertainly and says, "Movement brings remorse. "
   If one feels remorse over this and makes a start,
@@ -2533,7 +2538,7 @@ $book['48']['image'] =
   And exhorts them to help one another. \e
   The trigram Sun, wood, is below, and the trigram K\'an, water, is above it. Wood sucks water upward. Just as wood as an organism imitates the action of the well, which benefits all parts of the plant, the superior man organizes human society, so that, as in a plant organism, its parts co-operate for the benefit of the whole.';
 $book['48']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   One does not drink the mud of the well. 
   No animals come to an old well. \e
   If a man wanders around in swampy lowlands, his life is submerged in mud. Such a man loses all significance for mankind. He who throws himself away is no longer sought out by others. In the end no one troubles about him any more.';
@@ -2552,7 +2557,7 @@ $book['48']['line3'] =
   Good fortune might be enjoyed in common. \e
   An able man is available. He is like a purified well whose water is drinkable. But no use is made of him. This is the sorrow of those who know him. One wishes that the prince might learn about it; this would be good fortune for all concerned.';
 $book['48']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The well is being lined. No blame. \e
   True, if a well is being lined with stone, it cannot be used while the work is going on. But the work is not in vain; the result is that the water stays clear. In life also there are times when a man must put himself in order. During such a time he can do nothing for others, but his work is nonetheless valuable, because by enhancing his powers and abilities through inner development, he can accomplish all the more later on.';
 $book['48']['line5'] = 
@@ -2561,7 +2566,7 @@ $book['48']['line5'] =
   From which one can drink. \e
   A well that is fed by a spring of living water is a good well. A man who has virtues like a well of this sort is born to be a leader and savior of men, for he has the water of life. Nevertheless, the character for "good fortune" is left out here. The all-important thing about a well is that its water be drawn. The best water is only a potentiality for refreshment as long as it is not brought up. So too with leaders of mankind: it is all-important that one should drink from the spring of their words and translate them into life.';
 $book['48']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   One draws from the well
   Without hindrance. 
   It is dependable. 
@@ -2636,7 +2641,7 @@ $book['50']['image'] =
   By making his position correct. \e
   The fate of fire depends on wood; as long as there is wood below, the fire burns above. It is the same in human life; there is in man likewise a fate that lends power to his life. And if he succeeds in assigning the right place to life and to fate, thus bringing the two into harmony, he puts his fate on a firm footing. These words contain hints about the fostering of life as handed on by oral tradition in the secret teachings of Chinese yoga.';
 $book['50']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   A ting with legs upturned. 
   Furthers removal of stagnating stuff. 
   One takes a concubine for the sake of her son. 
@@ -2669,7 +2674,7 @@ $book['50']['line4'] =
   Confucius says about this line:
   "Weak character coupled with honored place, meager knowledge with large plans, limited powers with heavy responsibility, will seldom escape disaster. "';
 $book['50']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   The ting has yellow handles, golden carrying rings. 
   Perseverance furthers. \e
   Here we have, in a ruling position, a man who is approachable and modest in nature. As a result of this attitude he succeeds in finding strong and able helpers who complement and aid him in his work. Having achieved this attitude, which requires constant self-abnegation, it is important for him to hold to it and not to let himself be led astray.';
@@ -2707,7 +2712,7 @@ $book['51']['line1'] =
   Good fortune. \e
   The fear and trembling engendered by shock come to an individual at first in such a way that he sees himself placed at a disadvantage as against others. But this is only transitory. When the ordeal is over, he experiences relief, and thus the very terror he had to endure at the outset brings good fortune in the long run.';
 $book['51']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   Shock comes bringing danger. 
   A hundred thousand times
   You lose your treasures
@@ -2716,7 +2721,7 @@ $book['51']['line2'] =
   After seven days you will get them back again. \e
   This pictures a situation in which a shock endangers a man and he suffers great losses. Resistance would be contrary to the movement of the time and for this reason unsuccessful. Therefore he must simply retreat to heights inaccessible to the threatening forces of danger. He must accept his loss of property without worrying too much about it. When the time of shock and upheaval that has robbed him of his possessions has passed, he will get them back again without going in pursuit of them.';
 $book['51']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Shock comes and makes one distraught. 
   If shock spurs to action
   One remains free of misfortune. \e
@@ -2726,14 +2731,14 @@ $book['51']['line4'] =
   Shock is mired. \e
   Movement within the mind depends for its success partly on circumstances. If there is neither a resistance that might be vigorously combated, nor yet a yielding that permits of victory–if, instead, everything is tough and inert like mire–movement is crippled.';
 $book['51']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Shock goes hither and thither. 
   Danger. 
   However, nothing at all is lost. 
   Yet there are things to be done. \e
   This is a case not of a single shock but of repeated shocks with no breathing space between. Nonetheless, the shock causes no loss, because one takes care to stay in the center of movement and in this way to be spared the fate of being helplessly tossed hither and thither.';
 $book['51']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Shock brings ruin and terrified gazing around. 
   Going ahead brings misfortune. 
   If it has not yet touched one\'s own body
@@ -2821,14 +2826,14 @@ $book['53']['image'] =
   In order to improve the mores. \e
   The tree on the mountain is visible from afar, and its development influences the landscape of the entire region. It does not shoot up like a swamp plant; its growth proceeds gradually. Thus also the work of influencing people can be only gradual. No sudden influence or awakening is of lasting effect. Progress must be quite gradual, and in order to obtain such progress in public opinion and in the mores of the people, it is necessary for the personality to acquire influence and weight. This comes about through careful and constant work on one\'s own moral development.';
 $book['53']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   The wild goose gradually draws near the shore. 
   The young son is in danger. 
   There is talk. No blame. \e
   All the individual lines in this hexagram symbolize the gradual flight of the wild goose. The wild goose is the symbol of conjugal fidelity, because it is believed that this bird never takes another mate after the death of the first.
   The initial line suggests the first resting place in the flight of water birds from the water to the heights. The shore is reached. The situation is that of a lonely young man who is just starting out to make his way in life. Since no one comes to help him, his first steps are slow and hesitant, and he is surrounded by danger. Naturally he is subjected to much criticism. But these very difficulties keep him from being too hasty, and his progress is successful.';
 $book['53']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   The wild goose gradually draws near the cliff. 
   Eating and drinking in peace and concord. 
   Good fortune. \e
@@ -2844,7 +2849,7 @@ $book['53']['line3'] =
   The high plateau is dry and unsuitable for the wild goose. If it goes there, it has lost its way and gone too far. This is contrary to the law of development.
   It is the same in human life. If we do not let things develop quietly but plunge of our own choice too rashly into a struggle, misfortune results. A man jeopardizes his own life, and his family perishes thereby. However, this is not all necessary; it is only the result of transgressing the law of natural development. If one does not willfully provoke a conflict, but confines himself to vigorously maintaining his own position and to warding off unjustified attacks, all goes well.';
 $book['53']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The wild goose goes gradually draws near the tree. 
   Perhaps it will find a flat branch. No blame. \e
   A tree is not a suitable place for a wild goose. But if it is clever, it will find a flat branch on which it can get a footing. A man\'s life too, in the course of its development, often brings him into inappropriate situations, in which he finds it difficult to hold his own without danger. Then it is important to be sensible and yielding. This enables him to discover a safe place in which life can go on, although he may be surrounded by danger.';
@@ -2896,7 +2901,7 @@ $book['54']['line2'] =
   The perseverance of a solitary man furthers. \e
   Here the situation is that of a girl married to a man who has disappointed her. Man and wife ought to work together like a pair of eyes. Here the girl is left behind in loneliness; the man of her choice either has become unfaithful or has died. But she does not lost the inner light of loyalty. Thought the other eye is gone, she maintains her loyalty even in loneliness.';
 $book['54']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   The marrying maiden as a slave. 
   She marries as a concubine. \e
   A girl who is in a lowly position and finds no husband may, in some circumstances, still win shelter as a concubine.
@@ -2907,7 +2912,7 @@ $book['54']['line4'] =
   A late marriage comes in due course. \e
   The girl is virtuous. She does not wish to throw herself away, and allows the customary time for marriage to slip by. However, there is no harm in this; she is rewarded for her purity and, even though belatedly, finds the husband intended for her.';
 $book['54']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   The sovereign I gave his daughter in marriage. 
   The embroidered garments of the princess
   Were not as gorgeous
@@ -2917,7 +2922,7 @@ $book['54']['line5'] =
   The sovereign I is T\'ang the Completer. This ruler decreed that the imperial princesses should be subordinated to their husbands in the same manner as other women (cf. Hexagram 11, six in the fifth place). The emperor does not wait for a suitor to woo his daughter but gives her in marriage when he sees fit. Therefore it is in accord with custom for the girl\'s family to take the initiative here.
   We see here a girl of aristocratic birth who marries a man of modest circumstances and understands how to adapt herself with grace to the new situation. She is free of all vanity of outer adornment, and forgetting her rank in her marriage, takes a place below that of her husband, just as the moon, before it is quite full, does not directly face the sun.';
 $book['54']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   The woman holds the basket, but there are no fruits in it. 
   The man stabs the sheep, but no blood flows. 
   Nothing that acts to further. \e
@@ -2949,7 +2954,7 @@ $book['55']['line1'] =
   Going meets with recognition. \e
   To bring about a time of abundance, a union of clarity with energetic movement is needed. Two individuals possessed of these two attributes are suited to each other, and even if they spend an entire cycle of time together during the period of abundance, it will not be too long, nor is it a mistake. Therefore one may go forth, in order to make one\'s influence felt; it will meet with recognition.';
 $book['55']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   The curtain is of such fullness
   That the polestars can be seen at noon. 
   Through going one meets with mistrust and hate. 
@@ -2971,13 +2976,13 @@ $book['55']['line4'] =
   Good fortune. \e
   Here the darkness is already decreasing, therefore interrelated elements come together. Here too the complement must be found–the necessary wisdom to complement joy of action. Then everything will go well. The complementary factor postulated here is the reverse of the one in the first line. In the latter, wisdom is to be complemented by energy, while here energy is complemented by wisdom.';
 $book['55']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Lines are coming,
   Blessing and fame draw near. 
   Good fortune. \e
   The ruler is modest and therefore open to the counsel of able men. Thus he is surrounded by men who suggest to him the lines of action. This brings blessing, fame, and good fortune to him and all the people.';
 $book['55']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   His house is in a state of abundance. 
   He screens off his family. 
   He peers through the gate
@@ -3007,12 +3012,12 @@ $book['56']['image'] =
   And protracts no lawsuits. \e
   When grass on a mountain takes fire, there is bright light. However, the fire does not linger in one place, but travels on to new fuel. It is a phenomenon of short duration. This is what penalties and lawsuits should be like. They should be a quickly passing matter, and must not be dragged out indefinitely. Prisons ought to be places where people are lodged only temporarily, as guests are. They must not become dwelling places.';
 $book['56']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   If the wanderer busies himself with trivial things,
   He draws down misfortune upon himself. \e
   A wanderer should not demean himself or busy himself with inferior things he meets with along the way. The humbler and more defenseless his outward position, the more should he preserve his inner dignity. For a stranger is mistaken if he hopes to find a friendly reception through lending himself to jokes and buffoonery. The result will be only contempt and insulting treatment.';
 $book['56']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   The wanderer comes to an inn. 
   He has his property with him. 
   He wins the steadfastness of a young servant. \e
@@ -3030,7 +3035,7 @@ $book['56']['line4'] =
   My heart is not glad. \e
   This describes a wanderer who knows how to limit his desires outwardly, though he is inwardly strong and aspiring. Therefore he finds at least a place of shelter in which he can stay. He also succeeds in acquiring property, but even with this he is not secure. He must be always on guard, ready to defend himself with arms. Hence he is not at ease. He is persistently conscious of being a stranger in a strange land.';
 $book['56']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   He shoots a pheasant. 
   It drops with the first arrow. 
   In the end this brings both praise and office. \e
@@ -3065,7 +3070,7 @@ $book['57']['image'] =
   And carries out his undertakings. \e
   The penetrating quality of the wind depends upon its ceaselessness. This is what makes it so powerful; time is its instrument. In the same way the ruler\'s thought should penetrate the soul of the people. This too requires a lasting influence brought about by enlightenment and command. Only when the command has been assimilated by the people is action in accordance with it possible. Action without preparation of the ground only frightens and repels.';
 $book['57']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   In advancing and in retreating,
   The perseverance of a warrior furthers. \e
   Inborn gentleness is often carried to the point of indecisiveness. One does not feel strong enough to advance resolutely. A thousand doubts crop up; one is, however, not minded to withdraw but drifts indecisively to and fro. In such a situation, a military decisiveness is the proper thing, so that one resolutely does what order demands. Resolute discipline is far better than irresolute license.';
@@ -3080,7 +3085,7 @@ $book['57']['line3'] =
   Repeated penetration. Humiliation. \e
   Penetrating reflection must not be pushed too far, lest it cripple the power of decision. After a matter has been thoroughly pondered, it is essential to form a decision and to act. Repeated deliberation brings fresh doubts and scruples, and thereby humiliation, because one shows oneself unable to act.';
 $book['57']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Remorse vanishes. 
   During the hunt
   Three kinds of game are caught. \e
@@ -3129,7 +3134,7 @@ $book['58']['line2'] =
   Remorse disappears. \e
   We often find ourselves associating with inferior people in whose company we are tempted by pleasures that are inappropriate for the superior man. To participate in such pleasures would certainly bring remorse, for a superior man can find no real satisfaction in low pleasures. When, recognizing this, a man does not permit his will to swerve, so that he does not find such ways agreeable, not even dubious companions will venture to proffer any base pleasures, because he would not enjoy them. Thus every cause for regret is removed.';
 $book['58']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Coming joyousness. Misfortune. \e
   True joy must spring from within. But if one is empty within and wholly given over to the world, idle pleasures come streaming in from without. This is what many people welcome as diversion. Those who lack inner stability and therefore need amusement, will always find opportunity of indulgence. They attract external pleasures by the emptiness of their natures. Thus they lose themselves more and more, which of course has bad results.';
 $book['58']['line4'] = 
@@ -3142,7 +3147,7 @@ $book['58']['line5'] =
   Sincerity toward disintegrating influences is dangerous. \e
   Dangerous elements approach even the best of men. If a man permits himself to have anything to do with them, their disintegrating influence acts slowly but surely, and inevitable brings dangers in its train. But if he recognizes the situation and can comprehend the danger, he knows how to protect himself and remains unharmed.';
 $book['58']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Seductive joyousness. \e
   A vain nature invites diverting pleasures and must suffer accordingly (cf. the six in the third place). If a man is unstable within, the pleasures of the world that he does not shun have so powerful an influence that he is swept along by them. Here it is no longer a question of danger, of good fortune or misfortune. He has given up direction of his own life, and what becomes of him depends upon chance and external influences.';
 
@@ -3167,7 +3172,7 @@ $book['59']['image'] =
   And built temples. \e
   In the autumn and winter, water begins to freeze into ice. When the warm breezes of spring come, the rigidity is dissolved, and the elements that have been dispersed in ice floes are reunited. It is the same with the minds of the people. Through hardness and selfishness the heart grows rigid, and this rigidity leads to separation from all others. Egotism and cupidity isolate men. Therefore the hearts of men must be seized by a devout emotion. They must be shaken by a religious awe in face of eternity–stirred with an intuition of the One Creator of all living beings, and united through the strong feeling of fellowship experienced in the ritual of divine worship.';
 $book['59']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   He brings help with the strength of a horse. 
   Good fortune. \e
   It is important that disunion should be overcome at the outset, before it has become complete–that the clouds should be dispersed before they have brought storm and rain. At such times when hidden divergences in temper make themselves felt and lead to mutual misunderstandings we must take quick and vigorous action to dissolve the misunderstandings and mutual distrust.';
@@ -3178,11 +3183,11 @@ $book['59']['line2'] =
   Remorse disappears. \e
   When an individual discovers within himself the beginnings of alienation from others, of misanthropy and ill humor, he must set about dissolving these obstructions. He must rouse himself inwardly, hasten to that which supports him. Such support is never found in hatred, but always in a moderate and just judgment of men, linked with good will. If he regains this unobstructed outlook on humanity, while at the same time all saturnine ill humor is dissolved, all occasion for remorse disappears.';
 $book['59']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   He dissolves his self. No remorse. \e
   Under certain circumstances, a man\'s work may become so difficult that he can no longer think of himself. He must set aside all personal desires and disperse whatever the self gathers about it to serve as a barrier against others. Only on the basis of a great renunciation can he obtain the strength for great achievements. By setting his goal in a great task outside himself, he can attain this standpoint.';
 $book['59']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   He dissolves his bond with his group. 
   Supreme good fortune. 
   Dispersion leads in turn to accumulation. 
@@ -3229,13 +3234,13 @@ $book['60']['line2'] =
   Brings misfortune. \e
   When the time for action has come, the moment must be quickly seized. Just as water first collects in a lake without flowing out, yet is certain to find an outlet when the lake is full, so it is in the life of man. It is a good thing to hesitate so long as the time for action has not come, but no longer. Once the obstacles to action have been removed, anxious hesitation is a mistake that is bound to bring disaster, because one misses one\'s opportunity.';
 $book['60']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   He who knows no limitation
   Will have cause to lament. 
   No blame. \e
   If an individual is bent only on pleasures and enjoyment, it is easy for him to lose his sense of the limits that are necessary. If he gives himself over to extravagance, he will have to suffer the consequences, with accompanying regret. He must not seek to lay the blame on others. Only when we realize that our mistakes are of our own making will such disagreeable experiences free us of errors.';
 $book['60']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   Contented limitation. Success. \e
   Every limitation has its value, but a limitation that requires persistent effort entails a cost of too much energy. When, however, the limitation is a natural one (as for example, the limitation by which water flows only downhill), it necessarily leads to success, for then it means a saving of energy. The energy that otherwise would be consumed in a vain struggle with the object, is applied wholly to the benefit of the matter in hand, and success is assured.';
 $book['60']['line5'] = 
@@ -3244,7 +3249,7 @@ $book['60']['line5'] =
   Going brings esteem. \e
   The limitation must be carried out in the right way if it is to be effective. If we seek to impose restrictions on others only, while evading them ourselves, these restrictions will always be resented and will provoke resistance. If, however, a man in a leading position applies the limitation first to himself, demanding little from those associated with him, and with modest means manages to achieve something, good fortune is the result. Where such an example occurs, it meets with emulation, so that whatever is undertaken must succeed.';
 $book['60']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   Galling limitation. 
   Perseverance brings misfortune. 
   Remorse disappears. \e
@@ -3284,13 +3289,13 @@ $book['61']['line2'] =
   This refers to the involuntary influence of a man\'s inner being upon persons of kindred spirit. The crane need not show itself on a high hill. It may be quite hidden when it sounds its call; yet its young will hear its note, will recognize it and give answer. Where there is a joyous mood, there a comrade will appear to share a glass of wine.
   This is the echo awakened in men through spiritual attraction. Whenever a feeling is voiced with truth and frankness, whenever a deed is the clear expression of sentiment, a mysterious and far-reaching influence is exerted. At first it acts on those who are inwardly receptive. But the circle grows larger and larger. The root of all influence lies in one\'s own inner being: given true and vigorous expression in word and deed, its effect is great. The effect is but the reflection of something that emanates from one\'s own heart. Any deliberate intention of an effect would only destroy the possibility of producing it. Confucius says about this line: The superior man abides in his room. If his words are well spoken, he meets with assent at a distance of more than a thousand miles. How much more then from near by! If the superior man abides in his room and his words are not well spoken, he meets with contradiction at a distance of more than a thousand miles. How much more then from near by! Words go forth from one\'s own person and exert their influence on men. Deeds are born close at hand and become visible far away. Words and deeds are the hinge and bowspring of the superior man. As hinge and bowspring move, they bring honor or disgrace. Through words and deeds the superior man moves heaven and earth. Must one not, then, be cautious?';
 $book['61']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   He finds a comrade. 
   Now he beats the drum, now he stops. 
   Now he sobs, now he sings. \e
   Here the source of a man\'s strength lies not in himself but in his relation to other people. No matter how close to them he may be, if his center of gravity depends on them, he is inevitably tossed to and fro between joy and sorrow. Rejoicing to high heaven, then sad unto death–this is the fate of those who depend upon an inner accord with other persons whom they love. Here we have only the statement of the law that this is so. Whether this condition is felt to be an affliction or the supreme happiness of love, is left to the subjective verdict of the person concerned.';
 $book['61']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The moon nearly at the full. 
   The team horse goes astray. 
   No blame. \e
@@ -3330,11 +3335,11 @@ $book['62']['image'] =
   In his expenditures he gives preponderance to thrift. \e
   Thunder on the mountain is different from thunder on the plain. In the mountains, thunder seems much nearer; outside the mountains, it is less audible than the thunder of an ordinary storm. Thus the superior man derives an imperative from this image: he must always fix his eyes more closely and more directly on duty than does the ordinary man, even though this might make his behavior seem petty to the outside world. He is exceptionally conscientious in his actions. In bereavement emotion means more to him than ceremoniousness. In all his personal expenditures he is extremely simple and unpretentious. In comparison with the man of the masses, all this makes him stand out as exceptional. But the essential significance of his attitude lies in the fact that in external matters he is on the side of the lowly.';
 $book['62']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   The bird meets with misfortune through flying. \e
   A bird ought to remain in the nest until it is fledged. If it tries to fly before this, it invites misfortune. Extraordinary measures should be resorted to only when all else fails. At first we ought to put up with traditional ways as long as possible; otherwise we exhaust ourselves and our energy and still achieve nothing.';
 $book['62']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   She passes by her ancestor
   And meets her ancestress. 
   He does not reach his prince
@@ -3355,13 +3360,13 @@ $book['62']['line4'] =
   Do not act. Be constantly persevering. \e
   Hardness of character is tempered by yielding position so that no mistakes are made. The situation here calls for extreme caution; one must make no attempt of one\'s own initiative to reach the desired end. And if one were to go on, endeavoring to force his way to the goal, he would be endangered. Therefore one must be on guard and not act but continue inwardly to persevere.';
 $book['62']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Dense clouds,
   No rain from our western territory. 
   The prince shoots and hits him who is in the cave. \e
   As a high place is pictured here, the image of a flying bird has become that of flying clouds. But dense as the clouds are, they race across the sky and give no rain. Similarly, in exceptional times there may be a born ruler who is qualified to set the world in order, but who cannot achieve anything or confer blessing on the people because he stands alone and has no helpers. Is such times a man must seek out helpers with whose aid he can carry out the task. But these helpers must be modestly sought out in the retirement to which they have withdrawn. It is not their fame nor their great names but their genuine achievements that are important. Through such modesty the right man is found, and the exceptional task is carried out in spite of all difficulties.';
 $book['62']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   He passes him by, not meeting him. 
   The flying bird leaves him. 
   Misfortune. 
@@ -3395,7 +3400,7 @@ $book['63']['line1'] =
   No blame. \e
   In times following a great transition, everything is pressing forward, striving in the direction of development and progress. But this pressing forward at the beginning is not good; it overshoots the mark and leads with certainty to loss and collapse. Therefore a man of strong character does not allow himself to be infected by the general intoxication but checks his course in time. He may indeed not remain altogether untouched by the disastrous consequences of the general pressure, but he is hit only from behind like a fox that, having crossed the water, at the last minute gets its tail wet. He will not suffer any real harm, because his behavior has been correct.';
 $book['63']['line2'] = 
-' Six in the second place means:
+' Sei al secondo posto significa:
   The woman loses the curtain of her carriage. 
   Do not run after it;
   On the seventh day you will get it. \e
@@ -3410,7 +3415,7 @@ $book['63']['line3'] =
   "Illustrious Ancestor" is the dynastic title of the Emperor Wu Ting of the Yin dynasty. After putting his realm in order with a strong hand, he waged long colonial wars for the subjection of the Huns who occupied the northern borderland with constant threat of incursions.
   The situation described is as follows. After times of completion, when a new power has arisen and everything within the country has been set in order, a period of colonial expansion almost inevitably follows. Then as a rule long-drawn-out struggles must be reckoned with. For this reason, a correct colonial policy is especially important. The territory won at such bitter cost must not be regarded as an almshouse for people who in one way or another have made themselves impossible at home, but who are thought to be quite good enough for the colonies. Such a policy ruins at the outset any chance of success. This holds true in small as well as large matters, because it is not only rising states that carry on a colonial policy; the urge to expand, with its accompanying dangers, is part and parcel of every ambitious undertaking.';
 $book['63']['line4'] = 
-' Six in the fourth place means:
+' Sei al quarto posto significa:
   The finest clothes turn to rags. 
   Be careful all day long. \e
   In a time of flowering culture, an occasional convulsion is bound to occur, uncovering a hidden evil within society and at first causing a great sensation. But since the situation is favorable on the whole, such evils can easily be glossed over and concealed from the public. Then everything is forgotten and peace apparently reigns complacently once more. However, to the thoughtful man, such occurrences are grave omens that he does not neglect. This is the only way of averting evil consequences.';
@@ -3422,7 +3427,7 @@ $book['63']['line5'] =
   With his small offering. \e
   Religious attitudes are likewise influenced by the spiritual atmosphere prevailing in times after completion. In divine worship the simple old forms are replaced by an ever more elaborate ritual and an ever greater outward display. But inner seriousness is lacking in this show of magnificence; human caprice takes the place of conscientious obedience to the divine will. However, while man sees what is before his eyes, God looks into the heart. Therefore a simple sacrifice offered with real piety holds a greater blessing than an impressive service without warmth.';
 $book['63']['line6'] = 
-' Six at the top means:
+' Sei sopra significa:
   He gets his head in the water. Danger. \e
   Here in conclusion another warning is added. After crossing a stream, a man\'s head can get into the water only if he is so imprudent as to turn back. As long as he goes forward and does not look back, he escapes this danger. But there is a fascination in standing still and looking back on a peril overcome. However, such vain self-admiration brings misfortune. It leads only to danger, and unless one finally resolves to go forward without pausing, one falls a victim to this danger.';
 
@@ -3446,7 +3451,7 @@ $book['64']['image'] =
   So that each finds its place. \e
   When fire, which by nature flames upward, is above, and water, which flows downward, is below, their effects take opposite directions and remain unrelated. If we wish to achieve an effect, we must first investigate the nature of the forces in question and ascertain their proper place. If we can bring these forces to bear in the right place, they will have the desired effect and completion will be achieved. But in order to handle external forces properly, we must above all arrive at the correct standpoint ourselves, for only from this vantage can we work correctly.';
 $book['64']['line1'] = 
-' Six at the beginning means:
+' Sei all\'inizio significa:
   He gets his tail in the water. 
   Humiliating. \e
   In times of disorder there is a temptation to advance oneself as rapidly as possible in order to accomplish something tangible. But this enthusiasm leads only to failure and humiliation if the time for achievement has not yet arrived. In such time it is wise to spare ourselves the opprobrium of failure by holding back.';
@@ -3456,7 +3461,7 @@ $book['64']['line2'] =
   Perseverance brings good fortune. \e
   Here again the time to act has not yet come. But the patience needed is not that of idle waiting without thought of the morrow. Kept up indefinitely, this would not lead to any success. Instead, an individual must develop in himself the strength that will enable him to go forward. He must have a vehicle, as it were, to effect the crossing. But he must for the time being use the brakes. Patience in the highest sense means putting brakes on strength. Therefore he must not fall asleep and lose sight of the goal. If he remains strong and steadfast in his resolve, all goes well in the end.';
 $book['64']['line3'] = 
-' Six in the third place means:
+' Sei al terzo posto significa:
   Before completion, attack brings misfortune. 
   It furthers one to cross the great water. \e
   The time of transition has arrived, but one lacks the strength to complete the transition. If one should attempt to force it, disaster would result, because collapse would then be unavoidable. What is to be done? A new situation must be created; one must engage the energies of able helpers and in this fellowship take the decisive step–cross the great water. Then completion will become possible.';
@@ -3468,7 +3473,7 @@ $book['64']['line4'] =
   For three years, great realms are awarded. \e
   Now it is the time of struggle. The transition must be completed. We must make ourselves strong in resolution; this brings good fortune. All misgivings that might arise in such grave times of struggle must be silenced. It is a question of a fierce battle to break and to discipline the Devil\'s Country, the forces of decadence. But the struggle also has its reward. Now is the time to lay the foundations of power and mastery for the future.';
 $book['64']['line5'] = 
-' Six in the fifth place means:
+' Sei al quinto posto significa:
   Perseverance brings good fortune. 
   No remorse. 
   The light of the superior man is true. 

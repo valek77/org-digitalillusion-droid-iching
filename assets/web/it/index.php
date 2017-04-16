@@ -341,58 +341,52 @@ $book['06']['line6'] =
 
 # -------------------------      07       ----------------------- #
 $book['07']['desc'] = 
-'Esagramma 7 – Esercito
-Nel grembo della terra vi è l’acqua: l’immagine dell’esercito. Così il nobile, magnanimo verso il popolo, cresce le sue masse. L’esercito ha bisogno di perseveranza e di un uomo forte. Salute senza macchia. \e
-Un lago si è raccolto sulla terra, da qui l’idea di molte persone insieme che collaborano per una meta condivisa. E’ una visione di giustizia, di uguaglianza e di accordo, poichè non si possono ottenere risultati di valore senza ricevere il contributo degli altri, né è possibile un vero e aperto scambio senza dare in ritorno il proprio contributo. Ma ciascuno dà quello che può e sa dare; come in un esercito,  in ogni impresa impegnativa ognuno ha il suo ruolo  importante, e opera affinché anche gli altri possano operare. Tutto però deve essere diretto da chi ha la saggezza e l’esperienza, l’abnegazione e sa assumersi le responsabilità di prendere le decisioni.  E’necessario mantenere le redini della situazione pur restando in atteggiamento di accoglienza. Non agire d’impulso, o sconsideratamente. Attenzione a non mettersi in situazioni di debolezza, qui presenti tutto intorno alla domanda in questione: imponi la tua volontà e la tua visione e altri ti seguiranno spontaneamente. Non cedere alle oscurità,sempre in agguato e persevera.   L’impresa si può fare, la costruzione può cominciare. Queste sono le basi di qualcosa raramente sperimentato prima, un percorso che metterà alla prova le tue possibilità creative; ciò che verrà sarà impegnativo ma darà frutto, e perciò dovrai essere forte e andare avanti. Non sarai sola,  avrai sostegno e condividerai con altri la tua visione. Sarai capita, anche se a volte con fatica. Salute senza macchia: tutto ciò che avverrà su questa linea del karma ti avvicina alla Meta.
-Parole chiave: mettere insieme  dettagli, unificare e dare direzione produttiva alle cose; una situazione consolidata si trasforma radicalmente grazie ad unione costruttiva; guidare un team con uno scopo comune. Imporre la propria volontà  per definire una situazione controversa agendo in base e a ciò che si ritiene giusto e non per compiacere ad altri.
+' Esagramma 7 – Esercito
+  Un lago si è raccolto sulla terra, da qui l’idea di molte persone insieme che collaborano per una meta condivisa. 
+  E’ una visione di giustizia, di uguaglianza e di accordo, poichè non si possono ottenere risultati di valore senza ricevere il contributo degli altri, né è possibile un vero e aperto scambio senza dare in ritorno il proprio contributo. 
+  Ma ciascuno dà quello che può e sa dare; come in un esercito, in ogni impresa impegnativa ognuno ha il suo ruolo importante, e opera affinché anche gli altri possano operare. 
+  Tutto però deve essere diretto da chi ha la saggezza e l’esperienza, l’abnegazione e sa assumersi le responsabilità di prendere le decisioni. 
+  E’necessario mantenere le redini della situazione pur restando in atteggiamento di accoglienza. Non agire d’impulso, o sconsideratamente. 
+  Attenzione a non mettersi in situazioni di debolezza, qui presenti tutto intorno alla domanda in questione: imponi la tua volontà e la tua visione e altri ti seguiranno spontaneamente. Non cedere alle oscurità,sempre in agguato e persevera. L’impresa si può fare, la costruzione può cominciare. Queste sono le basi di qualcosa raramente sperimentato prima, un percorso che metterà alla prova le tue possibilità creative; ciò che verrà sarà impegnativo ma darà frutto, e perciò dovrai essere forte e andare avanti. Non sarai solo, avrai sostegno e condividerai con altri la tua visione. 
+  Sarai capito, anche se a volte con fatica. Salute senza macchia: tutto ciò che avverrà su questa linea del karma ti avvicina alla Meta.
 ';
 $book['07']['judge'] = 
-' THE ARMY. The army needs perseverance
-  And a strong man. 
-  Good fortune without blame. \e
-  An army is a mass that needs organization in order to become a fighting force. Without strict discipline nothing can be accomplished, but this discipline must not be achieved by force. It requires a strong man who captures the hearts of the people and awakens their enthusiasm. In order that he may develop his abilities he needs the complete confidence of his ruler, who must entrust him with full responsibility as long as the war lasts. But war is always a dangerous thing and brings with it destruction and devastation. Therefore it should not be resorted to rashly but, like a poisonous drug, should be used as a last recourse.
-  The justifying cause of a war, and clear and intelligible war aims, ought to be explained to the people by an experienced leader. Unless there is a quite definite war aim to which the people can consciously pledge themselves, the unity and strength of conviction that lead to victory will not be forthcoming. But the leader must also look to it that the passion of war and the delirium of victory do not give rise to unjust acts that will not meet with general approval. If justice and perseverance are the basis of action, all goes well.';
+' L’esercito ha bisogno di perseveranza e di un uomo forte. Salute senza macchia.\e
+  Una situazione consolidata si trasforma radicalmente grazie ad unione costruttiva; 
+  bisogna saper guidare altri verso uno scopo comune e imporre la propria volontà per definire una situazione controversa agendo in base e a ciò che si ritiene giusto e non per compiacere ad altri. 
+  L’impresa è impegnativa e duratura: mettere insieme dettagli, unificare e dare direzione produttiva alle cose.';
 $book['07']['image'] = 
-' In the middle of the earth is water:
-  The image of THE ARMY. 
-  Thus the superior man increases his masses
-  By generosity toward the people. \e
-  Ground water is invisibly present within the earth. In the same way the military power of a people is invisibly present in the masses. When danger threatens, every peasant becomes a soldier; when the war ends, he goes back to his plow. He who is generous toward the people wins their love, and a people living under a mild rule becomes strong and powerful. Only a people economically strong can be important in military power. Such power must therefore be cultivated by improving the economic condition of the people and by humane government. Only when there is this invisible bond between government and people, so that the people are sheltered by their government as ground water is sheltered by the earth, is it possible to wage a victorious war.';
+' Nel grembo della terra vi è l’acqua: l’immagine dell’esercito. Così il nobile, magnanimo verso il popolo, cresce le sue masse. \e
+  I segni Terra e Acqua hanno linee deboli, tenute insieme dall’unica linea forte. Così è l’esercito in cui solo uno comanda e disciplina coloro che eseguono il suo volere. Generosità e disponibilità creano un forte seguito.';
 $book['07']['line1'] = 
 ' Sei all\'inizio significa:
-  An army must set forth in proper order. 
-  If the order is not good, misfortune threatens. \e
-  At the beginning of a military enterprise, order is imperative. A just and valid cause must exist, and the obedience and coordination of the troops must be well organized, otherwise the result is inevitably failure.';
+  Un esercito deve marciare in buon ordine. Se questo non c’è sciagura. \e 
+  Quando si mette mano a un’impresa è bene fin dall’inizio eseguire ciò che va fatto.
+  Prendere le cose alla leggera, tergiversare non è adatto. Muta in 19 Avvicinamento';
 $book['07']['line2'] = 
 ' Nove al secondo posto significa:
-  In the midst of the army. 
-  Good fortune. No blame. 
-  The king bestows a triple decoration. \e
-  The leader should be in the midst of his army, in touch with it, sharing good and bad with the masses he leads. This alone makes him equal to the heavy demands made upon him. He needs also the recognition of the ruler. The decorations he receives are justified, because there is no question of personal preferment here: the whole army, whose center he is, is honored in his person.';
+  In mezzo all’esercito! Salute! Nessuna macchia! Il re conferisce triplice onorificenza.\e
+  Si ha il comando della situazione, si ha un seguito fidato e non bisogna preoccuparsi. Seguono soddisfazioni. Muta in 2 Ricettivo';
 $book['07']['line3'] = 
-' Sei al terzo posto significa:
-  Perchance the army carries corpses in the wagon. 
-  Misfortune. \e
-  Here we have a choice of two explanations. One points to defeat because someone other than the chosen leader interferes with the command; the other is similar in its general meaning, but the expression, "carries corpses in the wagon," is interpreted differently. At burials and at sacrifices to the dead it was customary in China for the deceased to whom the sacrifice was made to be represented by a boy of the family, who sat in the dead man\'s place and was honored as his representative. On the basis of this custom the text is interpreted as meaning that a "corpse boy" is sitting in the wagon, or, in other words, that authority is not being exercised by the proper leaders but has been usurped by others. Perhaps the whole difficulty clears up if it is inferred that there has been an error in copying. The character fan, meaning "all," may have been misread as shih, which means "corpse. " Allowing for this error, the meaning would be that if the multitude assumes leadership of the army (rides in the wagon), misfortune will ensue.';
+' L’esercito conduce cadaveri sul carro. Sciagura.\e
+  Si è perduta la direzione, il tentativo è destinato a fallire. 
+  Biasimo e vittimismo accompagnano la disfatta, vi è un rifiuto, un dissapore, una difficoltà a comprendersi. Muta in 46- Ascendere';
 $book['07']['line4'] = 
 ' Sei al quarto posto significa:
-  The army retreats. No blame. \e
-  In the face of a superior enemy, with whom it would be hopeless to engage in battle, an orderly retreat is the only correct procedure, because it will save the army from defeat and disintegration. It is by no means a sign of courage or strength to insist upon engaging in a hopeless struggle regardless of circumstances.';
+  L’esercito si ritira. Nessuna macchia. \e
+  La situazione non può svilupparsi oltre ed è inutile insistere; ci si sbarazza di un peso che ha inutilmente impegnato le nostre energie. 
+  Rilassarsi e lasciare che sorgano nuove opportunità. Muta in 40 Liberazione';
 $book['07']['line5'] = 
-' Sei al quinto posto significa:
-  There is game in the field. 
-  It furthers one to catch it. 
-  Without blame. 
-  Let the eldest lead the army. 
-  The younger transports corpses;
-  Then perseverance brings misfortune. \e
-  Game is in the field–it has left its usual haunts in the forest and is devastating the fields. This points to an enemy invasion. Energetic combat and punishment are here thoroughly justified, but they must not degenerate into a wild melee in which everyone fends for himself. Despite the greatest degree of perseverance and bravery, this would lead to misfortune. The army must be directed by an experienced leader. It is a matter of waging war, not of permitting the mob to slaughter all who fall into their hands; if they do, defeat will be the result, and despite all perseverance there is danger of misfortune.';
+' Nel campo vi è selvaggina ed è propizio catturarla. Nessuna macchia. 
+  Il più anziano conduca l’esercito. Il meno anziano conduce cadaveri, allora perseveranza reca sciagura. 
+  L’impresa si presenta ricca di opportunità e si conseguono soddisfazioni. 
+  E’ importante in questa situazione che sia il più esperto a guidare e dirigere il da farsi; 
+  se invece si da spazio a chi avventatamente e con la sua inesperienza cerca di dirigere le cose si resta intrappolati in una situazione da cui non sarà facile uscire. Muta in 29 Abissale';
 $book['07']['line6'] = 
 ' Sei sopra significa:
-  The great prince issues commands,
-  Founds states, vests families with fiefs. 
-  Inferior people should not be employed. \e
-  The war has ended successfully, victory is won, and the king divided estates and fiefs among his faithful vassals. But it is important that inferior people should not come into power. If they have helped, let them be paid off with money, but they should not be awarded lands or the privileges of rulers, lest power be abused.';
+  Il grande principe emana ordini, fonda stati, infeuda famiglie. Uomini comuni non vanno impiegati.\e
+  Qualcuno con polso fermo pretende disciplina e fedeltà da coloro che gli stanno intorno. 
+  Non è facile essere all’altezza di una persona del genere. Muta in 4 Inesperienza';
 
 # -------------------------      08       ----------------------- #
 $book['08']['desc'] = 

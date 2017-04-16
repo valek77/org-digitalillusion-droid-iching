@@ -192,65 +192,50 @@ $book['04']['line5'] =
   Anche se la situazione è incerta si è cortesi nelle parole e desiderosi di ascoltare gli altri. Così vi saranno sviluppi positivi. Muta in 59- Dispersione. ';
 $book['04']['line6'] = 
 ' Nove sopra significa:
- Quando si punisce la stoltezza non è propizio commettere prevaricazioni. Propizio è soltanto difendersi dalle prevaricazioni.\e
- La nostra stoltezza è dovuta all’ingenuità non alla cattiveria o una nostra colpa. Così, non siate duri contro voi stessi.
- Siate duri invece con chi vi spinge a sbagliare di nuovo, dall’esterno. Muta in 7- Esercito ';
+  Quando si punisce la stoltezza non è propizio commettere prevaricazioni. Propizio è soltanto difendersi dalle prevaricazioni.\e
+  La nostra stoltezza è dovuta all’ingenuità non alla cattiveria o una nostra colpa. Così, non siate duri contro voi stessi.
+  Siate duri invece con chi vi spinge a sbagliare di nuovo, dall’esterno. Muta in 7- Esercito ';
 
 # -------------------------      05       ----------------------- #
 $book['05']['desc'] = 
 ' Esagramma 5 – Attendere
-  Nubi salgono nel cielo: l’immagine dell’attesa. Così il nobile mangia e beve ed è lieto e di buon umore.\e
-  Nebbia nel cielo, in una promessa di pioggia ancora lontana a venire. Qualcosa si fa attendere, ed è in stand by. Sotto il Cielo e sopra l’Abissale, il pericolo; difficoltà davanti bloccano il procedere e avventurarsi significherebbe aprire le porte all’ombra. Non c’è ancora niente di risolutivo in questa impresa e dedicarvisi sarebbe prematuro e pericoloso. Bisogna quindi ritirarsi dal pericolo di fare mosse premature e avventate e procastinare fino a che le cose non appariranno più chiare. E’ meglio, sempre se si riesce a stare lontani dalle solite attrattive dell’ombra,  allentare la tensione e permettere a  nuove esperienze calde e supportive  di fare la loro entrata. E’ il momento di cercare ciò che ci nutre e dà serenità, e lasciare che le altre cose si sviluppino, senza intervenire. E mentre  le esperienze cambiano e raggiungiamo nuovi livelli di comprensione, aspetto e forma anche del problema cambiano: ciò che oggi ci sembra della massima importanza domani viene ridimensionato, o dimenticato.  E’ il modo in cui attendiamo e passiamo il tempo a  trasformare una  situazione di stallo in un periodo costruttivo e  benefico: si impara a rallentare, ad aver pazienza e non forzare. Il successo arriva in questa impresa al pari passo della nostra capacità di bastarsi e di trovare soddisfazione in altre imprese, forse più modeste ma costruttive. Il nobile va per la sua strada, tenendosi lontano dall’ombra e i suoi richiami.
-  Se sei verace hai luce e riuscita. Perseveranza reca salute. Propizio è attraversare la grande acqua.
-  Il testo dell’Esagramma descrive le varie esperienze durante un periodo di attesa.
-  Parole chiave – Pausa costruttiva. Nutrire ciò che è ancora immaturo il cui esito si manifesterà nel tempo. Rimandare.';
+  Acqua al di sopra del cielo, in una promessa di pioggia ancora lontana a venire.\e
+  I segni interni Lago e Fuoco alludono a serenità e chiarezza. 
+  La via per riuscire sta dunque in chiarire e rasserenare una situazione che, altrimenti, resta bloccata. 
+  Ora le cose sono in stand by: se ci si dedica con tutto il cuore all’impresa a tempo debito se ne raccoglierà il frutto. ';
 $book['05']['judge'] = 
-' WAITING. If you are sincere,
-  You have light and success. 
-  Perseverance brings good fortune. 
-  It furthers one to cross the great water. \e
-  Waiting is not mere empty hoping. It has the inner certainty of reaching the goal. Such certainty alone gives that light which leads to success. This leads to the perseverance that brings good fortune and bestows power to cross the great water.
-  One is faced with a danger that has to be overcome. Weakness and impatience can do nothing. Only a strong man can stand up to his fate, for his inner security enables him to endure to the end. This strength shows itself in uncompromising truthfulness [with himself]. It is only when we have the courage to face things exactly as they are, without any sort of self-deception or illusion, that a light will develop out of events, by which the path to success may be recognized. This recognition must be followed by resolute and persevering action. For only the man who goes to meet his fate resolutely is equipped to deal with it adequately. Then he will be able to cross the great water–that is to say, he will be capable of making the necessary decision and of surmounting the danger.';
+' Se sei verace hai luce e riuscita. Perseveranza reca salute. Propizio è attraversare la grande acqua.\e
+  L’impresa è possibile, solo se ci si dedica ad essa con sincerità e convinzione. 
+  Non si raggiunge subito il successo, ma solo in seguito alla ferma decisione di intraprendere seri e impegnativi tentativi per risolvere la situazione. ';
 $book['05']['image'] = 
-' Clouds rise up to heaven:
-  The image of WAITING. 
-  Thus the superior man eats and drinks,
-  Is joyous and of good cheer. \e
-  When clouds rise in the sky, it is a sign that it will rain. There is nothing to do but to wait until after the rain falls. It is the same in life when destiny is at work. We should not worry and seek to shape the future by interfering in things before the time is ripe. We should quietly fortify the body with food and drink and the mind with gladness and good cheer. Fate comes when it will, and thus we are ready.';
+' Immagine Nubi salgono nel cielo: l’immagine dell’attesa. Così il nobile mangia e beve ed è lieto e di buon umore.\e
+  La pioggia è lontana, e con essa la liberazione dalle tensioni accumulate. 
+  Si attenda alla cura e alla crescita dell’impresa, che avrà sviluppo positivo solo se gli si fornisce nutrimento. 
+  Nutrire ciò che è ancora immaturo il cui esito favorevole si manifesterà nel tempo futuro. ';
 $book['05']['line1'] = 
 ' Nove all\'inizio significa:
-  Waiting in the meadow. 
-  It furthers one to abide in what endures. 
-  No blame. \e
-  The danger is not yet close. One is still waiting on the open plain. Conditions are still simple, yet there is a feeling of something impending. One must continue to lead a regular life as long as possible. Only in this way does one guard against a premature waste of strength, keep free of blame and error that would become a source of weakness later on.';
+  Attendere fuori le mura. Propizio è rimanere nel durevole. Nessuna macchia.\e
+ In disparte, senza mescolarsi e farsi coinvolgere si è lontani dal pericolo. La situazione dura e si è stabilizzata così, non conviene muoversi. Muta in 48 Pozzo ';
 $book['05']['line2'] = 
 ' Nove al secondo posto significa:
-  Waiting on the sand. 
-  There is some gossip. 
-  The end brings good fortune. \e
-  The danger gradually comes closer. Sand is near the bank of the river, and the water means danger. Disagreements crop up. General unrest can easily develop in such times, and we lay the blame on one another. He who stays calm will succeed in making things go well in the end. Slander will be silenced if we do not gratify it with injured retorts.';
+  Attendere sulla sabbia. Avviene qualche battibecco. Alla fine salute.\e
+  Si tergiversa, si rimanda. Pur essendo la situazione bloccata si tenta di superarla. Ciò crea tensione e contrapposizione, destinata a scomparire. Muta in 63 Dopo il compimento ';
 $book['05']['line3'] = 
 ' Nove al terzo posto significa:
-  Waiting in the mud
-  Brings about the arrival of the enemy. \e
-  Mud is no place for waiting, since it is already being washed by the water of the stream. Instead of having gathered strength to cross the stream at one try, one has made a premature start that has got him no farther than the muddy bank. Such an unfavorable position invites enemies from without, who naturally take advantage of it. Caution and a sense of the seriousness of the situation are all that can keep one from injury.';
+  Attendere nella melma provoca la venuta del nemico. E’ l’orlo dell’abisso e della confusione. \e
+  Persistere in questa situazione invita ulteriori difficoltà. Muta in 60 Limiti ';
 $book['05']['line4'] = 
 ' Sei al quarto posto significa:
-  Waiting in blood. 
-  Get out of the pit. \e
-  The situation is extremely dangerous. It is of utmost gravity now–a matter of life and death. Bloodshed seems imminent. There is no going forward or backward; we are cut off as if in a pit. Now we must simply stand fast and let fate take its course. This composure, which keeps us from aggravating the trouble by anything we might do, is the only way of getting out of the dangerous pit.';
+  Attendere nel sangue. Fuori da questa buca!\e
+  Il pericolo è arrivato e senza ripensamenti occorre uscirne. La misura è colma, si attui tutto il possibile per allontanarsi. Muta in 43 Straripamento ';
 $book['05']['line5'] = 
 ' Nove al quinto posto significa:
-  Waiting at meat and drink. 
-  Perseverance brings good fortune. \e
-  Even in the midst of danger there come intervals of peace when things go relatively well. If we possess enough inner strength, we shall take advantage of these intervals to fortify ourselves for renewed struggle. We must know how to enjoy the moment without being deflected from the goal, for perseverance is needed to remain victorious.
-  This is true in public life as well; it is not possible to achieve everything all at once. The height of wisdom is to allow people enough recreation to quicken pleasure in their work until the task is completed. Herein lies the secret of the whole hexagram. It differs from Chin OBSTRUCTION (39), in the fact that in this instance, while waiting, we are sure of our cause and therefore do not lose the serenity born of inner cheerfulness.';
+  Attendere bevendo e mangiando. Perseveranza reca salute.\e
+  Questa linea riprende la direzione espressa nella Sentenza: la cura, il nutrimento sono i fondamenti dell’impresa che ci sta a cuore. Muta in 11 Pace ';
 $book['05']['line6'] = 
 ' Sei sopra significa:
-  One falls into the pit. 
-  Three uninvited guests arrive. 
-  Honor them, and in the end there will be good fortune. \e
-  The waiting is over; the danger can no longer be averted. One falls into the pit and must yield to the inevitable. Everything seems to have been in vain. But precisely in this extremity things take an unforeseen turn. Without a move on one\'s own part, there is outside intervention. At first one cannot be sure of its meaning: is it rescue or is it destruction? A person in this situation must keep his mind alert and not withdraw into himself with a sulky gesture of refusal, but must greet the new turn with respect. Thus he ultimately escapes the danger, and all goes well. Even happy turns of fortune often come in a form that at first seems strange to us.';
+  Si finisce nella buca. Ecco che arrivano tre ospiti non invitati. Onorali, e alla fine viene salute. \e
+  Un inaspettato aiuto viene a contrastare il pericolo; si acconsente a seguire la nuova direzione. Muta in 9 La forza domatrice del piccolo ';
 
 # -------------------------      06       ----------------------- #
 $book['06']['desc'] = 

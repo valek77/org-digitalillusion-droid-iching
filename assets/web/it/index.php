@@ -46,11 +46,11 @@ $book['01']['line-3'] =
 ' Quando tutte le linee sono nove significa:
   There appears a flight of dragons without heads. 
   Good fortune. \e
-  Quando tutte le linee sono nove significa che l'\' intero esagramma è in movimento e cambia nell\'esagramma IL RICETTIVO , La cuio caratteristica è la devozione. La forza del Creativo e la mitezza del RECETTIVO unite. La Forza  è indicata dal volo dei fradoni, la mitezza dal fatto che le loro teste sono nascoste. Questo sigifica che la mitezza congiunta alla forza della decisione porta fortuna';
+  Quando tutte le linee sono nove significa che l\' intero esagramma è in movimento e cambia nell\'esagramma IL RICETTIVO , La cuio caratteristica è la devozione. La forza del Creativo e la mitezza del RECETTIVO unite. La Forza  è indicata dal volo dei fradoni, la mitezza dal fatto che le loro teste sono nascoste. Questo sigifica che la mitezza congiunta alla forza della decisione porta fortuna';
 
 # -------------------------      02       ----------------------- #
 $book['02']['desc'] = 
-' Esagramma 2 – Il Ricettivo.\e
+' Esagramma 2 – Il Ricettivo.
   Terra sopra e Terra sotto: infinite possibilità sono assorbite ancora nel grembo, ma non si manifestano.\e
   A volte si pensa che starsene tranquillamente senza lanciarsi in nessuna impresa sia una debolezza o una stasi.
   Ma il non fare, quando si è colmi di buoni semi, è il modo per farli maturare e perfezionare. Tempo. E’ il tempo che accudisce i semi nella terra: dunque attendere, in una lunga pausa dall’azione. 
@@ -672,7 +672,7 @@ $book['14']['desc'] =
 $book['14']['judge'] = 
 ' Il possesso grande. 
   Sublime riuscita. \e
-  Il possesso più grande è la capacità di poter guidare le cose e di indirizzarle verso mete condivise e di beneficio a noi stessi e agli altri. Altre persone sono coinvolte nell\'impresa e ci seguono con fiducia, vi è reciproco scambio e dedizione. Tutto va bene. 
+  Il possesso più grande è la capacità di poter guidare le cose e di indirizzarle verso mete condivise e di beneficio a noi stessi e agli altri. Altre persone sono coinvolte nell\'impresa e ci seguono con fiducia, vi è reciproco scambio e dedizione. Tutto va bene. ';
 $book['14']['image'] = 
 ' Immagine Il fuoco alto nel cielo: l\'immagine del possesso grande. Così il nobile ostacola il male e favorisce il bene, e così obbedisce alla benigna volontà del cielo.\e
   Il fuoco fiammeggia nel cielo e illumina e mette a nudo ogni cosa, buona o cattiva. Grazie al chiarore delle circostanze si distingue con precisione il male e lo si può combattere attivamente. Questo di cui si parla non è un possesso materiale, quanto una qualità interiore che, se ben nutrita e ordinata, conduce ad un livello più alto dell\'essere.

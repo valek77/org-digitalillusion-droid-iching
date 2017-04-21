@@ -539,57 +539,55 @@ $book['11']['line6'] =
 
 # -------------------------      12       ----------------------- #
 $book['12']['desc'] = 
-' P\'i / Standstill [Stagnation] 
-  Above CH\'IEN THE CREATIVE, HEAVEN
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  This hexagram is the opposite of the preceding one. Heaven is above, drawing farther and farther away, while the earth below sinks farther into the depths. The creative powers are not in relation. It is a time of standstill and decline. This hexagram is linked with the seventh month (August- September), when the year has passed its zenith and autumnal decay is setting in.';
+' Esagramma 12: Il Ristagno
+  Il principio oscuro e debole giace inerte sotto quello attivo e chiaro: l’ordine naturale delle cose è invertito. 
+  La situazione è ferma, oscurità e luce sono mescolate bilanciandosi l’un l’altra in un triste nulla di fatto. Stasi. 
+  Esperienze e persone si ritirano sullo sfondo. E anche noi, mentre aspettiamo che il tempo passi, accudiamo il lontano risveglio con un lungo lavorio interiore, mentre all’esterno un periodo di arresto impedisce l’azione. Stagnazione e confusione interiore rendono la situazione debole e inamovibile. ';
 $book['12']['judge'] = 
-' STANDSTILL. Evil people do not further
-  The perseverance of the superior man. 
-  The great departs; the small approaches. \e
-  Heaven and earth are out of communion and all things are benumbed. What is above has no relation to what is below, and on earth confusion and disorder prevail. The dark power is within, the light power is without. Weakness is within, harshness without. Within are the inferior, and without are the superior. The way of inferior people is in ascent; the way of superior people is one the decline. But the superior people do not allow themselves to be turned from their principles. If the possibility of exerting influence is closed to them, they nevertheless remain faithful to their principles and withdraw into seclusion.';
+' Sentenza Il ristagno. Mala gente non è propizia alla perseveranza del nobile. Il grande se ne va, il piccolo viene. \e
+  Stasi. La via dell’ignobile cresce e impedisce lo sviluppo. Persone e situazioni sono immobili e si arrestano, rubando la nostra pace. 
+  Nella nostra cerchia sono presenti persone inadatte a conseguire ciò che ci sta a cuore, che ci distraggono e lusingano. 
+  Non si può compiere molto di buono, bisogna modestamente ridimensionare le nostre aspettative. .';
 $book['12']['image'] = 
-' Heaven and earth do not unite:
-  The image of STANDSTILL. 
-  Thus the superior man falls back upon his inner worth
-  In order to escape the difficulties. 
-  He does not permit himself to be honored with revenue. \e
-  When, owing to the influence of inferior men, mutual mistrust prevails in public life, fruitful activity is rendered impossible, because the fundaments are wrong. Therefore the superior man knows what he must do under such circumstances; he does not allow himself to be tempted by dazzling offers to take part in public activities. This would only expose him to danger, since he cannot assent to the meanness of the others. He therefore hides his worth and withdraws into seclusion.';
+' Immagine Cielo e terra non si uniscono: l’immagine del ristagno. Così il nobile si ritira nel suo valore interiore per sfuggire alle difficoltà. Egli non si lascia onorare con appannaggi.\e
+  E’ una situazione di stasi: essa si liquiderà da sola, quando il principio attivo e creativo risorgerà spontaneamente, dal basso. 
+  La spinta all’azione è contaminata da debolezza che genera incapacità di gestire ciò che è difficile e duro da affrontare. 
+  L’oscurità si presenta sottoforma di lusinghe che ci indeboliscono, gratificando invece ombre e disordine. 
+  Occorre fermarsi, esaminare il proprio comportamento e i propri principi, e ripristinarli se si sono trasgrediti e trascurati; qualcuno vuole fornirci materialmente un nutrimento piacevole ma inadatto, che è bene non accettare. ';
 $book['12']['line1'] = 
 ' Sei all\'inizio significa:
-  When ribbon grass is pulled up, the sod comes with it. 
-  Each according to his kind. 
-  Perseverance brings good fortune and success. \e
-  The text is almost the same as that of the first line of the preceding hexagram, but with a contrary meaning. In the latter a man is drawing another along with him on the road to an official career; here a man is drawing another with him into retirement form public life. This is why the text says here, "Perseverance brings good fortune and success," and not "Undertakings bring good fortune. " If it becomes impossible to make our influence count, it is only by retirement that we spare ourselves humiliation. Success in a higher sense can be ours, because we know how to safeguard the value of our personalities.';
+  Svellendo la falaride si sradica la zolla erbosa. Ognuno secondo la propria specie. Perseveranza reca salute e riuscita.\e
+  In una situazione di blocco, si è tentati di gettarsi tutto alle spalle. 
+  Occorre dividere i buoni semi dall’erbaccia: nel disordine di questo momento non tutto è da sradicare e dimenticare; qualcosa può essere salvato e può nutrirci. 
+  Muta in 25 – Innocenza : sublime riuscita, propizia è perseveranza. ';
 $book['12']['line2'] = 
 ' Sei al secondo posto significa:
-  They bear and endure;
-  This means good fortune for inferior people. 
-  The standstill serves to help the great man to attain success. \e
-  Inferior people are ready to flatter their superiors in a servile way. They would also endure the superior man if he would put an end to their confusion. This is fortunate for them. But the great man calmly bears the consequences of the standstill. He does not mingle with the crowd of the inferior; that is not his place. By his willingness to suffer personally he insures the success of his fundamental principles.';
+  Sostengono e tollerano, questo significa salute, per gli ignobili. Al grande uomo il ristagno serve alla riuscita.\e 
+  Siamo coinvolti in qualcosa di poco chiaro e con qualcuno che non è sincero; il nostro sostegno e la condiscendenza verso di loro non fa altro che avvilupparci ancora di più nelle difficoltà. 
+  Bisogna fermarsi e non proseguire con queste persone se si vuole riuscire. Muta in 6- La Lite: sei verace e vieni impedito. Fermarsi a metà strada, non portare a termine. ';
 $book['12']['line3'] = 
 ' Sei al terzo posto significa:
-  They bear shame. \e
-  Inferior people who have risen to power illegitimately do not feel equal to the responsibility they have taken upon themselves. In their hearts they begin to be ashamed, although at first they do not show it outwardly. This marks a turn for the better.';
+  Essi provano vergogna.\e
+  Le sicurezze svaniscono davanti all’impossibilità di una soluzione e di un chiarimento. 
+  Se ci si è comportati da irresponsabili o ci siamo sopravvalutati, è tempo di fermarsi e riflettere sulla direzione che stiamo prendendo.
+  Muta in 33- La Ritirata: il nobile tiene lontano l’ignobile. Allontanamento, distacco tra due opposti. ';
 $book['12']['line4'] = 
 ' Nove al quarto posto significa:
-  He who acts at the command of the highest 
-  Remains without blame. 
-  Those of like mind partake of the blessing. \e
-  The time of standstill is nearing the point of change into its opposite. Whoever wishes to restore order must feel himself called to the task and have the necessary authority. A man who sets himself up as capable of creating order according to his own judgment could make mistakes and end in failure. But the man who is truly called to the task is favored by the conditions of the time, and all those of like mind will share in his blessing.';
+  Chi opera per ordine del supremo rimane senza macchia. I suoi simili fruiscono della prosperità.\e
+  C’è uno scopo più alto e più importante da seguire a cui dedicarsi. 
+  Esigenze più importanti richiedono le nostre risorse e se da un lato possono frustrare le nostre aspirazioni, dall’altro è nostra responsabilità operare per risolverle. 
+  Non siamo noi ad avvantaggiarci ma altri che ci sono affini, che necessitano dell’impegno e delle risorse che possediamo. Muta in 20- Contemplazione ';
 $book['12']['line5'] = 
 ' Nove al quinto posto significa:
-  Standstill is giving way. 
-  Good fortune for the great man. 
-  "What if it should fail, what if it should fail?"
-  In this way he ties it to a cluster of mulberry shoots. \e
-  The time undergoes a change. The right man, able to restore order, has arrived. Hence "good fortune. " But such periods of transition are the very times in which we must fear and tremble. Success is assured only through greatest caution, which asks always, "What if it should fail?" When a mulberry bush is cut down, a number of unusually strong shoots sprout from the roots. Hence the image of tying something to a cluster of mulberry shoots is used to symbolize the way of making success certain. Confucius says about this line:
-  Danger arises when a man feels secure in his position. Destruction threatens when a man seeks to preserve his worldly estate. Confusion develops when a man has put everything in order. Therefore the superior man does not forget danger in his security, not ruin when he is well established, nor confusion when his affairs are in order. In this way he gains personal safety and is able to protect the empire.';
+  Il ristagno scema. Al grande uomo salute! ‘Se non riuscisse, se non riuscisse!’Perciò egli ricorre a un fascio di rametti di gelso. \e
+  La situazione si evolve, vi sono buoni auspici perché riesca. Eppure permane preoccupazione, visto che concretamente non vi è ancora nulla di visibile. 
+  Ma anche preoccuparsi è un bene, perché ci spinge a far nascere qualcosa di radicalmente nuovo. Quando si tagliano i rametti di gelso dalla radice nascono vigorosi germogli. 
+  Così un taglio produce rinnovamento. Muta in 35- Progresso: sviluppo. ';
 $book['12']['line6'] = 
 ' Nove sopra significa:
-  The standstill comes to an end. 
-  First standstill, then good fortune. \e
-  The standstill does not last forever. However, it does not cease of its own accord; the right man is needed to end it. This is the difference between a state of peace and a state of stagnation. Continuous effort is necessary to maintain peace: left to itself it would change into stagnation and disintegration. The time of disintegration, however, does not change back automatically to a condition of peace and prosperity; effort must be put forth in order to end it. This shows the creative attitude that man must take if the world is to be put in order.';
+  Il ristagno cessa. Prima ristagno, poi salute.\e
+  Fine degli ostacoli e del ristagno. Il dubbio si dissolve e si risolve nel suo opposto, portando nuovo frutto. 
+  Muta in 45- Raccolta: riuscita; quando si riuniscono persone affini nascono grandi opere. ';
 $book['12']['line-3'] = 
 ' Nove sopra significa:
   The standstill comes to an end. 
@@ -598,44 +596,54 @@ $book['12']['line-3'] =
 
 # -------------------------      13       ----------------------- #
 $book['13']['desc'] = 
-'ESAGRAMMA 13 – ASSOCIAZIONE
- Fuoco sotto il Cielo: le fiamme tendono verso l\'alto e il cielo le accoglie, associandosi insieme. Una linea yin sostiene la struttura rendendola flessibile, debole tra molti forti. 
- Anche nel mondo umano le persone vogliono associarsi e stare insieme, e ciò accade quando vi è comunanza e l\'oscurità non ha troppo spazio. 
- L\'esagramma è fausto proprio per la presenza di un solo debole tra i forti e descrive i vari aspetti con cui due o più persone interagiscono tra loro. ';
+' ESAGRAMMA 13 – ASSOCIAZIONE
+  Fuoco sotto il Cielo: le fiamme tendono verso l’alto e il cielo, accogliendole, si associa ad esse.
+  Una linea yin sostiene la struttura rendendola flessibile, debole tra molti forti. 
+  Anche nel mondo umano le persone si associano e stanno insieme, intessendo relazioni e fornendosi reciproco sostegno. 
+  I rapporti sono chiari e senza secondi fini e si sta insieme apertamente, così come può essere tra colleghi o tra amici. 
+  L’esagramma è fausto proprio per la presenza di un solo debole tra i forti, che si associano, realmente o virtualmente, interagendo tra loro.  ';
 $book['13']['judge'] = 
-' Associazione tra gli uomini all\'aperto: riuscita. Propizio è attraversare la grande acqua. Propizia è la perseveranza del nobile.\e
-  Una comunità di persone che si incontrano all\'aperto: la linea yin simboleggia la terra, quindi un campo. Un campo chiaro, in cui sono visibili cose e persone, in cui ci si scambia apertamente idee.
-  Impegnarsi in questa associazione è una cosa buona e naturale, vi è la forza del creativo pronta ad essere usata, sempre preceduta dalla chiarezza del fuoco, che illuminando le cose ce le fa comprendere. 
-  Se vi è qualcosa da chiarire, lo si porta alla luce e poi si agisce. E\' dunque una situazione in cui agire è conforme anche se qui si tratta dell\'attraversamento della grande acqua, impresa sempre difficile e complicata. 
-  Nella lunga distanza vi sarà raccolto, non bisogna scoraggiarsi. ';
+' Associazione tra gli uomini all’aperto: riuscita. Propizio è attraversare la grande acqua. Propizia è la perseveranza del nobile.\e
+  Una comunità di persone che si incontrano in pubblico: la linea yin simboleggia la terra, quindi un campo aperto. 
+  Un campo in cui sono visibili cose e persone, in cui ci si scambia in pubblico idee e sentimenti. Impegnarsi in questa associazione è una cosa buona e naturale, vi è la forza del creativo pronta ad essere usata, coadiuvata dalla chiarezza del fuoco. 
+  Si coltivano i rapporti sociali e le relazioni con persone con cui si ha una certa affinità. 
+  E’ un tempo buono per prendere decisioni forti e impegnative che hanno bisogno di tempo per svilupparsi.  ';
 $book['13']['image'] = 
-' Il cielo insieme al fuoco: l\'immagine dell\'associazione tra uomini. Così il nobile ripartisce e stirpi e distingue le cose.
-  L\'immagine descrive una comunità di persone con rapporti chiari e ordinati, in cui si comprendono e definiscono ruoli e affinità. ';
+' Il cielo insieme al fuoco: l’immagine dell’associazione tra uomini. Così il nobile ripartisce e stirpi e distingue le cose.\e
+  L’immagine descrive una comunità di persone in cui si comprendono e definiscono ruoli e affinità. 
+  Vi sono scelte da fare: non con tutti si è affini, non tutto si può abbracciare di ciò che gli altri dicono. 
+  Selezionate e chiarite sempre di più la vostra cerchia naturale.  ';
 $book['13']['line1'] = 
 ' Nove all\'inizio significa: 
   Compagnia tra gli uomini sul portone. Nessuna macchia.\e
-  Ci si avvicina agli altri sulla porta, cioè senza particolari approfondimenti; è la fase iniziale in cui si comincia solo a definire l\'associazione. 
-  Un primo avvicinamento tra persone avviene senza particolari simpatie e antipatie. Esse si possono sviluppare solo in seguito. ';
+  Ci si avvicina agli altri sulla porta, cioè senza particolari approfondimenti; è la fase iniziale in cui si comincia solo a definire l’associazione e quindi non manca un tempo di attesa. 
+  Si avvicinano persone senza particolare simpatia o antipatia. Muta in 33- Ritirata.  ';
 $book['13']['line2'] = 
 ' Sei al secondo posto significa: 
-  Compagnia fra uomini dentro la schiatta. Svergognamento.\e
-  Un impedimento dovuto a uno scopo egoistico rende angusto il rapporto, inquinandolo; può esserci una mancanza di comprensione o di comunicazione oppure un ostacolo sociale o morale. ';
+  Compagnia fra uomini dentro la schiatta. Svergognamento. \e
+  In questa circostanza ci si muove all’interno di una ristretta cerchia di persone, a noi affini. 
+  Ma l’associazione vera è chiara e pubblica, non ristretta e angusta. I legami sociali che si coltivano così conducono a umiliazione. 
+  Se si sta portando avanti un progetto ci si perde in digressioni. Muta in 1- Creativo  ';
 $book['13']['line3'] = 
 ' Nove al terzo posto significa: 
-  Nasconde armi nella fratta. Sale sull\'alta collina antistante. Per tre anni egli non si solleva.\e
-  Diffidenza reciproca tra coloro che dovrebbero associarsi. Ci si spia, covando risentimento, da lontano. Il tempo si protrae, c\'è una lunga attesa. ';
+  Nasconde armi nella fratta. Sale sull’alta collina antistante. Per tre anni egli non si solleva. \e
+  Nell’associazione c’è qualcuno di cui diffidare perché non è sincero. 
+  Egli spia da lontano. Il tempo si protrae, c’è una lunga attesa. Muta in 25 – Innocenza  ';
 $book['13']['line4'] = 
 ' Nove al quarto posto significa: 
   Egli sale sulle sue mura, egli non può assalire. Salute! \e
-  Chi dovrebbe associarsi si mostra apertamente e alcune ambiguità o risentimenti sono chiariti. Ne consegue pace e una nuova quiete. ';
+  Chi dovrebbe associarsi si mostra apertamente e alcune ambiguità o risentimenti sono chiariti. Ne consegue pace e una nuova quiete. Muta in 37- Casata  ';
 $book['13']['line5'] = 
 ' Nove al quinto posto significa:
-  Gli uomini compagni prima piangono e gemono, ma dopo ridono. Dopo grandi lotte riescono ad incontrarsi.\e
-  Ostacoli esterni e divergenze di punti di vista separano coloro che dovrebbero associarsi. Ciò non taglia il legame, ma vi è molta tristezza. 
-  L\'affinità tra le persone coinvolte è però troppo grande, fa sì che gli ostacoli siano superati e alla fine vi è unione. ';
+  Gli uomini compagni prima piangono e gemono, ma dopo ridono. Dopo grandi lotte riescono ad incontrarsi. \e
+  Ostacoli esterni e divergenze di punti di vista separano coloro che dovrebbero associarsi. 
+  Ciò non taglia il legame, ma vi è molta tristezza. 
+  L’affinità tra le persone coinvolte è però troppo grande, fa sì che gli ostacoli siano superati e alla fine vi è unione. Muta in 30- Fuoco  ';
 $book['13']['line6'] = 
-' Nove sopra significa: Compagnia fra uomini fuori mura: nessun pentimento.\e
-  Non è possibile unione completa, gli scopi in comune sono generici, senza particolari interessi. Quello che si ha deve bastare. ';
+' Nove sopra significa: 
+  Compagnia fra uomini fuori mura: nessun pentimento. \e
+  Non c’è un’associazione completa, anche se coloro a cui ci si vuole unire sono in vista. 
+  Gli scopi in comune sono generici, senza particolari interessi, ma non è del tutto un male. Muta in 49- Rivoluzione.  ';
 
 # -------------------------      14       ----------------------- #
 $book['14']['desc'] = 

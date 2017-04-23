@@ -41,6 +41,7 @@
 	        In particolare le risorse più complete e gratuite sono:
 	    &lt;/p&gt;
 	    &lt;p&gt;
+            &lt;p&gt; http://www.lospecchiodieva.com&lt;/p&gt;
 		    &lt;p&gt; http://www.arteam.it/home/iching/esagrammi&lt;/p&gt;
 		    &lt;p&gt; http://www.ichingonline.net/instruction.php&lt;/p&gt;
    		    &lt;p&gt; www.onlineclarity.co.uk/learn/consult/mml.php &lt;/p&gt;
@@ -68,8 +69,9 @@
     <string name="options_about">A proposito</string>
     <string name="options_about_message">
         &lt;p&gt;
-            Questa applicazione è un fork dello splendido splendido lavoro fatto dai ragazzi di Digital Illusion,
+            Questa applicazione è un fork dello splendido lavoro fatto dai ragazzi di Digital Illusion,
             a loro ogni merito. Se volete ringraziarli la loro mail è digitalillusion@altervista.org.
+            Le interpretazioni degli esagrammi provengono dal sito lospecchiodieva.com
 	        Questa applicazione è Open Source rilasciata sotto GNU GPL v3, distribuita gratuitamente
 	        nella speranza che possa essere utile. Il codice sorgente completo può essere visualizzato
 	        e scaricato da:

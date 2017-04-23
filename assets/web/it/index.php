@@ -647,116 +647,116 @@ $book['13']['line6'] =
 
 # -------------------------      14       ----------------------- #
 $book['14']['desc'] = 
-' Ta Yu / Il possesso grande
-  Il Cielo, ispiratore di tutte le cose è rischiarato dal Fuoco, che illuminandole le mette a nudo. 
-  Ora si distingue il bene da male, ciò che va nutrito e ciò che va lasciato andare. 
-  Dissolti i dubbi si favorisce così crescita ed evoluzione; la linea oscura non disturba tale evoluzione, anzi la spinge e la sostiene. 
-  Se nella situazione ci sono intoppi dunque si affrontano e si superano, con un progressivo rasserenamento. 
-  E\' una situazione di grande potenzialità, in cui c\'è corrispondenza e reciproca fiducia di base, intaccata da qualche sospetto e risentimento non consoni né inerenti alla realtà dei fatti. 
-  In qualche modo bisogna invece cercare di preservare il contatto e farlo prosperare. 
-  Non siate troppo rigidi, non scambiate fiducia per ostilità. Siate ricettivi e non sminuitevi, siete parte di un gruppo in cui vi è sincerità e interessi in comune, sostenuti da una corrispondenza e un interesse reciproco di base. ';
+' Esagramma 14: Il possesso grande
+  Fuoco nel cielo. Tutto si rischiara ed emerge il problema da affrontare. 
+  La linea yin è l’elemento debole, che con il supporto di abili mezzi riesce a superare le difficoltà. 
+  Se nella situazione ci sono intoppi dunque si affrontano e si superano, con un completo rasserenamento. ';
 $book['14']['judge'] = 
-' Il possesso grande. 
-  Sublime riuscita. \e
-  Il possesso più grande è la capacità di poter guidare le cose e di indirizzarle verso mete condivise e di beneficio a noi stessi e agli altri. Altre persone sono coinvolte nell\'impresa e ci seguono con fiducia, vi è reciproco scambio e dedizione. Tutto va bene. ';
+' Il possesso grande: sublime riuscita.\e
+  Si possiede la capacità di domare le cose e di indirizzarle verso mete di beneficio a noi stessi e agli altri. Vittoria.  ';
 $book['14']['image'] = 
-' Immagine Il fuoco alto nel cielo: l\'immagine del possesso grande. Così il nobile ostacola il male e favorisce il bene, e così obbedisce alla benigna volontà del cielo.\e
-  Il fuoco fiammeggia nel cielo e illumina e mette a nudo ogni cosa, buona o cattiva. Grazie al chiarore delle circostanze si distingue con precisione il male e lo si può combattere attivamente. Questo di cui si parla non è un possesso materiale, quanto una qualità interiore che, se ben nutrita e ordinata, conduce ad un livello più alto dell\'essere.
-  Vi è il pericolo di perdere la modestia e sopravvalutarci, pericolo gravissimo che apre di nuovo le porte all\'oscurità e alla debolezza. 
-  Dobbiamo invece essere aperti e sinceri, coscienti che il proprio bene non ha secondi fini e non si basa su appagamenti momentanei, ma ha solide basi nei propri convincimenti più intimi, nonostante le lusinghe e distrazioni della vita ci trascinino ad adeguarci passivamente agli altri, perdendo così la nostra identità. 
-  Qui la mitezza-grande qualità del Nobile, non è in alcun modo debolezza: affabili ma dignitosi, nutriamo il contatto con tutti, anche se a volte ';
+' Così il nobile ostacola il male e favorisce il bene, e così obbedisce alla benigna volontà del cielo. \e
+  Il fuoco fiammeggia nel cielo e illumina e mette a nudo ogni cosa, buona e cattiva. 
+  Grazie al chiarore delle circostanze si distingue con precisione il male e lo si può combattere attivamente. 
+  Questo di cui si parla non è tanto un possesso materiale, quanto l’acquisizione di una forza interiore che guarisce e libera dagli affanni. 
+  Ciò che è causa di tristezza e preoccupazione viene allontanato, ciò che nutre e risana viene riconosciuto e favorito, e si giunge alla agognata meta. ';
 $book['14']['line1'] = 
 ' Nove all\'inizio significa:
-  Nessun rapporto col dannoso; ciò non è una macchia. Restando consapevoli della difficoltà si rimane senza macchia. \e
-  Il dannoso è rappresentato dalla linea scura al quinto posto, che domina il segno. Il rapporto con essa è difficile, a causa della lontananza. Tuttavia esso persiste, anche se la distanza è tanta. Bisogna riflettere sulle possibilità concrete di una tale unione. Confusione e tristezza sono vicini, ma resisti a \'quel\' richiamo. ';
+  Nessun rapporto col dannoso; ciò non è una macchia. Restando consapevoli della difficoltà si rimane senza macchia.\e
+  Il dannoso è rappresentato dalla linea scura al quinto posto, che domina il segno. 
+  Il rapporto con essa è inesistente, a causa della lontananza. Tuttavia esso persiste, anche se la distanza è tanta. 
+  Ci si allontana dall’oscurità, che non può raggiungerci a causa di ostacoli materiali. 
+  E’ meglio restare coscienti che essere lontani è per il meglio. 
+  Confusione e tristezza sono vicini, ma resisti a ‘quel’ richiamo. Muta in 50 Crogiolo ';
 $book['14']['line2'] = 
 ' Nove al secondo posto significa:
-  Un grande carro da caricare. Si imprenda pure qualche cosa. Nessuna macchia. \e
-  Un grande carro ricolmo di beni. Certamente vi è molto da fare e la situazione richiede azione. Si devono vincere i dubbi, accumulare la forza necessaria per portare a maturità la situazione. 
-  Qui molto ha che fare con le nostre propensioni interiori negative, che tentano di fuorviarci.
-  E\' il momento di rimboccarsi le maniche e credere in se stessi, poiché con un po\' di sforzo possiamo raggiungere la meta. ';
+  Un grande carro da caricare. Si imprenda pure qualche cosa. Nessuna macchia.\e
+  Un grande carro ricolmo di beni. Certamente vi è molto da fare e la situazione richiede azione. 
+  Si devono vincere i dubbi, accumulare la forza necessaria per portare a maturità la situazione. 
+  Qui molto ha che fare con le nostre propensioni interiori negative, che tentano di fuorviarci. 
+  E’ il momento di rimboccarsi le maniche e credere in se stessi, poiché con un po’ di sforzo possiamo raggiungere la meta. Muta in 30 Fuoco  ';
 $book['14']['line3'] = 
 'Nove al terzo posto significa:
  Un principe ne fa offerta al Figlio del Cielo. Un uomo meschino non lo fa. \e
- C\'è qui generosità e un atto disinteressato, compiuto senza secondi fini. 
- Ci si trova in una situazione in cui non si riceve un guadagno immediato, ma ugualmente se ne è accresciuti. 
+ C’è qui generosità e un atto disinteressato, compiuto senza secondi fini. Ci si trova in una situazione in cui non si riceve un guadagno immediato, ma ugualmente se ne è accresciuti. 
  Se si è avuto qualche successo, ci si rinuncia restando fedeli al tempo e al luogo appropriati. 
- Avremmo anche la possibilità di avere di più, e di prenderci tutto il guadagno possibile, ma alla fine non sarà di molto valore.
- Dunque è bene rinunciare per conformarsi all\'ordine e all\'equilibrio delle cose. Solo un nobile può farlo e non una persona ordinaria. Un sacrificio è richiesto e lo si deve compiere. ';
+ Avremmo anche la possibilità di avere di più, e di prenderci tutto il guadagno possibile, ma alla fine non sarà di molto valore. 
+ Dunque è bene rinunciare per conformarsi all’ordine e all’equilibrio delle cose. Solo un nobile può farlo e non una persona ordinaria. 
+ Un sacrificio è richiesto e lo si deve compiere. Muta in 38 Contrapposizione ';
 $book['14']['line4'] = 
 ' Nove al quarto posto significa:
   Fa una distinzione tra sé e il suo prossimo. Nessuna macchia.\e
-  Segui il tuo cammino e gli altri seguono il loro. Fai quello che devi fare senza emulare nessuno o tantomeno cercare di compiacerlo. 
-  I posti sono assegnati, c\'è una distanza che va mantenuta perché non è alla nostra portata colmarla. 
-  Si fa strada la chiarezza necessaria per questa comprensione.';
+  Segui il tuo cammino e gli altri seguono il loro. 
+  Fai quello che devi fare senza emulare nessuno o tantomeno cercare di compiacerlo. 
+  I posti sono assegnati, c’è una distanza che va mantenuta perché non è alla nostra portata colmarla. 
+  Si fa strada la chiarezza necessaria per questa comprensione. Muta in 26 Forza domatrice grande ';
 $book['14']['line5'] = 
 ' Sei al quinto posto significa:
   Quegli la cui verità è affabile e pur dignitosa ha salute. 
-  Ci si mostra per quello che si è, senza orpelli e mascheramenti. 
-  E per questo si viene accettati e rispettati e si ha un seguito. 
-  Vi è potere in questo ed ancora più potente è la mancanza di aspettative nel presente, foriera di sviluppi positivi futuri. 
-  Restando fedeli a se stessi siate aperti e sinceri, mostrando la vostra singolarità e il vostro buon cuore. 
-  Così si è capaci di attrarre verso di sè anche persone e situazioni controverse. ';
+  In questa situazione bisogna essere più rilassati e sereni pur mantenendo la distanza che il proprio ruolo comporta. 
+  Essere affabili e gentili, senza per questo essere deboli è il modo in cui interagire. 
+  Se qualcuno ne approfitta e diventa insolente, bisogna dargli una lezione ma con dignità, senza perdere le staffe e esternando la propria rabbia. 
+  Così si è capaci di attrarre verso di sè anche persone e situazioni controverse. Muta in 1 Creativo. ';
 $book['14']['line6'] = 
 ' Nove sopra:
-  Dal cielo è benedetto. Salute! Nulla che non sia propizio. \e
-  La posizione è ormai al di là di guadagno o perdita materiali. 
-  Sostenuti da chiarezza e capacità di azione disinteressata le esperienze fruttificano in modi benefici e inaspettati. 
-  Tutto il potere di plasmare la situazione è nelle nostre mani. 
-  Il compimento dell\'impresa, iniziato con la prima linea, è irreversibile e trova qui il sublime successo. ';
+  Dal cielo è benedetto. Salute! Nulla che non sia propizio.\e
+  Ciò che ti sta a cuore si risolve positivamente. 
+  Le nostre azioni disinteressate aprono la via ad esperienze che fruttificano in modi benefici e inaspettati. 
+  Tutto il potere di plasmare la situazione è nelle nostre mani, nel nostro atteggiamento veritiero e sincero. 
+  Il compimento dell’impresa, iniziato con la prima linea, è irreversibile e trova qui il sublime successo. Muta in 34 La potenza del grande ';
 
 # -------------------------      15       ----------------------- #
 $book['15']['desc'] = 
-' Ch\'ien / Modesty 
-  Above K\'UN THE RECEPTIVE, EARTH
-  Below KÊN KEEPING STILL, MOUNTAIN\e
-  This hexagram is made up of the trigrams Kên, Keeping Still, mountain, and K\'un. The mountain is the youngest son of the Creative, the representative of heaven and earth. It dispenses the blessings of heaven, the clouds and rain that gather round its summit, and thereafter shines forth radiant with heavenly light. This shows what modesty is and how it functions in great and strong men. K\'un, the earth, stands above. Lowliness is a quality of the earth: this is the very reason why it appears in this hexagram as exalted, by being placed above the mountain. This shows how modesty functions in lowly, simple people: they are lifted up by it.';
+' Esagramma 15: Modestia
+  Il Monte sta sotto la Terra. La qualità del monte è la placida quiete, quella della terra è non prendere iniziative ed essere cedevole. 
+  Arrestando ciò che ha raggiunto il colmo, la cima del monte, l’attività eccessiva viene lasciata indietro, per favorire l’espansione di essenziale semplicità. 
+  I trigrammi interni sono Acqua, pericolo, e Tuono, che muove le cose. 
+  Siccome Acqua tende verso il basso, il pericolo è superato favorevolmente; vi sono piccoli movimenti in avanti e modesti sviluppi. 
+  Il successo dell’Esagramma risiede nell’abbandonare desideri in questo momento eccessivi. 
+  Stare nel piccolo, non avere grandi aspettative, farsi bastare il poco. 
+  E’ l’unico Esagramma le cui Linee sono tutte favorevoli. La modestia è ritenuta la più grande virtù del Nobile. ';
 $book['15']['judge'] = 
-' MODESTY creates success. 
-  The superior man carries things through. \e
-  It is the law of heaven to make fullness empty and to make full what is modest; when the sun is at its zenith, it must, according to the law of heaven, turn toward its setting, and at its nadir it rises toward a new dawn. In obedience to the same law, the moon when it is full begins to wane, and when empty of light it waxes again. This heavenly law works itself out in the fates of men also. It is the law of earth to alter the full and to contribute to the modest. High mountains are worn down by the waters, and the valleys are filled up. It is the law of fate to undermine what is full and to prosper the modest. And men also hate fullness and love the modest.
-  The destinies of men are subject to immutable laws that must fulfill themselves. But man has it in his power to shape his fate, according as his behavior exposes him to the influence of benevolent or of destructive forces. When a man holds a high position and is nevertheless modest, he shines with the light of wisdom; if he is in a lowly position and is modest, he cannot be passed by. Thus the superior man can carry out his work to the end without boasting of what he has achieved.';
+' Modestia crea riuscita, il nobile porta a termine. \e
+  E’ un momento in cui molte attività hanno un arresto mentre altre, restate finora in secondo piano, sono capaci di appagarci. ';
 $book['15']['image'] = 
-' Within the earth, a mountain:
-  The image of MODESTY. 
-  Thus the superior man reduces that which is too much,
-  And augments that which is too little. 
-  He weighs things and makes them equal. \e
-  The wealth of the earth in which a mountain is hidden is not visible to the eye, because the depths are offset by the height of the mountain. Thus high and low competent each other and the result is the plain. Here an effect that it took a long time to achieve, but that in the end seems easy of accomplishment and self-evident, is used as the image of modesty. The superior man does the same thing when he establishes order in the world; he equalizes the extremes that are the source of social discontent and thereby creates just and equable conditions.';
+' Dentro la terra sta un monte, l’immagine della modestia. 
+  Così il nobile riduce quello che è troppo e aumenta quello che è poco.
+  Egli pondera le cose e le rende uguali. Un monte sotto la terra, nascosto agli sguardi degli altri: così si attende alle proprie faccende restando in secondo piano, dietro le quinte. 
+  Nel frattempo ciò che è eccessivo si allontana e ciò che si era trascurato trova il suo posto, fornendoci un rilassante nutrimento e pace. 
+  Se pretendiamo il successo ad ogni costo, è il momento di ritornare all’essenza e all’inizio, luogo dove ogni cosa può ricominciare, semplice, sincera, accogliente. 
+  Il peso delle nostre azioni può chiedere sforzo e impegno impossibili: è bene fermarsi e dirigersi verso altro, più semplice e facile. ';
 $book['15']['line1'] = 
 ' Sei all\'inizio significa:
-  A superior man modest about his modesty
-  May cross the great water. 
-  Good fortune. \e
-  A dangerous enterprise, such as the crossing of a great stream, is made much more difficult if many claims and considerations have to be taken into account. On the other hand, the task is easy if it is attended to quickly and simply. Therefore the unassuming attitude of mind that goes with modesty fits a man to accomplish even difficult undertakings: he imposes no demands or stipulations but settles matters easily and quickly. Where no claims are put forward, no resistances arise.';
+  Modesto nella sua modestia, egli attraversa la grande acqua. Successo!\e
+  Con la moderazione è possibile l’accrescimento del proprio potenziale.
+  Si compiono grandi cose senza aspettarsi niente da nessuno, senza biasimo verso altri e senza compiacersi dei risultati che si ottengono. 
+  Ci aspetta un duro lavoro. Muta in 36- Occultamento della Luce ';
 $book['15']['line2'] = 
 ' Sei al secondo posto significa:
-  Modesty that comes to expression. 
-  Perseverance brings good fortune. \e
-  "Out of the fullness of the heart the mouth speaketh. " When a man\'s attitude of mind is so modest that this expresses itself in his outward behavior, it is a source of good fortune to him. For the possibility of exerting a lasting influence arises of itself and no one can interfere.';
+  Modestia si estrinseca. Perseveranza reca salute. \e
+  Restate tranquilli e fermi interiormente, tra le piccole cose che vi appagano. 
+  Così anche esternamente le cose migliorano. Muta in 46- Ascendere ';
 $book['15']['line3'] = 
 ' Nove al terzo posto significa:
-  A superior man of modesty and merit
-  Carries things to conclusion. 
-  Good fortune. \e
-  This is the center of the hexagram, where its secret is disclosed. A distinguished name is readily earned by great achievements. If a man allows himself to be dazzled by fame, he will soon be criticized, and difficulties will arise. If, on the contrary, he remains modest despite his merit, he makes himself beloved and wins the support necessary for carrying his work through to the end.';
+  Meritevole e modesto porta a termine le sue cose. Successo! \e
+  Agite ma sempre senza aspettarvi niente, poi aspettate gli sviluppi, che ci saranno in seguito, senza più intervenire. Muta in 2- Il Ricettivo ';
 $book['15']['line4'] = 
 ' Sei al quarto posto significa:
-  Nothing that would not further modesty
-  In movement. \e
-  Everything has its proper measure. Even modesty in behavior can be carried too far. Here, however, it is appropriate, because the place between a worthy helper below and a kindly ruler above carries great responsibility. The confidence of the man in superior place must not be abused nor the merits of the man in inferior place concealed. There are officials who indeed do not strive for prominence; they hide behind the letter of ordinances, decline all responsibility, accept pay without giving its equivalent in work, and bear empty titles. This is the opposite of what is meant here by modesty. In such a position, modesty is shown by interest in one\'s work.';
+  Muoversi con modestia. Nulla che non sia propizio.\e
+  Le cose si muovono poco e si agisce al minimo. 
+  Se si mantiene questo atteggiamento nessun problema può nascere. 
+  Accettare questo passaggio ci consente di crescere in seguito. Muta in 62- La preponderanza del piccolo ';
 $book['15']['line5'] = 
 ' Sei al quinto posto significa:
-  No boasting of wealth before one\'s neighbor. 
-  It is favorable to attack with force. 
-  Nothing that would not further. \e
-  Modesty is not to be confused with weak good nature that lets things take their own course. When a man holds a responsible position, he must at times resort to energetic measures. In doing so he must not try to make an impression by boasting of his superiority but must make certain of the people around him. The measures taken should be purely objective and in no way personally offensive. Thus modesty manifests itself even in severity.';
+   Non è ricco, e usa la ricchezza del vicino. Propizio è intervenire con forza.\e
+  La situazione è fatta di piccole cose e solo in apparenza sembra debole e insoddisfacente. 
+  Molto di ciò che si ritiene modesto e di poco valore è carico di opportunità che potrebbero svilupparsi. 
+  Lavorate sul poco e semplice che possedete e riuscirete a consolidare la vostra posizione anche tra chi vi sta attorno. Muta in 39 – Difficoltà ';
 $book['15']['line6'] = 
 ' Sei sopra significa:
-  Modesty that comes to expression. 
-  It is favorable to set armies marching
-  To chastise one\'s own city and one\'s country. \e
-  A person who is really sincere in his modesty must make it show in reality. He must proceed with great energy in this. When enmity arises nothing is easier than to lay the blame on another. A weak man takes offense perhaps, and draws back, feeling self-pity; he thinks that it is modesty that keeps him from defending himself. Genuine modesty sets one to creating order and inspires one to begin by disciplining one\'s own ego and one\'s immediate circle. Only through having the courage to marshal one\'s armies against oneself, will something forceful really be achieved.';
+ Modestia che si estrinseca. Propizio è far marciare eserciti per punire la propria città e il proprio paese. Piccole cose, nessun grande guadagno.\e 
+ Invece di biasimare gli altri per questa situazione osservate intorno a voi chi vi spinge ad agire in modo eccessivo e vi eccita ad azioni eclatanti; 
+ stabilite quali sono le cose negative che usurpano la vostra pace e agite con forza per eliminarle. Muta in 52 – Arresto ';
 
 # -------------------------      16       ----------------------- #
 $book['16']['desc'] = 

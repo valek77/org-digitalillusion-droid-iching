@@ -877,110 +877,112 @@ $book['17']['line6'] =
 
 # -------------------------      18       ----------------------- #
 $book['18']['desc'] = 
-' Ku / Work on What Has Been Spoiled [Decay] 
-  Above KÊN KEEPING STILL, MOUNTAIN
-  Below SUN THE GENTLE, WIND\e
-  The Chinese character ku represents a bowl in whose contents worms are breeding. This means decay. It is come about because the gentle indifference in the lower trigram has come together with the rigid inertia of the upper, and the result is stagnation. Since this implies guilt, the conditions embody a demand for removal of the cause. Hence the meaning of the hexagram is not simply "what has been spoiled" but "work on what has been spoiled. "';
+' Esagramma 18: L\' Emendamento cose guaste
+  Sotto c’è il Vento, Sun e sopra il Monte, Ken: il vento soffia alla base di un monte.
+  Ciò che è fermo e inamovibile è mosso da un pervasivo desiderio di rinnovamento e rigenerazione. 
+  Il nome di questo esagramma è Gu, un veleno mortale prodotto dalle mescolanze di insetti e rettili. 
+  Wilhelm lo paragona a una ciotola piena di vermi, qualcosa di cui ci siamo nutriti molto a lungo, determinando le scelte della nostra vita e da cui ora ci si affranca: non è tempo di restare quindi passivi ma di agire, per ristabilire un ordine finora assente, e quindi un nuovo equilibrio. "';
 $book['18']['judge'] = 
-' WORK ON WHAT HAS BEEN SPOILED
-  Has supreme success. 
-  It furthers one to cross the great water. 
-  Before the starting point, three days. 
-  After the starting point, three days. \e
-  What has been spoiled through man\'s fault can be made good again through man\'s work. It is not immutable fate, as in the time of STANDSTILL, that has caused the state of corruption, but rather the abuse of human freedom. Work toward improving conditions promises well, because it accords the possibilities of the time. We must not recoil from work and danger–symbolized by crossing of the great water–but must take hold energetically. Success depends, however, on proper deliberation. This is expressed by the lines, "Before the starting point, three days. After the starting point, three days. " We must first know the cause of corruption before we can do away with them; hence it is necessary to be cautious during the time before the start. Then we must see to it that the new way is safely entered upon, so that a relapse may be avoided; therefore we must pay attention to the time after the start. Decisiveness and energy must take the place of the inertia and indifference that have led to decay, in order that the ending may be followed by a new beginning.';
+' L’emendamento delle cose guaste ha sublime riuscita. Propizio è attraversare la grande acqua. Prima del punto iniziale tre giorni, dopo il punto iniziale tre giorni.\e
+  Correzione di errori passati; chiarimenti che mettono ordine definendo ruoli; superamento e distacco di un elemento oscuro che si è presentato più volte nella nostra vita. 
+  Risoluzione definitiva di abitudini e idee di vecchia data. Ci si avvia verso la guarigione. Ad ogni fine segue un nuovo inizio';
 $book['18']['image'] = 
-' The wind blows low on the mountain:
-  The image of DECAY. 
-  Thus the superior man stirs up the people
-  And strengthens their spirit. \e
-  When the wind blows low on the mountain, it is thrown back and spoils the vegetation. This contains a challenge to improvement. It is the same with debasing attitudes and fashions; they corrupt human society. To do away with this corruption, the superior man must regenerate society. His methods likewise must be derived from the two trigrams, but in such a way that their effects unfold in orderly sequence. The superior man must first remove stagnation by stirring up public opinion, as the wind stirs everything, and must then strengthen and tranquillize the character of the people, as the mountain gives tranquillity and nourishment to all that grows in its vicinity.';
+' Immagine Ai piedi del monte soffia il vento: l’immagine della corruzione. Così il nobile scuote la gente e ne rinvigorisce l’animo.\e
+  Bisogna uscire da una situazione stagnante che pervade la nostra vita. 
+  Ciò è possibile per prima cosa liberandosi con azione decisa di inutili e dannosi vincoli e atteggiamenti di altri che ci circondano; in seguito, dirigendo le cose in modo che tutti si convincano della giustezza del cammino che abbiamo intrapreso. ';
 $book['18']['line1'] = 
-' Six in the beginning means:
-  Setting right what has been spoiled by the father. 
-  If there is a son,
-  No blame rests upon the departed father. 
-  Danger. In the end good fortune. \e
-  Rigid adherence to tradition has resulted in decay. But the decay has not yet penetrated deeply and so can still be easily remedied. It is as if a son were compensating for the decay his father allowed to creep in. Then no blame attaches to the father. However, one must not overlook the danger or take the matter too lightly. Only if one is conscious of the danger connected with every reform will everything go well in the end.';
+' Sei al primo posto significa:
+  Ripara ciò che è stato danneggiato dal padre. Pericolo, alla fine salute.\e
+  Un errore può essere riparato con un’azione che ristabilisce l’equilibrio. 
+  L’errore è connesso con la nostra rigidità, con la nostra difficoltà a trattare in modo personale e creativo una questione irrisolta da tempo.
+  Non è facile ma alla fine tutto andrà bene. 
+  Muta in 26 Forza domatrice del grande ';
 $book['18']['line2'] = 
 ' Nove al secondo posto significa:
-  Setting right what has been spoiled by the mother. 
-  One must not be too persevering. \e
-  This refers to mistakes that as a result of weakness have brought about decay–hence the symbol, "what has been spoiled by the mother. " In setting things right in such a case, a certain gentle consideration is called for. In order not to wound, one should not attempt to proceed too drastically.';
+  Ripara ciò che fu danneggiato dalla madre. \e
+  Le nostre attitudini ed emozioni, legate a una visione infantile e debole, hanno prodotto guasti. 
+  E\' necessaria gentilezza e pazienza per evolvere la situazione, senza forzare. 
+  Muta in 52 Arresto ';
 $book['18']['line3'] = 
 ' Nove al terzo posto significa:
-  Setting right what has been spoiled by the father. 
-  There will be a little remorse. No great blame. \e
-  This describes a man who proceeds a little too energetically in righting the mistakes of the past. Now and then, as a result, minor discourse and annoyances will surely develop. But too much energy is better than too little. Therefore, although he may at times have slight cause for regret, he remains free of any serious blame.';
+  Ripara ciò che è stato danneggiato dal padre; c’è un certo pentimento. \e
+  L’impazienza di riparare errori del passato fa procedere in modo troppo energico, che causano pentimenti e diverbi; tuttavia è meglio agire che non fare niente. 
+  Muta in 4 Inesperienza ';
 $book['18']['line4'] = 
 ' Sei al quarto posto significa:
-  Tolerating what has been spoiled by the father. 
-  In continuing one sees humiliation. \e
-  This shows the situation of someone too weak to take measures against decay that has its roots in the past and is just beginning to manifest itself. It is allowed to run its course. If this continues, humiliation will result.';
+  Tollera ciò che è stato danneggiato dal padre. Umiliazione. \e
+  Invece di affrontare una difficoltà che ha radici nel passato si mettono a tacere dubbi e si sopporta in silenzio.
+  Tale tolleranza porta a umiliazione. 
+  Muta in 50 Crogiolo ';
 $book['18']['line5'] = 
 ' Sei al quinto posto significa:
-  Setting right what has been spoiled by the father. 
-  One meets with praise. \e
-  An individual is confronted with corruption originating from neglect in former times. He lacks the power to ward it off alone, but with able helpers he can at least bring about a thorough reform, if he cannot create a new beginning, and this also is praiseworthy.';
+  Ripara ciò che fu guastato dal padre. Si incontra lode. \e
+  Ci si assume il peso e la responsabilità di cambiare una situazione che da lungo tempo chiede di essere risolta. 
+  Agire. Si ha appoggio e stima, l’equilibrio si ristabilisce. 
+  Muta in 57 Vento ';
 $book['18']['line6'] = 
 ' Nove sopra significa:
-  He does not serve kings and princes,
-  Sets himself higher goals. \e
-  Not every man has an obligation to mingle in the affairs of the world. There are some who are developed to such a degree that they are justified in letting the world go its own way and refusing to enter public life with a view to reforming it. But this does not imply a right to remain idle or to sit back and merely criticize. Such withdrawal is justified only when we strive to realize in ourselves the higher aims of mankind. For although the sage remains distant from the turmoil of daily life, he creates incomparable human values for the future.';
+  Non serve né re né principi. Si pone mete più elevate. \e
+  L’attaccamento agli affari del mondo svanisce; non c’è da fare o non fare, quando non ci si aspetta niente.
+  Ora si è trovato nutrimento dentro di sé e si è soddisfatti. 
+  Muta in 46 Ascendere ';
 
 # -------------------------      19       ----------------------- #
 $book['19']['desc'] = 
-' Lin / Approach 
-  Above K\'UN THE RECEPTIVE, EARTH
-  Below TUI THE JOYOUS, LAKE\e
-  The Chinese word lin has a range of meanings that is not exhausted by any single word of another language. The ancient explanations in the Book of Changes give as its first meaning, "becoming great. " What becomes great are the two strong lines growing into the hexagram from below; the light-giving power expands with them. The meaning is then further extended to include the concept of approach, especially the approach of what is strong and highly placed in relation to what is lower. Finally the meaning includes the attitude of condescension of a man in high position toward the people, and in general the setting to work on affairs. This hexagram is linked with the twelfth month (January-February), when after the winter solstice, the light power begins to ascend again.';
+' Esagramma 19: Avvicinamento
+  Lago sotto la terra. Di nuovo crescono la luce e il movimento, dal basso, e forze intese a costruire e agire si alzano in sintonia con il tempo. 
+  Alzandosi, diventano grandi e sono capaci di avvicinarsi con autorevolezza a chi è inferiore. 
+  La situazione mostra elementi oscuri che vengono lavorati e superati. Si può quindi agire e porre mano a qualche impresa. 
+  Ci sono naturalmente ostacoli, legati alla nostra presunzione e al voler strafare.
+  Se vedi un uomo che nel buio cerca la luce, fermati e illuminalo. Poi passa avanti e continua la tua strada. ';
 $book['19']['judge'] = 
-' APPROACH has supreme success. 
-  Perseverance furthers. 
-  When the eighth month comes,
-  There will be misfortune.\e 
-  The hexagram as a whole points to a time of joyous, hopeful progress. Spring is approaching. Joy and forbearance bring high and low nearer together. Success is certain. But we must work with determination and perseverance to make full use of the propitiousness of the time. And on thing more: spring does not last forever. In the eighth month the aspects are reversed. Then only two strong, light lines are left; these do not advance but are in retreat (see next hexagram). We must take heed of this change in good time. If we meet evil before it becomes reality–before it has even begun to stir–we can master it.';
+' L’avvicinamento ha sublime riuscita. Propizia è perseveranza. Quando viene l’ottavo mese vi è sciagura. \e
+  Il principio chiaro mostra di poter salire perché è forte.
+  Ciò che desiderate lo otterrete applicandovi con decisione e chiarezza di intenti. 
+  Siate onesti con voi stessi e con le circostanze. 
+  La situazione sarà di nuovo in bilico dopo aver avuto un primo sviluppo. ';
 $book['19']['image'] = 
-' The earth above the lake:
-  The image of APPROACH. 
-  Thus the superior man is inexhaustible
-  In his will to teach, 
-  And without limits
-  In his tolerance and protection of the people.\e
-  The earth borders upon the lake from above. This symbolizes the approach and condescension of the man of higher position to those beneath him. The two parts of the image indicate what his attitude toward these people will be. Just as the lake is inexhaustible in depth, so the sage is inexhaustible in his readiness to teach mankind, and just as the earth is boundlessly wide, sustaining and caring for all creatures on it, so the sage sustains and cares for all people and excludes no part of humanity.';
+' Al di sopra del lago è la terra: l’immagine dell’avvicinamento. Così il nobile è inesauribile nella sua intenzione di insegnare e senza limiti nel sostenere e proteggere il popolo.\e
+  L’acqua sotterranea è inesauribile, mentre la terra sostiene tutte le creature. 
+  Così ci si prepari a profondere impegno e prodigarsi senza limiti per sostenere la situazione e portarla a frutto. ';
 $book['19']['line1'] = 
 ' Nove all\'inizio significa:
-  Joint approach. 
-  Perseverance brings good fortune. \e
-  The good begins to prevail and to find response in influential circles. This in turn is an incentive to men of ability. It is well to join this upward trend, but we must not let ourselves be carried away by the current of the time; we must adhere perseveringly to what is right. This bring good fortune.';
+  Avvicinamento comune. Perseveranza reca salute.\e
+  La linea si associa con un’altra, che la fa salire. 
+  Se non fosse per lei, ben difficilmente si muoverebbe. 
+  Occorre quindi seguire altri fino in fondo, se si vuole procedere. 
+  Muta in 7 Esercito ';
 $book['19']['line2'] = 
 ' Nove al secondo posto significa:
-  Joint approach. 
-  Good fortune. 
-  Everything furthers. \e
-  When the stimulus to approach comes from a high place, and when a man has the inner strength and consistency that need no admonition, good fortune will ensue. Nor need the future cause any concern. He is well aware that everything earthly is transitory, and that a descent follows upon every rise, but need not be confused by this universal law of fate. Everything serves to further. Therefore he will travel the paths of life swiftly, honestly, and valiantly.';
+  Avvicinamento comune. Salute! Tutto è propizio. \e 
+  La linea attiva è in diretto contatto con l’oscurità yin, che la invita ad avvicinarsi. 
+  Qualcuno vi fornisce l’inizio di qualcosa di promettente, in cui partecipate con piacere. 
+  Muta in 24 Ritorno ';
 $book['19']['line3'] = 
 ' Sei al terzo posto significa:
-  Comfortable approach. 
-  Nothing that would further. 
-  If one is induced to grieve over it,
-  One becomes free of blame. \e
-  Things are going well for a man: he achieves power and influence. But in this lies the danger that he may relax, and confident of his position, allow the easygoing, careless mood to show itself in his dealings with other people. This would inevitably be harmful. But there is possibility of a change of mood. If he regrets his mistaken attitude and feels the responsibility of an influential position, he frees himself of faults.';
+  Avvicinamento gradevole. Nulla che sia propizio. Se si giunge al rammarico si è liberi da macchia. \e
+  Avete svolto un buon lavoro e vi state avvicinando a realizzare il vostro desiderio. 
+  La situazione appare gradevole e semplice. Non siate troppo presuntuosi, ci sono ancora dettagli importanti da mettere a punto. 
+  Se con umiltà riconoscete gli errori fatti e rimediate, non ne riceverete danno. 
+  Muta in 11 Pace ';
 $book['19']['line4'] = 
 ' Sei al quarto posto significa:
-  Complete approach. 
-  No blame. \e
-  While the three lower lines indicate rise to power and influence, the three upper lines show the attitude of persons in higher position toward those of lower rank for whom they procure influence. Here is shown the open- minded approach of a person of high rank to a man of ability whom he draws in to his own circle, regardless of class prejudice. This is very favorable.';
+  Avvicinamento perfetto. Nessuna macchia. \e
+  Il momento è buono per rapporti tra superiore e inferiore, stabilito dal movimento del trigramma inferiore verso il superiore che scende ad accoglierlo. 
+  Nello stesso modo vi è incontro e simpatia tra due persone. Nessun danno ne consegue. 
+  Muta in 54 Ragazza che si sposa .';
 $book['19']['line5'] = 
 ' Sei al quinto posto significa:
-  Wise approach. 
-  This is right for a great prince. 
-  Good fortune. \e
-  A prince, or anyone in a leading position, must have the wisdom to attract to himself people of ability who are expert in directing affairs. His wisdom consists both in selecting the right people and in allowing those chosen to have a free hand without interference from him. For only through such self- restraint will he find the experts needed to satisfy all of his requirements.';
+  Avvicinamento saggio. Questo si addice a un grande principe. Salute! \e
+  La linea scende ad incontrare chi sta in basso ed è forte, così come si va incontro a qualcuno di fiducia, che svolge i suoi affari in distanza senza essere fonte di preoccupazioni. 
+  Tale distanza è salutare per entrambi. 
+  Muta in 60 Limiti ';
 $book['19']['line6'] = 
 ' Sei sopra significa:
-  Greathearted approach. 
-  Good fortune. No blame. \e
-  A sage who has put the world behind him and who in spirit has already withdrawn from life may, under certain circumstances, decide to return once more to the here and now and to approach other men. This means great good fortune for the men whom he teaches and helps. And for him this greathearted humbling of himself is blameless.';
+  Avvicinamento magnanimo. Salute. Nessuna macchia. \e
+  La linea è già isolata e in procinto di mutare, quand’ecco è richiamata in causa dagli inferiori. 
+  Non le resta che accettare il richiamo e mettersi a disposizione, anche se alla lunga la sola soddisfazione è la generosità profusa. 
+  Muta in 41 Diminuzione ';
 
 # -------------------------      20       ----------------------- #
 $book['20']['desc'] = 

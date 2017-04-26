@@ -760,115 +760,120 @@ $book['15']['line6'] =
 
 # -------------------------      16       ----------------------- #
 $book['16']['desc'] = 
-' Yü / Enthusiasm 
-  Above CHÊN THE AROUSING, THUNDER
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  The strong line in the fourth place, that of the leading official, meets with response and obedience from all the other lines, which are all weak. The attribute of the upper trigram, Chên, is movement; the attributes of K\'un, the lower, are obedience and devotion. This begins a movement that meets with devotion and therefore inspires enthusiasm, carrying all with it. Of great importance, furthermore, is the law of movement along the line of least resistance, which in this hexagram is enunciated as the law for natural events and for human life.';
+' Esagramma 16: Il Fervore
+   La Terra sotto e il Tuono sopra. La dedizione della terra viene mossa e ispirata da un risveglio decisivo, una spinta ad agire per preparare nuovi inizi e una svolta al cambiamento. 
+   Lo stato della terra è l’accogliente dedizione; le esperienze compiute con tale dedizione nel passato – si muovono dunque in avanti per prendere nuova forma. 
+   Vi è qualcuno o qualcosa a cui si è data fiducia e dedizione e che richiede un giusto intervento. 
+   Se finora si è rimandato qualcosa, ci si prepari a metterlo in pratica. ';
 $book['16']['judge'] = 
-' ENTHUSIASM. It furthers one to install helpers
-  And to set armies marching. \e
-  The time of ENTHUSIASM derives from the fact that there is at hand an eminent man who is in sympathy with the spirit of the people and acts in accord with it. Hence he finds universal and willing obedience. To arouse enthusiasm it is necessary for a man to adjust himself and his ordinances to the character of those whom he has to lead. The inviolability of natural laws rests on this principle of movement along the line of least resistance. These laws are not forces external to things but represent the harmony of movement immanent in them. That is why the celestial bodies do not deviate from their orbits and why all events in nature occur with fixed regularity. It is the same with human society: only such laws are rooted in popular sentiment can be enforced, while laws violating this sentiment merely arouse resentment.
-  Again, it is enthusiasm that enables us to install helpers for the completion of an undertaking without fear of secret opposition. It is enthusiasm too that can unify mass movements, as in war, so that they achieve victory.';
+' Il Fervore. Propizio è nominare degli aiutanti e far marciare eserciti.\e
+  Prepararsi all’azione. I segni intrinseci Ken Arresto e Kan Abisso trattengono l’andare e indicano il fermarsi prima di colpire : l’esito dell’azione non si ha nell’immediato, anche se lo vorremmo. 
+  Approntare gli strumenti necessari per preparare l’azione e poi eseguite. ';
 $book['16']['image'] = 
-' Thunder comes resounding out of the earth:
-  The image of ENTHUSIASM. 
-  Thus the ancient kings made music
-  In order to honor merit,
-  And offered it with splendor
-  To the Supreme Deity,
-  Inviting their ancestors to be present. \e
-  When, at the beginning of summer, thunder–electrical energy–comes rushing forth from the earth again, and the first thunderstorm refreshes nature, a prolonged state of tension is resolved. Joy and relief make themselves felt. So too, music has power to ease tension within the heart and to loosen the grip of obscure emotions. The enthusiasm of the heart expresses itself involuntarily in a burst of song, in dance and rhythmic movement of the body. From immemorial times the inspiring effect of the invisible sound that moves all hearts, and draws them together, has mystified mankind.
-  Rulers have made use of this natural taste for music; they elevated and regulated it. Music was looked upon as something serious and holy, designed to purify the feelings of men. It fell to music to glorify the virtues of heroes and thus to construct a bridge to the world of the unseen. In the temple men drew near to God with music and pantomimes (out of this later the theater developed). Religious feeling for the Creator of the world was united with the most sacred of human feelings, that of reverence for the ancestors. The ancestors were invited to these divine services as guests. of the Ruler of Heaven and as representatives of humanity in the higher regions. This uniting of the human past with the Divinity in solemn moments of religious inspiration established the bond between God and man. The ruler who revered the Divinity in revering his ancestors became thereby the Son of Heaven, in whom the heavenly and the earthly world met in mystical contact.
-  These ideas are the final summation of Chinese culture. Confucius has said of the great sacrifice at which these rites were performed: "He who could wholly comprehend this sacrifice could rule the world as though it were spinning on his hand. "';
+' Il tuono erompe sonoro dalla terra : l’immagine del fervore. Così gli antichi re facevano musica per onorare i meriti e la presentavano, magnifica offerta, al Dio supremo evocando la presenza dei loro avi.\e
+   Il tuono si alza con forza propulsiva, qui paragonato alla musica, utilizzando ciò che nel passato è accaduto come offerta a ciò che avverrà. 
+   La continuità con il passato è assicurata dalla presenza degli avi, che con benevolo assenso favoriscono il giusto passaggio dal passato al futuro. 
+   Se la nostra dedizione a qualcuno o qualcosa è stata sminuita o ostacolata bisogna prepararsi a darle il giusto valore e farla presente apertamente. 
+   Bisogna farsi avanti e cominciare a imprimere nuova direzione alle cose, ne avete forza e diritto.
+   Grande invero è il tempo del fervore. ';
 $book['16']['line1'] = 
 ' Sei all\'inizio significa:
-  Enthusiasm that expresses itself
-  Brings misfortune. \e
-  A man in an inferior position has aristocratic connections about which he boasts enthusiastically. This arrogance inevitably invites misfortune. Enthusiasm should never be an egotistic emotion; it is justified only when it is a general feeling that unites one with others.';
+  Fervore che si manifesta reca sciagura.\e
+  Si vorrebbe agire ma non se ne ha la forza. 
+  Non è bene far capire e mostrare apertamente i nostri piani e i nostri pensieri; è meglio mantenere il segreto su ciò che veramente pensiamo se non si vogliono attirare ulteriori problemi. 
+  I dubbi e le prese di posizione interiori sono giusti, ma se ora vengono apertamente espressi ne consegue sciagura. 
+  Muta in 51 Tuono ';
 $book['16']['line2'] = 
 ' Sei al secondo posto significa:
-  Firm as a rock. Not a whole day. 
-  Perseverance brings good fortune. \e
-  This describes a person who does not allow himself to be misled by any illusions. While others are letting themselves be dazzled by enthusiasm, he recognizes with perfect clarity the first signs of the time. Thus he neither flatters those above nor neglects those beneath him; he is as firm as a rock. When the first sign of discord appears, he knows the right moment for withdrawing and does not delay even for a day. Perseverance in such conduct will bring good fortune. Confucius says about this line: To know the seeds, that is divine indeed. In his association with those above him, the superior man does not flatter. In his association with those beneath him, he is not arrogant. For he knows the seeds. The seeds are the first imperceptible beginning of movement, the first trace of good fortune (or misfortune) that shows itself. The superior man perceives the seeds and immediately takes action. He does not wait even a whole day. In the Book of Changes it is said: "Firm as a rock. Not a whole day. Perseverance brings good fortune. " Firm as a rock, what need of a whole day? The judgment can be known. The superior man knows what is hidden and what is evident. He knows weakness, he knows strength as well. Hence the myriads look up to him.';
+  Saldo come una pietra. Nemmeno un giorno intero. Perseveranza reca salute. \e
+  Vi è un blocco, per cui non si può insistere in questo senso per ora. 
+  La strada che stiamo percorrendo non porta a nessuno sviluppo e si arresta. 
+  Succederà a breve. E’ bene assecondare il fluire delle cose senza opporsi e continuare in questo atteggiamento di ritiro. 
+  Muta in 40 Liberazione ';
 $book['16']['line3'] = 
 ' Sei al terzo posto significa:
-  Enthusiasm that looks upward creates remorse. 
-  Hesitation brings remorse. \e
-  This line is the opposite of the preceding one: the latter bespeaks self-reliance, while here there is enthusiastic looking up to a leader. If a man hesitates too long, this also will bring remorse. The right moment for approach must be seized: only then will he do the right thing.';
+  Fervore che guarda in alto crea pentimento. 
+  Esitazione crea pentimento. Con entusiasmo guardiamo in alto,verso arricchimenti e nuovi traguardi, ma siamo deboli. 
+  Dietro a ciò che vorremmo fare ci sono forse motivazioni non consone (autoindulgenza, orgoglio, rabbia). 
+  Si è preda dei dubbi, si vorrebbe fare ma non si sa né come né dove rivolgersi. 
+  Ogni mossa conduce a qualcosa di cui ci pentiremo. 
+  Muta in 62 La Preponderanza del Piccolo ';
 $book['16']['line4'] = 
 ' Nove al quarto posto significa:
-  The source of enthusiasm. 
-  He achieves great things. 
-  Doubt not. 
-  You gather friends around you
-  As a hair clasp gathers the hair. \e
-  This describes a man who is able to awaken enthusiasm through his own sureness and freedom from hesitation. He attracts people because he has no doubts and is wholly sincere. Owing to his confidence in them he wins their enthusiastic co-operation and attains success. Just as a clasp draws the hair together and holds it, so he draws men together by the support he gives them.';
+  L’origine del fervore. Egli raggiunge grandi cose. Non dubitare. Gli amici si schierano intorno a te come i capelli attorno a una fibbia.\e
+  Il luogo da cui proviene il fervore e su cui operare è a portata di mano e può dare frutto.
+  La linea è forte e vuole salire, e sa trascinare altri intorno a sé. Se avete dubbi sulla validità di ciò che è accaduto, fugateli. 
+  Chi vi è amico vi sta vicino, non allontanatelo con i vostri dubbi. 
+  Muta in 2 Ricettivo .';
 $book['16']['line5'] = 
 ' Sei al quinto posto significa:
-  Persistently ill, and still does not die. \e
-  Here enthusiasm is obstructed. A man is under constant pressure, which prevents him from breathing freely. However, this pressure has its advantage–it prevents him from consuming his powers in empty enthusiasm. Thus constant pressure can actually serve to keep one alive.';
+  Costantemente malato eppur non muore mai.\e
+  Si è presi da un’aspirazione che sfianca e consuma. 
+  La situazione si sforza di riuscire a crescere, senza evolversi né in bene né in male. 
+  Non è del tutto negativo, visto che un pensiero fisso sullo scopo ha più probabilità di avere successo. 
+  Muta in 45 Raccolta ';
 $book['16']['line6'] = 
 ' Sei sopra significa:
-  Deluded enthusiasm. 
-  But if after completion one changes,
-  There is no blame. \e
-  It is a bad thing for a man to let himself be deluded by enthusiasm. But if this delusion has run its course, and he is still capable of changing, then he is freed of error. A sober awakening from false enthusiasm is quite possible and very favorable.';
+  Fervore cieco. Ma se dopo l’azione cambiano le cose, non è una macchia. \e
+  Anche se i nostri motivi sono giusti si agisce più spinti dall’istinto che dalla ragione. 
+  Una decisione presa d’impulso però contribuisce a smuovere le acque e questo non è mai un male. 
+  Muta in 35 Progresso ';
 
 # -------------------------      17       ----------------------- #
 $book['17']['desc'] = 
-' Sui / Following 
-  Above TUI THE JOYOUS, LAKE
-  Below CHÊN THE AROUSING, THUNDER\e
-  The trigram Tui, the Joyous, whose attribute is gladness, is above; Chên, the Arousing, which has the attribute of movement, is below. Joy in movement induces following. The Joyous is the youngest daughter, while the Arousing is the eldest son. An older man defers to a young girl and shows her consideration. By this he moves her to follow him.';
+' Esagramma 17: Seguire
+  Il Tuono -eccitante- si pone sotto il Lago -il sereno- e lo segue nel movimento ascendente. 
+  I segni interni, Monte e Vento, alludono alla tranquillità e alla persistenza. 
+  L’eccitarsi che porta a reagire deve rasserenarsi. 
+  Bisogna tranquillamente adattarsi senza voler imporre ad altri le nostre richieste, in questo momento inopportune. ';
 $book['17']['judge'] = 
-' FOLLOWING has supreme success. 
-  Perseverance furthers. No blame. \e
-  In order to obtain a following one must first know how to adapt oneself. If a man would rule he must first learn to serve, for only in this way does he secure from those below him the joyous assent that is necessary if they are to follow him. If he has to obtain a following by force or cunning, by conspiracy or by creating factions, he invariably arouses resistance, which obstructs willing adherence. But even joyous movement can lead to evil consequences, hence the added stipulation, "Perseverance furthers"–that is, consistency in doing right–together with "No blame. " Just as we should not ask others to follow us unless this condition is fulfilled, so it is only under this condition that we can in turn follow others without coming to harm.
-  The thought of obtaining a following through adaptation to the demands of the time is a great and significant idea; this is why the appended judgment is so favorable.';
+' Il seguire ha sublime riuscita. Propizia è perseveranza. Nessuna macchia. 
+  Le linee forti si pongono sotto le deboli e le seguono: qui la riuscita. 
+  Ciò che è fermo e inamovibile si ferma, ciò che è gioioso e sereno si alza. 
+  Dunque rasserenarsi nonostante le avversità e i motivi di malinconia siano presenti. 
+  Possiamo modificare il corso delle cose solo adattandoci ad esse, abbandonando il fare in favore dell’essere: quando qualcosa non può essere cambiato secondo il nostro desiderio, invece di starsene a covare risentimento o costruire nuove strategie bisogna tranquillamente e con fermezza guardare avanti, alle nuove opportunità che ci aspettano. ';
 $book['17']['image'] = 
-' Thunder in the middle of the lake:
-  The image of FOLLOWING. 
-  Thus the superior man at nightfall
-  Goes indoors for rest and recuperation. \e
-  In the autumn electricity withdraws into the earth again and rests. Here it is the thunder in the middle of the lake that serves as the image–thunder in its winter rest, not thunder in motion. The idea of following in the sense of adaptation to the demands of the time grows out of this image. Thunder in the middle of the lake indicates times of darkness and rest. Similarly, a superior man, after being tirelessly active all day, allows himself rest and recuperation at night. No situation can become favorable until one is able to adapt to it and does not wear himself out with mistaken resistance.';
+' In mezzo al lago sta il tuono: l’immagine del seguire. Così il nobile al tempo del crepuscolo rincasa per ristorarsi e riposare. \e
+  Il Tuono è sotto il Lago e lo segue, rinunciando a eccitare gli eventi. 
+  Nello stesso modo le attività si calmano e sorge un periodo di serena accettazione delle cose come sono. Si abbandonano i vecchi atteggiamenti che generano tensione e sforzo, mentre si apre una stagione di riposo e serenità';
 $book['17']['line1'] = 
 ' Nove all\'inizio significa:
-  The standard is changing. 
-  Perseverance brings good fortune. 
-  To go out of the door in company
-  Produces deeds. \e
-  There are exceptional conditions in which the relation between leader and followers changes. It is implicit in the idea of following and adaptation that if one wants to lead others, one must remain accessible and responsive to the views of those under him. At the same time, however, he must have firm principles, so that he does not vacillate where there is only a question of current opinion. Once we are ready to listen to the opinions of others, we must not associate exclusively with people who share our views or with members of our own party; instead, we must go out and mingle freely with all sorts of people, friends or foes. That is the only way to achieve something.';
+  Le norme di condotta cambiano. Perseveranza reca salute. Uscire di casa e frequentare gente crea opere.\e
+  Finora si seguiva ciò che richiedeva sforzo e adattamento a norme fisse e immodificabili. 
+  Si cambia direzione, è molto meglio aggregarsi a ciò che invece può crescere e svilupparsi al di fuori di tale situazione asfittica. 
+  Muta in 45 Raccolta ';
 $book['17']['line2'] = 
 ' Sei al secondo posto significa:
-  If one clings to the little boy,
-  One loses the strong man. \e
-  In friendships and close relationships an individual must make a careful choice. He surrounds himself either with good or with bad company; he cannot have both at once. If he throws himself away on unworthy friends he loses connection with people of intellectual power who could further him in the good.';
+  Chi si accompagna al ragazzino perde l’uomo forte. \e
+  Abbiamo una scelta da compiere: o stare con chi è immaturo e ci sta davanti o con chi è forte e tornare indietro. 
+  Tutte e due le cose non possiamo farle.
+  Meglio quindi tornare a quello che si sta lasciando indietro che proseguire verso obiettivi fumosi e incerti. 
+  Muta in 58 Sereno ';
 $book['17']['line3'] = 
 ' Sei al terzo posto significa:
-  If one clings to the strong man,
-  One loses the little boy. 
-  Through following one finds what one seeks. 
-  It furthers one to remain persevering. \e
-  When the right connection with distinguished people has been found, a certain loss naturally ensues. A man must part company with the inferior and superficial. But in his heart he will feel satisfied, because he seeks and needs for the development of his personality. The important thing is to remain firm. He must know what he wants and not be led astray by momentary inclinations.';
+  Chi si accompagna all’uomo forte perde il ragazzino. Seguendo si trova quello che si cerca. Propizio è rimanere perseveranti.\e
+  Il piccolo se ne va, il grande arriva: si decide di cercare ciò che è forte e certo, abbandonando debolezza e incertezza. 
+  Un comportamento forte allontana ciò che è debole e immaturo, e portando avanti questo atteggiamento nei vostri piani troverete ciò che cercate. 
+  Dunque agite per convincervi fino in fondo della situazione quale è, e non quale immaginate sia. E’ certamente un atto coraggioso che vi farà perdere qualcuno, o qualcosa, di inconsistente e poco chiaro. 
+  Muta in 49 Rivoluzione ';
 $book['17']['line4'] = 
 ' Nove al quarto posto significa:
-  Following creates success. 
-  Perseverance brings misfortune. 
-  To go one\'s way with sincerity brings clarity. 
-  How could there be blame in this? \e
-  It often happens, when a man exerts a certain amount of influence, that he obtains a following by condescension toward inferiors. But the people who attach themselves to him are not honest in their intentions. They seek personal advantage and try to make themselves indispensable through flattery and subservience. If one becomes accustomed to such satellites and cannot do without them, it brings misfortune. Only when a man is completely free from his ego, and intent, by conviction, upon what is right and essential, does he acquire the clarity that enables him to see through such people, and become free of blame.';
+  Il seguire crea riuscita. Perseveranza reca sciagura. Percorrere la via con veracità reca chiarezza. Come potrebbe questo essere una macchia? \e
+  Mantenete la calma, non agite per forzare le cose verso direzioni irrealizzabili, che purtroppo, vi stanno confondendo. 
+  Continuare a riporre le speranze in qualcuno o qualcosa che non può accondiscendere al vostro volere vi farà ancora più male. 
+  Siate onesti con voi stessi, siate coscienti e consapevoli che volete spingervi oltre il dovuto. Fatevi bastare ciò che già si è ottenuto e non tendete a strafare; questo atteggiamento nel tempo evita svantaggi. 
+  Muta in 3 Difficoltà iniziale ';
 $book['17']['line5'] = 
 ' Nove al quinto posto significa:
-  Sincere in the good. Good fortune. \e
-  Every man must have something he follows–something that serves him as a lodestar. He who follows with conviction the beautiful and the good may feel himself strengthened by this saying.';
+  Verace nel bene. Salute! Si prosegue nel modo più saggio, abbandonando ciò che è debole, incerto e causa di ansia. 
+  Muta in 51 Tuono ';
 $book['17']['line6'] = 
 ' Sei sopra significa:
-  He meets with firm allegiance
-  And is still further bound. 
-  The king introduces him
-  To the Western Mountain. \e
-  This refers to a man, an exalted sage, who has already put the turmoil of the world behind him. But a follower appears who understands him and is not to be put off. So the sage comes back into the world and aids the other in his work. Thus there develops an eternal tie between the two.
-  The allegory is chosen from the annals of the Chou dynasty. The rulers of this dynasty honored men who had served them well by awarding them a place in the royal family\'s temple of ancestors on the Western Mountain. In this way they were regarded as sharing in the destiny of the ruling family.';
+  Egli trova solido attaccamento e per di più viene anche legato. Il re lo presenta al Monte Occidentale. Si resta soli, non c’è più nessuno da seguire. E’ la fine.\e
+  Per fortuna qualcuno è pronto a sostenerci, ci richiama a rientrare nel mondo e trovare un modo per portare alla luce i nostri doni. 
+  Acquistiamo così onore e un posto di rilievo. 
+  Quando non vi è più nessuno da seguire si torna sempre a volgersi verso ciò che sostiene e dà forza. 
+  Muta in 25 Innocenza ';
 
 # -------------------------      18       ----------------------- #
 $book['18']['desc'] = 

@@ -986,210 +986,247 @@ $book['19']['line6'] =
 
 # -------------------------      20       ----------------------- #
 $book['20']['desc'] = 
-' Esagramma 20: Contemplazione 
+' Esagramma 20 : La Contemplazione (Guardare da lontano)
   Il Vento sta sopra la Terra. Il vento penetra dovunque, e vede ciò che accade sulla terra sottostante. 
-  Le linee yin salgono di nuovo sospingendo il principio chiaro in alto, e lo guardano, mentre le due yang nel posto di preminenza, osservano quelle in basso. 
-  La struttura ricorda le torri di guardia, da cui si sorvegliavano i dintorni e su cui si era visti. Guardare ed essere guardati è dunque il senso dell\'esagramma. 
-  I deboli guardano i forti con fiducia, sperando di essere beneficiati con consigli e istruzioni, mentre le linee yang le osservano per decidere il da farsi. 
-  Il segno intrinseco Monte, Immobilità, simboleggia le mani e anche un palazzo, da cui l\'idea delle mani pulite e di un palazzo dalle porte chiuse. 
-  La situazione complessiva è di qualcuno che guarda verso gli altri, più forti, e aspetta un beneficio. Il forte vuole corrispondere e si appresta a farlo ma non completamente, in quanto vi è un blocco che lo impedisce. 
-  Si aspettano risposte e buone nuove che stanno per arrivare, anche se non saranno quelle conclusive. ';
+  Le linee salgono di nuovo sospingendo il principio chiaro in alto, e lo guardano, mentre le due yang nel posto di preminenza, osservano quelle in basso.
+  La struttura ricorda le torri di guardia, da cui si sorvegliavano i dintorni e su cui si era visti. 
+  Guardare ed essere guardati è dunque il senso dell’esagramma. 
+  I deboli guardano i forti con fiducia, sperando di essere  beneficiati con consigli e istruzioni, mentre le linee yang le osservano per decidere il da farsi. 
+  Il segno intrinseco Monte, Immobilità, simboleggia le mani e anche un palazzo, da cui l’idea delle mani pulite e di un palazzo dalle porte chiuse.  
+  La situazione complessiva è di qualcuno che guarda verso gli altri, più forti, e aspetta un beneficio. 
+  Il forte vuole corrispondere e si appresta a farlo ma non completamente, in quanto vi è un blocco che lo impedisce. Si aspettano risposte e buone nuove che stanno per arrivare,  anche se non saranno quelle conclusive ';
 $book['20']['judge'] = 
-' La contemplazione.
-  L\'abluzione è avvenuta, ma l\'offerta non ancora. Fiduciosi innalzano lo sguardo a lui.\e 
-  Si guarda verso qualcuno, che a sua volta ci guarda. Si stabilisce un contatto che purifica ciò che era guasto e rinnova l\'interesse reciproco. 
-  E\' il momento in cui quello che si è fatto ha prodotto un risultato, manca però la conclusione e il compimento dell\'impresa. 
+' La contemplazione. L’abluzione è avvenuta, ma l’offerta non ancora. Fiduciosi innalzano lo sguardo a lui.\e
+  Si guarda verso qualcuno, che a sua volta ci guarda.
+  Si stabilisce un contatto che purifica ciò che era guasto e rinnova l’interesse reciproco.  
+  E’ il momento in cui quello che si è fatto ha prodotto un risultato, manca però la conclusione e il compimento dell’impresa. 
   Questa è solo una prima parte e altro non viene ancora offerto. 
   Si spera con fiducia che questa offerta arrivi, così come le linee yin rivolgendo lo sguardo al principio yang, in alto, sono fiduciose. 
-  Una prima parte dell\'impresa si compie, ma anche se manca il coronamento, si pone rimedio a un errore. ';
+  Una prima parte dell’impresa si compie, ma  anche se manca il coronamento, si pone rimedio a un errore. ';
 $book['20']['image'] = 
-' L\'Immagine Il vento soffia sulla terra: l\'immagine della contemplazione. 
-  Allo stesso modo gli antichi re visitavano le varie regioni, guardavano il popolo e dispensavano istruzioni. 
-  Il vento che penetra dappertutto arriva sulla terra e la svela. 
-  Il vento è paragonato agli antichi re che viaggiavano su tutto il loro territorio, vedevano le condizioni dei più deboli e poi davano ordini e provvedimenti per migliorare le loro condizioni. 
-  Nella vita di tutti i giorni un personaggio importante si mette in contatto con noi portando buone notizie. ';
+' Il vento soffia sulla terra: l’immagine della contemplazione. Allo stesso modo gli antichi re visitavano le varie regioni, guardavano  il popolo e     dispensavano istruzioni.\e
+ Il vento che penetra dappertutto arriva sulla terra e la svela. 
+ Il vento è paragonato agli antichi re che viaggiavano su tutto il loro territorio, vedevano le condizioni dei più deboli e poi davano ordini e provvedimenti per migliorare le loro condizioni. 
+ Nella vita di tutti i giorni un personaggio importante si mette in contatto con noi portando buone notizie. ';
 $book['20']['line1'] = 
 ' Sei all\'inizio signifa: 
-  Contemplazione puerile. Per un uomo meschino nessuna macchia. Per un nobile vergogna.\e
+  Contemplazione puerile. Per un uomo meschino nessuna macchia. Per un nobile vergogna. \e
   La linea simboleggia un ragazzino inesperto che si aggira inconcludente e si comporta in modo inadatto per ottenere ciò che desidera. 
-  Egli non ha i mezzi e le capacità per poter avanzare, ma l\'altro che invece potrebbe agire ugualmente non prende iniziative, comportandosi in modo vergognoso. ';
+  Egli non ha i mezzi e le capacità per poter avanzare, ma l’altro che invece potrebbe agire ugualmente non prende iniziative, comportandosi in modo vergognoso.  
+  Muta in 42 Accrescimento. ';
 $book['20']['line2'] = 
 ' Sei al secondo posto signifa:
-  Contemplazione attraverso lo spiraglio di una porta. Propizia è la perseveranza di una donna.\e
-  Un legame ostacolato, e che si intravede solo da lontano. Bisogna avere pazienza e qualcosa accadrà con il tempo. ';
+  Contemplazione attraverso lo spiraglio di una porta. Propizia è la perseveranza di una donna. \e 
+  Un legame ostacolato, e che si intravede solo da lontano. 
+  Bisogna avere pazienza e qualcosa accadrà con il tempo. 
+  Muta in 59 Dispersione ';
 $book['20']['line3'] = 
 ' Sei al terzo posto signifa:
   La contemplazione della mia vita decide tra progresso e regresso.\e
-  E\' il posto di transizione, in cui andando avanti ci sono difficoltà e tornando indietro ci si allontana dal traguardo. La situazione è incerta in entrambi i casi. ';
+  E’ il posto di transizione, in cui andando avanti ci sono difficoltà e tornando indietro ci si allontana dal traguardo. 
+  La situazione è incerta in entrambi i casi. 
+  Muta in 53- Progresso graduale ';
 $book['20']['line4'] = 
 ' Sei al quarto posto significa:
-  Contemplazione della luce dell\'impero. Propizio operare come ospite di un re. Si è finalmente più vicini alle linee forti, e c\'è contatto con chi si desidera avvicinare. ';
+  Contemplazione della luce dell’impero. Propizio operare come ospite di un re. \e
+  Si è finalmente più vicini alle linee forti, e c’è contatto con chi si desidera avvicinare. 
+  Muta in 12 Ristagno ';
 $book['20']['line5'] = 
 ' Nove al quarto posto signifa:
-  Contemplazione della mia vita. Il nobile è senza macchia.\e 
-  Si è in una situazione in cui ciò che si è fatto viene visto e soppesato, per valutarne il senso e gli effetti.';
+  Contemplazione della mia vita. Il nobile è senza macchia.\e
+  Si è in una situazione in cui ciò che si è fatto viene visto e soppesato, per valutarne il senso e gli effetti. Muta in 23 Sgretolamento';
 $book['20']['line6'] = 
 ' Nove sopra significa:
-  Contemplazione della sua vita. Il nobile è senza macchia.\e
+  Contemplazione della sua vita. Il nobile è senza macchia. \e
   Isolata dalle linee yin, la forte linea yang non può contemplarle, quindi non gli resta che contemplare se stesso. 
-  E\' una situazione in cui anche se si volesse fare qualcosa ci sono troppe difficoltà. Vi è comunque desiderio di uno sviluppo. ';
+  E’ una situazione in cui anche se si volesse fare qualcosa ci sono troppe difficoltà. 
+  Vi è comunque desiderio  di uno sviluppo. 
+  Muta in 8- Solidarietà ';
 
 # -------------------------      21       ----------------------- #
 $book['21']['desc'] = 
-' Shih Ho / Biting Through 
-  Above LI THE CLINGING, FIRE
-  Below CHÊN THE AROUSING, THUNDER\e
-  This hexagram represents an open mouth (cf. hexagram 27) with an obstruction (in the fourth place) between the teeth. As a result the lips cannot meet. To bring them together one must bite energetically through the obstacle. Since the hexagram is made up of the trigrams for thunder and for lightning, it indicates how obstacles are forcibly removed in nature. Energetic biting through overcomes the obstacle that prevents joining of the lips; the storm with its thunder and lightning overcomes the disturbing tension in nature. Recourse to law and penalties overcomes the disturbances of harmonious social life caused by criminals and slanderers. The theme of this hexagram is a criminal lawsuit, in contradistinction to that of Sung, CONFLICT (6), which refers to civil suits.';
+' Esagramma 21: Morso che Spezza
+   Il Tuono sotto e  Fulmine sopra. La forma del segno ricorda una bocca che masticando trova un ostacolo e lo frantuma. \e
+   Tale presenza  logorante  blocca la via del nutrimento ed è giusto frantumarla con forza.  
+   Non può esserci unione senza distruggere questo ostacolo. 
+   Un torto, subito o compiuto, viene ripagato adeguatemente  con la giusta misura.  
+   I trigrammi interni Monte e Acqua indicano pericolo e arresto nel compiere l’impresa. 
+   Si fanno i conti con i residui karmici, che attirano con la loro subdola insistenza i dubbi. 
+   Si liberi la via da ciò che è stato commesso di sbagliato, dando a ciascuno esattamente la pena che merita, senza rimpianti e rimorsi.';
 $book['21']['judge'] = 
-' BITING THROUGH has success. 
-  It is favorable to let justice be administered. \e
-  When an obstacle to union arises, energetic biting through brings success. This is true in all situations. Whenever unity cannot be established, the obstruction is due to a talebearer and traitor who is interfering and blocking the way. To prevent permanent injury, vigorous measures must be taken at once. Deliberate obstruction of this sort does not vanish of its own accord. Judgment and punishment are required to deter or obviate it.
-  However, it is important to proceed in the right way. The hexagram combines Li, clarity, and Chên, excitement. Li is yielding, Chên is hard. Unqualified hardness and excitement would be too violent in meting out punishment; unqualified clarity and gentleness would be too weak. The two together create the just measure. It is of moment that the man who makes the decisions (represented by the fifth line) is gentle by nature, while he commands respect by his conduct in his position.';
+' Il morso che spezza ha riuscita. Propizio è dar corso alla legge.\e
+  Si riesce a spezzare un ostacolo che impedisce il nutrimento. 
+  Bisogna andare fino in fondo nell’opera di demolizione e non avere dubbi circa la giustezza del nostro operato. 
+  Ci sono state delle colpe, nostre o di altri,  e la pena inflitta è adatta alla gravità del caso.';
 $book['21']['image'] = 
-' Thunder and lighting:
-  The image of BITING THROUGH. 
-  Thus the kings of former times made firm the laws
-  Through clearly defined penalties. \e
-  Penalties are the individual applications of the law. The laws specify the penalties. Clarity prevails when mild and severe penalties are differentiated, according to the nature of the crimes. This is symbolized by the clarity of lightning. The law is strengthened by a just application of penalties. This is symbolized by the terror of thunder. This clarity and severity have the effect of instilling respect; it is not that the penalties are ends in themselves. The obstructions in the social life of man increase when there is a lack of clarity in the penal codes and slackness in executing them. The only to strengthen the law is to make it clear and make penalties certain and swift.';
-$book['21']['line1'] = 
-' Nove all\'inizio significa:
-  His feet are fastened in the stocks,
-  So that his toes disappear. 
-  No blame. \e
-  If a sentence is imposed the first time a man attempts to do wrong, the penalty is a mild one. Only the toes are put in the stocks. This prevents him from sinning further and thus he becomes free of blame. It is a warning to halt in time on the path of evil.';
-$book['21']['line2'] = 
-' Sei al secondo posto significa:
-  Bites through tender meat,
-  So that his nose disappears. 
-  No blame. \e
-  It is easy to discriminate between right and wrong in this case; it is like biting through tender meat. But one encounters a hardened sinner, and, aroused by anger, one goes a little too far. The disappearance of the nose in the course of the bite signifies that indignation blots out finer sensibility. However, there is no great harm in this, because the penalty as such is just.';
-$book['21']['line3'] = 
-' Sei al terzo posto significa:
-  Bites on old dried meat 
-  And strikes on something poisonous. 
-  Slight humiliation. No blame. \e
-  Punishment is to be carried out by someone who lacks the power and authority to do so. Therefore the culprits do not submit. The matter at issue is an old one–as symbolized by salted game–and in dealing with it difficulties arise. This old meat is spoiled: by taking up the problem the punisher arouses poisonous hatred against himself, and n this way is put in a somewhat humiliating position. But since punishment was required by the time, he remains free of blame.';
-$book['21']['line4'] = 
-' Nove al quarto posto significa:
-  Bites on dried gristly meat. 
-  Receives metal arrows. 
-  It furthers one to be mindful of difficulties
-  And to be persevering. 
-  Good fortune. \e
-  There are great obstacles to be overcome, powerful opponents are to be punished. Though this is arduous, the effort succeeds. But it is necessary to be hard as metal and straight as an arrow to surmount the difficulties. If one knows these difficulties and remains persevering, he attains good fortune. The difficult task is achieved in the end.';
-$book['21']['line5'] = 
-' Sei al quinto posto significa:
-  Bites on dried lean meat. 
-  Receives yellow gold. 
-  Perseveringly aware of danger. 
-  No blame. \e
-  The case to be decided is indeed not easy but perfectly clear. Since we naturally incline to leniency, we must make every effort to be like yellow gold–that is, as true as gold and as impartial as yellow, the color of the middle [the mean]. It is only by remaining conscious of the dangers growing out of the responsibility we have assumed that we can avoid making mistakes.';
-$book['21']['line6'] = 
-' Nove sopra significa:
-  His neck is fastened in the wooden cangue,
-  So that his ears disappear. 
-  Misfortune. \e
-  In contrast to the first line, this line refers to a man who is incorrigible. His punishment is the wooden cangue, and his ears disappear under it–that is to say, he is deaf to warnings. This obstinacy leads to misfortune.';
+' Tuono e fulmine: l’immagine del morso che spezza. Così i re antichi consolidavano le leggi per mezzo di pene chiaramente determinate.\e
+  Subito dopo lo scoppio del tuono arriva il fulmine, che in un lampo di chiarezza distingue il bene dal male. 
+  Nello stesso modo si agisce per dare una chiara e ferma lezione a chi ha commesso azioni ingiuste verso di noi.';
+  
+$book['21']['line1'] =
+' Ha i piedi confitti nei ceppi, così che le dita scompaiono. Nessuna macchia. \e
+  Si insiste su qualcosa che non è né utile né dannosa, in cui è difficile  progredire. 
+  Si è immobilizzati e vincolati da qualcosa che  ci tiene fermi, anche a causa di un nostro errato- e inconsapevole- modo di fare. 
+  Muta in 35 Progresso';
+
+$book['21']['line2'] =  
+' Morde in carne tenera, così che il naso scompare. Nessuna macchia.\e  
+  La situazione ha molti lati negativi ma nonostante questo non basta a farla esaurire e non è irrimediabilmente compromessa. 
+  La linea tende allo sviluppo, ma esso sarà limitato.   
+  Muta in 38 – Contrapposizione';
+
+$book['21']['line3'] =  
+' Morde in carne secca stantia e gli capita un boccone velenoso.Piccola umilazione. Nessuna macchia. \e
+ Si ha a che fare con una situazione di antica data, roba vecchia che continua a seguirci. 
+ L’argomento di cui si chiede non da nutrimento, anzi è fonte di disagio. 
+ Tentativi di modificare la situazione sono impediti. 
+ Occorre attendere ancora un chiarimento definitivo.  
+ Muta in 30 – Fuoco';
+
+$book['21']['line4'] =  
+' Morde carne cartilaginosa essiccata. Riceve frecce di metallo. Propizio è essere memori delle difficoltà e perseveranti. Salute! \e
+  La situazione richiama eventi  inerenti al passato. 
+  Cose ormai morte e sterili, che hanno già dato frutto. 
+  Si ha l’occasione di potersene sbarazzare, con durezza e fermezza. 
+  Ricordarsi delle antiche esperienze negative ci aiuta  non commettere gli stessi errori e alla fine a liberarci di loro. 
+  Si opera un grande taglio verso ciò che inutile ed ha terminato il suo ruolo. 
+  Muta in 27- Nutrimento';
+
+$book['21']['line5'] =  
+' Morde in carne di muscolo essiccata. Riceve oro giallo. Essere consapevoli durevolmente del pericolo. Nessuna macchia. \e
+  La situazione è dura da gestire  e portare avanti. 
+  Tuttavia le cose sono chiare al punto di potercene sbarazzare. 
+  Il pericolo da evitare è la nostra indulgenza e condiscendenza verso chi non ci è affatto amico. 
+  Muta in 25- Innocenza';
+
+$book['21']['line6'] =  
+' Il suo collo è confitto nel collare di legno, così che le orecchie scompaiono. Sciagura!  \e
+  Completamente fuoristrada, sordi a tutti i segnali e i consigli, si persiste nell’errore e se ne pagano le conseguenze. 
+  Sciagura! Muta in 51 – Il tuono';
 
 # -------------------------      22       ----------------------- #
 $book['22']['desc'] = 
-' Pi / Grace 
-  Above KÊN KEEPING STILL, MOUNTAIN
-  Below LI THE CLINGING, FIRE\e
-  This hexagram shows a fire that breaks out of the secret depths of the earth and, blazing up, illuminates and beautifies the mountain, the heavenly heights. Grace–beauty of form–is necessary in any union if it is to be well ordered and pleasing rather than disordered and chaotic.';
+' Esagramma 22 : Avvenenza
+  Fuoco sotto il Monte. E’ un periodo di chiarimento interiore mentre esternamente tutto è fermo. 
+  I trigrammi interni Abisso e Tuono, che hanno moto inverso, alludono al volgersi a comprendere e chiarire prima di poter agire. 
+  La struttura dell’esagramma allude alla vita, nelle sue linee chiare, che rappresentano l’amore e quelle scure, che simbolizzano la giustizia. 
+  Qui l’amore è il contenuto e la giustizia la forma del momento in cui ci troviamo';
 $book['22']['judge'] = 
-' GRACE has success. 
-  In small matters
-  It is favorable to undertake something. \e
-  Grace brings success. However, it is not the essential or fundamental thing; it is only the ornament and must therefore be used sparingly and only in little things. In the lower trigram of fire a yielding line comes between two strong lines and makes them beautiful, but the strong lines are the essential content and the weak line is the beautifying form. In the upper trigram of the mountain, the strong line takes the lead, so that here again the strong element must be regarded as the decisive factor. In nature we see in the sky the strong light of the sun; the life of the world depends on it. But this strong, essential thing is changed and given pleasing variety by the moon and the stars. In human affairs, aesthetic form comes into being when traditions exist that, strong and abiding like mountains, are made pleasing by a lucid beauty. By contemplating the forms existing in the heavens we come to understand time and its changing demands. Through contemplation of the forms existing in human society it becomes possible to shape the world.';
+' Avvenenza ha riuscita. In piccolo è propizio imprendere qualche cosa.\e
+  Chiarezza e arresto caratterizzano l’andare. Le idee sono chiare, ma impraticabili. 
+  Al massimo si possono cominciare piccoli progetti, aiutando ciò che è ancora informe in profondità a definirsi.';
 $book['22']['image'] = 
-' Fire at the foot of the mountain:
-  The image of GRACE. 
-  Thus does the superior man proceed
-  When clearing up current affairs. 
-  But he dare not decide controversial issues in this way. \e
-  The fire, whose light illuminates the mountain and makes it pleasing, does not shine far; in the same way, beautiful form suffices to brighten and to throw light upon matters of lesser moment, but important questions cannot be decided in this way. They require greater earnestness.';
+'  Ai piedi del monte è il fuoco. Il Nobile procede per chiarire le faccende interne ma non osa intervenire in quelle esterne.\e
+ Il bagliore del fuoco non riesce ad arrivare fino alla cima del monte. 
+ Così come i nostri progetti non hanno la forza di realizzarsi e si arrestano. 
+ Bisogna dunque comprendere dentro di sé quali siano i nostri motivi e gli scopi, guardandosi dentro ed esaminando se stessi. 
+ Fino a che non si acquisisce una salda convinzione, non ci si può permettere di intraprendere nulla di concreto.';
 $book['22']['line1'] = 
 ' Nove all\'inizio significa:
-  He lends grace to his toes, leaves the carriage, and walks. \e
-  A beginner in a subordinate place must take upon himself the labor of advancing. There might be an opportunity of surreptitiously easing the way–symbolized by the carriage–but a self-contained man scorns help gained in a dubious fashion. He thinks it more graceful to go on foot than to drive in a carriage under false pretenses.';
+  Rende avvenenti le dita dei suoi piedi, abbandona la carrozza a cammina. \e
+  Si è decisi a fare chiarezza fin dalle fondamenta della situazione; piuttosto che una sistemazione comoda e veloce si decide di andare più lentamente e faticosamente. 
+  Muta in 52 Arresto';
 $book['22']['line2'] = 
 ' Sei al secondo posto significa:
-  Lends grace to the beard on his chin. \e
-  The beard is not an independent thing; it moves only with the chin. The image therefore means that form is to be considered only as a result and attribute of content. The beard is a superfluous ornament. To devote care to it for its own sake, without regard for the inner content of which it is an ornament, would bespeak a certain vanity.';
+  Rende avvenente il suo pizzo.\e
+  Ciò che esteriormente si presenta piacevole e ammirevole non rivela la sua vera natura. 
+  Muta in 26 Forza domatrice del grande';
 $book['22']['line3'] = 
 ' Nove al terzo posto significa:
-  Graceful and moist. 
-  Constant perseverance brings good fortune. \e
-  This represents a very charming life situation. One is under the spell of grace and the mellow mood induced by wine. This grace can adorn, but it can also swamp us. Hence the warning not to sink into convivial indolence but to remain constant in perseverance. Good fortune depends on this.';
+  Avvenente e umido. Durevole perseveranza reca salute. \e
+  Ciò che ci sta a cuore è sul punto di sprofondare e svanire; la linea è al centro di Kan, Abissale.
+  C’è molto da aspettare per uscire dalla stasi. 
+  Muta in 27 Nutrimento';
 $book['22']['line4'] = 
 ' Sei al quarto posto significa:
-  Grace or simplicity?
-  A white horse comes as if on wings. 
-  He is not a robber,
-  He will woo at the right time. \e
-  An individual is in a situation in which doubts arise as to which is better–to pursue the grace of external brilliance, or to return to simplicity. The doubt itself implies the answer. Confirmation comes from the outside; it comes like a white winged horse. The white color indicates simplicity. At first it may be disappointing to renounce the comforts that might have been obtained, yet one finds peace of mind in a true relationship with the friend who courts him. The winged horse is the symbol of the thoughts that transcend all limits of space and time.';
+  Avvenenza o semplicità? Un cavallo bianco viene come se volasse. Non è un brigante, vuole corteggiare a tempo debito. \e
+  La situazione è incerta e ambigua. Si presenta però qualcuno che scioglie i dubbi, e le cose si semplificano. 
+  La via che si prospetta sembra pericolosa e difficile ma seguendola le cose si muovono in positivo con il tempo.
+  Muta in 30 Fuoco ';
 $book['22']['line5'] = 
 ' Sei al quinto posto significa:
-  Grace in the hills and gardens. 
-  The roll of silk is meager and small. 
-  Humiliation, but in the end good fortune. \e
-  A man withdraws from contact with people of the lowlands, who seek nothing but magnificence and luxury, into the solitude of the heights. There he finds an individual to look up to, whom he would like to have as a friend. But the gifts he has to offer are poor and few, so that he feels ashamed. However, it is not the material gifts that count, but sincerity of feeling, and so all goes well in the end.';
+  Avvenenza in colline e giardini. Il rotolo di seta è meschino e piccino. Umiliazione, infine salute.\e
+  Tutto si arresta e la situazione non si evolve. 
+  Pochissima è la rispondenza esterna su cui basarsi e fare affidamento. 
+  Un periodo di solitudine e allontanamento mentre ci si dedica a piccole e piacevoli attività. 
+  Poco scambio con l’esterno, si condividono scarni e frugali contatti con qualcuno. 
+  Ciò è triste e ci si sente feriti, ma alla fine tutto si risolve per il meglio. 
+  Muta in 37 Famiglia';
 $book['22']['line6'] = 
 ' Nove sopra significa:
-  Simple grace. No blame. \e
-  Here at the highest stage of development all ornament is discarded. Form no longer conceals content but brings out its value to the full. Perfect grace consists not in exterior ornamentation of the substance, but in the simple fitness of its form.';
+  Avvenenza schietta. Nessuna macchia.\e
+  Si ottiene la semplicità abbandonando tante cose poco essenziali.  
+  Muta in 36 Occultamento della luce';
 
 # -------------------------      23       ----------------------- #
 $book['23']['desc'] = 
-' Po / Splitting Apart 
-  Above KÊN KEEPING STILL, MOUNTAIN
-  Below K\'UN THE RECEPTIVE, EARTH\e
-  The dark lines are about to mount upward and overthrow the last firm, light line by exerting a disintegrating influence on it. The inferior, dark forces overcome what is superior and strong, not by direct means, but by undermining it gradually and imperceptibly, so that it finally collapses.
-  The lines of the hexagram present the image of a house, the top line being the roof, and because the roof is being shattered the house collapses. The hexagram belongs to the ninth month (October-November). The yin power pushes up ever more powerfully and is about to supplant the yang power altogether.';
+' Esagramma 23: Sgretolarsi in pezzi.
+  Monte sulla Terra. Tutto è oscuro, incapace di avanzare e non essendoci crescita, non c’è neppure gioia. 
+  E’ un momento di separazione e di perdita. Occorre  lasciare che le cose cadano, come le foglie in autunno. 
+  L’attività di cui si chiede giunge ad un arresto, e non ha forze per evolversi.  
+  A tempo debito qualcosa ricrescerà, quando un intero ciclo di eventi ricomincerà, dal basso. 
+  Non c’è nulla e nessuno degno di fiducia su cui appoggiarsi e ci si  distacca da ciò che non riesce a svilupparsi oltre. 
+  Non temete di lasciare andare una via già intrapresa: persone ed eventi sono inerti, più forti dei nostri sforzi, e giungono ad una fine.';
 $book['23']['judge'] = 
-' SPLITTING APART. It does not further one 
-  To go anywhere. \e
-  This pictures a time when inferior people are pushing forward and are about to crowd out the few remaining strong and superior men. Under these circumstances, which are due to the time, it is not favorable for the superior man to undertake anything.
-  The right behavior in such adverse times is to be deduced from the images and their attributes. The lower trigram stands for the earth, whose attributes are docility and devotion. The upper trigram stands for the mountain, whose attribute is stillness. This suggests that one should submit to the bad time and remain quiet. For it is a question not of man\'s doing but of time conditions, which, according to the laws of heaven, show an alternation of increase and decrease, fullness and emptiness. It is impossible to counteract these conditions of the time. Hence it is not cowardice but wisdom to submit and avoid action.';
+' La frantumazione: non è propizio andare in alcun luogo.\e
+  Prevale il buio, il minore domina il maggiore .
+  Anche ciò che ci stava a cuore può partire ed essere perduto. 
+  Di chi o cosa  fidarsi? Solo di ciò che rimane quando tutto il resto cade, proprio come le leggi della natura sopravvivono agli  eventi che producono. 
+  E’ un momento in cui si disperde ciò che non è più necessario e le attività che solo l’abitudine tiene in vita si dissolvono.
+  Fate affidamento solo su ciò che può sostenersi da sè quando ci si spoglia di tutto .';
 $book['23']['image'] = 
-' The mountain rests on the earth:
-  The image of SPLITTING APART. 
-  Thus those above can ensure their position
-  Only by giving generously to those below. \e
-  The mountain rests on the earth. When it is steep and narrow, lacking a broad base, it must topple over. Its position is strong only when it rises out of the earth broad and great, not proud and steep. So likewise those who rule rest on the broad foundation of the people. They too should be generous and benevolent, like the earth that carries all. Then they will make their position as secure as a mountain is in its tranquillity.';
+' Il monte poggia sulla terra, l’immagine della frantumazione. Così i superiori possono assicurare la loro posizione solo con ricche elargizioni agli inferiori. \e 
+  La situazione è di estremo caos, un disordine che ha invaso la nostra vita a molti livelli. 
+  L’inerte e ricettivo prevalgono, senza forza sufficiente per fare un cambiamento. 
+  Tutto ciò che si può fare è donare generosamente agli altri ciò di cui hanno bisogno. 
+  Solo in questo caso gli inferiori, cioè l’elemento oscuro e improduttivo della situazione, sono appagati e ci rimangono accanto.';
 $book['23']['line1'] = 
 ' Sei all\'inizio significa:
-  The leg of the bed is split. 
-  Those who persevere are destroyed. 
-  Misfortune. \e
-  Inferior people are on the rise and stealthily begin their destructive burrowing from below in order to undermine the place where the superior man rests. Those followers of the ruler who remain loyal are destroyed by slander and intrigue. The situation bodes disaster, yet there is nothing to do but wait.';
+  Il letto va in frantumi alle gambe. I perseveranti vengono annientati. Sciagura. \e
+  La frantumazione comincia dal basso. 
+  Si insinuano dubbi, intoppi, turbamenti. 
+  Inutile insistere sulla vecchia via, essa non ha la forza per fare passi avanti e comincia a dissolversi. 
+  Non si può fare affidamento su ciò che finora era degno di fiducia. 
+  Resistere e cercare di rianimare cose o persone porta solo a sforzo inutile. 
+  Rendersi conto che non possiamo fare affidamento su ciò che ci sembrava degno di fiducia può essere doloroso, ma è necessario. 
+  Muta in 27 Nutrimento';
 $book['23']['line2'] = 
 ' Sei al secondo posto significa:
-  The bed is split at the edge. 
-  Those who persevere are destroyed. 
-  Misfortune. \e
-  The power of the inferior people is growing. The danger draws close to one\'s person; already there are clear indications, and rest is disturbed. Moreover, in this dangerous situation one is as yet without help or friendly advances from above or below. Extreme caution is necessary in this isolation. One must adjust to the time and promptly avoid the danger. Stubborn perseverance in maintaining one\'s standpoint would lead to downfall.';
+  Il letto va in frantumi al bordo. I perseveranti vengono annientati. Sciagura. \e
+  Il potere dell’inerzia cresce. 
+  Coloro che pensavamo fossero gli amici sono andati. 
+  C’è qualcuno di fiducia? Ora si scopre cosa si è ricavato.
+  Ora si vive fino in fondo il  crescente dolore dell’indipendenza. 
+  Muta in 4 Inesperienza';
 $book['23']['line3'] = 
 ' Sei al terzo posto significa:
-  He splits with them. No blame. \e
-  An individual finds himself in an evil environment to which he is committed by external ties. But he has an inner relationship with a superior man, and through this he attains the stability to free himself from the way of the inferior people around him. This brings him into opposition to them of course, but that is not wrong.';
+  Egli rompe con loro. Nessuna macchia. \e
+  Vi è un distacco. Ora non ci si può affidare a nessuno e ciò è doloroso perché si ha la sensazione di essere nudi e soli. 
+  Tuttavia si produce una grande forza. 
+  Guardare oltre le paure e dubbi alla saggezza dell’anima. 
+  Muta in 52 Immobilità';
 $book['23']['line4'] = 
 ' Sei al quarto posto significa:
-  The bed is split up to the skin. 
-  Misfortune. \e
-  Here the disaster affects not only the resting place but even the occupant. No warning or other comment is added. Misfortune has reached its peak: it can no longer be warded off.';
+  Il  letto va in frantumi fino alla pelle. Sciagura. \e
+  Allontanarsi e perdere tutto ciò che era conosciuto e offriva sicurezza è come essere nudi. 
+  Tale disgrazia terribile viene a tutti a un certo momento. 
+  Questa è l’ora più buia, ora si passa all’alba. 
+  Muta in 35 Progresso ';
 $book['23']['line5'] = 
 ' Sei al quinto posto significa:
-  A shoal of fishes. Favor comes through the court ladies. 
-  Everything acts to further. \e
-  Here, in immediate proximity to the strong, light-giving principle at the top, the nature of the dark force undergoes a change. It no longer opposes the strong principle by means of intrigues but submits to its guidance. Indeed, as the head of the other weak lines, it leads all of these to the strong line, just as a princess leads her maids-in-waiting like a shoal of fishes to her husband and thus gains his favor. Inasmuch as the lower element thus voluntarily places itself under the higher, it attains happiness and the higher also receives its due. Therefore all goes well.';
+  Un branco di pesci. Grazie alle dame di palazzo viene favore. Tutto è propizio. \e
+  La marea sta cambiando, portando via con sè l’oscurità e la perdita. 
+  Il fiore ricettivo ora si ravviva in vista del principio attivo.  
+  Sono coinvolte delle donne che danno una svolta all’impresa, che si presentava disgregata e inamovibile. 
+  La questione si può risolvere perchè qualcuno intercede a nostro favore. 
+  Muta in 20 Contemplazione';
 $book['23']['line6'] = 
 ' Nove sopra significa:
-  There is a large fruit still uneaten. 
-  The superior man receives a carriage. 
-  The house of the inferior man is split apart. \e
-  Here the splitting apart reaches its end. When misfortune has spent itself, better times return. The seed of the good remains, and it is just when the fruit falls to the ground that food sprouts anew from its seed. The superior man again attains influence and effectiveness. He is supported by public opinion as if in a carriage. But the inferior man\'s wickedness is visited upon himself. His house is split apart. A law of nature is at work here. Evil is not destructive to the good alone but inevitably destroys itself as well. For evil, which lives solely by negation, cannot continue to exist on its own strength alone. The inferior man himself fares best when held under control by a superior man.';
+  Ecco un grosso frutto non ancora mangiato. Il nobile riceve una carrozza. All’ignobile va in frantumi la casa. \e
+  La situazione è nuova, fresca, promettente. Si può cogliere l’occasione.  
+  Quando la ricettività si muove verso ciò che porta la vita, allora un nuovo inizio comincia. 
+  Ma quando non si ha forza personale per avviare l’impresa, il seme non fecondato muore, e nulla inizia. 
+  Muta in 2 Ricettivo';
 
 # -------------------------      24       ----------------------- #
 $book['24']['desc'] = 

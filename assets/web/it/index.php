@@ -1230,380 +1230,462 @@ $book['23']['line6'] =
 
 # -------------------------      24       ----------------------- #
 $book['24']['desc'] = 
-' Fu / Return (The Turning Point) 
-  Above K\'UN THE RECEPTIVE, EARTH
-  Below CHÊN THE AROUSING, THUNDER\e
-  The idea of a turning point arises from the fact that after the dark lines have pushed all of the light lines upward and out of the hexagram, another light line enters the hexagram from below. The time of darkness is past. The winter solstice brings the victory of light. This hexagram is linked with the eleventh month, the month of the solstice (December-January).';
+' Esagramma 24: Ritorno
+  Il Tuono sotto la Terra: ci si trova in una situazione di stasi che comincia a modificarsi. 
+  E’ la  fine di un periodo di passività per iniziare un nuovo ciclo di crescita. 
+  La luce che era uscita di scena adesso ritorna a salire, dal basso, ponendo fine al periodo di oscurità e inazione. 
+  La luce torna sempre dopo l’oscurità, dando origine a nuove fioriture.  
+  La situazione riguarda qualcosa che va e viene ciclicamente; non si è nuovi a questi momenti. 
+  E’ un tempo in cui si fanno piani e in cui si definiscono nuove idee e basi di crescita. 
+  Se si pensa alla possibilità di agire, agite.';
 $book['24']['judge'] = 
-' RETURN. Success. 
-  Going out and coming in without error. 
-  Friends come without blame. 
-  To and fro goes the way. 
-  On the seventh day comes return. 
-  It furthers one to have somewhere to go. \e
-  After a time of decay comes the turning point. The powerful light that has been banished returns. There is movement, but it is not brought about by force. The upper trigram K\'un is characterized by devotion; thus the movement is natural, arising spontaneously. For this reason the transformation of the old becomes easy. The old is discarded and the new is introduced. Both measures accord with the time; therefore no harm results. Societies of people sharing the same views are formed. But since these groups come together in full public knowledge and are in harmony with the time, all selfish separatist tendencies are excluded, and no mistake is made. The idea of RETURN is based on the course of nature. The movement is cyclic, and the course completes itself. Therefore it is not necessary to hasten anything artificially. Everything comes of itself at the appointed time. This is the meaning of heaven and earth.
-  All movements are accomplished in six stages, and the seventh brings return. Thus the winter solstice, with which the decline of the year begins, comes in the seventh month after the summer solstice; so too sunrise comes in the seventh double hour after sunset. Therefore seven is the number of the young light, and it arises when six, the number of the great darkness, is increased by one. In this way the state of rest gives place to movement.';
+' Il ritorno. Riuscita. Uscita ed entrata senza errore. Amici vengono senza macchia. Serpeggiante è la via. Al settimo giorno viene il ritorno. E’ propizio avere ove recarsi.\e
+  Ritorno della luce e quindi riuscita e sblocco dell’inattività. 
+  Qualcuno che non conosciamo  porta novità e aiuta a prendere nuove vie, nuove risoluzioni; si presentano scelte e possibilità, e c’è lunga ponderazione sul da farsi. 
+  Alla fine, anche se passerà un po’ di tempo, però ci sarà lo sblocco e si può cominciare a muoversi, andando verso una meta precisa.';
 $book['24']['image'] = 
-' Thunder within the earth:
-  The image of THE TURNING POINT. 
-  Thus the kings of antiquity closed the passes
-  At the time of solstice. 
-  Merchants and strangers did not go about,
-  And the ruler
-  Did not travel through the provinces. \e
-  The winter solstice has always been celebrated in China as the resting time of the year–a custom that survives in the time of rest observed at the new year. In winter the life energy, symbolized by thunder, the Arousing, is still underground. Movement is just at its beginning; therefore it must be strengthened by rest so that it will not be dissipated by being used prematurely. This principle, i. e. , of allowing energy that is renewing itself to be reinforced by rest, applies to all similar situations. The return of health after illness, the return of understanding after an estrangement: everything must be treated tenderly and with care at the beginning, so that the return may lead to a flowering.';
+' Il tuono dentro la terra: l’immagine della svolta. Così gli antichi re al tempo del solstizio chiudevano i valichi. Mercanti e stranieri non viaggiavano, e il sovrano non visitava le contrade.\e
+  L’Eccitante, il Tuono, la forza vitale apportatrice di energia, si trova nel tranquillo e accogliente  grembo materno. 
+  Nel mondo umano ciò avviene quando ogni attività precedente si conclude e si comincia  da capo rinnovati. 
+  Gli antichi e saggi re impedivano il passaggio degli estranei, per lasciare indisturbata la terra. 
+  Loro stessi si ritiravano senza interferire. 
+  E’ dunque  un momento di speranza e rigenerazione, prima di cominciare una nuova fioritura.';
 $book['24']['line1'] = 
 ' Nove all\'inizio significa:
-  Return from a short distance. 
-  No need for remorse. 
-  Great good fortune. \e
-  Slight digressions from the good cannot be avoided, but one must turn back in time, before going too far. This is especially important in the development of character; every faintly evil thought must be put aside immediately, before it goes too far and takes root in the mind. Then there is no cause for remorse, and all goes well.';
+  Ritorno da piccola distanza. Non vi è bisogno di alcun pentimento. Grande salute! \e
+  E’ l’unica linea attiva della serpeggiante via del Ritorno.
+  Se c’è stato un allontanamento è stato per breve tempo; la distanza tra voi non è grande; se c’è una persona o una situazione che è già molto vicina a noi, anche materialmente, gli si  rivolge attenzione e cura. Sono gli altri che vengono a noi, cercando contatto. 
+  Per noi nulla di male. 
+  Muta in 2- Ricettivo: il grembo in cui si sviluppano le cose.';
 $book['24']['line2'] = 
 ' Sei al secondo posto significa:
-  Quiet return. Good fortune. \e
-  Return always calls for a decision and is an act of self-mastery. It is made easier if a man is in good company. If he can bring himself to put aside pride and follow the example of good men, good fortune results.';
+  Ritorno tranquillo. Salute. \e
+  La situazione procede a  piccoli passi, in sottofondo. 
+  Nessun bisogno di decidere o preoccuparsi.
+  Si procede bene.  
+  Muta in 19- Avvicinamento';
 $book['24']['line3'] = 
 ' Sei al terzo posto significa:
-  Repeated return. Danger. No blame. \e
-  There are people of a certain inner instability who feel a constant urge to reverse themselves. There is danger in continually deserting the good because of uncontrolled desires, then turning back to it again because of a better resolution. However, since this does not lead to habituation in evil, a general inclination to overcome the defect is not wholly excluded.';
+  Ritorno molteplice. Pericolo. Nessuna macchia. \e
+  La via diventa serpeggiante, l’attività della prima linea comincia ad allontanarsi. 
+  Troppe persone implicate nella situazione, troppi eventi insieme cominciano a generare qualche preoccupazione. 
+  Così incalzati da altri coinvolti si finisce nel pericolo e nella confusione; nonostante il nostro riserbo, i disturbi continuano, senza partecipazione attiva da parte nostra. 
+  Qualcuno continua a disturbarci, è già successo e succederà ancora, non per motivi imputabili a noi.  
+  Muta in 36- Ottenebramento della Luce.';
 $book['24']['line4'] = 
 ' Sei al quarto posto significa:
-  Walking in the midst of others,
-  One returns alone. \e
-  A man is in a society composed of inferior people, but is connected spiritually with a strong and good friend, and this makes him turn back alone. Although nothing is said of reward and punishment, this return is certainly favorable, for such a resolve to choose the good brings its own reward.';
+  Camminando in mezzo agli altri si ritorna soli. \e
+  Se la linea continua insieme alle altre va incontro al blocco; meglio allora tornare indietro, verso la luce della prima linea yang. 
+  Così abbandona il gruppo e torna indietro da sola. 
+  Sebbene non si parli di premio né di punizione, questo ritorno è assai propizio. 
+  La scelta così risoluta a favore del bene, ha in sé il suo premio. dice Wilhelm. 
+  Si è coinvolti con persone che non aiutano a crescere, e  che alla fine si dovranno abbandonare per tornare indietro. 
+  La situazione è di qualcuno coinvolto in qualcosa di inconsistente  e che comincia a nutrire dei dubbi se continuare o no. 
+  Infine  prende la decisione di dedicarsi alle proprie reali necessità.
+  Muta in 51- Tuono';
 $book['24']['line5'] = 
 ' Sei al quinto posto significa:
-  Noblehearted return. No remorse. \e
-  When the time for return has come, a man should not take shelter in trivial excuses, but should look within and examine himself. And if he has done something wrong he should make a noblehearted resolve to confess his fault. No one will regret having taken this road.';
+  Ritorno magnanimo. Nessun pentimento. \e
+  Anche se non si è legati da vincoli o necessità, si decide volontariamente di intraprendere un’attività. 
+  Questa generosità non è un errore.  
+  Muta in 3 Difficoltà iniziale';
 $book['24']['line6'] = 
 ' Sei sopra significa:
-  Missing the return. Misfortune. 
-  Misfortune from within and without. 
-  If armies are set marching in this way,
-  One will in the end suffer a great defeat, 
-  Disastrous for the ruler of the country. 
-  For ten years
-  It will not be possible to attack again. \e
-  If a man misses the right time for return, he meets with misfortune. The misfortune has its inner cause in a wrong attitude toward the world. The misfortune coming upon him from without results from this wrong attitude. What is pictured here is blind obstinacy and the judgment that is visited upon it.';
+  Ritorno fallito. Sciagura. Disgrazia da fuori e da dentro. Facendo marciare gli eserciti in questo modo, si subirà infine una grande sconfitta, cosa sciagurata per il principe regnante. Per dieci anni non si è più in grado di portare attacco.\e
+  Il ciclo si è concluso, la possibilità di mutare svanita. 
+  Bisognerà aspettare che un nuova svolta riemerga, dal basso. 
+  Andare avanti così, ottusamente e prendendo decisioni a casaccio comporta il fallimento per noi e disgrazia per qualcuno che ci sta a cuore. 
+  Le conseguenze della nostra condotta erronea saranno un peso per molto tempo. 
+  Muta in 27- Nutrimento';
 
 # -------------------------      25       ----------------------- #
 $book['25']['desc'] = 
-' Wu Wang / Innocence (The Unexpected) 
-  Above CH\'IEN THE CREATIVE, HEAVEN
-  Below CHÊN THE AROUSING, THUNDER\e
-  Ch\'ien, heaven is above; Chên, movement, is below. The lower trigram Chên is under the influence of the strong line it has received from above, from heaven. When, in accord with this, movement follows the law of heaven, man is innocent and without guile. His mind is natural and true, unshadowed by reflection or ulterior designs. For wherever conscious purpose is to be seen, there the truth and innocence of nature have been lost. Nature that is not directed by the spirit is not true but degenerate nature. Starting out with the idea of the natural, the train of thought in part goes somewhat further and thus the hexagram includes also the idea of the unintentional or unexpected.';
+' Esagramma 25 – Innocenza
+  Il Tuono, eccitante, sta sotto il Cielo, il creativo, ed entrambi si muovono verso l’alto. 
+  Il segno intrinseco Monte implica un arresto, Vento la tendenza insistente delle nostre aspirazioni. 
+  Ci sono tutte le intenzioni di compiere un rinnovamento, di gettarsi alle spalle il passato e cominciare a nutrire senza artifici qualcosa che ci sta a cuore. 
+  Ma se il movimento interiore, l’intenzione e la volontà che aspirano alla guarigione e alla rinascita ci sono, esternamente sono presenti situazioni o persone che intralciano il cammino. 
+  La struttura si regge sulla prima linea, la più innocente di tutte, che vuole farsi strada ed elevarsi, sollevandosi dal ristagno, allontanandosi dalla ‘mala gente’ da cui finora era circondato. 
+  Bisogna agire  per allontanarsi da persone e cose per noi fonte di profondo disagio, rinunciando anche a un qualche presunto vantaggio che possiamo ';
 $book['25']['judge'] = 
-' INNOCENCE. Supreme success. 
-  Perseverance furthers. 
-  If someone is not as he should be,
-  He has misfortune,
-  And it does not further him
-  To undertake anything.\e
-  Man has received from heaven a nature innately good, to guide him in all his movements. By devotion to this divine spirit within himself, he attains an unsullied innocence that leads him to do right with instinctive sureness and without any ulterior thought of reward and personal advantage. This instinctive certainty brings about supreme success and "furthers through perseverance". However, not everything instinctive is nature in this higher sense of the word, but only that which is right and in accord with the will of heaven. Without this quality of rightness, an unreflecting, instinctive way of acting brings only misfortune. Confucius says about this: "He who departs from innocence, what does he come to? Heaven\'s will and blessing do not go with his deeds. "';
+' L’innocenza. Sublime riuscita. Propizia è perseveranza. Se qualcuno non è retto ha disgrazia e non è propizio imprendere qualche cosa.\e
+  In questa impresa bisogna restaurare l’innocenza perduta e adottare un comportamento di sincerità e integrità; in questo modo la sublime riuscita è assicurata. 
+  Per conseguirla bisogna fare scelte e allontanarsi da persone o situazioni  che ostacolano la riuscita. 
+  Verso queste persone non è necessario fare nulla, solo lasciarle cadere continuando per la strada scelta, quella forte e chiara, fonte di soddisfazioni.';
 $book['25']['image'] = 
-' Under heaven thunder rolls:
-  All things attain the natural state of innocence. 
-  Thus the kings of old,
-  Rich in virtue, and in harmony with the time,
-  Fostered and nourished all beings. \e
-  In springtime when thunder, life energy, begins to move again under the heavens, everything sprouts and grows, and all beings receive from the creative activity of nature the childlike innocence of their original state. So it is with the good rulers of mankind: drawing on the spiritual wealth at their command, they take care of all forms of life and all forms of culture and do everything to further them, and at the proper time.';
+' Sotto il cielo passa il tuono: tutte le cose acquistano lo stato naturale dell’innocenza. Così gli antichi re curavano e nutrivano, ricchi di virtù e in armonia con il tempo, tutti gli esseri.\e
+ Quando il Tuono scoppia nel Cielo questo lo accoglie, lo amplifica e lo diffonde, così come la natura in primavera viene vivificata in una nuova esistenza.
+ Nel mondo umano si è capaci di offrire le proprie cure e le proprie risorse a qualcosa, con umiltà e disinteressatamente. 
+ Al momento giusto, le nostre azioni  porteranno beneficio a tutti.';
 $book['25']['line1'] = 
 ' Nove all\'inizio significa:
-  Innocent behavior brings good fortune. \e
-  The original impulses of the heart are always good, so that we may follow them confidently, assured of good fortune and achievement of our aims.';
+  Condotta innocente reca salute!  \e
+  Si è in contatto con situazioni controverse, fonte di preoccupazione. 
+  Ce ne vogliamo separare e allontanarci dalla causa di disturbo; alla fine ci riusciamo.  
+  Muta in 12 Ristagno : mala gente non è propizia alla perseveranza del nobile. 
+  Attenzione a chi si frequenta.';
 $book['25']['line2'] = 
 ' Sei al secondo posto significa:
-  If one does not count on the harvest while plowing,
-  Nor on the use of the ground while clearing it,
-  It furthers one to undertake something. \e
-  We should do every task for its own sake as time and place demand and not with an eye to the result. Then each task turns out well, and anything we undertake succeeds.';
+  Se arando non si pensa al raccolto e dissodando all’uso del campo, allora è propizio imprendere qualche cosa.
+  Sei a un bivio: o agisci per ottenere fama e prestigio, seguendo chissà quali fantasie- o decidi di dedicarti all’impresa seriamente. 
+  Ciò significa impegno e studio, umile costruzione su basi  solide, stabili e accertate. 
+  Bisogna dedicarsi a questa impresa sapendo che non vi sarà riconoscimento immediato.  
+  Solo in questo caso ciò che si intraprende ha senso. 
+  Muta in 10 Procedere';
 $book['25']['line3'] = 
 ' Sei al terzo posto significa:
-  Undeserved misfortune. 
-  The cow that was tethered by someone
-  Is the wanderer\'s gain, the citizen\'s loss. 
-  Sometimes undeserved misfortune befalls a man at the hands of another, as for instance when someone passes by and takes a tethered cow along with him. His gain is the owner\'s loss. In all transactions, no matter how innocent, we must accommodate ourselves to the demands of the time, otherwise unexpected misfortune overtakes us.';
+  Disgrazia immeritata: la mucca legata da qualcuno allo steccato è il guadagno del viandante, la perdita del proprietario. \e
+  Perdita e guadagno: la linea è sola, quello che porta è preso da altri, che se ne giovano. 
+  Le nostre buone intenzioni non sono consone al tempo e al luogo, e si commette un errore a continuare.
+  A causa della nostra ingenuità e fiducia, qualcuno può approfittarne; si perde qualcosa che viene invece ottenuto da altri, che prendono e se ne vanno.
+  Muta in 13 Associazione';
 $book['25']['line4'] = 
 ' Nove al quarto posto significa:
-  He who can be persevering 
-  Remains without blame. \e
-  We cannot lose what really belongs to us, even if we throw it away. Therefore we need have no anxiety. All that need concern us is that we should remain true to our own natures and not listen to others.';
+  Chi è in grado di essere perseverante rimane senza macchia. \e
+  Nonostante le difficoltà  occorre perseverare e non cambiare strada. 
+  Anche se vi sono dubbi e si è stanchi con il tempo e la pazienza qualcosa può svilupparsi.  
+  Muta in 42 Accrescimento.';
 $book['25']['line5'] = 
 ' Nove al quinto posto significa:
-  Use no medicine in an illness
-  Incurred through no fault of your own. 
-  It will pass of itself. \e
-  An unexpected evil may come accidentally from without. If it does not originate in one\'s own nature or have a foothold there, one should not resort to external means to eradicate it, but should quietly let nature take its course. Then improvement will come of itself.';
+  In caso di malattia senza colpa non adoperare farmaci. Passerà da sé. \e
+  Ci si addossa responsabilità che non ci appartengono. Si è sottoposti a uno stress, una pressione, un’influenza negativa.
+  Non è nel nostro potere e neppure un  dovere risolvere questa situazione, di cui non abbiamo colpa. 
+  Se trattate  senza allarmarvi le difficoltà, si risolvono da sole.
+  Muta in 21 Morso che spezza';
 $book['25']['line6'] = 
 ' Nove sopra significa:
-  Innocent action brings misfortune. 
-  Nothing furthers. \e
-  When, in a given situation, the time is not ripe for further progress, the best thing to do is to wait quietly, without ulterior designs. If one acts thoughtlessly and tries to push ahead in opposition to fate, success will not be achieved.';
+  Agire innocente reca disgrazia. Nulla è propizio. \e 
+  Il tempo per agire con innocenza è finito. 
+  Si è  legati al proprio mondo e alle proprie convinzioni: si agisce non  più con innocenza ma con leggerezza. 
+  Muta in 17 Seguire';
 
 # -------------------------      26       ----------------------- #
 $book['26']['desc'] = 
-' Ta Ch\'u / The Taming Power of the Great 
-  Above KÊN KEEPING STILL, MOUNTAIN
-  Below CH\'IEN THE CREATIVE, HEAVEN\e
-  The Creative is tamed by Kên, Keeping Still. This produces great power, a situation in contrast to that of the ninth hexagram, Hsiao Ch\'u, THE TAMING POWER OF THE SMALL, in which the Creative is tamed by the Gentle alone. There one weak line must tame five strong lines, but here four strong lines are restrained by two weak lines; in addition to a minister, there is a prince, and the restraining power therefore is far stronger.
-  The hexagram has a threefold meaning, expressing different aspects of the concept "holding firm. " Heaven within the mountain gives the idea of holding firm in the sense of holding together; the trigram Kên which holds the trigram Ch\'ien still, gives the idea of holding firm in the sense of holding back; the third idea is that of holding firm in the sense of caring for and nourishing. This last is suggested by the fact that a strong line at the top, which is the ruler of the hexagram, is honored and tended as a sage. The third of these meanings also attaches specifically to this strong line at the top, which represents the sage.';
+' Esagramma 26: La forza domatrice del grande
+  Cielo sotto il monte. L’attività giunge pian piano ad un arresto. 
+  I trigrammi interni Lago e Tuono mitigano e rinvigoriscono il momento di distacco da passate esperienze che si allontanano. 
+  Si acquisisce la forza di lasciarsi alle spalle giorno per giorno vecchi comportamenti non rispondenti alle attuali esigenze.
+  La chiave è il tempo, in cui ci si prepara per imprese anche pericolose e difficili';
 $book['26']['judge'] = 
-' THE TAMING POWER OF THE GREAT. 
-  Perseverance furthers. 
-  Not eating at home brings good fortune. 
-  It furthers one to cross the great water. \e
-  To hold firmly to great creative powers and store them up, as set forth in this hexagram, there is need of a strong, clear-headed man who is honored by the ruler. The trigram Ch\'ein points to strong creative power; Kên indicates firmness and truth. Both point to light and clarity and to the daily renewal of character. Only through such daily self-renewal can a man continue at the height of his powers. Force of habit helps to keep order in quiet times; but in periods when there is a great storing up of energy, everything depends on the power of the personality. However, since the worthy are honored, as in the case of the strong personality entrusted with leadership by the ruler, it is an advantage not to eat at home but rather to earn one\'s bread by entering upon public office. Such a man is in harmony with heaven; therefore even great and difficult undertakings, such as crossing the great water, succeed.';
+' La forza domatrice del grande. Propizia è perseveranza. Non mangiare a casa reca salute. Propizio è attraversare la grande acqua.\e
+  Con la forza delle nostre azioni possiamo avvicinarci, se perseveriamo, a ciò che ci sta a cuore. 
+  E’ una cosa buona impegnarsi all’esterno e attingere a stimoli diversi dal solito. 
+  Si può procedere nell’impresa, che sarà impegnativa. 
+  Propizio partire e allontanarsi dall’usuale corso delle cose.';
 $book['26']['image'] = 
-' Heaven within the mountain:
-  The image of THE TAMING POWER OF THE GREAT. 
-  Thus the superior man acquaints himself with many sayings of antiquity
-  And many deeds of the past,
-  In order to strengthen his character thereby. \e
-  Heaven within the mountain points to hidden treasures. In the words and deeds of the past there lies hidden a treasure that men may use to strengthen and elevate their own characters. The way to study the past is not to confine oneself to mere knowledge of history but, through application of this knowledge, to give actuality to the past.';
+' Il cielo dentro il monte: l’immagine della forza domatrice del grande. 
+  Così il nobile impara i detti dell’antichità e le gesta del passato per rafforzare le sue parole e le sue azioni.
+  Ciò in cui avete sempre creduto ora potete metterlo in pratica, facendovi forza su ciò che è stato detto e fatto nel passato.  
+  Fate tesoro delle esperienze acquisite e utilizzatele per essere più precisi e chiari sia nel parlare, o scrivere, sia nell’agire. 
+  Riprendere in mano alcune idee del passato, importanti e finora accantonate e rielaborarle, esprimerle e metterle in pratica.  
+  Domare le cose per migliorarle, ordinarle e piano piano attuarle.';
 $book['26']['line1'] = 
 ' Nove all\'inizio significa:
-  Danger is at hand. It furthers one to desist. \e
-  A man wishes to make vigorous advance, but circumstances present an obstacle. He sees himself held back firmly. If he should attempt to force an advance, it would lead him into misfortune. Therefore it is better for him to compose himself and to wait until an outlet is offered for release of his stored-up energies.';
+  Vi è pericolo. E’ propizio desistere.\e
+  Un ostacolo impedisce il passaggio, e anche dentro di noi vi sono dubbi. 
+  Meglio aspettare che le cose si chiariscano meglio. 
+  Muta in 18 Emendamento delle cose guaste';
 $book['26']['line2'] = 
 ' Nove al secondo posto significa:
-  The axletrees are taken from the wagon. \e
-  Here advance is checked just as in the third line of THE TAMING POWER OF THE SMALL (9 ). However, in the later the restraining force is slight; thus a conflict arises between the propulsive and the restraining movement, as a result of which the spokes fall out of the wagon wheels, while here the restraining force is absolutely superior; hence no struggle takes place. One submits and removes the axletrees from the wagon–in other words, contents himself with waiting. In this way energy accumulates for a vigorous advance later on.';
+  Al carro vengono tolti gli assali. \e
+  Un forte ostacolo impedisce il cammino; vi è un blocco e si deve attendere senza fare altro. 
+  Muta in 22 Grazia';
 $book['26']['line3'] = 
 ' Nove al terzo posto significa. 
-  A good horse that follows others. 
-  Awareness of danger,
-  With perseverance, furthers. 
-  Practice chariot driving and armed defense daily. 
-  It furthers one to have somewhere to go. \e
-  The way opens; the hindrance has been cleared away. A man is in contact with a strong will acting in the same direction as his own, and goes forward like one good horse following another. But danger still threatens, and he must remain aware of it, or he will be robbed of his firmness. Thus he must acquire skill on the one hand in what will take him forward, and on the other in what will protect him against unforeseen attacks. It is good in such a pass to have a goal toward which to strive.';
+  Un buon cavallo che ne segue altri. Propizie consapevolezza del pericolo e perseveranza. Ogni giorno esercitati nel guidare il carro e nel proteggerti con le armi. Propizio è avere ove recarsi.  \e
+  Seguiamo una strada già percorsa prima di noi da altri. 
+  Bisogna fiduciosamente seguire il loro esempio che può esserci di guida e sostegno in questa situazione. 
+  Tuttavia è bene stare attenti costantemente agli errori che si possono compiere. 
+  Bisogna concentrarsi su due cose: continuare ad agire per ciò che ci sta a cuore, lavorando per metterlo in pratica concretamente e stare in guardia da chi ti  nocivo e cerca di fermarci per contrastare i nostri piani.  
+  Si possono cominciare nuove imprese al fine di ottenere ciò che ci sta a cuore. 
+  Muta in 41 Diminuzione';
 $book['26']['line4'] = 
 ' Sei al quarto posto significa:
-  The headboard of a young bull. 
-  Great good fortune. \e
-  This line and the one following it are the two that tame the forward-pushing lower lines. Before a bull\'s horns grow out, a headboard is fastened to its forehead, so that later when the horns appear they cannot do harm. A good way to restrain wild force is to forestall it. By so doing one achieves an easy and great success.';
+  Il finimento frontale di un torello. Grande salute! \e
+  Si previene uno scontro usando la gentilezza. 
+  Ostacoli cadono grazie alla sincerità e  all’affetto. 
+  Muta in 14 Possesso grande';
 $book['26']['line5'] = 
 ' Sei al quinto posto significa:
-  The tusk of a gelded boar. 
-  Good fortune. \e
-  Here the restraining of the impetuous forward drive is achieved in an indirect way. A boar\'s tusk is in itself dangerous, but if the boar\'s nature is altered, the tusk is no longer a menace. Thus also where men are concerned, wild force should not be combated directly; instead, its roots should be eradicated.';
+  Il dente di un cinghiale castrato. Salute! \e
+  La situazione non è brutta come sembra. 
+  Un grande spavento o un dilemma si sciolgono spontaneamente. 
+  Muta in 9 Forza domatrice del Piccolo';
 $book['26']['line6'] = 
 ' Nove sopra significa:
-  One attains the way of heaven. 
-  Success. \e
-  The time of obstruction is past. The energy long dammed up by inhibition forces its way out and achieves great success. This refers to a man who is honored by the ruler and whose principles now prevail and shape the world.';
+  Si ottiene la via celeste. Salute! \e
+  Si giunge alla meta per cui si è molto lavorato. 
+  Risultati duraturi e positivi. 
+  Muta in 11 Pace';
 
 # -------------------------      27       ----------------------- #
 $book['27']['desc'] = 
-' I / Corners of the Mouth (Providing Nourishment) 
-  Above KÊN KEEPING STILL, MOUNTAIN
-  Below CHÊN THE AROUSING, THUNDER\e
-  This hexagram is a picture of an open mouth; above and below are the firm lines of the lips, and between them the opening. Starting with the mouth, through which we take food for nourishment, the thought leads to nourishment itself. Nourishment of oneself, specifically of the body, is represented in the three lower lines, while the three upper lines represent nourishment and care of others, in a higher, spiritual sense.';
+' Esagramma 27: Il Nutrimento
+  Il Tuono sotto il Monte: il movimento del tuono è verso l’alto ma il monte lo arresta. 
+  La struttura del segno ricorda una mascella intenta a masticare, da qui l’idea del nutrimento. 
+  Il contenuto del pasto è rappresentato da 4 linee yin oscure:  tutte  linee  problematiche, tenute ferme  da due yang che le limitano a stento.   
+  Quando vengono tenute ferme le cose, allora vi è nutrimento. 
+  Le cose, dunque si devono fermare, e nel frattempo passate al vaglio di una osservazione e  una autocritica sulla natura di ciò che diciamo e facciamo. 
+  C’è tanto, troppo: molte aspettative e illusioni che portano a deviare dalla via che nutre davvero in profondità.  
+  Il responso generale non è di successo o sciagura, ma descrive un momento in cui è necessario moderarsi e non strafare, né materialmente né con le parole. 
+  La stessa cosa dovrebbe essere applicata anche nei confronti degli  altri: osservare di cosa qualcuno si nutre, cioè  cosa dice o fa, ci mette in grado di comprendere meglio la sua natura e la nostra posizione  nei suoi confronti. 
+  Ci si stacca dal molto detto o fatto nel passato, quando si scopre ciò che nutre davvero.';
 $book['27']['judge'] = 
-' THE CORNERS OF THE MOUTH. 
-  Perseverance brings good fortune. 
-  Pay heed to the providing of nourishment
-  And to what a man seeks
-  To fill his own mouth with. \e
-  In bestowing care and nourishment, it is important that the right people should be taken care of and that we should attend to our own nourishment in the right way. If we wish to know what anyone is like, we have only to observe on whom he bestows his care and what sides of his own nature he cultivates and nourishes. Nature nourishes all creatures. The great man fosters and takes care of superior men, in order to take care of all men through them. Mencius says about this:
-  If we wish to know whether anyone is superior or not, we need only observe what part of his being he regards as especially important. The body has superior and inferior, important and unimportant parts. We must not injure important parts for the sake of the unimportant, nor must we injure the superior parts for the sake of the inferior. He who cultivates the inferior parts of his nature is an inferior man. He who cultivates the superior parts of his nature is a superior man.';
+' Gli angoli della bocca. Perseveranza reca salute. \e
+  Guarda al sostentamento e a ciò con cui un uomo cerca egli stesso di riempirsi la bocca. 
+  Bisogna sì continuare a nutrirsi e percorrere la strada su cui siamo ma nella giusta dose. 
+  Spesso si fanno e si dicono cose superflue o futili, di cui molto è da scartare, solo qualcosa è da mantenere. 
+  Se qualcosa ci nutre davvero bisogna preservarla dal diventare futile dicendo troppo di essa o riempendocene troppo, agendo in modo sbagliato. 
+  Gli altri inoltre possono non avere il nostro stesso modo di nutrirsi e avere altre preferenze. 
+  Questo atteggiamento di prudenza nel dire e nel fare deve essere esercitato a lungo e con pazienza, in modo da scoprire e capire che cosa e chi si vuole alimentare.';
 $book['27']['image'] = 
-' At the foot of the mountain, thunder:
-  The image of PROVIDING NOURISHMENT. 
-  Thus the superior man is careful of his words
-  And temperate in eating and drinking. \e
-  "God comes forth in the sign of the Arousing": when in the spring the life forces stir again, all things come into being anew. "He brings to perfection in the sign of Keeping Still": thus in the early spring, when the seeds fall to earth, all things are made ready. This is an image of providing nourishment through movement and tranquillity. The superior man takes it as a pattern for the nourishment and cultivation of his character. Words are a movement going from within outward. Eating and drinking are movements from without inward. Both kinds of movement can be modified by tranquillity. For tranquillity keeps the words that come out of the mouth from exceeding proper measure, and keeps the food that goes into the mouth from exceeding its proper measure. Thus character is cultivated.';
+' Ai piedi del monte vi è il tuono: l’immagine del sostentamento. 
+  Così il nobile sta attento alle sue parole ed è moderato nel mangiare e nel bere.\e
+  Il tuono la cui natura è salire verso l’alto incontra il limite del monte. 
+  Così ciò che nutre, sia materialmente che in forma di parole, ha un limite che non si deve superare. 
+  Meglio attenersi al poco, modesto contributo che si può dare piuttosto che strafare.';
 $book['27']['line1'] = 
 ' Nove all\'inizio significa:
-  You let your magic tortoise go,
-  And look at me with the corners of your mouth drooping. 
-  Misfortune. \e
-  The magic tortoise is a creature possessed of such supernatural powers that it lives on air and needs no earthly nourishment. The image means that a man fitted by nature and position to live freely and independently renounces this self-reliance and instead looks with envy and discontent at others who are outwardly in better circumstances. But such base envy only arouses derision and contempt in those others. This has bad results.';
+  Tu lasci andare la tua tartaruga magica e mi guardi con gli angoli della bocca cadenti! Sciagura! \e
+  Se stai cercando del nutrimento, lo stai facendo nel posto sbagliato. 
+  Hai già tutto ciò che ti serve ma lo cerchi da altri che non possono darti nulla. 
+  Stai cedendo alla debolezza, abbracciando strade che non dovresti percorrere e che non danno il frutto sperato. 
+  Muta in 23  Scissione';
 $book['27']['line2'] = 
 ' Sei al secondo posto significa:
-  Turning to the summit for nourishment,
-  Deviating from the path
-  To seek nourishment from the hill. 
-  Continuing to do this brings misfortune. \e
-  Normally a person either provides his own means of nourishment or is supported in a proper way by those whose duty and privilege it is to provide for him. If, owing to weakness of spirit, a man cannot support himself, a feeling of uneasiness comes over him; this is because in shirking the proper way of obtaining a living, he accepts support as a favor from those in higher place. This is unworthy, for he is deviating from his true nature. Kept up indefinitely, this course leads to misfortune.';
+  Nutrimento sul picco della montagna. 
+  Deviare dalla via per cercare nutrimento dal colle: se si continua così, sciagura. 
+  Sul picco della montagna non c’è nessuno, perché è un luogo isolato e difficile in cui vivere; eppure è proprio lì che devi stare per nutrire te stesso e gli altri.  
+  Se cerchi di scendere a un livello diverso, più basso, si avvicinano situazioni e persone non adatte a te. 
+  Conta sulla qualità e non sulla quantità. 
+  Muta in 41 Diminuzione';
 $book['27']['line3'] = 
 ' Sei al terzo posto significa:
-  Turning away from nourishment. 
-  Perseverance brings misfortune. 
-  Do not act thus for ten years. 
-  Nothing serves to further. \e
-  He who seeks nourishment that does not nourish reels from desire to gratification and in gratification craves desire. Mad pursuit of pleasure for the satisfaction of the senses never brings one to the goal. One should never (ten years is a complete cycle of time) follow this path, for nothing good can come of it.';
+  Egli è deciso a rinunciare al cibo. Disgrazia! \e
+  Per dieci anni svolgerà mansioni inutili e non avrà luogo dove recarsi. 
+  Se si agisce in questa circostanza, ci si allontana dalla retta via per seguire cose fuggevoli e riprovevoli che lasciano una intricata scia di conseguenze. 
+  Dopodiché si resta intrappolati in situazioni che non apportano beneficio e sfociano in un nulla di fatto. 
+  Muta in 22  Avvenenza';
 $book['27']['line4'] = 
 ' Sei al quarto posto significa:
-  Turning to the summit
-  For provision of nourishment
-  Brings good fortune. 
-  Spying about with sharp eyes
-  Like a tiger with insatiable craving. 
-  No blame. \e
-  In contrast to the six in the second place, which refers to a man bent exclusively on his own advantage, this line refers to one occupying a high position and striving to let his light shine forth. To do this he needs helpers, because he cannot attain his lofty aim alone. With the greed of a hungry tiger he is on the lookout for the right people. Since he is not working for himself but for the good of all, there is no wrong in such zeal.';
+  Volgersi verso la vetta per nutrirsi reca salute. Scrutare in giro con occhi attenti come una tigre in brama insaziabile. Nessuna macchia.\e
+  Si è in contatto con qualcosa che arricchisce  e a cui affidarsi; distinguerla attentamente, coltivarla e darle cura è della massima importanza. 
+  Muta in 21 Il Morso che Spezza';
 $book['27']['line5'] = 
 ' Sei al quinto posto significa:
-  Turning away from the path. 
-  To remain persevering brings good fortune. 
-  One should not cross the great water. \e
-  A man may be conscious of a deficiency in himself. He should be undertaking the nourishment of the people, but he has not the strength to do it. Thus he must turn from his accustomed path and beg counsel and help from a man who is spiritually his superior but undistinguished outwardly. If he maintains this attitude of mind perseveringly, success and good fortune are his. But he must remain aware of his dependence. He must not put his own person forward nor attempt great labors, such as crossing the great water.';
+  Deviare dalla via. Dimorare in perseveranza reca salute. Non bisogna attraversare la grande acqua. Fortuna a chi resta dove si trova. \e
+  Non intraprendere niente. 
+  Coltiva ciò che hai già ora e apprendi il modo per accrescerlo. 
+  Non seguire altre iniziative.  
+  Muta in 42 Accrescimento ';
 $book['27']['line6'] = 
 ' Nove sopra significa:
-  The source of nourishment. 
-  Awareness of danger brings good fortune. 
-  It furthers one to cross the great water. \e
-  This describes a sage of the highest order, from whom emanate all influences that provide nourishment for others. Such a position brings with it heavy responsibility. If he remains conscious of this fact, he has good fortune and may confidently undertake even great and difficult labors, such as crossing the great water. These undertakings bring general happiness for him and for all others.';
+  La sorgente del sostentamento. Consapevolezza del pericolo reca salute. Propizio è attraversare la grande acqua. \e
+  Ciò che ci sta a cuore comporta grandi responsabilità e ci è molto vicino. 
+  Si corrono dei rischi, per cui non tutto è facile e scontato. 
+  Soltanto con questa consapevolezza ben chiara in mente si può compiere la grande impresa. 
+  Muta in 24 Ritorno ';
 
 # -------------------------      28       ----------------------- #
 $book['28']['desc'] = 
-' Ta Kuo / Preponderance of the Great 
-  Above TUI THE JOYOUS, LAKE
-  Below SUN THE GENTLE, WIND, WOOD\e
-  This hexagram consists of four strong lines inside and two weak lines outside. When the strong are outside and the weak inside, all is well and there is nothing out of balance, nothing extraordinary in the situation. Here, however, the opposite is the case. The hexagram represents a beam that is thick and heavy in the middle but too weak at the ends. This is a condition that cannot last; it must be changed, must pass, or misfortune will result.';
+' Esagramma 28 : La preponderanza del Grande
+  Il vento, legno, sotto il lago, acqua. 
+  La persistenza e l’insistenza vengono sommerse dall’acqua, mobile e irrequieta. 
+  Si è generata una situazione di sovrabbondanza in cui troppo è stato accumulato e occorre alleggerire la tensione: il crollo è imminente, se non si abbandona ciò che  appesantisce. 
+  Al contrario del precedente 27 Nutrimento, in cui si è moderati nel dire e nel fare, qui vi è eccesso, da cui è consigliabile liberarsi attraverso azioni concrete.';
 $book['28']['judge'] = 
-' PREPONDERANCE OF THE GREAT. 
-  The ridgepole sags to the breaking point. 
-  It furthers one to have somewhere to go. 
-  Success. \e
-  The weight of the great is excessive. The load is too heavy for the strength of the supports. The ridgepole on which the whole roof rests, sags to the breaking point, because its supporting ends are too weak for the load they bear. It is an exceptional time and situation; therefore extraordinary measures are demanded. It is necessary to find a way of transition as quickly as possible, and to take action. This promises success. For although the strong element is in excess, it is in the middle, that is, at the center of gravity, so that a revolution is not to be feared. Nothing is to be achieved by forcible measures. The problem must be solved by gentle penetration to the meaning of the situation (as is suggested by the attribute of the inner trigram, Sun); then the change-over to other conditions will be successful. It demands real superiority; therefore the time when the great preponderates is a momentous time.';
+' La preponderanza del grande. La trave maestra si piega. Propizio è avere ove recarsi. Riuscita.\e
+  La situazione è troppo carica e piena e sta per esplodere. Non se ne può più. 
+  Prendere provvedimenti in modo da salvaguardarsi reagendo è una misura straordinaria ma saggia. 
+  Si deve dunque abbandonare qualcuno o qualcosa che ci disturba e non è al nostro livello recettivo. 
+  Dopo aver compiuto questo passo straordinario, le cose si calmano.';
 $book['28']['image'] = 
-' The lake rises above the trees:
-  The image of PREPONDERANCE OF THE GREAT. 
-  Thus the superior man, when he stands alone,
-  Is unconcerned,
-  And if he has to renounce the world,
-  He is undaunted. \e
-  Extraordinary times when the great preponderates are like flood times when the lake rises over the treetops. But such conditions are temporary. The two trigrams indicate the attitude proper to such exceptional times: the symbol of the trigram Sun is the tree, which stands firm even though it stands alone, and the attribute of Tui is joyousness, which remains undaunted even if it must renounce the world.';
+' Il Lago oltrepassa gli alberi: l’immagine della preponderanza del grande.\e
+  Così il nobile quando sta solo è libero da crucci e quando deve rinunciare al mondo è intrepido. 
+  Il momento è simile a quando un’inondazione  raggiunge le cime più alte degli alberi, così come quando si è sommersi in qualcosa  che ha preso troppo spazio. 
+  Il Trigramma Vento indica un albero solitario saldo al suolo e resistente, nonostante sia esposto ai venti e alle acque. 
+  Il Trigramma Lago indica la spensieratezza e la serenità che si acquisisce con la rinuncia. 
+  L’atteggiamento da tenere in questa situazione è di allontanarsi da qualcosa che è solo un problema anche se ciò ci farà sentire un po’ isolati.';
 $book['28']['line1'] = 
 ' Sei all\'inizio significa:
-  To spread white rushes underneath. 
-  No blame. \e
-  When a man wishes to undertake an enterprise in extraordinary times, he must be extraordinarily cautious, just as when setting a heavy thing down on the floor, one takes care to put rushes under it, so that nothing will break. This caution, though it may seem exaggerated, is not a mistake. Exceptional enterprises cannot succeed unless utmost caution is observed in their beginnings and in the laying of their foundations.';
+  Poggiare su stuoia di canna bianca. Nessuna macchia.\e 
+  Riflessione ed estrema prudenza, come se si volesse poggiare un oggetto fragile  e delicato su un piano morbido. 
+  Muta in 43 Straripamento';
 $book['28']['line2'] = 
 ' Nove al secondo posto significa:
-  A dry poplar sprouts at the root. 
-  An older man takes a young wife. 
-  Everything furthers. \e
-  Wood is near water; hence the image of an old poplar sprouting at the root. This means an extraordinary situation arises when an older man marries a young girl who suits him. Despite the unusualness of the situation, all goes well.
-  From the point of view of politics, the meaning is that in exceptional times one does well to join with the lowly, for this affords a possibility of renewal.';
+  Un pioppo secco getta germoglio di radice. Un uomo anziano prende una moglie giovane. Tutto è propizio.\e
+  Qualcosa che si sta spegnendo vuole riprendere vita, rinnovandosi in senso positivo. 
+  Muta in 31 Stimolazione';
 $book['28']['line3'] = 
 ' Nove al terzo posto significa:
-  The ridgepole sags to the breaking point. 
-  Misfortune. \e
-  This indicates a type of man who in times of preponderance of the great insists on pushing ahead. He accepts no advice from others, and therefore they in turn are not willing to lend him support. Because of this the burden grows, until the structure of things bends or breaks. Plunging willfully ahead in times of danger only hastens the catastrophe.';
+  La trave maestra si piega. Sciagura.\e
+  Ci stiamo spingendo al di là delle nostre attuali possibilità e non c’è rispondenza da parte di chi può aiutarci a sostenere il peso della situazione. 
+  La nostra non è che ostinazione verso qualcosa di insostenibile.  
+  Muta in 47 Oppressione';
 $book['28']['line4'] = 
 ' Nove al quarto posto significa:
-  The ridgepole is braced. Good fortune. 
-  If there are ulterior motives, it is humiliating. \e
-  Through friendly relations with people of lower rank, a responsible man succeeds in becoming master of the situation. But if, instead of working for the rescue of the whole, he were to misuse his connections to obtain personal power and success, it would lead to humiliation.';
+  La trave maestra viene sostenuta. Salute. Se vi sono secondi fini è vergognoso.\e
+  La situazione è difficile ma non c’è un pericolo immediato di un crollo. 
+  Quando però si perseguono scopi illeciti, cioè di bassa lega e minori, si va incontro all’ umiliazione. 
+  Non fatevi impietosire e mettete ordine nella vostra vita. 
+  Muta in 48 Pozzo';
 $book['28']['line5'] = 
 ' Nove al quinto posto significa:
-  A withered poplar puts forth flowers. 
-  An older woman takes a husband. 
-  No blame. No praise. \e
-  A withered poplar that flowers exhausts its energies thereby and only hastens its end. An older woman may marry once more, but no renewal takes place. Everything remains barren. Thus, though all the amenities are observed, the net result is only the anomaly of the situation.
-  Applied to politics, the metaphor means that if in times of insecurity we give up alliance with those below us and keep up only the relationships we have with people of higher rank, an unstable situation is created.';
+  Un pioppo rinsecchito getta boccioli. Una donna anziana trova marito. Nessuna macchia nessuna lode.\e
+  Una situazione che si è spenta rifiorisce. 
+  Si trova una certa concordia con qualcuno, ma di seconda mano, di cui accontentarsi.  
+  Muta in 32 Durata';
 $book['28']['line6'] = 
 ' Sei sopra significa:
-  One must go through the water. 
-  It goes over one\'s head. 
-  Misfortune. No blame. \e
-  Here is a situation in which the unusual has reached a climax. One is courageous and wishes to accomplish one\'s task, no matter what happens. This leads into danger. The water rises over one\'s head. This is the misfortune. But one incurs no blame in giving up one\'s life that the good and the right may prevail. There are things that are more important than life.';
+  Bisogna attraversare l’acqua. Essa oltrepassa la testa. Sciagura. Nessuna macchia.\e
+  L’impresa che si vuole compiere richiede un prezzo alto, che ci farà perdere più che guadagnare. 
+  Ma quando si è in una situazione di sovrabbondanza asfissiante si deve cercare in tutti i modi di uscirne. 
+  Anche così facendo le cose non si risolvono definitivamente. 
+  Muta in 44 Farsi incontro';
 
 # -------------------------      29       ----------------------- #
 $book['29']['desc'] = 
-' K\'an / The Abysmal (Water) 
-  Above K\'AN THE ABYSMAL, WATER
-  Below K\'AN THE ABYSMAL, WATER \e
-  This hexagram consists of a doubling of the trigram K\'an. It is one of the eight hexagrams in which doubling occurs. The trigram K\'an means a plunging in. A yang line has plunged in between two yin lines and is closed in by them like water in a ravine. The trigram K\'an is also the middle son. The Receptive has obtained the middle line of the Creative, and thus K\'an develops. As an image it represents water, the water that comes from above and is in motion on earth in streams and rivers, giving rise to all life on earth.
-  In man\'s world K\'an represents the heart, the soul locked up within the body, the principle of light inclosed in the dark–that is, reason. The name of the hexagram, because the trigram is doubled, has the additional meaning, "repetition of danger. " Thus the hexagram is intended to designate an objective situation to which one must become accustomed, not a subjective attitude. For danger due to a subjective attitude means either foolhardiness or guile. Hence too a ravine is used to symbolize danger; it is a situation in which a man is in the same pass as the water in a ravine, and, like the water, he can escape if he behaves correctly.';
+' Esagramma 29 : L’ Abissale.
+  Acqua su acqua, non può esserci un altro momento in cui tutto è in movimento più di ora. 
+  E’ un esagramma ritenuto da alcuni molto infausto, forse il peggiore dei 64 dell’I Ching: qui, più che altrove, c’è il richiamo a fare attenzione e prendere una decisione su ciò che veramente si vuole fare della propria vita. 
+  L’acqua, simbolo di movimento al massimo grado, portatrice di vita ma anche di distruzione  e morte ricopre qui ogni cosa, e noi ci siamo dentro:  e sta a noi predisporci se essere sballottati qua e là lottando contro corrente impetuosa  o decidere di assecondarla per giungere…chissà…su sponde sconosciute. 
+  L’uscita di questo esagramma presagisce sempre uno di quegli avvenimenti destinati a incidere emozionalmente sulla nostra vita futura. 
+  Non importa ciò che decidiamo di fare, che via seguiamo: è una svolta, un grande rimescolamento, un movimento degli opposti. 
+  Avviene interiormente, più che fuori di noi: riguarda il modo in cui ci predisponiamo all’ignoto fluire del destino, che non possiamo modificare con nessun atto, ma solo ora abbandonarci ad esso. 
+  La flessibilità dell’acqua su acqua che a tutto si adatta, persino allo sprofondamento in abissi pericolosissimi qui deve essere assecondata. E lo facciamo con il cuore: ‘se sei verace hai riuscita nel cuore’.
+  Questo è il tempo di distruggere le dighe e lasciare che la marea sommerga tutto, è il tempo di annegare in ondate oceaniche per poi ritrovarsi, come naufraghi, su spiagge ripulite e terse, insieme a ossa di balena e conchiglie spiaggiate. 
+  Non trattenere né trattenersi, seguire il Cuore. 
+  Che ci parla molto sottovoce, piccola sorgente sotterranea che mai inaridisce, nonostante il chiasso mentale di cui di solito la ricopriamo. 
+  La vita è movimento, la mente è movimento, come l’acqua: vie non ce ne sono più, scie profonde che crediamo di seguire si richiudono dietro di noi con beffarda ironia e noi ci troviamo a nuotare nella corrente senza direzione certa; eppure se ci si abbandona alla corrente con fiducia, l’acqua lava via quello che deve essere lavato. 
+  Non dobbiamo toccare nulla, ma lasciar fare. 
+  Solo il Cuore è capace di questo supremo atto di coraggio: lasciar fare. E lasciar essere. 
+  Qualunque atto compiamo esteriormente, dobbiamo predisporci ad esso come a un passaggio mutevole  e difficoltoso tra i marosi, in cui nulla è per ora certo.
+  Ma solo attraverso questo percorso arduo, che non durerà per sempre, ma che va affrontato, si sale di un gradino.
+  Tempo difficile questo dell’Abissale. La notte oscura dell’anima. 
+  Ma chi resiste senza respirare alla fine riemerge lavato e ripulito dalle scorie e i pesi tremendi (giacchè l’uscita di questo esagramma presuppone grande difficoltà interiore),e può insegnare agli altri. Non perché sa qualcosa, ma perché ha concepito nuova vita. 
+  Il Mutamento in tutta la sua terrificante e crudele forza bruta, a cui solo chi si abbandona totalmente  può sopravvivere. Soffrirete. Morirete. 
+  Per rinascere, è certo. C
+  hi sarete, dopo la traversata? Non si sa, ed è nel non sapere che è la soluzione. 
+  Assecondate gli impulsi del cuore, non date retta ai ragionamenti e a soppesare i passi da fare; fatevi guidare dalla sottile corrente del Cuore, datevi tempo, dominate l’impulso di opporvi, decidere, credere in facili soluzioni. 
+  Andate, fate ma sapendo questo: non è che un passaggio, da cui però può ricominciare un viaggio che finora non sapevate di stare compiendo, e che vi donerà chiarezza e nuova vita. 
+  Sarete diversi da ora, forse dolorosamente estranei anche a voi stessi. 
+  E alla fine sarete in grado di dire: ho visto l’abisso e ne sono uscito. 
+  E con questa saggezza dolorosamente acquisita  in cui avrete sacrificato parti di voi, sbloccherete l’impasse in cui siete ora.
+  Dice Jean Jeaures: ‘Non si insegna quello che si sa o che si crede di sapere, si insegna soltanto quello che si è’.
+  Non importa cosa fate e o cosa dite, importa solo l’attitudine interiore con cui vi apprestate a farlo.
+  Annegate e poi vivete.';
 $book['29']['judge'] = 
-' The Abysmal repeated. 
-  If you are sincere, you have success in your heart,
-  And whatever you do succeeds. \e
-  Through repetition of danger we grow accustomed to it. Water sets the example for the right conduct under such circumstances. It flows on and on, and merely fills up all the places through which it flows; it does not shrink from any dangerous spot nor from any plunge, and nothing can make it lose its own essential nature. It remains true to itself under all conditions. Thus likewise, if one is sincere when confronted with difficulties, the heart can penetrate the meaning of the situation. And once we have gained inner mastery of a problem, it will come about naturally that the action we take will succeed. In danger all that counts is really carrying out all that has to be done–thoroughness–and going forward, in order not to perish through tarrying in the danger.
-  Properly used, danger can have an important meaning as a protective measure. Thus heaven has its perilous height protecting it against every attempt at invasion, and earth has its mountains and bodies of water, separating countries by their dangers. Thus also rulers make use of danger to protect themselves against attacks from without and against turmoil within.';
+' L’Abissale ripetuto. Se sei verace hai riuscita nel cuore e ciò che fai incontra successo. \e
+ Acqua sopra e acqua sotto rappresentano doppio pericolo: quello di indugiare troppo in una situazione senza decidersi a portarla a termine e quello di assuefarsi a questa indecisione di fondo. 
+ Bisogna prendere la decisione di andare in profondità per portare a termine un cambiamento radicale nel nostro modo di vita, e allora vi è successo.';
 $book['29']['image'] = 
-' Water flows on uninterruptedly and reaches its goal:
-  The image of the Abysmal repeated. 
-  Thus the superior man walks in lasting virtue
-  And carries on the business of teaching. \e
-  Water reaches its goal by flowing continually. It fills up every depression before it flows on. The superior man follows its example; he is concerned that goodness should be an established attribute of character rather than an accidental and isolated occurrence. So likewise in teaching others everything depends on consistency, for it is only through repetition that the pupil makes the material his own.';
+' L’acqua scorre ininterrottamente e arriva alla meta: l’immagine dell’abissale ripetuto. 
+  Così il nobile incede in durevole virtù ed esercita l’arte dell’insegnamento. 
+  L’acqua  cade verso il basso fino a che non arriva al fondo di tutto, la sua meta, come la pioggia  continua a scrosciare dal cielo fino a tornare nelle pieghe della terra. 
+  In questa situazione il nobile si comporta come l’acqua: penetra in tutti i risvolti e indaga fino in fondo evitando pericoli e insidie, continuando con costanza e fede il percorso, insegnando con il proprio esempio e la propria coerenza anche agli altri.';
 $book['29']['line1'] = 
 ' Sei all\'inizio significa:
-  Repetition of the Abysmal. 
-  In the abyss one falls into a pit. 
-  Misfortune. \e
-  By growing used to what is dangerous, a man can easily allow it to become part of him. He is familiar with it and grows used to evil. With this he has lost the right way, and misfortune is the natural result.';
+  Ripetizione dell’abissale. Nell’abisso si finisce in una buca. Sciagura. \e
+  La situazione è difficile e persiste da tempo: ci siamo abituati e assuefatti a questo stato di pericolo. 
+  Si è perduta la retta via e non se ne ha forza per uscirne. 
+  Il risultato di tale procedere è infausto. Muta in 60 Limiti';
 $book['29']['line2'] = 
 ' Nove al secondo posto significa:
-  The abyss is dangerous. 
-  One should strive to attain small things only. \e
-  When we are in danger we ought not to attempt to get out of it immediately, regardless of circumstances; at first we must content ourselves with not being overcome by it. We must calmly weigh the conditions of the time and be satisfied with small gains, because for the time being a great success cannot be attained. A spring flows only sparingly at first, and tarries for some time before it makes its way into the open.';
+  Nell’abisso vi è pericolo. Bisogna tendere solo a piccole cose.\e
+  La  situazione è ardua e se ne vorrebbe uscire, liberandosene, ma un totale distacco da ciò che causa ansie e disturbi non è possibile. 
+  Bisogna accontentarsi di allontanarsi quel tanto che basta, prendendo le distanze con piccoli gesti e aggiustamenti.  
+  Muta in 8 Solidarietà';
 $book['29']['line3'] = 
 ' Sei al terzo posto significa:
-  Forward and backward, abyss on abyss. 
-  In danger like this, pause at first and wait,
-  Otherwise you will fall into a pit in the abyss. 
-  Do not act this way. \e
-  Here every step, forward or backward, leads into danger. Escape is out of the question. Therefore we must not be misled into action, as a result of which we should only bog down deeper in the danger; disagreeable as it may be to remain in such a situation, we must wait until a way out shows itself.';
+  Avanti e indietro, abisso sopra abisso. In tale pericolo fermati per ora, altrimenti nell’abisso finisci in una buca. Non agire così.\e
+  Dovunque ci si volti, c’è il pericolo e una grande inquietudine ci accompagna. Si vorrebbe uscirne, ma a chi rivolgersi? 
+  Si è soli ed incompresi,  ma bisogna sopportare un periodo di forzata inattività piuttosto che intraprendere iniziative ancora peggiori. 
+  Tutte le vie di fuga ci sono precluse, e per quanto sia penoso rimanere a subire tale stato di cose, si deve sopportare la tensione, attraverso i turbamenti e le esitazioni del momento. 
+  Muta in 48 Pozzo';
 $book['29']['line4'] = 
 ' Sei al quarto posto significa:
-  A jug of wine, a bowl of rice with it;
-  Earthen vessels
-  Simply handed in through the Window. 
-  There is certainly no blame in this. \e
-  In times of danger ceremonious forms are dropped. What matters most is sincerity. Although as a rule it is customary for an official to present certain introductory gifts and recommendations before he is appointed, here everything is simplified to the utmost. The gifts are insignificant, there is no one to sponsor him, he introduces himself; yet all this need not be humiliating if only there is the honest intention of mutual help in danger.
-  Still another idea is suggested. The window is the place through which light enters the room. If in difficult times we want to enlighten someone, we must begin with that which is in itself lucid and proceed quite simply from that point on.';
+  Una brocca di vino, una ciotola di riso come aggiunta, vasellame d’argilla, offerti semplicemente attraverso la finestra. 
+  Ciò non costituisce alcuna macchia. 
+  Piccole cose, modesti gesti di simpatia  vengono offerti. 
+  Nulla di eclatante, ma sono i soli piccoli doni che possono provenire dall’esterno. 
+  Questo è tutto ciò che ha da offrire la situazione in cui ci troviamo. 
+  Si può contare solo su modeste presenze distanti.  
+  Muta in 47 Assillo';
 $book['29']['line5'] = 
 ' Nove al quinto posto significa:
-  The abyss is not filled to overflowing,
-  It is filled only to the rim. 
-  No blame. \e
-  Danger comes because one is too ambitious. In order to flow out of a ravine, water does not rise higher than the lowest point of the rim. So likewise a man when in danger has only to proceed along the line of least resistance; thus he reaches the goal. Great labors cannot be accomplished in such times; it is enough to get out of the danger.';
+  L’abisso non viene fatto traboccare, viene riempito solo fino all’orlo. Nessuna macchia.\e
+  Guasti e pericoli sono presenti ancora ma almeno non se ne aggiungono altri.
+  Se c’è volontà di costruzione, che muoia ciò che è eccessivo e pericoloso.
+  Non esagerare e fare più di quanto il momento permetta. 
+  Moderazione. 
+  Muta in 7 Esercito';
 $book['29']['line6'] = 
 ' Sei sopra significa:
-  Bound with cords and ropes,
-  Shut in between thorn-hedged prison walls:
-  For three years one does not find the way. 
-  Misfortune. \e
-  A man who in the extremity of danger has lost the right way and is irremediably entangled in his sins has no prospect of escape. He is like a criminal who sits shackled behind thorn hedged prison walls.';
+  Legato con corde e funi, rinchiuso tra mura carcerarie irte di spine: per tre anni non ci si orienta. Sciagura! \e
+  Una situazione di perdurante difficoltà vi imprigiona. 
+  A lungo si cerca di trovare una via d’uscita. 
+  Muta in 59 Dissoluzione ';
 
 # -------------------------      30       ----------------------- #
 $book['30']['desc'] = 
-' ESAGRAMMA 30- Il FUOCO \eIl Fuoco è doppio, due linee yin sono tenute ferme da quattro linee yang, che utilizzano l’oscurità per splendere di più, così come il Fuoco utilizza la legna per ardere e illuminare. Le due oscurità sono tenute a bada attraverso l’energica presenza della chiarezza che si fa strada nonostante loro ma anche grazie a loro. Legna e fuoco sono assimilate a chiarezza e oscurità, nel gioco in cui vi è qualcosa che deve continuare a splendere nonostante l’oscurità ma anche tramite essa. L’oscurità è marginale e va tenuta nella giusta considerazione, e ridimensionata al suo posto. La chiarezza regna: se vi è stato un pericolo o una ferita essa è passata, trovando il suo posto nell’economia del cosmo. Permane, ancora, una forma di dipendenza di cui non ci deve vergognare, andando comunque avanti per la propria strada. Dice Wilhelm: Nel mondo l’uomo è condizionato e non indipendente, ma avrà riuscita se riconosce questi limiti e accetta la sua dipendenza dalle forze armoniose e buone dell’universo. L’uomo acquisendo in sé questa arrendevolezza e questa volontaria dipendenza, acquista la chiarezza che non ferisce e trova il suo posto nel mondo. ';
+' Esagramma 30 – Fuoco
+  Fuoco su fuoco, il raddoppiamento della chiarezza. 
+  Essa fa luce e rischiara la natura delle cose e persone, donandoci la comprensione. 
+  Come il fuoco è dipendente dalla legna su cui arde, così è bene continuare a nutrire il desiderio di far luce e comprendere per dissolvere le ombre. ';
 $book['30']['judge'] = 
-' L’aderente. Propizia è perseveranza. Essa reca riuscita. La cura della vacca reca salute.\e
-Il Fuoco aderisce alle cose illuminandole. Bisogna continuare così e in seguito vi sarà riuscita. In questa situazione è bene essere estremamente arrendevoli e mansueti. La vacca è rappresentata nei due segni yin quasi accuditi dalle forti linee yang, che le tengono a bada. Così curare la vacca significa persistere e pazientare, essere flessibili e docili, nel frattempo che si continua a fare chiarezza. E’ una situazione che descrive un lungo e tranquillo rischiaramento di qualcosa ancora di irrisolto. ';
+' L’aderente. Propizia è perseveranza. Essa reca riuscita. La cura della vacca reca salute. \e
+  Il Fuoco aderisce alle cose illuminandole. 
+  Bisogna continuare a fare chiarezza e in seguito vi sarà riuscita. 
+  La vacca è rappresentata nei due segni yin quasi accuditi dalle forti linee yang, che le tengono a bada. 
+  Così curare la vacca significa persistere e pazientare, essere flessibili e docili, nel frattempo che si continua a fare chiarezza. 
+  E’ una situazione che descrive un lungo e tranquillo rischiaramento di qualcosa ancora di irrisolto. ';
 $book['30']['image'] = 
 ' Il chiarore sorge due volte: l’immagine del fuoco. Così il grande uomo continuando questo chiarore, illumina le quattro regioni del mondo.\e
-  Il Fuoco su un Fuoco, una luce doppia e persistente che illumina l’oscurità. Così nel mondo umano si rischiarano le oscurità e ciò che è aspro e difficile, in una continua attività illuminante. Tale attività splende sulle debolezze nonostante esse ma anche grazie ad esse. Il Fuoco nel trigramma inferiore è rappresentato al suo primo apparire, esitante e incerto, nel suo ergersi scoppiettante e foriero di sviluppo, nel suo lento estinguersi; nel trigramma superiore nel repentino riattizzarsi in alte fiammate che culminano in solitari lampi. Fu Hsi secondo la mitologia di IChing vide i segni di questo esagramma ed ebbe l’idea di costruire una rete per catturare i pesci. Il simbolo è associato a qualcosa di utile che cattura ciò che è sfuggente. ';
+  Il Fuoco su un Fuoco, una luce doppia e persistente che illumina l’oscurità. 
+  Così nel mondo umano si rischiarano le oscurità e ciò che è aspro e difficile, in una continua attività illuminante. 
+  Bisogna continuare a scacciare ciò che è causa di malessere in modo continuo e persistente, per portare completa luce in ogni aspetto della nostra vita.
+  Il Fuoco nel trigramma inferiore è rappresentato al suo primo apparire, esitante e incerto, nel suo ergersi scoppiettante e foriero di sviluppo, nel suo lento estinguersi; nel trigramma superiore  nel repentino riattizzarsi  in alte fiammate che culminano in solitari lampi. 
+  Fu Hsi secondo la mitologia di IChing vide i segni di questo esagramma ed ebbe l’idea di costruire una rete per catturare i pesci. 
+  Il simbolo è associato ad un’attività illuminante su ciò che è sfuggente da comprendere. ';
 $book['30']['line1'] = 
 ' Nove all\'inizio:
-  Le orme corrono in ogni direzione. Se si opera con serietà: nessuna macchia.\e
-  E’ l’inizio di una attività e ancora ciò che seguirà è incerto. Vi sono possibilità ma nessuna delinea una continuità definita. Occorre prendere atto dell’incostanza della situazione. ';
+  Le orme corrono in ogni direzione. Se si opera con serietà: nessuna macchia. \e
+  Si cerca di illuminare  una situazione confusa e controversa. 
+  Capire in che direzione andare dipende da ciò che ci viene fornito da altri. 
+  Bisogna avere la chiarezza interiore  per decifrare i messaggi impliciti, i segni che stanno alla base di questa vicenda. 
+  Se si sapranno distinguere non vi saranno conseguenze.  
+  Muta in 56 – Viandante ';
 $book['30']['line2'] = 
 ' Sei al secondo posto: 
-  Splendore giallo. Sublime salute.\e
-  E’ la pienezza e l’abbondanza, il frutto da cogliere nel naturale fluire delle cose. Ciò che si fa illumina nel senso più ampio.';
+  Splendore giallo. Sublime salute. \e
+  Si è nella perfezione della chiarezza, il cuore della luce e del bene. 
+  Muta in 14-Possesso grande';
 $book['30']['line3'] = 
 ' Nove al terzo posto: 
   Alla luce del sole che tramonta, gli uomini o battono sulla pentola o cantano, o sospirano forte per la senilità che si avvicina. Sciagura.\e
-  E’ passato il momento della pienezza. C’è un allontanamento e il volgere al termine di qualcosa. Ci si angustia per ciò che è stato, ci si rattrista, in un malinconico declino. ';
+  Le tenebre si avvicinano, mentre la chiarezza vacilla. 
+  Cercando di farsi forza ci si distrae in futili passatempi e ci si dispera per l’imminente declino. 
+  Qualcosa volge al termine.  
+  Muta in 21- Morso che spezza ';
 $book['30']['line4'] = 
 ' Nove al quarto posto:
   Subitanea è la sua venuta; divampa, muore, viene buttato via.\e
-  Talvolta viviamo situazioni meravigliose che non sono destinate a restare tali per molto. Bisogna riconoscere in esse cosa realmente ci dà beneficio, per costruire una direzione durevole in cui incamminarsi.
-  Decisioni da prendere. Incostanza. ';
+  Un fuoco di paglia che brilla per un istante  ma non ha effetti duraturi. 
+  Tutto ciò che si ottiene è una piccola e breve pausa prima che torni l’oscurità. 
+  Muta in 22- Grazia ';
 $book['30']['line5'] = 
  'Sei al quinto posto:
-  Lacrime a fiumi, sospiri e lamenti. Salute!\e
-  La linea si trova in una situazione in bilico. Alla fine si riesce a ripristinare una situazione compromessa. ';
+  Lacrime a fiumi, sospiri e lamenti. Salute! \e
+  Pentimento amaro è talvolta utile. C’è da pentirsi su come si è agito, e si avranno rimpianti. 
+  Eppure grazie a questa triste esperienza riusciremo a fare chiarezza nella situazione.  
+  Muta in 13- Associazione';
 $book['30']['line6'] = 
 ' Nove sopra:
-  Il re lo adopera per spedizioni punitive.
-  La miglior cosa è allora uccidere i capi e catturare i seguaci. Nessuna macchia.\e
-  Occorre fare pulizia cominciando dalla causa principale per risolvere anche altri aspetti secondari della situazione. ';
+  Il re lo adopera per spedizioni punitive. La miglior cosa è allora uccidere i capi e catturare i seguaci. Nessuna macchia.\e
+  E’ necessario  operare in profondità, stabilendo una disciplina  che organizzi il disordine della vicenda; bisogna operare sui fondamenti e le basi della situazione, migliorandola ed emendandola dal guasto. 
+  Allora saremo capaci di avere successo e un seguito. 
+  Nessun danno, nessun vantaggio. 
+  Muta in 55 – Abbondanza ';
 
 # -------------------------      31       ----------------------- #
 $book['31']['desc'] = 

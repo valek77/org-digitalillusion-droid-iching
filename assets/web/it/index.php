@@ -2949,309 +2949,317 @@ $book['50']['line6'] =
 
 # -------------------------      51       ----------------------- #
 $book['51']['desc'] = 
-' Chên / The Arousing (Shock, Thunder) 
-  Above CHÊN THE AROUSING, THUNDER
-  Below CHÊN THE AROUSING, THUNDER\e
-  The hexagram Chên represents the eldest son, who seizes rule with energy and power. A yang line develops below two yin lines and presses upward forcibly. This movement is so violent that it arouses terror. It is symbolized by thunder, which bursts forth from the earth and by its shock causes fear and trembling.';
+' Esagramma 51 – Scuotimento
+ Sotto il Tuono, sopra il Tuono. Il potere di eccitazione si raddoppia, originando un movimento improvviso che intimorisce ma presto passa e tutto ritorna come prima.';
 $book['51']['judge'] = 
-' SHOCK brings success. 
-  Shock comes–oh, oh!
-  Laughing words–ha, ha!
-  The shock terrifies for a hundred miles,
-  And he does not let fall the sacrificial spoon and chalice. \e
-  The shock that comes from the manifestation of God within the depths of the earth makes man afraid, but this fear of God is good, for joy and merriment can follow upon it.
-  When a man has learned within his heart what fear and trembling mean, he is safeguarded against any terror produced by outside influences. Let the thunder roll and spread terror a hundred miles around: he remains so composed and reverent in spirit that the sacrificial rite is not interrupted. This is the spirit that must animate leaders and rulers of men–a profound inner seriousness from which all outer terrors glance off harmlessly.';
+' Lo scuotimento reca riuscita. Lo scuotimento viene: uh, uh!  Parole ridenti: ah, ah! 
+  Lo scuotimento spaventa per cento miglia ed egli non lascia cadere il cucchiaio sacrificale e il calice.  
+  Quando il tuono arriva, in questo caso un grosso tuono, le emozioni si alzano dapprima con vigoroso spavento ma poi quasi subito si prova un senso di allegro stupore quando tutto finisce. Alla fine, non vi è nessun danno, nonostante la paura provata. 
+  Ora l’apprensione  e la paura si spargono ovunque. 
+  Altri, coinvolti in questa situazione, reagiscono in modo istintivo e timoroso. 
+  Ma noi ci mostriamo sereni e ci rivolgiamo a loro con parole gentili. Quando le cose sembrano crollare, mantenere la calma.';
 $book['51']['image'] = 
-' Thunder repeated: the image of SHOCK. 
-  Thus in fear and trembling
-  The superior man sets his life in order
-  And examines himself. \e
-  The shock of continuing thunder brings fear and trembling. The superior man is always filled with reverence at the manifestation of God; he sets his life in order and searches his heart, lest it harbor any secret opposition to the will of God. Thus reverence is the foundation of true culture.';
+' Tuono continuato: l’immagine dello Scuotimento. Così il nobile temendo e tremando mette ordine nella sua vita ed esplora se stesso.  
+  Due tuoni provocano uno shock: il primo è legato alle faccende esteriori, in cui bisogna mettere mano con estrema cautela e prudenza; 
+  una forte scossa vi sta spingendo a verificare i vostri rapporti e ciò che fate; 
+  il secondo Tuono, superiore, si riferisce al volgersi verso l’interno e a farsi un esame di coscienza.';
 $book['51']['line1'] = 
 ' Nove all\'inizio significa:
-  Shock comes–oh, oh!
-  Then follow laughing words–ha, ha!
-  Good fortune. \e
-  The fear and trembling engendered by shock come to an individual at first in such a way that he sees himself placed at a disadvantage as against others. But this is only transitory. When the ordeal is over, he experiences relief, and thus the very terror he had to endure at the outset brings good fortune in the long run.';
+  Lo scuotimento viene: uh, uh! Seguono parole ridenti: ah, ah! Salute! \e
+  Un cambiamento cruciale avviene, coinvolgendoci emotivamente fino a causare timore e ansia. 
+  Non c’è da preoccuparsi.  
+  Muta in 16 Fervore';
 $book['51']['line2'] = 
 ' Sei al secondo posto significa:
-  Shock comes bringing danger. 
-  A hundred thousand times
-  You lose your treasures
-  And must climb the nine hills. 
-  Do not go in pursuit of them. 
-  After seven days you will get them back again. \e
-  This pictures a situation in which a shock endangers a man and he suffers great losses. Resistance would be contrary to the movement of the time and for this reason unsuccessful. Therefore he must simply retreat to heights inaccessible to the threatening forces of danger. He must accept his loss of property without worrying too much about it. When the time of shock and upheaval that has robbed him of his possessions has passed, he will get them back again without going in pursuit of them.';
+  Lo scuotimento viene con pericolo. Centomila volte perdi i tuoi tesori e devi risalire i nove colli. 
+  Non affannarti dietro a loro. 
+  Dopo sette giorni li riottieni. 
+  Ora non cercare ciò che si è perduto, questa è una situazione temporanea che si ripete. 
+  Ogni volta si è fatta grande fatica per riottenere ciò che ci sta a cuore. 
+  Conviene smetterla e non ricercarlo più. Tornerà da solo, spontaneamente.  
+  Muta in 54 Ragazza che si sposa';
 $book['51']['line3'] = 
 ' Sei al terzo posto significa:
-  Shock comes and makes one distraught. 
-  If shock spurs to action
-  One remains free of misfortune. \e
-  There are three kinds of shock–the shock of heaven, which is thunder, the shock of fate, and, finally, the shock of the heart. The present hexagram refers less to inner shock than to the shock of fate. In such times of shock, presence of mind is all too easily lost: the individual overlooks all opportunities for action and mutely lets fate take its course. But if he allows the shocks of fate to induce movement within his mind, he will overcome these external blows with little effort.';
+  Lo scuotimento viene e fa uscire di senno. Se in seguito allo scuotimento si agisce, si rimane liberi da disgrazia. \e
+  Lo shock arriva e non si capisce cosa dire o fare. 
+  Allontanandosi da questa situazione complicata si evita il pericolo. 
+  Ci sono cambiamenti radicali a cui dobbiamo acconsentire.  
+  Muta in 55 Abbondanza';
 $book['51']['line4'] = 
 ' Nove al quarto posto significa:
-  Shock is mired. \e
-  Movement within the mind depends for its success partly on circumstances. If there is neither a resistance that might be vigorously combated, nor yet a yielding that permits of victory–if, instead, everything is tough and inert like mire–movement is crippled.';
+  Lo scuotimento finisce in melma. Non una buona situazione. Davanti e dietro non c’è possibilità di sviluppo, sicchè si finisce immobilizzati nel fango. \e
+  Bisognerebbe avere forza e chiarezza per cambiare le cose ma una sorta di debolezza ci avvince.  
+  Muta in 24 Ritorno';
 $book['51']['line5'] = 
 ' Sei al quinto posto significa:
-  Shock goes hither and thither. 
-  Danger. 
-  However, nothing at all is lost. 
-  Yet there are things to be done. \e
-  This is a case not of a single shock but of repeated shocks with no breathing space between. Nonetheless, the shock causes no loss, because one takes care to stay in the center of movement and in this way to be spared the fate of being helplessly tossed hither and thither.';
+  Lo scuotimento percuote a destra e a sinistra: pericolo. Ma non si perde assolutamente nulla, soltanto vi è da fare.\e
+  La linea si trova nel pieno dell’ irrequietezza che ciecamente vuole abbattersi a destra e a sinistra, totalmente. 
+  Cambiamenti drastici  sono all’opera. Ma nonostante il pericolo alla fine tutto resta come prima, non si perde niente. 
+  Vi è qualcosa da fare. 
+  Muta in 17 Seguire';
 $book['51']['line6'] = 
 ' Sei sopra significa:
-  Shock brings ruin and terrified gazing around. 
-  Going ahead brings misfortune. 
-  If it has not yet touched one\'s own body
-  But has reached one\'s neighbor first,
-  There is no blame. 
-  One\'s comrades have something to talk about. \e
-  When inner shock is at its height, it robs a man of reflection and clarity of vision. In such a state of shock it is of course impossible to act with presence of mind. Then the right thing is to keep still until composure and clarity are restored. But this a man can do only when he himself is not yet infected by the agitation, although its disastrous effects are already visible in those around him. If he withdraws from the affair in time, he remains free of mistakes and injury. But his comrades, who no longer heed any warning, will in their excitement certainly be displeased with him. However, he must not take this into account.';
+  Lo scuotimento reca rovina e sguardi che errano timorosi. Procedere reca sciagura. Quando esso non ha ancora raggiunto il nostro corpo, ma ha raggiunto soltanto il vicino, allora non vi è macchia. I compagni hanno da ridire. \e
+  La linea conclude il momento terrificante. 
+  Si guarda a destra e sinistra per capire come uscirne mentre tutto va alla rovina.  
+  Dove procedere? Nulla è di fiducia. Ma si possono prendere precauzioni per evitare la disgrazia, che non ci ha ancora raggiunti ed è vicina. 
+  Basatevi sulle avvisaglie che colpiscono altri, sull’effetto della rovina sugli altri,  e prendete i provvedimenti opportuni per evitare a voi stessi i danni da loro subiti.  
+  Tali persone, a voi molto vicine, sono le stesse che biasimano il vostro saggio comportamento. 
+  Muta in 21 Morso che spezza';
 
 # -------------------------      52       ----------------------- #
 $book['52']['desc'] = 
-' Esagramma 52: Monte
-  Monte su monte, fermezza su fermezza, l’immagine è assimilata a quella del corpo in posizione yogica: non si muove la schiena, non i piedi, non i polpacci, le anche, il tronco, le mascelle. Come una divinità archetipica, non si ha bisogno di eccitare e creare cause ed effetti per stabilire ciò che si è. L’idea del cambiamento è tutta inclusa nel lasciare le cose come sono e rilassarsi in esse. E’ il principio del wuwei, a cui questo esagramma si ispira.
-  Di base, ciò che si muove e muove l’azione è la mente: il fare è qui espresso come antitesi del divenire, e ogni momento e linea dell’esagramma esprime i vari stadi in cui l’azione deve essere abbandonata. 
+' Esagramma 52 : Immobilità (Restando ferma diventi ciò che sei).
+  Monte su monte, fermezza su fermezza, l’immagine è assimilata a quella del corpo in posizione yogica: non si muove la schiena, non i piedi, non i polpacci, le anche, il tronco, le mascelle. 
+  L’idea del cambiamento è tutta inclusa nel lasciare le cose come sono e prendersi una pausa. 
+  E’ il principio del wuwei, a cui questo esagramma si ispira.
+  Di base, ciò che si muove e muove l’azione è la mente. 
   Un’azione determinata dal raziocinio, dal desiderio offuscato è impura e porta alla disgregazione e all’accumulo di karma negativo: ciò che si fa ora quindi crea soltanto ostacolo e futuro malessere. 
-  Meglio non prendere quella strada, anche se ci costa rimpianti e malinconie.
-  Stare fermi e non intraprendere alcunché permetterà a ciò che è sano e di valore di emergere e fiorire: ciò può voler dire voltare pagina, o, per qualcuno, recidere un legame. 
-  Il nostro problema spesso è soltanto legato al volerci sforzare contro natura, costringendoci a fare cose che possono forse darci una soddisfazione superficiale, ma che non ci farà muovere di un millimetro in termini di evoluzione della nostra situazione di vita. Non è facile, la mente che si muove si aggrappa ora a una ora a un’altra cosa…..è il karma, a cui il Nobile, lo shun tzu, deve cercare di sottrarsi. 
-  Egli non agisce per un progetto definito e particolare, ma solo per esprimere le energie più pure, che nella loro semplicità e mancanza di artifici, ci sembrano, purtroppo, prive di attrattiva. 
-  La semplicità non ha bisogno di fare, è. Ed è qui, nell’esimersi dalla manipolazione, in questa rinuncia ad attaccamento, che si aprono ora i favolosi scenari di un possibile balzo karmiko.
-  Senza muoversi egli compie il suo destino, si legge nel Daode jing. ';
+  Stare fermi e non intraprendere alcunché permetterà a ciò che è sano e di valore di emergere e fiorire. Il nostro problema spesso è soltanto legato al volerci sforzare contro natura,  a fare cose che spesso possono  darci una soddisfazione superficiale, ma che non ci farà muovere di un millimetro in termini di evoluzione della nostra situazione di vita. Non è facile, la mente che si muove si aggrappa ora a una ora a un’altra cosa…..è il karma, a cui il Nobile, lo shun tzu, deve cercare di sottrarsi.  Senza muoversi egli compie il suo destino, si legge nel Daode jing. Astenersi dall’azione porta al successo. Una pausa costruttiva. ';
 $book['52']['judge'] = 
-' Tener fermo il dorso così che egli non avverta più il suo corpo. Egli va nel suo cortile e non vede la sua gente. Nessuna macchia.\e
-  Il moto è arrivato al suo arresto naturale. Tutto si immobilizza intorno mentre altre priorità emergono internamente. 
-  Chi ci ha accompagnato da vicino finora si allontana sullo sfondo, e non c\'è più contatto.
-  Questa impresa è per ora ferma e conclusa, e in attesa di nuovi eventi ci si ritira coltivando ciò che si si ha già. 
-  Che è tanto, anche se non ci sembra sufficiente. 
-  Si tratta di una sosta che è di beneficio, in cui all\'esterno non accade nulla di nuovo ma internamente si acquisisce la capacità di distacco dignitoso verso qualcosa che finora stimolava ad agire.
-  Questa è una pausa costruttiva di riorganizzazione e riordinamento interiore, in cui si abbandonano comportamenti di attaccamento che non hanno fatto altro che generare preoccupazione. 
-  Rilassandosi e attingendo alle proprie priorità interne, si ha rigenerazione e una visione più chiara di come le cose sono, senza interventi dall\'esterno. ';
+' Tener fermo il dorso, così che egli non avverta più il suo corpo. 
+  Egli va nel suo cortile e non vede la sua gente. Nessuna macchia. 
+  Si è raggiunto un punto in cui le cose devono fermarsi, come uno yogin si immobilizza per schiarire la mente: il trigramma interno Tuono che va verso l’alto, allude al rivolgersi verso se stessi, distaccandosi da tutti coloro che ci spingono all’eccitazione e il fare. ';
 $book['52']['image'] = 
-' Montagna serrata a montagna: l\'immagine dell\'arresto. Così il nobile nei suoi pensieri non va oltre la sua situazione.\e
-  Si ha molto da fare qui e ora, e non bisogna preoccuparsi di edificare nuove vie. 
-  Il moto si ferma, i due monti dell\'immagine sono immobili e non interagiscono. 
-  Inutile sforzarsi di aggiungere, stimolare e costruire alternative. 
-  Quello che si ha adesso è ciò che resta e che non si modifica nel tempo. 
-  Occorre valorizzare e riconoscere il beneficio di una sosta costruttiva, poiché si è giunti al termine di un percorso che per ora non può svilupparsi oltre e non si possono attingere dall\'esterno nuovi stimoli. ';
+' Montagna serrata a montagna: l’immagine dell’arresto. 
+  Così il nobile con i suoi pensieri non va oltre la sua situazione. 
+  I monti sono uniti, e restano nella propria posizione. 
+  Le linee chiare sono giunte alla loro meta, così come le nostre faccende esterne si fermano, raggiungendo uno stato di immobilità. 
+  Ogni pensiero che va oltre il presente crea scompiglio e inopportuno movimento. 
+  Si osserva all’interno si se stessi, escludendo stimoli esterni.';
 $book['52']['line1'] = 
 ' Sei all\'inizio signifa:
   Tener ferme le dita dei piedi. Nessuna macchia. \e
   I piedi tipicamente si muovono inconsulti, così come, di solito, si è spinti ad agire per incapacità di visione. 
-  Meglio allora fermarsi e aspettare che tutto si acquieti, per poi decidere con maggior lucidità in seguito. ';
+  Meglio allora fermarsi e aspettare che tutto si acquieti, per poi decidere con maggior lucidità in seguito. 
+  Muta in 22 Grazia';
 $book['52']['line2'] = 
 ' Sei al secondo posto signifa: 
-  Tener fermi i polpacci Egli non può salvare colui che lo precede. Il suo cuore non è lieto.\e
-  Talvolta ci sta a cuore da tanto tempo intraprendere qualcosa: ora si presenta l\'occasione, ma bisogna rinunciare anche se ciò porta tristezza e un inevitabile rimpianto ';
+  Tener fermi i polpacci. Egli non può salvare colui che lo precede. Il suo cuore non è lieto.\e
+  Si vorrebbe fare qualcosa per coinvolgere un altro, muoversi verso di lui e avvicinarsi. 
+  Ma la  posizione di costui è estremamente inquieta e sembra non ascoltare il nostro richiamo. 
+  Ciò è per noi causa di sofferenza.  
+  Muta in 18 Emendamento delle cose guaste ';
 $book['52']['line3'] = 
 ' Nove al terzo posto significa: 
-  Tener ferme le anche. Irrigidire l\'osso sacro. Pericoloso. Il cuore soffoca.\eIl
+  Tener ferme le anche. Irrigidire l’osso sacro. Pericoloso. Il cuore soffoca. \e
   Invece di rilassarsi ci si indurisce, restando testardamente immobili nella propria posizione. 
-  Tale staticità impedisce di ascoltare altre istanze che invece porterebbero vivificante energia alla situazione. 
-  Il pericolo di chiudersi in un immobilismo forzato, continuando a restare rigidamente fissi in un\'idea, una situazione di immobilità o un comportamento reiterato è una forma di attaccamento pericolosa per noi stessi e i nostri reali bisogni. ';
+  Insistere in questa situazione  è pericoloso.  
+  Muta in 23 Sgretolamento ';
 $book['52']['line4'] = 
 ' Sei al quarto posto signifa: 
-  Tener fermo il tronco. Nessuna macchia.\e
-  Bisogna senza dubbio fermarsi: desistere da grandi piani ed idee in questo momento è il meglio che si possa fare, perchè si è deboli e senza obiettivi chiari. Concentrarsi sulle risorse già presenti. ';
+  Tener fermo il tronco. Nessuna macchia. \e
+  Bisogna  fermarsi: desistere da piani ed iniziative in questo momento è il meglio che si possa fare, perchè si è deboli e senza obiettivi chiari. 
+  Muta in 56 Viandante ';
 $book['52']['line5'] = 
 ' Sei al quinto posto significa: 
   Tener ferme le mascelle. Le parole sono ordinate. Il pentimento svanisce. \e
-  Silenzio interiore e appartarsi sono la via maestra per lasciar esprimere le istanze psichiche recondite. 
-  Non dire, non definire, prendere tempo, purchè sia fatto come un atto d\'amore verso se stessi. Si è comunque sulla buona strada. Pazienza. ';
+  Si parla, ma molto poco e succintamente.   
+  Si è comunque sulla buona strada. 
+  Pazienza. 
+  Muta in 53 Progresso graduale ';
 $book['52']['line6'] = 
 ' Sei sopra signifa:
-  Magnanima quiete. Salute!  \e
-  Fermezza e immobilità senza sforzi conducono ad abbondanza e riuscita. Ciò che disturba è lontano, si è acquisita indipendenza e certezza interiore. 
-  Il tempo dell\'arresto ha ottenuto la sua finale posizione. ';
+  Magnanima quiete. Salute! \e 
+  La linea è chiara e forte e raggiunge l’apice, dove la  fermezza e l’ immobilità non sono più una costrizione o negative. 
+  Ciò che disturba è lontano, si è acquisita indipendenza e certezza interiore. 
+  Il tempo dell’arresto ha ottenuto la sua finale posizione.  
+  Muta in 15 Modestia ';
 
 # -------------------------      53       ----------------------- #
 $book['53']['desc'] = 
-' Chien / Development (Gradual Progress) 
-  Above SUN THE GENTLE, WIND, WOOD
-  Below KÊN KEEPING STILL, MOUNTAIN\e
-  This hexagram is made up of Sun (wood, penetration) above, i. e. , without, and Kên (mountain, stillness) below, i. e. , within. A tree on a mountain develops slowly according to the law of its being and consequently stands firmly rooted. This gives the idea of a development that proceeds gradually, step by step. The attributes of the trigrams also point to this: within is tranquillity, which guards against precipitate actions, and without is penetration, which makes development and progress possible.';
+' Esagramma 53 – Sviluppo
+  Sotto è il Monte, la quiete e l’arresto – sopra il Vento, penetrante e costante nel suo accrescimento, come il legno, elemento a cui è associato. 
+  Si sta come un albero su un monte in una situazione di crescita lentissima, ma certa. 
+  La crescita di un albero diversamente da quella dei fiori e delle erbe  – stagionali ed effimere- è legata al lento radicarsi e al perdurare e perseverare  nonostante le stagioni della vita complicate e i luoghi impervi.  
+  Sembra impossibile che là, sulla roccia grigia del monte cresca un contorto alberello, aggrappato ad un suolo apparentemente sterile, difficile  e improduttivo, in cui ora ci troviamo. 
+  Ma è invece proprio in questo suolo, in questo momento avaro di soddisfazioni immediate che vi saranno lenti cambiamenti, in positivo.
+  Altro simbolo connesso all’esagramma è l’oca selvatica, creatura che sa muoversi nei vari regni elementali- terra aria acqua-  capace di percorrere lunghe distanze  e che rimanda anche al concetto di anima e al suo percorso – per sua natura accidentato- verso l’individuazione. 
+  E’ inoltre simbolo dell’amore coniugale e della fedeltà verso lo sposo, dell’unione duratura nonostante i colpi del destino e gli ostacoli evidenti. 
+  I trigrammi interni indicano un pericolo e il suo graduale  rischiaramento. 
+  L’esagramma parla del matrimonio.';
 $book['53']['judge'] = 
-' DEVELOPMENT. The maiden
-  Is given in marriage. 
-  Good fortune. 
-  Perseverance furthers. \e
-  The development of events that leads to a girl\'s following a man to his home proceeds slowly. The various formalities must be disposed of before the marriage takes place. This principle of gradual development can be applied to other situations as well; it is always applicable where it is a matter of correct relationships of co-operation, as for instance in the appointment of an official. The development must be allowed to take its proper course. Hasty action would not be wise. This is also true, finally, of any effort to exert influence on others, for here too the essential factor is a correct way of development through cultivation of one\'s own personality. No influence such as that exerted by agitators has a lasting effect.
-  Within the personality too, development must follow the same course if lasting results are to be achieved. Gentleness that is adaptable, but at the same time penetrating, is the outer form that should proceed from inner calm.
-  The very gradualness of the development makes it necessary to have perseverance, for perseverance alone prevents slow progress from dwindling to nothing.';
+' La fanciulla viene data in sposa. Salute! Propizia è perseveranza. \e
+  La situazione di cui si chiede diventerà matura, in un lungo sviluppo simile a quello che attraversa un ragazza prima di essere matura per sposarsi. 
+  Non si può che insistere per portare a compimento l’impresa.';
 $book['53']['image'] = 
-' On the mountain, a tree:
-  The image of DEVELOPMENT. 
-  Thus the superior man abides in dignity and virtue,
-  In order to improve the mores. \e
-  The tree on the mountain is visible from afar, and its development influences the landscape of the entire region. It does not shoot up like a swamp plant; its growth proceeds gradually. Thus also the work of influencing people can be only gradual. No sudden influence or awakening is of lasting effect. Progress must be quite gradual, and in order to obtain such progress in public opinion and in the mores of the people, it is necessary for the personality to acquire influence and weight. This comes about through careful and constant work on one\'s own moral development.';
+'  Sul monte vi è un albero: l’immagine dello sviluppo. 
+Così il nobile dimora in dignitosa attesa per migliorare i costumi.
+ L’albero ha radici profonde e salde e cresce lentamente, con tenacia, pazienza, saldezza. 
+ Anche a noi tocca il compito di crescere con tenacia e costanza  e di  cercare di migliorare la nostra situazione e quella di chi ci è vicino. 
+ Per sviluppare questa impresa bisogna comportarsi con integrità e allora impercettibili cambiamenti emendano la situazione da passati sbagli, di ordine morale e etico. 
+ In questo modo la situazione si muove inesorabile verso un miglioramento.';
 $book['53']['line1'] = 
 ' Sei all\'inizio significa:
-  The wild goose gradually draws near the shore. 
-  The young son is in danger. 
-  There is talk. No blame. \e
-  All the individual lines in this hexagram symbolize the gradual flight of the wild goose. The wild goose is the symbol of conjugal fidelity, because it is believed that this bird never takes another mate after the death of the first.
-  The initial line suggests the first resting place in the flight of water birds from the water to the heights. The shore is reached. The situation is that of a lonely young man who is just starting out to make his way in life. Since no one comes to help him, his first steps are slow and hesitant, and he is surrounded by danger. Naturally he is subjected to much criticism. But these very difficulties keep him from being too hasty, and his progress is successful.';
+  L’oca selvatica si avvicina a poco a poco alla sponda. Il figlio giovane è in pericolo. Si chiacchiera. Nessuna macchia.\e
+  Stiamo cominciando ad avvicinarci  a qualcosa di stabile e sicuro. 
+  Qualcuno, più giovane, ha bisogno della nostra attenzione e cura e dobbiamo andare in suo aiuto. 
+  Vi sono mormorii e piccole discussioni. 
+  Né bene né male. 
+  Muta in 37 Casata';
 $book['53']['line2'] = 
 ' Sei al secondo posto significa:
-  The wild goose gradually draws near the cliff. 
-  Eating and drinking in peace and concord. 
-  Good fortune. \e
-  The cliff is a safe place on shore. The development has gone a step further. The initial insecurity has been overcome, and a safe position in life has been found, giving one enough to live on. This first success, opening up a path to activity, brings a certain joyousness of mood, and one goes to meet the future reassured.
-  It is said of the wild goose that it calls to its comrades whenever it finds food; this is the symbol of peace and concord in good fortune. A man does not want to keep his good luck for himself only, but is ready to share it with others.';
+  L’oca selvatica si avvicina a poco a poco alla roccia. Mangiare e bere in pace e concordia. Salute!\e
+  La situazione migliora lentamente e comincia ad avere solidità. 
+  Si condividono momenti di pace e serenità con chi ci è vicino, nella quiete domestica. 
+  Muta in 57 Vento';
 $book['53']['line3'] = 
 ' Nove al terzo posto significa:
-  The wild goose gradually draws near the plateau. 
-  The man goes forth and does not return. 
-  The woman carries a child but does not bring it forth. 
-  Misfortune. 
-  It furthers one to fight off robbers. \e
-  The high plateau is dry and unsuitable for the wild goose. If it goes there, it has lost its way and gone too far. This is contrary to the law of development.
-  It is the same in human life. If we do not let things develop quietly but plunge of our own choice too rashly into a struggle, misfortune results. A man jeopardizes his own life, and his family perishes thereby. However, this is not all necessary; it is only the result of transgressing the law of natural development. If one does not willfully provoke a conflict, but confines himself to vigorously maintaining his own position and to warding off unjustified attacks, all goes well.';
+  L’oca selvatica si avvicina a poco a poco all’altopiano. Il marito esce di casa e non ritorna. La moglie porta in grembo un bimbo ma non lo dà alla luce. Sciagura. \e
+  Propizio è respingere predoni. Non è un buon posto dove siamo, esposti a rischi e pericoli. 
+  Non c’è unione nel matrimonio: lui abbandona e si allontana, lei non nutrendo ciò che è fruttifero perde la giusta via. 
+  Invece ci vorrebbe dedizione e protezione reciproca. 
+  Allontanarsi da qualcuno con intenzioni malevole.
+  Muta in 20 Contemplazione';
 $book['53']['line4'] = 
 ' Sei al quarto posto significa:
-  The wild goose goes gradually draws near the tree. 
-  Perhaps it will find a flat branch. No blame. \e
-  A tree is not a suitable place for a wild goose. But if it is clever, it will find a flat branch on which it can get a footing. A man\'s life too, in the course of its development, often brings him into inappropriate situations, in which he finds it difficult to hold his own without danger. Then it is important to be sensible and yielding. This enables him to discover a safe place in which life can go on, although he may be surrounded by danger.';
+  L’oca selvatica si avvicina a poco a poco all’albero. Raggiunge forse un ramo piatto. Nessuna macchia.\e 
+  E’ un momento di riposo, anche se provvisorio. Ci si adatta a condizioni modeste ma sicure, almeno per qualche tempo. 
+  Né bene né male. 
+  Muta in 33 Ritirata';
 $book['53']['line5'] = 
 ' Nove al quinto posto significa:
-  The wild goose gradually draws near the summit. 
-  For three years the woman has no child. 
-  In the end nothing can hinder her. 
-  Good fortune. \e
-  The summit is a high place. In a high position one easily becomes isolated. One is misjudged by the very person on whom one is dependent–the woman by her husband, the official by his superior. This is the work of deceitful persons who have wormed their way in. The result is that relationships remain sterile, and nothing is accomplished. But in the course of further development, such misunderstandings are cleared away, and reconciliation is achieved after all.';
+  L’oca selvatica si avvicina a poco a poco alla vetta. La moglie per tre anni non rimane incinta. Alla fine nulla si può impedire. Salute! \e
+  Si avvicina l’unione al proprio compagno, ma ci vuole lungo tempo. 
+  Essa avviene nonostante i pericoli e gli ostacoli perché l’affinità tra i due è profonda. 
+  Muta in 52 Arresto';
 $book['53']['line6'] = 
 ' Nove sopra significa:
-  The wild goose gradually draws near the clouds heights. 
-  Its feathers can be used for the sacred dance. 
-  Good fortune. \e
-  Here life comes to its end. A man\'s work stands completed. The path rises high toward heaven, like the flight of wild geese when they have left the earth far behind. There they fly, keeping to the order of their flight in strict formation. And if their feathers fall, they can serve as ornaments in the sacred dance pantomimes performed in the temples. Thus the life of a man who has perfected himself is a bright light for the people of earth, who look up to him as an example.';
+  L’oca selvatica si avvicina a poco a poco alle vette tra le nubi. Le sue penne si possono adoperare per la sacra danza. Salute!\e 
+  E’ il posto più alto dello sviluppo, dove nessuno e nulla può ormai frapporsi all’unione con il compagno. 
+  Si è raggiunta l’imperturbabilità di chi guarda alle cose con calma e giudizio e nella saggezza delle piccole cose importanti si tiene lontano dalla confusione. Si è d’aiuto agli altri che adoperano ciò che gli forniamo per migliorarsi. 
+  Muta in 39 Impedimento.';
 
 # -------------------------      54       ----------------------- #
 $book['54']['desc'] = 
-' Kuei Mei / The Marrying Maiden 
-  Above CHÊN THE AROUSING, THUNDER
-  Below TUI THE JOYOUS, LAKE\e
-  Above we have Chên, the eldest son, and below, Tui, the youngest daughter. The man leads and the girl follows him in gladness. The picture is that of the entrance of the girl into her husband\'s house. In all, there are four hexagrams depicting the relationship between husband and wife. Hsien, INFLUENCE, (31), describes the attraction that a young couple have for each other; Hêng, DURATION (32), portrays the permanent relationships of marriage; Chien, DEVELOPMENT (53), reflects the protracted, ceremonious procedures attending the arrangement of a proper marriage; finally, Kuei Mei, THE MARRYING MAIDEN, shows a young girl under the guidance of an older man who marries her.';
+' Esagramma 54 – Ragazza che si sposa.
+  Lago sotto il Tuono. Il Lago, la ragazza giovane, gioiosa va in sposa al Tuono, più grande e maturo. 
+  La differenza d’età non è appropriata,  da cui il riserbo nei rapporti. 
+  La ragazza è però sinceramente affettuosa e affezionata, quindi si adatta anche a condizioni di compromesso.';
 $book['54']['judge'] = 
-' THE MARRYING MAIDEN. 
-  Undertakings bring misfortune. 
-  Nothing that would further. \e
-  A girl who is taken into the family, but not as the chief wife, must behave with special caution and reserve. She must not take it upon herself to supplant the mistress of the house, for that would mean disorder and lead to untenable relationships.
-  The same is true of all voluntary relationships between human beings. While legally regulated relationships evince a fixed connection between duties and rights, relationships based on personal inclination depend in the long run entirely on tactful reserve.
-  Affection as the essential principle of relatedness is of the greatest importance in all relationships in the world. For the union of heaven and earth is the origin of the whole of nature. Among human beings likewise, spontaneous affection is the all-inclusive principle of union.';
+' La ragazza che si sposa. Imprese recano sciagura. Nulla che sia propizio.\e
+  Alcuni rapporti affettivi poggiano sulla discrezione e la riservatezza, e bisogna accontentarsi di avere un ruolo di secondo piano. 
+  Non si possono cambiare le cose, anche se le vorremmo diverse.';
 $book['54']['image'] = 
-' Thunder over the lake:
-  The image of THE MARRYING MAIDEN. 
-  Thus the superior man
-  Understands the transitory
-  In the light of the eternity of the end. \e
-  Thunder stirs the water of the lake, which follows it in shimmering waves. This symbolizes the girl who follows the man of her choice. But every relationship between individuals bears within it the danger that wrong turns may be taken, leading to endless misunderstandings and disagreements. Therefore it is necessary constantly to remain mindful of the end. If we permit ourselves to drift along, we come together and are parted again as the day may determine. If on the other hand a man fixes his mind on an end that endures, he will succeed in avoiding the reefs that confront the closer relationships of people.';
+' Al di sopra del lago vi è il tuono: l’immagine della ragazza che si sposa. 
+  Così il nobile attraverso la perpetuità della fine conosce il caduco. 
+  Il lago è mosso dal tuono per poi tornare alla sua placida tranquillità; così  una sposa inesperta viene condotta da un uomo alla sua nuova casa e deve sottostare. 
+  Per lei è la fine della vecchia vita e deve rassegnarsi a sopportare questo destino anche se non soddisfacente. 
+  Esperienze  passeggere che cominciano e terminano senza svilupparsi oltre.';
 $book['54']['line1'] = 
 ' Nove all\'inizio significa:
-  The marrying maiden as a concubine. 
-  A lame man who is able to tread. 
-  Undertakings bring good fortune. \e
-  The princes of ancient China maintained a fixed order of rank among the court ladies, who were subordinated to the queen as are younger sisters to the eldest. Frequently they came from the family of the queen, who herself led them to her husband.
-  The meaning is that a girl entering a family with the consent of the wife will not rank outwardly as the equal of the latter but will withdraw modestly into the background. However, if she understands how to fit herself into the pattern of things, her position will be entirely satisfactory, and she will feel sheltered in the love of the husband to whom she bears children.
-  The same meaning is brought out in the relationships between officials. A man may enjoy the personal friendship of a prince and be taken into his confidence. Outwardly this man must keep tactfully in the background behind the official ministers of state, but, although he is hampered by this status, as if he were lame, he can nevertheless accomplish something through the kindliness of his nature.';
+  La ragazza che si sposa come una concubina. Uno sciancato che può procedere. Imprese recano salute. \e
+  Si è stabilmente in una posizione di secondo piano, nonostante ciò la vostra presenza ha valore e considerazione. 
+  Ciò che fate viene apprezzato.
+  Muta in 40 Liberazione';
 $book['54']['line2'] = 
 ' Nove al secondo posto significa:
-  A one-eyed man who is able to see. 
-  The perseverance of a solitary man furthers. \e
-  Here the situation is that of a girl married to a man who has disappointed her. Man and wife ought to work together like a pair of eyes. Here the girl is left behind in loneliness; the man of her choice either has become unfaithful or has died. But she does not lost the inner light of loyalty. Thought the other eye is gone, she maintains her loyalty even in loneliness.';
+  Un orbo che può vedere. Propizia è la perseveranza di un uomo solitario. \e
+  Quando qualcuno è cieco da un occhio solo comunque riesce a vedere con l’altro. 
+  Si descrive un rapporto in cui uno dei due è assente o disinteressato, mentre l’altro è fedele e devoto. 
+  Così, anche se da soli, bisogna continuare in questa situazione. 
+  Muta in 51 Tuono ';
 $book['54']['line3'] = 
 ' Sei al terzo posto significa:
-  The marrying maiden as a slave. 
-  She marries as a concubine. \e
-  A girl who is in a lowly position and finds no husband may, in some circumstances, still win shelter as a concubine.
-  This pictures the situation of a person who longs too much for joys that cannot be obtained in the usual way. He enters upon a situation not altogether compatible with self-esteem. Neither judgment nor warning is added to this line; it merely lays bare the actual situation, so that everyone may draw a lesson from it.';
+  La ragazza che si sposa come schiava. Si sposa come concubina.\e
+  Per ottenere un qualche vantaggio ci si sottopone anche a posizioni umilianti e non troppo dignitose. 
+  Muta in 34 Potenza del grande';
 $book['54']['line4'] = 
 ' Nove al quarto posto significa:
-  The marrying maiden draws out the allotted time. 
-  A late marriage comes in due course. \e
-  The girl is virtuous. She does not wish to throw herself away, and allows the customary time for marriage to slip by. However, there is no harm in this; she is rewarded for her purity and, even though belatedly, finds the husband intended for her.';
+  La ragazza che si sposa procrastina il termine. 
+  Un matrimonio tardivo sopravviene a suo tempo. 
+  Si rimanda e si ritarda l’unione con qualcuno; ciò non è dannoso, anzi si riuscirà a tempo debito a concludere una unione soddisfacente con qualcuno che ci è destinato. 
+  Muta in 19 Avvicinamento';
 $book['54']['line5'] = 
 ' Sei al quinto posto significa:
-  The sovereign I gave his daughter in marriage. 
-  The embroidered garments of the princess
-  Were not as gorgeous
-  As those of the serving maid. 
-  The moon that is nearly full
-  Brings good fortune. \e
-  The sovereign I is T\'ang the Completer. This ruler decreed that the imperial princesses should be subordinated to their husbands in the same manner as other women (cf. Hexagram 11, six in the fifth place). The emperor does not wait for a suitor to woo his daughter but gives her in marriage when he sees fit. Therefore it is in accord with custom for the girl\'s family to take the initiative here.
-  We see here a girl of aristocratic birth who marries a man of modest circumstances and understands how to adapt herself with grace to the new situation. She is free of all vanity of outer adornment, and forgetting her rank in her marriage, takes a place below that of her husband, just as the moon, before it is quite full, does not directly face the sun.';
+  Il sovrano I diede in sposa sua figlia. Allora le vesti ricamate della principessa non erano così sfarzose come quelle dell’ancella. La luna quasi piena reca salute.\e
+  Anche quando si è molto superiori all’uomo cui si sta a fianco, si deve rispettare il proprio ruolo di umile devozione. 
+  E’ bene comportarsi come la luna, che non splende del tutto e non raggiunge il suo massimo fulgore. 
+  Accontentarsi. 
+  Muta in 58 Gioia';
 $book['54']['line6'] = 
 ' Sei sopra significa:
-  The woman holds the basket, but there are no fruits in it. 
-  The man stabs the sheep, but no blood flows. 
-  Nothing that acts to further. \e
-  At the sacrifice to the ancestors, the woman had to present harvest offerings in a basket, while the man slaughtered the sacrificial animal with his own hand. Here the ritual is only superficially fulfilled; the woman takes an empty basket and the man stabs a sheep slaughtered beforehand–solely to preserve the forms. This impious, irreverent attitude bodes no good for a marriage.';
+  La moglie tiene la cesta ma dentro non vi è nessun frutto. 
+  Il marito sgozza la pecora, ma il sangue non scorre. Nulla che sia propizio.\e
+  In una unione si agisce solo in modo superficiale, solo per convenienza e salvare le apparenze. 
+  In realtà non c’è un forte e saldo coinvolgimento emotivo. 
+  Muta in 38 Contrapposizione';
 
 # -------------------------      55       ----------------------- #
 $book['55']['desc'] = 
-' Fêng / Abundance [Fullness] 
-  Above CHÊN THE AROUSING, THUNDER
-  Below LI THE CLINGING, FIRE\e
-  Chên is movement; Li is flame, whose attribute is clarity. Clarity within, movement without–this produces greatness and abundance. The hexagram pictures a period of advanced civilization. However, the fact that development has reached a peak suggests that this extraordinary condition of abundance cannot be maintained permanently.';
+' Esagramma 55 :  Pienezza. (Il Cuore vuole stare nel presente).
+  Quando il fulmine  e  il tuono sono sincroni, arriva  la  pioggia con il suo potere rigenerante. 
+  Ma altrettanto rapidamente poi la pioggia se ne va, seguendo la scia temporalesca, così come è previsto dal cielo.
+  Nel momento di abbondanza  c’è molto di tutto,  gioia e di tristezza,  amore e  opportunità. 
+  L’abbondanza significa molti motivi.  
+  E quando ci sono molti motivi ci sono anche molte cause di tristezza poichè  anche il momento più fulgido è destinato a passare come una stella cadente nel suo massimo spendore. 
+  Allora   giunge  il momento di tirare le somme e prendere provvedimenti.  
+  E’ una triste lezione: se c’è un momento di accordo e pace, esso già ci sta sfuggendo di mano, ricordandoci che tutto muta, e che l’amore presto diventa disinteresse, e l’amicizia estraneità.';
 $book['55']['judge'] = 
-' ABUNDANCE has success. 
-  The king attains abundance. 
-  Be not sad. 
-  Be like the sun at midday. \e
-  It is not given to every mortal to bring about a time of outstanding greatness and abundance. Only a born ruler of men is able to do it, because his will is directed to what is great. Such a time of abundance is usually brief. Therefore a sage might well feel sad in view of the decline that must follow. But such sadness does not befit him. Only a man who is inwardly free of sorrow and care can lead in a time of abundance. He must be like the sun at midday, illuminating and gladdening everything under heaven.';
+' L’abbondanza ha riuscita. Il re la raggiunge. Non rattristarti: devi essere come il sole a mezzogiorno.\e
+  L’impresa si compie con successo e otteniamo quello che vogliamo. Ora non resta che splendere, come il Sole all’apice.  
+  E dopo? Dopo ci sarà l’inevitabile declino, e la meta a cui si è arrivati è già il passato.
+  E’ un momento di raccolta, di maturità e di compimento: infatti la situazione di cui si chiede è  matura e ha raggiunto il punto oltre il quale non può svilupparsi oltre e può solo decrescere. 
+  E’ stato bello, finchè è durata. 
+  Ma era una situazione momentanea, che abbiamo desiderato e voluto e che ora si sta già dileguando.  
+  Non bisogna vivere questo allontanamento imminente come una ferita o un dolore. 
+  Nulla dura per sempre, ascese e discese sono naturali, sicchè avverte l’esagramma, è inutile rimpiangere e essere tristi.  
+  Anche questa storia fa parte del cammino, che deve continuare ad ali spiegate. 
+  Ogni cosa è destinata a tramutarsi in ricordo, anche le vittorie, le realizzazioni, le gioie…
+  Vigilate sulle malinconie e i ricordi, ricordando che è la mente che vive nel passato, mentre il Cuore  vuole stare nel presente. 
+  Fate che la pienezza, l’abbondanza di questo luminoso raccolto, resti con voi anche quando esteriormente non vi saranno frutti materiali.
+  Dice Lalla, poetessa Kashmira del 300:
+  Solo per un momento appaiono i fiori
+  sull’albero spoglio a inizio primavera.
+  Solo per un secondo il vento
+  attraversa i rovi selvatici nel boschetto.
+  Sé dentro sé, tu non sei altro che me.
+  Sé dentro sé, io sono solo Te.
+  Quello che siamo insieme
+  non morirà mai.
+  Il come e il perché di tutto questo? Che importa?';
 $book['55']['image'] = 
-' Both thunder and lightning come:
-  The image of ABUNDANCE. 
-  Thus the superior man decides lawsuits
-  And carries out punishments. \e
-  This hexagram has a certain connection with Shih Ho, BITING THROUGH (21), in which thunder and lightning similarly appear together, but in the reverse order. In BITING THROUGH, laws are laid down; here they are applied and enforced. Clarity [Li] within makes it possible to investigate the facts exactly, and shock [Chên] without ensures a strict and precise carrying out of punishments.';
+' Tuono e fulmini vengono entrambi: l’immagine dell’abbondanza. 
+  Così il nobile decide i processi e applica le punizioni. 
+  La chiarezza si fa strada e con essa si prendono decisioni. 
+  La situazione è giunta a maturità e  non può continuare come prima; portate alla luce ciò che vi causa disturbo ed eseguite decise punizioni';
 $book['55']['line1'] = 
 ' Nove all\'inizio significa:
-  When a man meets his destined ruler,
-  They can be together ten days,
-  And it is not a mistake. 
-  Going meets with recognition. \e
-  To bring about a time of abundance, a union of clarity with energetic movement is needed. Two individuals possessed of these two attributes are suited to each other, and even if they spend an entire cycle of time together during the period of abundance, it will not be too long, nor is it a mistake. Therefore one may go forth, in order to make one\'s influence felt; it will meet with recognition.';
+  Incontrando il signore destinatoci si rimanga insieme dieci giorni e non è un errore. Andare trova riconoscimento.\e
+  Avvicinamento e condivisione tra persone che hanno molto in comune e incontro con qualcuno o qualcosa che ci sta a cuore; nonostante l’arricchimento reciproco sia utile e soddisfacente l’incontro è destinato a durare per qualche tempo e poi vi è distacco. 
+  Muta in 62 La preponderanza del piccolo';
 $book['55']['line2'] = 
 ' Sei al secondo posto significa:
-  The curtain is of such fullness
-  That the polestars can be seen at noon. 
-  Through going one meets with mistrust and hate. 
-  If one rouses him through truth,
-  Good fortune comes. \e
-  It often happens that plots and party intrigues, which have the darkening effect of an eclipse of the sun, come between a ruler intent on great achievement and the man who could effect great undertakings. Then, instead of the sun, we see the northern stars in the sky. The ruler is overshadowed by a party that has usurped power. If a man at such a time were to try to take energetic measures, he would encounter only mistrust and envy, which would prohibit all movement. The essential thing then is to hold inwardly to the power of truth, which in the end is so strong that it exerts an invisible influence on the ruler, so that all goes well.';
+  La cortina è talmente abbondante che a mezzogiorno si vedono le stelle intorno al polo. Recandovisi si suscita diffidenza e odio. Destandolo con la veracità viene salute. \e
+  Ostacoli e difficoltà prevalgono, è un momento di oscurità e lontananza; se si vuole tentare di risolvere mediando o facendo il primo passo si desta sospetto e antipatia.  
+  E’ bene  rimanere se stessi e mantenere il proprio punto di vista e la propria posizione, così che l’altro, finora assente, reagisca. 
+  Muta in 34 La potenza del grande';
 $book['55']['line3'] = 
 ' Nove al terzo posto significa:
-  The underbrush is of such abundance
-  That the small stars can be seen at noon. 
-  He breaks his right arm. No blame. \e
-  The image is that of a progressive covering over of the sun. Here the eclipse reaches totality, therefore even the small stars can be seen at noon.
-  In the sphere of social relationships, this means that the prince is now so eclipsed that even the most insignificant persons can push themselves into the foreground. This makes it impossible for an able man, though he might be the right hand of the ruler, to undertake anything. It is as though his arm were broken, but he is not to blame for being thus hindered in action.';
+  La sterpaglia è talmente abbondante che a mezzogiorno si vedono le stelle piccine. 
+  Egli si frattura il braccio destro. Nessuna macchia. \e
+  Dettagli innumerevoli impediscono la vista. Troppe cose si frappongono.  
+  Non si può far molto e vi è impossibilità di contatto. Non è colpa nostra.
+  Muta in 51 Scuotimento';
 $book['55']['line4'] = 
 ' Nove al quarto posto significa:
-  The curtain is of such fullness
-  That the polestars can be seen at noon. 
-  He meets his ruler, who is of like kind. 
-  Good fortune. \e
-  Here the darkness is already decreasing, therefore interrelated elements come together. Here too the complement must be found–the necessary wisdom to complement joy of action. Then everything will go well. The complementary factor postulated here is the reverse of the one in the first line. In the latter, wisdom is to be complemented by energy, while here energy is complemented by wisdom.';
+  La cortina è talmente abbondante che a mezzogiorno si vedono le stelle intorno al polo. 
+  Egli incontra il signore suo pari. Salute. \e 
+  Vi è oscurità, e avvolti dalle tenebre si incontra qualcuno o qualcosa che le condivide con noi. 
+  Pur permanendo il buio, è qualcosa di buono. 
+  Muta in 36 Oscuramento della luce';
 $book['55']['line5'] = 
 ' Sei al quinto posto significa:
-  Lines are coming,
-  Blessing and fame draw near. 
-  Good fortune. \e
-  The ruler is modest and therefore open to the counsel of able men. Thus he is surrounded by men who suggest to him the lines of action. This brings blessing, fame, and good fortune to him and all the people.';
+  Vengono delle linee. Si avvicina prosperità e gloria. Salute! \e
+  La situazione va chiarendosi, vi è uno scambio di opinioni risolutivo che sblocca la situazione. 
+  Muta in 49 Rivoluzione';
 $book['55']['line6'] = 
 ' Sei sopra significa:
-  His house is in a state of abundance. 
-  He screens off his family. 
-  He peers through the gate
-  And no longer perceives anyone. 
-  For three years he sees nothing. 
-  Misfortune. \e
-  This describes a man who because of his arrogance and obstinacy attains the opposite of what he strives for. He seeks abundance and splendor for his dwelling. He wishes at all odds to be master in his house, which so alienates his family that in the end he finds himself completely isolated.';
+  Ha l’abbondanza in casa. Egli cela la sua famiglia. Egli spia attraverso il portone e non si accorge di nulla. Per tre anni non vede nulla. Sciagura!\e
+  Tante cose a noi vicine si esprimono al massimo ma poi si ritirano. 
+  Si nasconde ciò che ci è caro ritirandosi in un sospettoso isolamento. 
+  Il ciclo è giunto a termine.   
+  Muta in 30 Fuoco';
 
 # -------------------------      56       ----------------------- #
 $book['56']['desc'] = 

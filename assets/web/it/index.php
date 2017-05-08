@@ -3469,7 +3469,7 @@ $book['59']['line2'] =
   Durante la dissoluzione egli corre verso il suo appoggio. Il pentimento svanisce.\e
   La situazione contiene già i germi della separazione perciò si deve puntare su ciò che può evitarla. 
   In questo modo si può preservare qualcosa e mantenere il contatto con ciò che ci sta a cuore. 
-  Muta in 20 Contemplazione
+  Muta in 20 Contemplazione';
 $book['59']['line3'] = 
 ' Sei al terzo posto significa:
   Egli dissolve il suo io. Nessun pentimento. \e

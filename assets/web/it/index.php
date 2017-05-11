@@ -6,7 +6,7 @@ $h = $_REQUEST['h'];
 # SOURCE: http://wengu.tartarie.com/wg/wengu.php?lang=en&l=Yijing
 # -------------------------      01   -    ----------------------- #
 $book['01']['desc'] = 
-' Esagramma 1- Il Creativo\e
+' Esagramma 1 : Il Creativo\e
   Cielo su Cielo. Possibilità di espansione. L’uscita di questo esagramma invita anche all’attenzione: attuare i tuoi più profondi desideri non deve diventare una nuova mania, un nuovo ostacolo, una nuova opponente separazione tra te e gli altri, te e il mondo. 
   E’ essenziale trovare concretamente qualcosa di giusto a cui dare forma, per iniziare a costruire nel mondo ciò che hai mancato di fare finora, ma che è stato sempre lì, ad aspettare che tu fossi abbastanza forte e maturo per poter cominciare. 
   Ora puoi e devi, ora hai la forza, il potere, le condizioni: ti sei liberato dalla zavorra delle passate situazioni e può iniziare un periodo di costruzione: sta a te trovare cosa costruire. Creatività persistente nel tempo. 
@@ -504,7 +504,7 @@ $book['11']['judge'] =
 ' Il piccolo se ne va, il grande viene. Salute! Riuscita! \e
   La via del debole e oscuro sta calando, mentre il forte e grande si alza. ';
 $book['11']['image'] = 
-' Il cielo e la terra si congiungono: l’immagine della pace. Così il sovrano divide e porta a termine il corso del cielo e della terra, somministra e ordina i doni del cielo e della terra e così assiste il popolo.
+' Il cielo e la terra si congiungono: l’immagine della pace. Così il sovrano divide e porta a termine il corso del cielo e della terra, somministra e ordina i doni del cielo e della terra e così assiste il popolo.\e
   Accordo ed equilibrio sono possibili mettendo ogni cosa al suo posto, distinguendo cosa è da fare subito e cosa è da rimandare; ciò che ci sta a cuore avviene al tempo giusto e tutti ne traggono beneficio. ';
 $book['11']['line1'] = 
 ' Nove all\'inizio significa:
@@ -2673,68 +2673,67 @@ $book['46']['line6'] =
 # -------------------------      47       ----------------------- #
 $book['47']['desc'] = 
 ' Esagramma 47 – Oppressione.
-  Sotto Acqua, il pericolo – sopra il Lago, discorsi. Andare nel pericolo per ritrovare l’equilibrio perduto è rischioso; meglio andare avanti, e prendere dure decisioni da soli. 
-  Le linee forti e chiare sono imprigionate da quelle deboli e oscure: ovunque la luce è oppressa dall’ombra. Questo genera frustrazione, e riconoscerne la fonte può risolvere il problema. 
-  E’ il vecchio problema: quando ci si ostina a cercare dove non c’è più nutrimento, spinti da un desiderio ossessivo perdiamo la via verso la sorgente, chiudendoci nel nostro piccolo mondo usuale. 
-  La via chiusa che fatichiamo ad abbandonare, per pigrizia e per abitudine, è una via già percorsa, che non porta da nessuna parte. 
+  Acqua sotto il Lago.  
+  Il carattere mostra un albero completamente recintato desideroso di spazio, da qui l’idea dell’oppressione. 
+  La stessa idea è espressa dalla struttura delle linee: quelle forti sono oppresse e tenute ferme dalle deboli, cosicché ogni movimento risulta incerto e faticoso. 
   Si abbandoni pure.';
 $book['47']['judge'] = 
-' L’assillo. Riuscita. Perseveranza. Il grande uomo opera salute. Nessuna macchia. Se si ha qualcosa da dire non si è creduti. \e
-  Un chiodo fisso, un’ idea  persistente ci attanaglia. 
-  Alla fine nonostante gli intralci e le vicissitudini vi è riuscita e sapremo liberarcene. 
-  Bisogna comportarsi con pazienza e attendere con fiducia. 
-  Rinunziando all’idea che ci ossessiona non ci sono per noi perdite o guadagni. 
-  Prendere atto che il nostro discorso è molto diverso da coloro a cui stiamo pensando di rivolgerci ci fa comprendere che essi non sono al nostro stesso livello ricettivo.
-  La situazione riguarda qualcosa che continuiamo a voler fare o dire ma non è credibile, non è creduto e non può essere messo in pratica.
-  I motivi che spingono al ritiro dall’impresa sono profondamente connessi ad una nostra esigenza, che gli altri faticano a comprendere.';
+' L’assillo. Riuscita. Perseveranza. Il grande uomo opera salute. Nessuna macchia.  Se si ha qualcosa da dire non si è creduti.\e
+  Bisogna comportarsi con pazienza e attendere con fiducia, proprio come un albero chiuso in un involucro che lo opprime piano piano riesce e espandersi. 
+  La situazione è disturbata ma la riuscita è data dal fatto che al 4 e al 5 posto due linee chiare operano in favore. 
+  E’ con il loro aiuto che si ha sviluppo e si riesce a portare avanti l’impresa. Né perdita né guadagno. 
+  Il Lago, discorsi e parole, evapora verso l’alto, l’ Acqua, il pericolo, scende verso il basso: le parole vengono respinte, e non ottengono l’effetto sperato.  ';
 $book['47']['image'] = 
-' Nel lago non vi è acqua: l’immagine dell’esaurimento. 
-  Così il nobile mette in gioco la sua vita per seguire la sua volontà. 
-  La natura dell’Acqua e del Lago è diversa: una va verso il basso, l’altra evapora verso l’alto. 
-  Ne consegue una situazione di siccità. 
-  E’ una situazione eccezionale, che comporta gravi rischi. 
-  Possiamo evitarli solo ritrovando dentro noi stessi quale sia il nostro vero scopo e il nostro desiderio più profondo. 
-  In tempi di crisi ed eccezionali come questo, bisogna seguire la via del cuore, che ci riavvicina alla vita, anche a costo di distaccarsi da schemi di comportamento consolidati, che ora hanno finito il loro corso.';
+' Nel lago non vi è acqua: l’immagine dell’esaurimento. Così il nobile mette in gioco la sua vita per seguire la sua volontà. \e
+  Acqua e Lago tendono a divergere: una va verso il basso, l’altra evapora verso l’alto. 
+  Ne consegue una situazione di povertà, in cui è difficile operare. 
+  Gli eventi si possono vincere solo con la  volontà, anche a rischio di non essere capiti e ostacolati.';
 $book['47']['line1'] = 
 ' Sei all\'inizio significa:
-  Si siede assillati sotto un albero spoglio e si finisce in una valle buia. 
-  Per tre anni non si vede nulla. \e
-  La situazione in cui siamo è  difficile da far crescere  e fiorire  e cercare di modificarla porta ulteriori preoccupazioni. 
-  Ci vorrà molto tempo prima di uscirne. 
+  Si siede assillati sotto un albero spoglio e si finisce in una valle buia. Per tre anni non si vede nulla. \e
+  Il soggetto siede da solo,  proprio all’inizio di Kan, Abisso e privo di aiuto non può fare nessuna mossa risolutiva. 
+  Per lungo tempo rimane in questa situazione.
   Muta in 58 Serenità';
 $book['47']['line2'] = 
-' Si è assillati pur avendo vino e cibo. Ecco che viene l’uomo dalle ginocchiere scarlatte. Propizio è offrire sacrifici. Avviarsi è sciagurato. Nessuna macchia\e
-  Tutto va bene, non si ha motivo per fare cambiamenti eppure si è oppressi, come se ci mancasse qualcosa. 
-  L’uomo dalle ginocchiere scarlatte, qualcuno che dovrebbe aiutarci ostacola e ritarda i nostri piani.  
-  Rinunciate.
+' Si è assillati pur avendo vino e cibo. Ecco che viene l’uomo dalle ginocchiere scarlatte. Propizio è offrire sacrifici. Avviarsi è sciagurato. Nessuna macchia.\e
+  La linea è forte ma circondata da deboli e non può fare molto. 
+  Ciononostante si comporta sontuosamente e spavaldamente. 
+  L’uomo dalle ginocchiere scarlatte è la 5 linea chiara, il re, il grande uomo, che viene a soccorrerlo con la sua forza. 
+  Bisogna restare in sua compagnia fino a che non si ritroverà forza sufficiente: i sacrifici alludono al ritrovare tale forza facendo spazio alla correttezza e alla sincerità. 
+  Per ora la situazione è ferma e non si può agire. 
+  Né bene né male.
   Muta in 45 Raccolta';
 $book['47']['line3'] = 
 ' Sei al terzo posto significa:
   Ci si lascia assillare da pietre e ci si appoggia su spine e cardi. Si entra in casa e non si vede la propria moglie. Sciagura! \e
-  Ci si lascia allettare da qualcosa che è un peso che ci danneggia, mentre esternamente c’è un grande disordine, causa di malessere. 
-  Neppure ciò che ci sta più a cuore riusciamo a comprendere. 
-  Si rischia la perdita di qualcosa di essenziale mentre si è distratti da tormentosi desideri che aumentano la confusione.
+  La linea è debole tra due forti e può scegliere se andare avanti o tornare indietro. 
+  Ma indietro la situazione è chiusa, andando avanti ancora maggiori sono le difficoltà. 
+  Così ferita e preoccupata  ritorna sui propri passi ma neppure sua moglie lo riconosce. 
+  Ci si lascia allettare da qualcosa che è un peso che ci danneggia, mentre esternamente c’è un grande disordine, causa di malessere. Neppure ciò che ci sta più a cuore riusciamo a comprendere. 
+  Si rischia la perdita di qualcosa di essenziale mentre si è distratti da tormentosi desideri che aumentano la confusione. 
   Fare pulizia è necessario. 
   Muta in 28 Preponderanza del grande';
 $book['47']['line4'] = 
 ' Nove al quarto posto significa:
-  Egli viene lentamente, assillato in un carro dorato. Umiliazione ma si porta a compimento.\e
-  Bisognerebbe darsi da fare per restaurare l’ordine, ma a causa di tante lusinghe a cui si cede si rimanda. 
+  Egli viene lentamente, assillato in un carro dorato. 
+  Umiliazione ma si porta a compimento. 
+  La linea è forte ma non abbastanza per agire veloce e sicura: il suo andare è frenato e incerto. 
   Passo dopo passo, sopportando qualche compromesso ed esperienze penose, l’impresa si compie. 
   Muta in 29 Abissale';
 $book['47']['line5'] = 
 ' Nove al quinto posto significa:
   Naso e piedi gli vengono tagliati. Si è assillati dall’uomo dalle ginocchiere purpuree. A poco a poco viene la letizia. Propizio è recare sacrifici e offerte.\e
   L’oppressione è sotto e sopra. La situazione non poggia su nulla di buono e non va avanti. 
-  L’uomo dalle ginocchiere purpuree è qualcuno su cui si confida e invece non comprende e peggiora la nostra situazione. 
-  Piano piano ci si riesce a liberare di lui. 
-  Ci si sente condizionati e vincolati da qualcosa di svantaggioso ma subdolamente allettante, ma se sappiamo ravvederci, rinunciando a vane lusinghe, torna la serenità.   
+  L’uomo dalle ginocchiere purpuree è qualcuno su cui si confida e invece non comprende e peggiora la nostra situazione.  
+  Piano piano ci si riesce a liberare di lui. Ci si sente condizionati e vincolati da qualcosa di svantaggioso ma subdolamente allettante, ma se sappiamo ravvederci, rinunciando a vane lusinghe, torna la serenità.  
   Muta in 40 Liberazione';
 $book['47']['line6'] = 
 ' Sei sopra significa:
-  Egli è assillato da rampicanti. Egli si muove insicuro e dice: ‘Movimento crea pentimento’. Pentendosi e avviandosi viene salute. \e
+  Egli è assillato da rampicanti. Egli si muove insicuro e dice: ‘Movimento crea pentimento’. Pentendosi e avviandosi viene salute.\e  
   Si incomincia a identificare l’origine dell’oppressione, che finora ci avvinceva.  
-  Anche se si è insicuri e si teme di agire  occorre tagliare i legami, ormai flebili ma persistenti, con la persona o la situazione che blocca e opprime. Muta in 6 Lite';
+  Anche se si è insicuri e si teme di agire  occorre tagliare i legami, ormai flebili ma persistenti, con la persona o la situazione che blocca e opprime. 
+  Ravvedendosi e allontanandosi ci si può liberare. 
+  Muta in 6 Lite';
 $book['47']['line-3'] = 
 ' Sei sopra significa:
   He is oppressed by creeping vines. 

@@ -2219,8 +2219,7 @@ $book['39']['judge'] =
   Bisogna ricorrere a qualcuno  o qualcosa che ci sia di guida nella nuova direzione da prendere. 
   Continuate ad andare verso ciò che è stabile e di fiducia nella vostra vita.';
 $book['39']['image'] = 
-' Water on the mountain:
-  Sul monte vi è l’acqua: l’immagine dell’impedimento. Così il nobile si volge verso la propria persona e forma il suo carattere. 
+' Sul monte vi è l’acqua: l’immagine dell’impedimento. Così il nobile si volge verso la propria persona e forma il suo carattere. 
   Sulla cima del monte l’acqua si è raccolta, impossibilitata a muoversi esternamente. 
   Nello stesso modo ci si deve raccogliere in se stessi per coltivare le proprie ricchezze interiori e portarle a maturazione.';
 $book['39']['line1'] = 

@@ -158,7 +158,7 @@ public abstract class RemoteResolver {
         NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
         try {
           if (networkInfo != null && networkInfo.isConnected()) {
-            if (!progressDialog.isShowing()) {
+            if (progressDialog!= null && !progressDialog.isShowing()) {
               // Show loading animation after a while
               Handler handler = new Handler();
               handler.postDelayed(new Runnable() {
@@ -219,7 +219,11 @@ public abstract class RemoteResolver {
           if (askRetry) {
             askRetry = false;
             AlertDialog networkExceptionDialog = new AlertDialog.Builder(activity).create();
+
             networkExceptionDialog.setMessage(Utils.s(R.string.remoteconn_unavailable));
+
+           // networkExceptionDialog.setMessage(t.getMessage());
+
             networkExceptionDialog.setButton(DialogInterface.BUTTON_POSITIVE, Utils.s(R.string.retry), new DialogInterface.OnClickListener() {
               public void onClick(DialogInterface dialog, int which) {
                 askRetry = true;

@@ -16,6 +16,13 @@ android {
     compileSdkVersion 21
     buildToolsVersion "23.0.2"
 
+
+        buildTypes {
+            debug {
+                debuggable true
+            }
+        }
+
     defaultConfig {
         minSdkVersion 11
         targetSdkVersion 17

@@ -760,64 +760,57 @@ $book['15']['line6'] =
 
 # -------------------------      16       ----------------------- #
 $book['16']['desc'] = 
-' Esagramma 16: Il Fervore
-   La Terra sotto e il Tuono sopra. La dedizione della terra viene mossa e ispirata da un risveglio decisivo, una spinta ad agire per preparare nuovi inizi e una svolta al cambiamento. 
-   Lo stato della terra è l’accogliente dedizione; le esperienze compiute con tale dedizione nel passato – si muovono dunque in avanti per prendere nuova forma. 
-   Vi è qualcuno o qualcosa a cui si è data fiducia e dedizione e che richiede un giusto intervento. 
-   Se finora si è rimandato qualcosa, ci si prepari a metterlo in pratica. ';
+' Esagramma 16: Fervore
+  Il Tuono sulla Terra.  Lo stato della terra è la stasi ma il tuono è eccitante e la terra si mette a seguirlo. La Terra dà la sua fiducia e dedizione a qualcuno o qualcosa che la ispira, anche se distante.  Il trigramma interno Monte indica una porta chiusa. Il trigramma superiore Abisso indica un pericolo.  Si descrive un momento in cui si reagisce verso uno stimolo esterno assumendo posizioni inequivocabili e chiare. ';
 $book['16']['judge'] = 
 ' Il Fervore. Propizio è nominare degli aiutanti e far marciare eserciti.\e
-  Prepararsi all’azione. I segni intrinseci Ken Arresto e Kan Abisso trattengono l’andare e indicano il fermarsi prima di colpire : l’esito dell’azione non si ha nell’immediato, anche se lo vorremmo. 
-  Approntare gli strumenti necessari per preparare l’azione e poi eseguite. ';
+  Prepararsi all’azione. I segni intrinseci Ken Arresto e Kan Abisso trattengono l’andare e indicano il fermarsi prima di colpire con forza : l’esito dell’azione  non si ha dunque nell’immediato.  
+  Approntare gli strumenti necessari per preparare l’azione e poi eseguire. Si danno, o ricevono, incarichi, a cui aderire e dedicarsi con entusiasmo. ';
 $book['16']['image'] = 
 ' Il tuono erompe sonoro dalla terra : l’immagine del fervore. Così gli antichi re facevano musica per onorare i meriti e la presentavano, magnifica offerta, al Dio supremo evocando la presenza dei loro avi.\e
-   Il tuono si alza con forza propulsiva, qui paragonato alla musica, utilizzando ciò che nel passato è accaduto come offerta a ciò che avverrà. 
-   La continuità con il passato è assicurata dalla presenza degli avi, che con benevolo assenso favoriscono il giusto passaggio dal passato al futuro. 
-   Se la nostra dedizione a qualcuno o qualcosa è stata sminuita o ostacolata bisogna prepararsi a darle il giusto valore e farla presente apertamente. 
-   Bisogna farsi avanti e cominciare a imprimere nuova direzione alle cose, ne avete forza e diritto.
-   Grande invero è il tempo del fervore. ';
+  Il tuono fuoriesce dalla terra, in un impulso incontrollato e spontaneo che incita all’azione. 
+  La stessa cosa veniva fatta anticamente quando si voleva propiziare con riti e musica  un’impresa, coinvolgendo il popolo e suscitando adesione. Le iniziative  trovano consenso, in uno slancio che accomuna tutti quelli coinvolti. 
+  E’ il momento giusto per farsi avanti e  cominciare  a imprimere  direzione alle cose.
+Grande invero è il tempo del fervore. ';
 $book['16']['line1'] = 
 ' Sei all\'inizio significa:
-  Fervore che si manifesta reca sciagura.\e
-  Si vorrebbe agire ma non se ne ha la forza. 
-  Non è bene far capire e mostrare apertamente i nostri piani e i nostri pensieri; è meglio mantenere il segreto su ciò che veramente pensiamo se non si vogliono attirare ulteriori problemi. 
-  I dubbi e le prese di posizione interiori sono giusti, ma se ora vengono apertamente espressi ne consegue sciagura. 
-  Muta in 51 Tuono ';
+  Fervore che si manifesta reca sciagura.  \e
+  La linea è oscura. Iniziative vengono espresse, ma non è il momento adatto per  avere una rispondenza concreta. Ciò che si dice o si fa per convincere non viene raccolto dagli altri. Il che è un male. Muta in 51 Tuono
+  ';
 $book['16']['line2'] = 
 ' Sei al secondo posto significa:
-  Saldo come una pietra. Nemmeno un giorno intero. Perseveranza reca salute. \e
-  Vi è un blocco, per cui non si può insistere in questo senso per ora. 
-  La strada che stiamo percorrendo non porta a nessuno sviluppo e si arresta. 
-  Succederà a breve. E’ bene assecondare il fluire delle cose senza opporsi e continuare in questo atteggiamento di ritiro. 
-  Muta in 40 Liberazione ';
+  Saldo come una pietra. Nemmeno un giorno intero. Perseveranza reca salute.\e
+  Linea debole, ma centrale. Non si agita, attende salda fino a che le cose non si manifestano. 
+  Non deve aspettare molto; esercitando la pazienza in questa sorveglianza senza agire, vi è salute. 
+  Muta in 40 Liberazione';
 $book['16']['line3'] = 
 ' Sei al terzo posto significa:
-  Fervore che guarda in alto crea pentimento. 
-  Esitazione crea pentimento. Con entusiasmo guardiamo in alto,verso arricchimenti e nuovi traguardi, ma siamo deboli. 
-  Dietro a ciò che vorremmo fare ci sono forse motivazioni non consone (autoindulgenza, orgoglio, rabbia). 
-  Si è preda dei dubbi, si vorrebbe fare ma non si sa né come né dove rivolgersi. 
-  Ogni mossa conduce a qualcosa di cui ci pentiremo. 
-  Muta in 62 La Preponderanza del Piccolo ';
+  Fervore che guarda in alto crea pentimento. Esitazione crea pentimento. \e
+  Con entusiasmo guardiamo in alto,verso arricchimenti e nuovi traguardi, ma siamo deboli. 
+  Attendere che qualcun altro guidi e susciti il nostro entusiasmo, senza contribuire in alcun modo alla risoluzione dell’impresa non è la strada buona. 
+  Non ci si vuole esporre, si resta a guardare. Se si continua ad esitare, per timore e poca autostima, avremo da pentircene. 
+  Muta in 62-La Preponderanza del Piccolo ';
 $book['16']['line4'] = 
 ' Nove al quarto posto significa:
-  L’origine del fervore. Egli raggiunge grandi cose. Non dubitare. Gli amici si schierano intorno a te come i capelli attorno a una fibbia.\e
-  Il luogo da cui proviene il fervore e su cui operare è a portata di mano e può dare frutto.
-  La linea è forte e vuole salire, e sa trascinare altri intorno a sé. Se avete dubbi sulla validità di ciò che è accaduto, fugateli. 
-  Chi vi è amico vi sta vicino, non allontanatelo con i vostri dubbi. 
-  Muta in 2 Ricettivo .';
+  L’origine del fervore. Egli raggiunge grandi cose. Non dubitare. Gli amici si schierano intorno a te come i capelli attorno a una fibbia.  \e
+  Ecco la linea forte, in posto di comando e nel momento giusto. 
+  Ciò che si fa ora ha seguito e suscita ammirazione.  
+  La linea è forte e vuole salire, e sa trascinare altri intorno a sé.
+  Se avete dubbi sulla validità di ciò che è potete fare, fugateli. 
+  Gli altri sono pronti a seguire le vostre mosse. 
+  Muta in 2 Ricettivo';
 $book['16']['line5'] = 
 ' Sei al quinto posto significa:
-  Costantemente malato eppur non muore mai.\e
-  Si è presi da un’aspirazione che sfianca e consuma. 
-  La situazione si sforza di riuscire a crescere, senza evolversi né in bene né in male. 
-  Non è del tutto negativo, visto che un pensiero fisso sullo scopo ha più probabilità di avere successo. 
+  Costantemente malato eppur non muore mai. Linea debole, in posto forte, quello del re. \e
+  Tutto è nelle nostre mani, ma invece di reagire  si resta inutilmente a recriminare e biasimare. 
+  Si è presi da  un’aspirazione che sfianca e consuma e non si trova la forza sufficiente per troncare.  
   Muta in 45 Raccolta ';
 $book['16']['line6'] = 
 ' Sei sopra significa:
   Fervore cieco. Ma se dopo l’azione cambiano le cose, non è una macchia. \e
-  Anche se i nostri motivi sono giusti si agisce più spinti dall’istinto che dalla ragione. 
-  Una decisione presa d’impulso però contribuisce a smuovere le acque e questo non è mai un male. 
-  Muta in 35 Progresso ';
+  Anche se i nostri motivi sono giusti si agisce  più spinti dall’istinto che dalla ragione. 
+  Una decisione presa d’impulso però  contribuisce a smuovere le acque e questo non è mai un male.  
+  Muta in 35 Progresso';
 
 # -------------------------      17       ----------------------- #
 $book['17']['desc'] = 

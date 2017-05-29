@@ -70,6 +70,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+import static android.view.Gravity.CENTER_VERTICAL;
+
 /**
  * Decorator that performs the rendering duties onto the views
  *
@@ -1289,10 +1291,14 @@ public class IChingActivityRenderer extends Activity {
 
   protected void renderTabs(final TabHost tabHost) {
     // Restyle tabs
+
     TabWidget tabWidget = tabHost.getTabWidget();
+
     for (int i = 0; i < tabWidget.getChildCount(); i++) {
       View child = tabWidget.getChildAt(i);
+
       TextView title = (TextView) child.findViewById(android.R.id.title);
+
       float textSizeTabs = getResources().getDimensionPixelSize(com.lospecchiodieva.droid.iching.R.dimen.text_size_tabs);
       title.setTextSize(textSizeTabs);
       title.setText(title.getText().toString().toUpperCase(settings.getLocale()));

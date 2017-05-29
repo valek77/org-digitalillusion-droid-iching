@@ -37,6 +37,7 @@ import android.widget.TabHost;
 import android.widget.TabHost.OnTabChangeListener;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
+import android.widget.*;
 
 import com.lospecchiodieva.droid.iching.anim.AnimCoin;
 import com.lospecchiodieva.droid.iching.changinglines.ChangingLinesEvaluator;
@@ -208,6 +209,20 @@ public class IChingActivity extends IChingActivityRenderer {
     current = new CurrentState();
   }
 
+ /* private void setTabFontSize( TabHost tabHost)
+  {
+    final TabWidget tw = (TabWidget)tabHost.findViewById(android.R.id.tabs);
+    for (int i = 0; i < tw.getChildCount(); ++i)
+    {
+      final View tabView = tw.getChildTabViewAt(i);
+      final TextView tv = (TextView)tabView.findViewById(android.R.id.title);
+      tv.setTextSize(2);
+    }
+    // lf.setPadding(0, 0, 0, 6);
+
+  }*/
+
+
   /**
    * Move to the read description view
    */
@@ -249,6 +264,8 @@ public class IChingActivity extends IChingActivityRenderer {
     String hexMap = Utils.hexMap(hex);
     tvDescTitle.setText(Utils.getResourceByName(com.lospecchiodieva.droid.iching.R.string.class, "hex" + hexMap));
     tvDescTitle.setText(hexMap + " " + tvDescTitle.getText());
+
+   // setTabFontSize(tabHost);
 
     renderTabs(tabHost);
 
@@ -1047,6 +1064,10 @@ public class IChingActivity extends IChingActivityRenderer {
    * @param resId   The content layout resource identifier
    */
   private void setupTab(TabHost tabHost, String tag, int indId, int resId) {
+
+
+
+
     tabHost.addTab(
         tabHost.newTabSpec(tag)
             .setIndicator(Utils.s(indId))

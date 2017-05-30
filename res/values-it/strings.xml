@@ -99,11 +99,11 @@
     <string name="settings_chlines_evaluator_2">Nanjing</string>
     <string name="settings_lang">Lingua</string>
     <string name="settings_dictionary">Dizionario</string>
-    <string name="settings_dictionary_altervista">Lo Specchio di Eva (www.lospecchiodieva.com)</string>
-    <string name="settings_dictionary_custom">Personalizzato (local)</string>
+    <string name="settings_dictionary_altervista">Lo Specchio di Eva</string>
+   <!-- <string name="settings_dictionary_custom">Personalizzato (local)</string>-->
     <string name="settings_storage">Salvataggio</string>
     <string name="settings_storage_sdcard">Carta SD</string>
-    <string name="settings_storage_internal">Stoccaggio interno del telefono</string>
+    <string name="settings_storage_internal">Memoria interna del telefono</string>
     <string name="settings_connection_mode">Modalità di connessione</string>
     <string name="settings_connection_mode_online">In linea</string>
     <string name="settings_connection_mode_offline">Disconnesso</string>

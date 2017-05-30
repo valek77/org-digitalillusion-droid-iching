@@ -291,11 +291,11 @@ public abstract class RemoteResolver {
     // get the current localization on the default dictionary
    // String langCode = lang;
     String remoteUrl;
-    if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
+   /* if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
       remoteUrl = dictionaries.get( activity.getSettingsManager().getDefault(SETTINGS_MAP.DICTIONARY));
-    } else {
+    } else {*/
       remoteUrl = dictionaries.get(dictionary);
-    }
+    //}
 
     InputStream is = Utils.downloadUrl(
         remoteUrl + lang + "/",

@@ -62,10 +62,12 @@ public class ConnectionManager {
     SettingsManager settings = activity.getSettingsManager();
     final String dictionary = (String) settings.get(SETTINGS_MAP.DICTIONARY);
     final String lang = (String) settings.get(SETTINGS_MAP.LANGUAGE);
-    if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
+    /*if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
       // Custom dictionary is never updated from remote
       successTask.run();
-    } else if (settings.get(SETTINGS_MAP.CONNECTION_MODE).equals(Consts.CONNECTION_MODE_OFFLINE)) {
+    } else*/
+
+      if (settings.get(SETTINGS_MAP.CONNECTION_MODE).equals(Consts.CONNECTION_MODE_OFFLINE)) {
       AlertDialog confirmDialog = new AlertDialog.Builder(activity).create();
       confirmDialog.setTitle(getTitle(dictionary, lang));
       confirmDialog.setMessage(Utils.s(R.string.connection_off_to_on_confirm));

@@ -104,7 +104,7 @@
     <string name="settings_lang_pt">Português</string>
     <string name="settings_dictionary">Dictionary</string>
     <string name="settings_dictionary_altervista">Wilhelm (androidiching.altervista.org)</string>
-    <string name="settings_dictionary_custom">Custom (local)</string>
+    <!--<string name="settings_dictionary_custom">Custom (local)</string>-->
     <string name="settings_storage">Storage</string>
     <string name="settings_storage_sdcard">SD card</string>
     <string name="settings_storage_internal">Phone internal storage</string>

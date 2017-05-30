@@ -847,11 +847,11 @@ public class IChingActivity extends IChingActivityRenderer {
     final MenuItem omSettings = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omSettings);
     omSettings.setTitle(com.lospecchiodieva.droid.iching.R.string.options_settings);
     final MenuItem omViewHex = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omViewHex);
-    if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
+   /* if (dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
       omViewHex.setTitle(com.lospecchiodieva.droid.iching.R.string.options_view_edit_hex);
-    } else {
+    } else {*/
       omViewHex.setTitle(com.lospecchiodieva.droid.iching.R.string.options_view_hex);
-    }
+   // }
     final MenuItem omReferences = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omReferences);
     omReferences.setTitle(com.lospecchiodieva.droid.iching.R.string.options_references);
     final MenuItem omAlgo = menu.findItem(com.lospecchiodieva.droid.iching.R.id.omAlgo);

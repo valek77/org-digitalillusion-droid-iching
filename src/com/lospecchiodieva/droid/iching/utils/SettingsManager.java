@@ -49,8 +49,8 @@ public class SettingsManager {
         //Consts.LANGUAGE_PT
     });
     put(SETTINGS_MAP.DICTIONARY, new String[]{
-        Consts.DICTIONARY_EVA,
-        Consts.DICTIONARY_CUSTOM
+        Consts.DICTIONARY_EVA
+       // ,Consts.DICTIONARY_CUSTOM
     });
     put(SETTINGS_MAP.STORAGE, new String[]{
         Consts.STORAGE_SDCARD,

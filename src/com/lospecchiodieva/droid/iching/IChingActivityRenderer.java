@@ -917,15 +917,15 @@ public class IChingActivityRenderer extends Activity {
     if (omEdit != null && omUndo != null && omShare != null) {
       final String dictionary = (String) getSettingsManager().get(SETTINGS_MAP.DICTIONARY);
       if (current.viewId == com.lospecchiodieva.droid.iching.R.layout.readdesc || current.viewId == com.lospecchiodieva.droid.iching.R.layout.editdesc) {
-        if (current.mode == READ_DESC_MODE.VIEW_HEX && dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
+        /*if (current.mode == READ_DESC_MODE.VIEW_HEX && dictionary.equals(Consts.DICTIONARY_CUSTOM)) {
           omEdit.setVisible(true);
           omUndo.setVisible(true);
           omShare.setVisible(true);
-        } else {
+        } else {*/
           omEdit.setVisible(false);
           omUndo.setVisible(false);
           omShare.setVisible(true);
-        }
+       // }
       } else {
         omEdit.setVisible(false);
         omUndo.setVisible(false);

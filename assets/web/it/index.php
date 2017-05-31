@@ -6,7 +6,7 @@ $h = $_REQUEST['h'];
 # SOURCE: http://wengu.tartarie.com/wg/wengu.php?lang=en&l=Yijing
 # -------------------------      01   -    ----------------------- #
 $book['01']['desc'] = 
-' Esagramma 1 : Il Creativo\e
+' Esagramma 1 - Il Creativo\e
   Cielo su Cielo. Possibilità di espansione. L’uscita di questo esagramma invita anche all’attenzione: attuare i tuoi più profondi desideri non deve diventare una nuova mania, un nuovo ostacolo, una nuova opponente separazione tra te e gli altri, te e il mondo. 
   E’ essenziale trovare concretamente qualcosa di giusto a cui dare forma, per iniziare a costruire nel mondo ciò che hai mancato di fare finora, ma che è stato sempre lì, ad aspettare che tu fossi abbastanza forte e maturo per poter cominciare. 
   Ora puoi e devi, ora hai la forza, il potere, le condizioni: ti sei liberato dalla zavorra delle passate situazioni e può iniziare un periodo di costruzione: sta a te trovare cosa costruire. Creatività persistente nel tempo. 
@@ -357,7 +357,7 @@ $book['07']['line6'] =
   Non è facile essere all’altezza di una persona del genere. Muta in 4 Inesperienza';
 # -------------------------      08       ----------------------- #
 $book['08']['desc'] = 
-' Esagramma 8: La Solidarietà
+' Esagramma 8 - La Solidarietà
   Acqua sulla Terra: si descrive una situazione in cui le persone si avvicinano tra loro, così come la Terra accoglie spontaneamente nelle sue cavità l’acqua. 
   La struttura dell’esagramma rappresenta quattro linee deboli che salgono verso una solare linea yang. Il segno interno del Monte, l’Arresto, indica un ostacolo o comunque un intoppo. 
   Unirsi a qualcuno a cui si tiene talvolta non è così semplice: i dubbi, una certa passività, forse stanchezza di provarci causano ritardi nell’ unirsi; oppure ci sono ostacoli esterni. 
@@ -501,7 +501,7 @@ $book['10']['line6'] =
 
 # -------------------------      11       ----------------------- #
 $book['11']['desc'] = 
-' Esagramma 11: La Pace
+' Esagramma 11 - La Pace
   Il cielo sotto la terra: concordia e tranquillità si stabiliscono; ciò che è debole e piccolo ha esaurito il suo corso, mentre ciò che è forte si fa strada.
   Gli ostacoli e le cause di dispiacere si allontanano, si apre la via della crescita e della prosperità. 
   Si risolvono i contrasti e i problemi. Ciò che è debole e oscuro se ne va e ogni cosa va al suo posto. ';
@@ -551,7 +551,7 @@ $book['11']['line-3'] = '
 
 # -------------------------      12       ----------------------- #
 $book['12']['desc'] = 
-' Esagramma 12: Il Ristagno
+' Esagramma 12 - Il Ristagno
   Il principio oscuro e debole giace inerte sotto quello attivo e chiaro: l’ordine naturale delle cose è invertito. 
   La situazione è ferma, oscurità e luce sono mescolate bilanciandosi l’un l’altra in un triste nulla di fatto. Stasi. 
   Esperienze e persone si ritirano sullo sfondo. E anche noi, mentre aspettiamo che il tempo passi, accudiamo il lontano risveglio con un lungo lavorio interiore, mentre all’esterno un periodo di arresto impedisce l’azione. Stagnazione e confusione interiore rendono la situazione debole e inamovibile. ';
@@ -658,7 +658,7 @@ $book['13']['line6'] =
 
 # -------------------------      14       ----------------------- #
 $book['14']['desc'] = 
-' Esagramma 14: Il Possesso Grande
+' Esagramma 14 - Il Possesso Grande
   Fuoco nel cielo. Tutto si rischiara ed emerge il problema da affrontare. 
   La linea yin è l’elemento debole, che con il supporto di abili mezzi riesce a superare le difficoltà. 
   Se nella situazione ci sono intoppi dunque si affrontano e si superano, con un completo rasserenamento. ';
@@ -718,7 +718,7 @@ $book['14']['line6'] =
 
 # -------------------------      15       ----------------------- #
 $book['15']['desc'] = 
-' Esagramma 15: La Modestia
+' Esagramma 15 - La Modestia
   Il Monte sta sotto la Terra. La qualità del monte è la placida quiete, quella della terra è non prendere iniziative ed essere cedevole. 
   Arrestando ciò che ha raggiunto il colmo, la cima del monte, l’attività eccessiva viene lasciata indietro, per favorire l’espansione di essenziale semplicità. 
   I trigrammi interni sono Acqua, pericolo, e Tuono, che muove le cose. 
@@ -771,7 +771,7 @@ $book['15']['line6'] =
 
 # -------------------------      16       ----------------------- #
 $book['16']['desc'] = 
-' Esagramma 16: Il Fervore
+' Esagramma 16 - Il Fervore
   Il Tuono sulla Terra.  Lo stato della terra è la stasi ma il tuono è eccitante e la terra si mette a seguirlo. La Terra dà la sua fiducia e dedizione a qualcuno o qualcosa che la ispira, anche se distante.  Il trigramma interno Monte indica una porta chiusa. Il trigramma superiore Abisso indica un pericolo.  Si descrive un momento in cui si reagisce verso uno stimolo esterno assumendo posizioni inequivocabili e chiare. ';
 $book['16']['judge'] = 
 ' Il Fervore. Propizio è nominare degli aiutanti e far marciare eserciti.\e
@@ -825,7 +825,7 @@ $book['16']['line6'] =
 
 # -------------------------      17       ----------------------- #
 $book['17']['desc'] = 
-' Esagramma 17: Il Seguire
+' Esagramma 17 - Il Seguire
   Il Tuono -eccitante- si pone sotto il Lago -il sereno- e lo segue nel movimento ascendente. 
   I segni interni, Monte e Vento, alludono alla tranquillità e alla persistenza. 
   L’eccitarsi che porta a reagire deve rasserenarsi. 
@@ -881,7 +881,7 @@ $book['17']['line6'] =
 
 # -------------------------      18       ----------------------- #
 $book['18']['desc'] = 
-' Esagramma 18: L\'Emendamento delle cose guaste
+' Esagramma 18 - L\'Emendamento delle cose guaste
   Sotto c’è il Vento, Sun e sopra il Monte, Ken: il vento soffia alla base di un monte.
   Ciò che è fermo e inamovibile è mosso da un pervasivo desiderio di rinnovamento e rigenerazione. 
   Il nome di questo esagramma è Gu, un veleno mortale prodotto dalle mescolanze di insetti e rettili. 
@@ -933,7 +933,7 @@ $book['18']['line6'] =
 
 # -------------------------      19       ----------------------- #
 $book['19']['desc'] = 
-' Esagramma 19: L\'Avvicinamento
+' Esagramma 19 - L\'Avvicinamento
   Lago sotto la terra. Di nuovo crescono la luce e il movimento, dal basso, e forze intese a costruire e agire si alzano in sintonia con il tempo. 
   Alzandosi, diventano grandi e sono capaci di avvicinarsi con autorevolezza a chi è inferiore. 
   La situazione mostra elementi oscuri che vengono lavorati e superati. Si può quindi agire e porre mano a qualche impresa. 
@@ -990,7 +990,7 @@ $book['19']['line6'] =
 
 # -------------------------      20       ----------------------- #
 $book['20']['desc'] = 
-' Esagramma 20 : La Contemplazione (Guardare da lontano)
+' Esagramma 20 - La Contemplazione (Guardare da lontano)
   Il Vento sta sopra la Terra. Il vento penetra dovunque, e vede ciò che accade sulla terra sottostante. 
   Le linee salgono di nuovo sospingendo il principio chiaro in alto, e lo guardano, mentre le due yang nel posto di preminenza, osservano quelle in basso.
   La struttura ricorda le torri di guardia, da cui si sorvegliavano i dintorni e su cui si era visti. 
@@ -1049,7 +1049,7 @@ $book['20']['line6'] =
 
 # -------------------------      21       ----------------------- #
 $book['21']['desc'] = 
-' Esagramma 21: Il Morso che Spezza
+' Esagramma 21 - Il Morso che Spezza
    Il Tuono sotto e  Fulmine sopra. La forma del segno ricorda una bocca che masticando trova un ostacolo e lo frantuma. \e
    Tale presenza  logorante  blocca la via del nutrimento ed è giusto frantumarla con forza.  
    Non può esserci unione senza distruggere questo ostacolo. 
@@ -1110,7 +1110,7 @@ $book['21']['line6'] =
 
 # -------------------------      22       ----------------------- #
 $book['22']['desc'] = 
-' Esagramma 22 : L\'Avvenenza
+' Esagramma 22 - L\'Avvenenza
   Fuoco sotto il Monte. E’ un periodo di chiarimento interiore mentre esternamente tutto è fermo. 
   I trigrammi interni Abisso e Tuono, che hanno moto inverso, alludono al volgersi a comprendere e chiarire prima di poter agire. 
   La struttura dell’esagramma allude alla vita, nelle sue linee chiare, che rappresentano l’amore e quelle scure, che simbolizzano la giustizia. 
@@ -1164,7 +1164,7 @@ $book['22']['line6'] =
 
 # -------------------------      23       ----------------------- #
 $book['23']['desc'] = 
-' Esagramma 23: Sgretolarsi in pezzi.
+' Esagramma 23 - Sgretolarsi in pezzi.
   Monte sulla Terra. Tutto è oscuro, incapace di avanzare e non essendoci crescita, non c’è neppure gioia. 
   E’ un momento di separazione e di perdita. Occorre  lasciare che le cose cadano, come le foglie in autunno. 
   L’attività di cui si chiede giunge ad un arresto, e non ha forze per evolversi.  
@@ -1234,7 +1234,7 @@ $book['23']['line6'] =
 
 # -------------------------      24       ----------------------- #
 $book['24']['desc'] = 
-' Esagramma 24: Il Ritorno (Il Tempo del Volgimento) 
+' Esagramma 24 - Il Ritorno (Il Tempo del Volgimento) 
   Il Tuono sotto la Terra: ci si trova in una situazione di stasi che comincia a modificarsi. 
   E’ la  fine di un periodo di passività per iniziare un nuovo ciclo di crescita. 
   La luce che era uscita di scena adesso ritorna a salire, dal basso, ponendo fine al periodo di oscurità e inazione. 
@@ -1365,7 +1365,7 @@ $book['25']['line6'] =
 
 # -------------------------      26       ----------------------- #
 $book['26']['desc'] = 
-' Esagramma 26: La Forza Fomatrice del Grande
+' Esagramma 26 - La Forza Fomatrice del Grande
   Cielo sotto il monte. L’attività giunge pian piano ad un arresto. 
   I trigrammi interni Lago e Tuono mitigano e rinvigoriscono il momento di distacco da passate esperienze che si allontanano. 
   Si acquisisce la forza di lasciarsi alle spalle giorno per giorno vecchi comportamenti non rispondenti alle attuali esigenze.
@@ -1424,7 +1424,7 @@ $book['26']['line6'] =
 
 # -------------------------      27       ----------------------- #
 $book['27']['desc'] = 
-' Esagramma 27: Il Nutrimento
+' Esagramma 27 - Il Nutrimento
   Il Tuono sotto il Monte: il movimento del tuono è verso l’alto ma il monte lo arresta. 
   La struttura del segno ricorda una mascella intenta a masticare, da qui l’idea del nutrimento. 
   Il contenuto del pasto è rappresentato da 4 linee yin oscure:  tutte  linee  problematiche, tenute ferme  da due yang che le limitano a stento.   
@@ -1492,7 +1492,7 @@ $book['27']['line6'] =
 
 # -------------------------      28       ----------------------- #
 $book['28']['desc'] = 
-' Esagramma 28 : La Preponderanza del Grande
+' Esagramma 28 - La Preponderanza del Grande
   Il vento, legno, sotto il lago, acqua. 
   La persistenza e l’insistenza vengono sommerse dall’acqua, mobile e irrequieta. 
   Si è generata una situazione di sovrabbondanza in cui troppo è stato accumulato e occorre alleggerire la tensione: il crollo è imminente, se non si abbandona ciò che  appesantisce. 
@@ -1549,7 +1549,7 @@ $book['28']['line6'] =
 
 # -------------------------      29       ----------------------- #
 $book['29']['desc'] = 
-' Esagramma 29 : L’ Abissale.
+' Esagramma 29 - L’ Abissale.
   Acqua su acqua, non può esserci un altro momento in cui tutto è in movimento più di ora. 
   E’ un esagramma ritenuto da alcuni molto infausto, forse il peggiore dei 64 dell’I Ching: qui, più che altrove, c’è il richiamo a fare attenzione e prendere una decisione su ciò che veramente si vuole fare della propria vita. 
   L’acqua, simbolo di movimento al massimo grado, portatrice di vita ma anche di distruzione  e morte ricopre qui ogni cosa, e noi ci siamo dentro:  e sta a noi predisporci se essere sballottati qua e là lottando contro corrente impetuosa  o decidere di assecondarla per giungere…chissà…su sponde sconosciute. 
@@ -1750,7 +1750,7 @@ $book['31']['line6'] =
 
 # -------------------------      32       ----------------------- #
 $book['32']['desc'] = 
-' Esagramma 32 : La Durata
+' Esagramma 32 - La Durata
   Vento che sale verso il Tuono, l’eccitante. 
   Entrambi si rafforzano l’un l’altro dando origine a un lungo processo in cui si resiste alle  avversità a cui alludono le linee scure all’esterno. 
   Durata significa resistente a lungo.
@@ -1815,7 +1815,7 @@ $book['32']['line6'] =
 
 # -------------------------      33       ----------------------- #
 $book['33']['desc'] = 
-' Esagramma 33 :La Ritirata.
+' Esagramma 33 - La Ritirata.
   Monte sotto il cielo: le cose si arrestano senza poter giungere a compimento.
 ';
 $book['33']['judge'] = 
@@ -1937,7 +1937,7 @@ $book['34']['line6'] =
 
 # -------------------------      35       ----------------------- #
 $book['35']['desc'] = 
-' Esagramma 35 : Il Progresso
+' Esagramma 35 - Il Progresso
   Il Fuoco splende sulla  Terra: gratificazioni sono in arrivo e le passate esperienze, anche quelle negative, vanno a risolversi. 
   La linea forte trascina con sé le tristezze per rischiarne le ombre. 
   Cose accadranno che ci metteranno faccia a faccia anche con le nostre debolezze e insicurezze, che verranno allo scoperto e finalmente emergeranno alla luce del sole. 
@@ -2001,7 +2001,7 @@ $book['35']['line6'] =
 
 # -------------------------      36       ----------------------- #
 $book['36']['desc'] = 
-' Esagramma 36 : L’Occultamento della luce.
+' Esagramma 36 - L’Occultamento della luce.
   Il Fuoco sotto la Terra: l’immagine della luce che si nasconde.
   Le forze soverchianti dell’oscurità – rappresentate dalle linee yin – simbolizzano la difficoltà a muoversi e  agire.  
   E’ presente un principio oscuro, con cui si è in contatto,(persona, situazione, o stato d’animo)  che non può essere sconfitto faccia a faccia, bisogna attendere che si ritiri naturalmente. 
@@ -2075,7 +2075,7 @@ $book['36']['line6'] =
 
 # -------------------------      37       ----------------------- #
 $book['37']['desc'] = 
-' Esagramma 37 : La Casata
+' Esagramma 37 - La Casata
   Il Fuoco si alza nel vento e la sua chiarezza si diffonde; l’elemento femminile è racchiuso tra linee forti come in una casata, una famiglia o un clan:  la donna infatti deve stare all’interno della famiglia, dove ha compiti ben precisi da portare avanti, non ultimo quello di accudire e nutrire gli altri; mentre l’uomo deve stare all’esterno per proteggere e mantenere la sicurezza di tutti. 
   Quando il proprio ruolo nella famiglia è chiaro vi è equilibrio e ordine in tutte le esperienze.  
   In questa situazione è l’elemento debole e femminile a dover fare un’operazione illuminante verso i suoi doveri, da cui talvolta tenta di sfuggire. 
@@ -2265,7 +2265,7 @@ $book['39']['line6'] =
 
 # -------------------------      40       ----------------------- #
 $book['40']['desc'] = 
-' Esagramma 40- La Liberazione (Lascia andare il passato oscuro)
+' Esagramma 40 - La Liberazione (Lascia andare il passato oscuro)
   Sotto Acqua e sopra il Tuono. Un temporale  sta arrivando e con esso si libera la tensione a lungo accumulata. 
   Il movimento esce dal pericolo e il passato si può allontanare, con le sue avversità e le sue colpe. ';
 $book['40']['judge'] = 
@@ -2386,7 +2386,7 @@ $book['41']['line6'] =
 
 # -------------------------      42       ----------------------- #
 $book['42']['desc'] = 
-' Esagramma 42 : L\'Accrescimento
+' Esagramma 42 - L\'Accrescimento
   Sotto Tuono  e sopra Vento: affini, poiché in natura si presentano insieme, rinforzandosi e l’un l’altro. 
   Il risultato è   uno scambio  in cui il minore diminuisce per accrescere il maggiore. 
   Ciò significa dare spazio a ciò che è maggiore, a  ciò che può nutrirci e dare sollievo. 
@@ -2620,7 +2620,7 @@ $book['45']['line6'] =
 
 # -------------------------      46       ----------------------- #
 $book['46']['desc'] = 
-' Esagramma 46 : L\'Ascendere.
+' Esagramma 46 - L\'Ascendere.
   Vento, il cui simbolo è il legno, sotto la terra: una radice che si fa strada lentamente verso l’alto. 
   Salendo lascia indietro ciò che era stata, così come noi, crescendo in esperienza, cambiamo i nostri atteggiamenti e diventiamo un po’ più saggi e attenti a ciò che può nutrirci. 
   Ma bisogna  esercitare un fortissimo sforzo di volontà per sollevarsi da oscurità e bassezza a espansione e luce, qualunque sia la domanda che abbiamo posto. 
@@ -2747,7 +2747,7 @@ $book['47']['line-3'] =
 
 # -------------------------      48       ----------------------- #
 $book['48']['desc'] = 
-' Esagramma 48- Il Pozzo.
+' Esagramma 48 - Il Pozzo.
   L’immagine del Pozzo: un luogo ricco di acqua, di vita, attorno al quale si costruiscono città, movimento, e dove amici e nemici finiscono per incontrarsi e scontrarsi. 
   La vita richiede energia, richiede forza e volontà di fronteggiare ogni situazione che si presenta. 
   A volte le situazioni sono così dure e ci feriscono così in profondità che pensiamo di aver sbagliato tutto. 
@@ -2891,7 +2891,7 @@ $book['49']['line6'] =
 
 # -------------------------      50       ----------------------- #
 $book['50']['desc'] = 
-' Esagramma 50- Il Crogiolo.
+' Esagramma 50 - Il Crogiolo.
   Vento- cioè Legno- sotto il Fuoco. Il legno arde sotto un calderone (simboleggiato dalla struttura dell’esagramma), dove si cuoce il cibo adatto agli uomini di valore.\e
   E’ uno degli esagrammi più fausti di I Ching: le linee ascendenti, forti e chiare, attive e mascoline sono rivolte alla preparazione di un cibo altamente spirituale e interiore, al proprio vero bene, all’accrescimento della chiarezza che esplicita le forze più sane e costruttive del Sé. 
   Quindi riuscita anche all’esterno, dove si sta preparando la risoluzione dei problemi. 
@@ -3011,7 +3011,7 @@ $book['51']['line6'] =
 
 # -------------------------      52       ----------------------- #
 $book['52']['desc'] = 
-' Esagramma 52 : L\'Immobilità (Restando fermo diventi ciò che sei)
+' Esagramma 52 - L\'Immobilità (Restando fermo diventi ciò che sei)
   Monte su monte, fermezza su fermezza, l’immagine è assimilata a quella del corpo in posizione yogica: non si muove la schiena, non i piedi, non i polpacci, le anche, il tronco, le mascelle. 
   L’idea del cambiamento è tutta inclusa nel lasciare le cose come sono e prendersi una pausa. 
   E’ il principio del wuwei, a cui questo esagramma si ispira.
@@ -3189,7 +3189,7 @@ $book['54']['line6'] =
 
 # -------------------------      55       ----------------------- #
 $book['55']['desc'] = 
-' Esagramma 55 :  La Pienezza (Il Cuore vuole stare nel presente)
+' Esagramma 55 -  La Pienezza (Il Cuore vuole stare nel presente)
   Quando il fulmine  e  il tuono sono sincroni, arriva  la  pioggia con il suo potere rigenerante. 
   Ma altrettanto rapidamente poi la pioggia se ne va, seguendo la scia temporalesca, così come è previsto dal cielo.
   Nel momento di abbondanza  c’è molto di tutto,  gioia e di tristezza,  amore e  opportunità. 
@@ -3321,7 +3321,7 @@ $book['56']['line6'] =
 
 # -------------------------      57       ----------------------- #
 $book['57']['desc'] = 
-' Esagramma 57- Il Vento (Sii costante nel tempo)
+' Esagramma 57 - Il Vento (Sii costante nel tempo)
   Doppio vento, doppia penetrazione, doppia mitezza.
   Il vento con il suo movimento costante penetra dovunque e senza forzare niente, stabilisce ordine nel tempo e a piccoli passi. 
   Solo ciò che si ripete e persiste nel tempo alla fine ha riuscita. 
@@ -3387,7 +3387,7 @@ $book['57']['line6'] =
 
 # -------------------------      58       ----------------------- #
 $book['58']['desc'] = 
-' Esagramma 58 : Il Sereno
+' Esagramma 58 - Il Sereno
   Lago, serenità- su Lago. Le linee yin, oscure, rallegrano e spingono il dinamismo della situazione con la contentezza gioiosa del lago che bagna e rende fertili le sponde: ripetutemente vi è contatto, ripetutamente discorsi e scambi contribuiscono a rendere più ricca e produttiva la situazione; ma occorre perseverare se si vuole comprendere ed essere compresi, se si vuole che la situazione sia fruttifera. 
   Occorre quindi impegno e ripetere più volte e tentare più volte – perché  la situazione va lavorata e modellata – soprattutto con la nostra disponibilità a chiarire e spiegare, in modo da ricevere, in cambio, la risposta utile. 
   Il successo è legato essenzialmente all’impegno, alla perseveranza e a quanto si è disposti ad aprirsi per conseguire accordo. 
@@ -3653,7 +3653,7 @@ $book['61']['line6'] =
 
 # -------------------------      62       ----------------------- #
 $book['62']['desc'] = 
-' Esagramma 62- La Preponderanza del Piccolo
+' Esagramma 62 - La Preponderanza del Piccolo
   Il Tuono, l’eccitante sta sul Monte, l’arresto. 
   Ne consegue difficoltà a muoversi tra le cose, oppresse da pericoli. 
   Le linee chiare che potrebbero agire sono al centro, sotto e sopra trattenute da ostacoli che solo in parte si possono risolvere. 
@@ -3807,7 +3807,7 @@ $book['64']['line1'] =
 ' Sei all\'inizio significa:
   Finisce con la coda nell’acqua. Umiliante. \e
   Si affronta la situazione con troppa leggerezza: la tua inesperienza in questa impresa produce più perdita che guadagno, ed il tuo agire porta solo umiliazione. 
-  Muta in 38 Contrapposizione';
+  Muta in 38 Contrapposizione'   ;
 $book['64']['line2'] = 
 ' Nove al secondo posto significa:
   Egli frena le sue ruote. Perseveranza reca salute. \e
@@ -3840,10 +3840,20 @@ $book['64']['line6'] =
   Il compimento avviene per il meglio e si ottiene un certo successo; ma non bisogna esagerare nel volere più di quanto si ha già. 
   Muta in 40 Liberazione';
 
+  
+  if($_REQUEST['j']=='y')  
+{
+	die(json_encode($book));
+}
+
+  
+  
 $out = $book[$h][$s];
 
+
+
 if (empty($out)) {
-  die("h=".$h."&s=".$s);
+  die("Risorsa non trovata");
 } else {
   die($out);
 }

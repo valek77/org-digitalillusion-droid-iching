@@ -135,10 +135,13 @@ public abstract class RemoteResolver {
     }
 
     final HexSectionDataSource dataSource = activity.getHexSectionDataSource();
+
+
     final String dictionary = (String) activity.getSettingsManager().get(SETTINGS_MAP.DICTIONARY);
     final String lang = (String) activity.getSettingsManager().get(SETTINGS_MAP.LANGUAGE);
 
-    if (!remoteStringCache.containsKey(key)) {
+    //if (!remoteStringCache.containsKey(key))
+    // if (true) {
       try {
         HexSection hs = dataSource.getHexSection(hex, dictionary, lang, section);
         if (hs.getDef() == null || hs.getDef().isEmpty()) {
@@ -238,11 +241,11 @@ public abstract class RemoteResolver {
           }
         }
       }
-    } else {
+   /* } else {
       dismissProgressDialog();
       Spanned spanned = remoteStringCache.get(key);
       component.setText(spanned);
-    }
+    }*/
 
   }
 

@@ -50,6 +50,7 @@ import com.lospecchiodieva.droid.iching.utils.Utils;
 import com.lospecchiodieva.droid.iching.utils.lists.HistoryEntry;
 import com.lospecchiodieva.droid.iching.utils.lists.ListItem2Adapter;
 import com.lospecchiodieva.droid.iching.utils.lists.SettingsEntry;
+import com.lospecchiodieva.droid.iching.utils.sql.HexSectionDataSource;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -690,7 +691,27 @@ public class IChingActivity extends IChingActivityRenderer {
     Utils.setContext(getApplicationContext());
 
     loadSettings();
+
+      SettingsManager settings = getSettingsManager();
+      final String dictionary = (String) settings.get(SETTINGS_MAP.DICTIONARY);
+      final String lang = (String) settings.get(SETTINGS_MAP.LANGUAGE);
+
+      HexSectionDataSource dataSource =  new HexSectionDataSource(getApplicationContext());
+      dataSource.open();
+
+      for (int i = 0; i < Consts.HEX_COUNT; i++) {
+          String hex = getHexFromIndex(i + 1);
+          dataSource.deleteHexSections(hex, dictionary, lang);
+      }
+
+      dataSource.close();
   }
+
+
+    private String getHexFromIndex(int hexIndex) {
+        String hex = (hexIndex < 10 ? "0" : Utils.EMPTY_STRING) + hexIndex;
+        return hex;
+    }
 
   /**
    * Create a context menu

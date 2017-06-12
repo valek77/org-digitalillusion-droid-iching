@@ -80,7 +80,9 @@ public class Utils {
     HttpURLConnection con = null;
     InputStream is = null;
 
+
     List<BasicNameValuePair> pairs = new ArrayList<BasicNameValuePair>();
+    pairs.add(new BasicNameValuePair("cacheBuster",""+System.currentTimeMillis()));
     for (String[] p : params) {
       pairs.add(new BasicNameValuePair(p[0], p[1]));
     }
@@ -88,11 +90,14 @@ public class Utils {
     String queryString = URLEncodedUtils.format(pairs, "utf-8");
     url += (!url.endsWith("?") ? "?" : EMPTY_STRING) + queryString;
 
+
+
     con = (HttpURLConnection) new URL(url).openConnection();
     con.setReadTimeout(3000);
     con.setConnectTimeout(10000);
     con.setRequestMethod("GET");
     con.setDoInput(true);
+
 
     con.connect();
     is = con.getInputStream();

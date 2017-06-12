@@ -97,11 +97,11 @@
     <string name="settings_chlines_evaluator_1">Master Yin</string>
     <string name="settings_chlines_evaluator_2">Nanjing</string>
     <string name="settings_lang">Language</string>
-    <string name="settings_lang_en">English</string>
+    <!--<string name="settings_lang_en">English</string>
     <string name="settings_lang_es">Español</string>
-    <string name="settings_lang_fr">Français</string>
+    <string name="settings_lang_fr">Français</string>-->
     <string name="settings_lang_it">Italiano</string>
-    <string name="settings_lang_pt">Português</string>
+   <!-- <string name="settings_lang_pt">Português</string>-->
     <string name="settings_dictionary">Dictionary</string>
     <string name="settings_dictionary_altervista">Wilhelm (androidiching.altervista.org)</string>
     <!--<string name="settings_dictionary_custom">Custom (local)</string>-->

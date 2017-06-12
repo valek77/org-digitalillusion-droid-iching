@@ -13,23 +13,31 @@ dependencies {
 }
 
 android {
+    signingConfigs {
+        config {
+            keyPassword 'fireblade..001'
+            storeFile file('D:/KeyStore/key.jks')
+            storePassword 'fireblade..001'
+            keyAlias 'key0'
+        }
+    }
     compileSdkVersion 21
     buildToolsVersion '25.0.0'
-
-
-        buildTypes {
-            debug {
-                debuggable true
-            }
+    buildTypes {
+        debug {
+            debuggable true
+            signingConfig signingConfigs.config
         }
-
+        release {
+            signingConfig signingConfigs.config
+        }
+    }
     defaultConfig {
         minSdkVersion 11
         targetSdkVersion 17
-        versionCode 66
-        versionName "1.7.0"
+        versionCode 67
+        versionName "1.9.0"
     }
-
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
@@ -53,7 +61,6 @@ android {
         debug.setRoot('build-types/debug')
         release.setRoot('build-types/release')
     }
-
     lintOptions {
         // check for errors in release builds, but continue the build even when errors are found:
         abortOnError false

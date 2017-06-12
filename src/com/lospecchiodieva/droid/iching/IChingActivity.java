@@ -696,15 +696,19 @@ public class IChingActivity extends IChingActivityRenderer {
       final String dictionary = (String) settings.get(SETTINGS_MAP.DICTIONARY);
       final String lang = (String) settings.get(SETTINGS_MAP.LANGUAGE);
 
-      HexSectionDataSource dataSource =  new HexSectionDataSource(getApplicationContext());
-      dataSource.open();
+      final String connectionMode = (String) settings.get(SETTINGS_MAP.CONNECTION_MODE);
 
-      for (int i = 0; i < Consts.HEX_COUNT; i++) {
-          String hex = getHexFromIndex(i + 1);
-          dataSource.deleteHexSections(hex, dictionary, lang);
+      if (Consts.CONNECTION_MODE_ONLINE.equals(connectionMode)) {
+          HexSectionDataSource dataSource = new HexSectionDataSource(getApplicationContext());
+          dataSource.open();
+
+          for (int i = 0; i < Consts.HEX_COUNT; i++) {
+              String hex = getHexFromIndex(i + 1);
+              dataSource.deleteHexSections(hex, dictionary, lang);
+          }
+
+          dataSource.close();
       }
-
-      dataSource.close();
   }
 
 
